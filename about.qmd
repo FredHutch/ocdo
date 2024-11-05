@@ -1,0 +1,15 @@
+---
+title: "About our team"
+toc: true
+sidebar: data-sidebar
+---
+
+The mission of the Fred Hutch Data Science Lab (the Office of the Chief Data Officer) is to ensure an effective data ecosystem by developing a modern, well documented, well implemented, overall data strategy that evolves with the needs and capabilities of those leveraging data regardless of “where they live” from the clinic to the research groups.
+
+Find out more at the [Data Science Lab public website](https://hutchdatascience.org/) or our [internal Fred Hutch Centernet page](https://centernet.fredhutch.org/u/data-science-lab.html).
+
+Learn more about the broader [data efforts at Fred Hutch](https://research.fredhutch.org/data/en.html). 
+
+
+
+Team site!!!

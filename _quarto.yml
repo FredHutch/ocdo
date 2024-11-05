@@ -1,0 +1,78 @@
+project:
+  type: website
+
+website:
+  search: 
+    location: navbar
+    type: textbox
+  favicon: /img/favicon.png
+  open-graph: true
+  navbar:
+    left:
+      - text: "![](/img/FHCC_Logo_FullColor_RGB.png)"
+        href: index.qmd
+
+    right:
+      - text: "Get Help"
+        href: https://hutchdatascience.org/datahousecalls/
+      - text: "Resources"
+        href: resources.qmd
+      - text: "About Us"
+        href: about.qmd
+
+
+  sidebar:
+  
+    - id: data-sidebar
+      style: "floating"
+      search: false
+      contents:
+        - text: "Home"
+          href: index.qmd
+        - section: "Our Team"
+          href: about.qmd
+          contents:
+            - text: "Data Strategy & Partnerships"
+              href: strategy.qmd
+            - text: "Data Governance"
+              href: gov.qmd
+            - text: "Data Science & Software"
+              href: dss.qmd
+            - text: "Training & Community"
+              href: training.qmd
+            - text: "Applications & Engineering"
+              href: tools.qmd
+        - section: "Our Programs"
+          href: resources.qmd
+          contents:
+            - text: "Data House Calls"
+              href: dhc.qmd
+            - text: "SciWiki"
+              href: sciwiki.qmd
+            - text: "Fred Hutch Data Slack"
+              href: dhc.qmd
+            - text: "Learning Communities"
+              href: dhc.qmd
+            - text: "Monday Morning Data Science"
+              href: sciwiki.qmd
+            - text: "Openscapes @ Fred Hutch"
+              href: dhc.qmd
+            - text: "WILDS"
+              href: dhc.qmd
+            - text: "Events"
+              href: https://centernet.fredhutch.org/u/data-science-lab.html
+            - text: "Our Partners"
+              href: https://research.fredhutch.org/data/en.html
+
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+    toc: false    
+    link-external-icon: true
+    link-external-newwindow: true
+    anchor-sections: true
+
+
+

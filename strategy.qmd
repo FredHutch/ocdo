@@ -1,0 +1,17 @@
+---
+title: "Data Strategy & Partnerships"
+toc: true
+sidebar: data-sidebar
+---
+
+
+
+
+
+
+
+::: {.callout-note icon=false}
+## Login to Databricks
+Once access is provisioned you'll be able to access [Databricks here](https://dbc-9d188081-b00f.cloud.databricks.com/?o=2676199707824229).
+
+:::

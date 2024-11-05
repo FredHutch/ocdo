@@ -1,0 +1,7 @@
+Package: cards
+Title: Cards Website
+Version: 0.1.0
+Authors@R: c(
+  person("The", "Authors", , "some@email.org", c("aut", "cre"))
+  )
+License: CC0

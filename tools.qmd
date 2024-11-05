@@ -1,0 +1,56 @@
+---
+title: "Data Availability on CARDS"
+toc: true
+sidebar: data-sidebar
+---
+
+
+::: {.callout-note appearance="simple"}
+Data access requests and user interfaces to data on CARDS are supported through the [PODS Workbench](/pods.html).  
+:::
+
+
+
+## Cancer-related care definition
+
+<insert text describing the 2023 MOU with UWM and Fred Hutch Cancer Center having a broad cancer-related care definition that guides what data we share between institutions>
+
+
+## Data Sources for CARDS
+
+::: {.callout-tip appearance="simple"}
+If you have questions or ideas about more Fred Hutch patient data sources you'd like to have available, schedule a [CARDS Data House Call](https://calendly.com/data-house-calls/cards).
+:::
+
+### Current
+NA
+
+
+### Upcoming
+- Epic Clarity (the nightly backup of Epic, since 2021 cut over), Data Steward:  Clinical Analytics
+- Caris clinical genomics, Data Steward:  Research Informatics (OCDO)
+- Tempus clinical genomics, Data Steward:  Research Informatics (OCDO)
+- Foundation Medicine clinical genomics, Data Steward:  Research Informatics (OCDO)
+
+### Planned
+- UWLM Clinical laboratory data (Oncoplex, Hematopathology sequencing, other speciality labs), Data Steward:  Research Informatics (OCDO)
+
+
+
+## Curated Data on CARDS
+
+### Current
+NA
+
+### Upcoming
+- UWM DEEP (legacy and current data in UWM data model), Data Steward:  Translational Analytics (OCDO)
+
+
+### Planned
+- OMOP plus custom Fred Hutch Oncology, BMT and Genomics extensions (in collaboration with the open source ODHSI effort), Data Steward:  Translational Analytics (OCDO)
+- Fred Hutch OMOP de-identified, Data Steward:  Translational Analytics (OCDO)
+
+
+
+
+

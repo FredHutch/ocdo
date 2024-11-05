@@ -1,0 +1,19 @@
+---
+title: "GitHub at Fred Hutch"
+toc: true
+sidebar: data-sidebar
+---
+
+
+For code management on CARDS, a secure, privately hosted GitHub server is available for users of CARDS.  Use of CARDS GitHub requires both sign on with Fred Hutch credentials via SSO, as well as provisioning a "seat" in the instance.  Currently access to CARDS GitHub is restricted to those involved in platform development, but as the platform becomes ready for additional users, we will be rolling out support processes to request access.  
+
+::: {.callout-note icon=false}
+## Login to GitHub
+Once access is provisioned you'll be able to access [CARDS GitHub here](https://github-cards.fhcrc.org/CARDS).
+
+:::
+
+
+
+Additionally, the Fred Hutch supports general-purpose use GitHub access via the [FredHutch GitHub organization](https://github.com/fredHutch/) and you can read more about how to use GitHub to manage your code and access our GitHub org [on the SciWiki page](https://sciwiki.fredhutch.org/scicomputing/software_managecode/). This GitHub organization allows you to use your personal GitHub account.  
+

@@ -1,0 +1,22 @@
+---
+title: "PODS Workbench on CARDS"
+toc: true
+sidebar: data-sidebar
+---
+
+
+The Precision Oncology Data Science (PODS) Workbench will be a collection of data intensive tools and interfaces developed by the Office of the Chief Data Officer (the Data Science Lab).  As the roadmap for upcoming developments of PODS Workbench becomes available, it will appear on our [About page](/about.html)
+
+
+PODS Workbench tooling and training resources aim to support Fred Hutch patient data community working on:
+
+- Clinical Trials
+- Data Science
+- Precision Oncology
+- Translational Research
+- AI
+
+::: {.callout-tip appearance="simple"}
+If you have questions or ideas about Fred Hutch patient data supports, schedule a [CARDS Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+

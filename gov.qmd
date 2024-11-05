@@ -1,0 +1,12 @@
+---
+title: "Patient Data Access Requests"
+toc: true
+sidebar: data-sidebar
+---
+
+
+Patient data access request processes are currently under evolution. 
+
+When patient data is needed for research, a brief review of your data needs and IRB protocol can be requested through our [Centernet page.](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html)
+
+Once PODS Workbench on CARDS tools become available for general access, requests for additional data access beyond what is available for all Fred Hutch users of CARDS will initially be provisioned via emailing [oncdataaccess@fredhutch.org](mailto:oncdataaccess@fredhutch.org).  

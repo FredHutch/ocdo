@@ -2,13 +2,34 @@ project:
   type: website
 
 website:
+  google-analytics: "UA-XXXXXXXX"
+  cookie-consent: true
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "Welcome to our new home focused on our work for Fred Hutch data efforts! Our [prior site is still live](https://hutchdatascience.org/) and is focused on resources beyond the Fred Hutch."
+    type: info
+    position: above-navbar
+    background: "#1B365D"
+  page-footer: 
+    left: "Contact us by scheduling a [Data House Call](programs/dhc.qmd)"
+    right: 
+      - icon: house-gear-fill
+        href: https://calendly.com/data-house-calls
+      - icon: github
+        href: https://github.com/getwilds
+      - icon: twitter 
+        href: https://twitter.com/ 
+  page-navigation: true
   search: 
     location: navbar
     type: textbox
   favicon: /img/favicon.png
   open-graph: true
   navbar:
-    left:
+    background: "#F4F4F4"
+    foreground: "#1B365D"
+    left: 
       - text: "![](/img/FHCC_Logo_FullColor_RGB.png)"
         href: index.qmd
 
@@ -17,13 +38,11 @@ website:
         href: https://hutchdatascience.org/datahousecalls/
       - text: "Resources"
         href: resources.qmd
-      - text: "About Us"
+      - text: "Our Team"
         href: about.qmd
 
 
   sidebar:
-  
-    - id: data-sidebar
       style: "floating"
       search: false
       contents:
@@ -42,23 +61,23 @@ website:
               href: training.qmd
             - text: "Applications & Engineering"
               href: tools.qmd
-        - section: "Our Programs"
+        - section: "Our Resources"
           href: resources.qmd
           contents:
             - text: "Data House Calls"
-              href: dhc.qmd
-            - text: "SciWiki"
-              href: sciwiki.qmd
-            - text: "Fred Hutch Data Slack"
-              href: dhc.qmd
+              href: programs/dhc.qmd
             - text: "Learning Communities"
-              href: dhc.qmd
-            - text: "Monday Morning Data Science"
-              href: sciwiki.qmd
-            - text: "Openscapes @ Fred Hutch"
-              href: dhc.qmd
+              href: programs/communities.qmd
             - text: "WILDS"
-              href: dhc.qmd
+              href: programs/wilds.qmd
+            - text: "SciWiki"
+              href: programs/sciwiki.qmd
+            - text: "Fred Hutch Data Slack"
+              href: https://join.slack.com/t/fhdata/signup
+            - text: "Monday Morning Data Science"
+              href: https://fhdata.substack.com/
+            - text: "Openscapes @ Fred Hutch"
+              href: resources.qmd#openscapes
             - text: "Events"
               href: https://centernet.fredhutch.org/u/data-science-lab.html
             - text: "Our Partners"
@@ -67,12 +86,13 @@ website:
 format:
   html:
     page-layout: full
-    theme: cosmo
+    #mainfont: arial
+    theme: lumen
+    linkcolor: "#00C1D5"
     css: styles.css
     toc: false    
     link-external-icon: true
     link-external-newwindow: true
     anchor-sections: true
-
 
 

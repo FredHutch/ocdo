@@ -1,0 +1,41 @@
+---
+title: "DaSL Learning Communities"
+toc: true
+---
+
+
+DaSL Learning Communities are events designed to catalyze community and conversations around shared workflows and interests in biomedical data science topics. They are spaces where folks from across Fred Hutch and the Cancer Consortium can meet to see new methods and ways of working, to share their own insights into their work, and to get constructive feedback about how they could improve their computing work.
+
+In Learning Communities we hold closely the belief that we are all on the same team. Even though you may be the only computing or data science practitioner in your working group, we are committed to creating an environment where all feel welcome to share their experiences. This way, despite the challenges we face in our work, we can all learn from each other and improve our skills.
+
+DaSL employees will moderate, attend, and occasionally present on topics in the Learning Communities. 
+
+    title: "Learning Communities Mission Statement"
+    excerpt: "The Mission of DaSL Learning Communities is to provide a psychologically safe, professional environment to co-learn topics in biomedical data science and to share and apply this knowledge together across groups at Fred Hutch."
+
+## Learning Community Events
+
+All communities are open and available to everyone in the Fred Hutch Consortium community. Some events are remote, and some are hybrid / in-person. Stay tuned for more information.
+
+The following is a list of events for the current quarter. You can RSVP for any event by clicking on it.
+
+<div style="width:100%;height:500px;" class="ae-emd-cal-events" data-calendar="ou823213" data-lbl-upcoming="Upcoming events" data-lbl-subscribe="Subscribe" data-no-events="No events found.." data-lbl-readmore="Read more" data-lbl-in="In" data-lbl-days="days" data-lbl-day="day" data-lbl-hours="hours" data-lbl-hour="hour" data-lbl-minutes="minutes" data-lbl-minute="minute" data-lbl-seconds="seconds" data-lbl-second="second" data-lbl-live="LIVE" data-include-atc="true" data-include-stc="true" data-include-moupcpicker="true" data-include-location="false" data-include-timezone="false" data-include-organizer="false" data-include-countdown="false" data-include-description="false" data-include-timezone-select="true" data-default-view="upcoming" data-stayonpage="false" data-datetime-format="1" data-datetime-language="en_US" data-events-max="20" data-description-length="brief" ></div><script type="text/javascript" src="https://cdn.addevent.com/libs/cal/js/cal.events.embed.t4.init.js"></script>
+
+### Learning Community Values:
+
+- Research doesn’t need to be lonely. We learn and work best with our peers.
+- The ways that data impacts our work at Fred Hutch are wide and varied. There is no one right way, but there are best practices we can aspire to.
+- Sharing knowledge in public is important. Together, our collective knowledge can help us all improve how we work. Everyone knows something that could help someone else in our community.
+- Asking questions is a way of taking care of our peers. They often may have the same questions, but might be reluctant to ask them.
+
+### Participation Guidelines
+
+Please be aware that all Learning Community events adhere to the [Learning Community Participation Guidelines](../pages/participation.qmd). This is to make a safe space for all.
+
+## Interested? Join us!
+
+[Join the FH Data Slack](https://join.slack.com/t/fhdata/signup) to find community support.
+
+and join our mailing list by emailing ([data@fredhutch.org](emailto:data@fredhutch.org)).
+
+

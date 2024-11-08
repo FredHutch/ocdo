@@ -1,17 +1,67 @@
 ---
 title: "Data Strategy & Partnerships"
 toc: true
-sidebar: data-sidebar
 ---
 
 
+Our approach to supporting Fred Hutch staff focuses on the following guiding principles:
+
+**Democratize appropriate data access and facilitate ethical data stewardship.**
+Our work is driven by the idea that by making high quality, timely, well-governed data available to a wide range of staff members via tools that both meet their needs and make ethical data stewardship straightforward, we can empower individuals at all levels to make industry-leading data-driven decisions and discoveries.  
+
+**Provide strategic coordination of our data infrastructure and alignment with evolving needs for data capabilities via a continuous improvement cycle.**
+We aim to empower and engage our clinical, research, technical and analytics staff to participate actively in creating a transparent, continuously improving, shared data ecosystem that prioritizes responsiveness to necessary data capabilities and incorporates new technology to advance clinical care and biomedical research.
+
+**Play an active role in building and empowering communities of practice around data.**
+Through the development of common data platforms, software, and tools with open documentation, training, and peer-to-peer engagement programs, we can build continuously innovating communities of practice who will be on the forefront of defining what best practices are for data in their fields. 
+
+
+## Our Strategic Priorities
+These priorities have been developed and evolved since our beginnings in summer of 2022.  They illustrate the high level needs we have heard from the data community broadly at Fred Hutch and help to guide our work to ensure what we do has the maximum impact on the daily data lives of Fred Hutch staff.  
+
+### Data Infrastructure, Partnerships and Strategy
+Fred Hutch’s recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation.  To foster a feedback loop between biomedical discovery and clinical care, DaSL aims to create a robust and coordinated data ecosystem at Fred Hutch via guiding data infrastructure development with a comprehensive data strategy. The strategic coordination of our data infrastructure work via a continuous improvement cycle will allow us to be responsive to current capabilities in data to empower our staff at all levels to make data-driven decisions and discoveries. This includes identifying and integrating technology and philanthropic partnerships to leverage cutting edge innovations to advance our understanding of disease, therapeutics, and patient outcomes. 
+
+
+### Data Governance
+We work to create a collaborative network across Fred Hutch to provide additional support for data governance generally. This involves partnering with Fred Hutch departments like legal, compliance, IT and others to develop a comprehensive network of communication and documentation related to data governance, policy and procedures. DaSL supports investigators navigating resources at Fred Hutch regarding data policy and governance including data use agreements, software licensing, data oriented tech-transfer issues and guidance regarding IRB oversight of data use.  We also support efforts surrounding Fred Hutch-wide patient consent processes, community oriented cancer education efforts, and data stewardship literacy in the clinical and research community.
+
+
+### Translational Analytics & Informatics
+As a hybrid organization, we have the opportunity to make a direct connection via translational analytics and informatics between our clinical and research data capabilities.  Our [Translational Analytics](/tr-analytics/) and [Research Informatics](/informatics/) groups work together to bridge the gap between healthcare data and large scale laboratory generated datasets critical for supporting efforts such as the Sloan Precision Oncology Institute and clinical trials.  This focus creates a continuous feedback loop between clinical care and research labs that will allow Fred Hutch to create a learning healthcare system to accelerate advancements in cancer care.
+
+### Data Product & Software Development
+We aim to support both research and clinical staff by developing data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care.  Our collaborative approach not only supports researchers in piloting, sharing and publishing [custom applications and software via our HCI group](/hci/), but also involves partnering with IT to support integration of these [tools](/tools/) into the Fred Hutch data ecosystem.
+
+
+### Training and Documentation
+DaSL champions the democratization of data science expertise through comprehensive training and educational resources. Our training group develops [training resources](/training/) including in-person, hybrid and self-paced courses, workshops, seminars and documentation catering to a range of working professionals and trainees as well as the general public. A critical part of supporting an ever evolving and advancing data community filled with people interacting with data in different ways and scales is an overall focus on open documentation to facilitate knowledge sharing.  We also lead and collaborate on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org), which aims to share best practices and foster community consensus and serves as an open, community knowledgebase, and valuable source to learn about available data science resources at the Fred Hutch and beyond.
+
+### Data Science Communities
+DaSL is committed to fostering a vibrant community centered around data science at Fred Hutch to encourage democratized access to data science expertise, collaborations and mentorship. We recognize the value of community connections across diverse research and clinical arenas, and strive to [connect](/contact/) individuals to community through the efforts such as the Fred Hutch Data Slack workspace, our Monday Morning Data Science newsletter, as well as hosting periodic events to bring people together in the DaSL Lounge. 
+
+
+## Connect with Us
+
+Amy fields the [General Data House Call](https://calendly.com/data-house-calls/misc) requests which is a 20 min discussion session to let us know what issues you're seeing, desired data capabilities that would advance your work, or to get updates on current status of DaSL's efforts around strategy.  
+
+Or email your questions or concerns to [data@fredhutch.org](mailto:data@fredhutch.org).  
+
+### Data Noons
+We hold open "Data Noons" where we present the current status of identified data programs and projects relating to our overall data strategy and governance, our patient data  and our research data.  If you are Fred Hutch staff and would like to join the calls, or receive the email summaries, please email [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org) to be added. 
 
 
 
 
+### Data Science Partnerships
+The Data Science Partnership team is an emerging group that helps to facilitate matching the right technology or data science partner capability with the right research or clinical use case at Fred Hutch.This work is done collaboratively with Business Development and Philanthropy in support of Fred Hutch faculty and staff.
 
-::: {.callout-note icon=false}
-## Login to Databricks
-Once access is provisioned you'll be able to access [Databricks here](https://dbc-9d188081-b00f.cloud.databricks.com/?o=2676199707824229).
 
-:::
+Schedule a [Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships) if you are interested in learning how DaSL can help facilitate data science capabilities.
+Some examples of areas that might be of interest:
+
+- You have a gap in data science and/or technology need that would benefit from a known (or unknown) partner.
+- You have been contacted by a data science and/or technology company that is interested in partnering and could use a sounding board for if/how to proceed.
+- You are interested in an offering from a data science and/or technology company that you would like someone to help you assess for fit.
+
+Or any other questions you have that relate to Data Science Partnerships.

@@ -1,22 +1,94 @@
 ---
-title: "PODS Workbench on CARDS"
+title: "Data House Calls"
 toc: true
-sidebar: data-sidebar
 ---
 
+Our **Data House Calls** are a chance to leverage OCDO staff's expertise to help you get where you want to go with your data science skills, data management plans and execution, computing needs and beyond. Data House Calls are meant to be topical, focused on solving specific problems or discussing specific topics and function sometimes as a navigation tool to refer people to where they need to go even if we don’t have all the answers.  
 
-The Precision Oncology Data Science (PODS) Workbench will be a collection of data intensive tools and interfaces developed by the Office of the Chief Data Officer (the Data Science Lab).  As the roadmap for upcoming developments of PODS Workbench becomes available, it will appear on our [About page](/about.html)
+Typically 1-2 DaSL staff members are available for any given topic with an eye toward keeping availability high to ensure a fairly rapid timeframe between when people need the help and when they can sign up for it and get it.
 
+:::: {layout="[ 70, 30 ]"}
+::: {#first-column}
 
-PODS Workbench tooling and training resources aim to support Fred Hutch patient data community working on:
-
-- Clinical Trials
-- Data Science
-- Precision Oncology
-- Translational Research
-- AI
 
 ::: {.callout-tip appearance="simple"}
-If you have questions or ideas about Fred Hutch patient data supports, schedule a [CARDS Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule a [Data House Call](https://calendly.com/data-house-calls).  
 :::
+Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here and select one of the data oriented topics (or when in doubt, you can always schedule a General Data House Call). See below for descriptions about each Data House Call Type.  
+:::
+
+
+::: {#second-column}
+
+
+![](../img/DaSLHouseCalls-lucy.png)
+
+:::
+::::
+
+
+## Data House Call Topics
+
+### CARDS
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+
+### General
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### Data Partnerships
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### Data Policy and AI
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### Data Sharing, Study Planning and Grants
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### Clinical Data Access
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### Research Data Management
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### Code and Software: R, Python and Beyond
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### Research Computing: Running and Scaling your Analyses
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### Data Wrangling and Visualization
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+
+### Research and User-Developed Applications
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+### DaSL Supported Resources
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+:::
+
 

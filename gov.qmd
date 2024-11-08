@@ -1,12 +1,36 @@
 ---
-title: "Patient Data Access Requests"
+title: "Data Governance"
 toc: true
-sidebar: data-sidebar
 ---
 
+This emerging group aims to create a collaborative network across Fred Hutch to provide additional support for data governance generally. This involves partnering with Fred Hutch departments like legal, compliance, IT and others to develop a comprehensive network of communication and documentation related to data governance, policy, procedures, and best practices. DaSL supports investigators navigating resources at Fred Hutch regarding data policy and governance processes surrounding topics such as data use agreements, software licensing, data oriented tech-transfer issues and guidance regarding IRB oversight of data use. We also support various ongoing projects and efforts to promote data stewardship and literacy in the clinical and research community.
 
-Patient data access request processes are currently under evolution. 
+## Data Governance Efforts
 
-When patient data is needed for research, a brief review of your data needs and IRB protocol can be requested through our [Centernet page.](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html)
+Projects we're working on:
 
-Once PODS Workbench on CARDS tools become available for general access, requests for additional data access beyond what is available for all Fred Hutch users of CARDS will initially be provisioned via emailing [oncdataaccess@fredhutch.org](mailto:oncdataaccess@fredhutch.org).  
+- Documentation of data access policies and procedures for Fred Hutch clinical patient data
+- Developing an honest broker process for review of clinical data requests for research
+- Coordination of clinical data agreements with data access and use with our Consortium partners (UW and Seattle Children's).
+- Navigation support for data related compliance, privacy and oversight questions
+- Developing policy, best practices and guidance for use of AI and regulated research datasets
+- Providing resources for improved data stewardship and data management approaches
+
+
+## Connect with Us
+You can email questions about data governance generally to [datagovernance@fredhutch.org](mailto:datagovernance@fredhutch.org) or connect with us through our Data House Calls program. 
+
+### Data Policy and AI House Call
+Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) to discuss questions about data policy, data protection and AI use cases.
+
+- Inquire about the status of our AI interim policy and guidance for use of AI with patient and research data,
+- Ask questions about data use agreements, IRB protocols, and other data privacy or security concerns,
+- Get guidance regarding what aspects of our our data infrastructure supports your intended work.
+
+
+
+### Clinical Patient Data Access House Call
+Use this [Data House Call](https://calendly.com/data-house-calls/clinical-data) to discuss questions about Fred Hutch adult oncology clinical patient data access for research and it's oversight.  
+- Curious about how to get access to Fred Hutch clinical patient data?
+- Wondering what the newly signed agreement with UW means for the data that is part of the cancer program at Fred Hutch?
+- Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch?

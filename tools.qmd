@@ -1,56 +1,54 @@
 ---
-title: "Data Availability on CARDS"
+title: "Applications and Engineering"
 toc: true
-sidebar: data-sidebar
+
 ---
 
 
-::: {.callout-note appearance="simple"}
-Data access requests and user interfaces to data on CARDS are supported through the [PODS Workbench](/pods.html).  
-:::
+
+> All documentation about Data Science Lab Tools and best practices can also be found on the Fred Hutch [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/).
 
 
+## Product Management & Engineering Teams
+Our Data Product Management team partners with various groups on campus and our growing Applications & Engineering team to deliver data related products in an responsive and sustainable way. We provide strategic institutional support for data products and correlated projects to ensure streamlined development, resource coordination, and visibility across Fred Hutch. 
 
-## Cancer-related care definition
+Our work includes:
 
-<insert text describing the 2023 MOU with UWM and Fred Hutch Cancer Center having a broad cancer-related care definition that guides what data we share between institutions>
+- Program Management of the Fred Hutch Data Initiatives (Strategy & Integrations, Patient and Research)
+- Product management for DaSL developed Tools and Products
+- Product management support for cross-institutional data infrastructure products
 
-
-## Data Sources for CARDS
-
-::: {.callout-tip appearance="simple"}
-If you have questions or ideas about more Fred Hutch patient data sources you'd like to have available, schedule a [CARDS Data House Call](https://calendly.com/data-house-calls/cards).
-:::
-
-### Current
-NA
-
-
-### Upcoming
-- Epic Clarity (the nightly backup of Epic, since 2021 cut over), Data Steward:  Clinical Analytics
-- Caris clinical genomics, Data Steward:  Research Informatics (OCDO)
-- Tempus clinical genomics, Data Steward:  Research Informatics (OCDO)
-- Foundation Medicine clinical genomics, Data Steward:  Research Informatics (OCDO)
-
-### Planned
-- UWLM Clinical laboratory data (Oncoplex, Hematopathology sequencing, other speciality labs), Data Steward:  Research Informatics (OCDO)
-
-
-
-## Curated Data on CARDS
-
-### Current
-NA
-
-### Upcoming
-- UWM DEEP (legacy and current data in UWM data model), Data Steward:  Translational Analytics (OCDO)
-
-
-### Planned
-- OMOP plus custom Fred Hutch Oncology, BMT and Genomics extensions (in collaboration with the open source ODHSI effort), Data Steward:  Translational Analytics (OCDO)
-- Fred Hutch OMOP de-identified, Data Steward:  Translational Analytics (OCDO)
+More to come on the growing OCDO Engineering team over the winter of 2024-2025.  
 
 
 
 
 
+## Research Applications and Tooling
+
+### PROOF
+PROOF (PRoduction On-ramp for Optimization and Feasibility) is a user-friendly tool designed for managing and executing WDL (Workflow Description Language) workflows using the Cromwell workflow manager, configured to run on the Fred Hutch cluster. PROOF allows users to:
+
+- **Automate** all the backend Cromwell configurations necessary to run your workflows instantly.
+- **Validate**, troubleshoot, assess performance, and run their workflows all under one roof.
+- **Refine** their workflows before potential transitions to cloud-based infrastructures, providing a "proofing" resource of sorts.
+
+Find out more on the [PROOF page on the Fred Hutch SciWiki](https://sciwiki.fredhutch.org/datascience/proof/).
+
+
+### cBioPortal
+cBioPortal is an open-source platform for visualization, exploration, and analysis of cancer genomics data sets developed by Memorial Sloan Kettering (MSK). The Data Science Lab (DaSL) in conjunction with the Scientific Computing Group (SciComp) at Fred Hutch have launched a Fred Hutch instance of cBioPortal for research use only. 
+
+The [Fred Hutch deployment of cBioPortal](https://cbioportal.fredhutch.org/) provides users with several advantages to enhance their research:
+
+- The private nature of this instance allows researchers to utilize the powerful visualization tools of the application to facilitate visualization of **interim data**.
+- It also provides research groups with the ability to establish **controlled access** to their study data, ensuring data protection.
+- Users can host and share their data through the Fred Hutch instance of cBioPortal to **facilitate collaborations**.
+- Additionally, this instance has been reviewed and approved by InfoSec to include up to individually identifiable research data.
+
+For more details on what the Fred Hutch instance of cBioPortal can do for you, read our Fred Hutch cBioPortal [product page](https://sciwiki.fredhutch.org/datascience/cbioportal/) and [documentation](https://sciwiki.fredhutch.org/dasldemos/fh-cbio-intro/) on the Fred Hutch SciWiki and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to give it a spin.
+
+
+## CARDS
+
+More to come here. 

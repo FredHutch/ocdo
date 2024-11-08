@@ -1,23 +1,28 @@
 ---
-title: "Fred Hutch Data Science Lab"
+title: ""
 toc: true
-sidebar: data-sidebar
 ---
 
-Fred Hutch’s recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation. To support this, the Office of the Chief Data Officer works to create a robust and coordinated data ecosystem at Fred Hutch via guiding data infrastructure development with a comprehensive data strategy and integrating technology and philanthropic partnerships to leverage cutting edge innovations to advance our understanding of disease, therapeutics, and patient outcomes.
 
 
-After the merger of SCCA and FHCRC in April 2022, Fred Hutch Cancer Center is building a secure, scalable, and supportable technical infrastructure foundation and tools that provide a centrally governed, democratized platform. Upon which, the Fred Hutch community can build data products and tooling leveraging multimodal Fred Hutch patient clinical data to support clinical care, operations, clinical trials, precision oncology, data science and AI innovation.  
+Fred Hutch’s recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation. To support this, the **Office of the Chief Data Officer, (OCDO)** works to create a robust and coordinated data ecosystem at Fred Hutch via a few mechanisms.
 
-Clinical and Research Data Solutions (CARDS) will become the foundational infrastructure of the Fred Hutch Cancer Center’s new patient data ecosystem.
+One is through **guiding data infrastructure development with a comprehensive data strategy** and integrating technology and philanthropic partnerships to leverage cutting edge innovations to advance our understanding of disease, therapeutics, and patient outcomes.  
+
+Another is by **building data governance, data science and software development resources** in our team that are available to support institution-wide intiatives as well as provide tactical, data related supports and products for 
+
+To make this work directly impact our community **we do outreach and support resources are coordinated through the Data Science Lab**, a community-oriented, collaborative effort supported by all of our OCDO staff as well as with support from other departments and efforts related to data and technology education.  
 
 
-As this transformational work continues we will update the [About page](/about.html) to show our data community what they might expect next in terms of new features, support mechanisms and data access.  
+>The mission of our group is to ensure an effective data ecosystem at Fred Hutch by developing a modern, well documented, well implemented, overall data strategy that evolves with the needs and capabilities of those leveraging data regardless of “where they live” from the clinic to the research groups.
 
 
 
+## OCDO and DaSL Core Values
+Read about [OCDO and DaSL's Core Values](pages/values.qmd) and how we foster a supportive data science community at Fred Hutch and beyond.
 
-::: {.callout-tip appearance="simple"}
-If you have questions or ideas about Fred Hutch patient data supports, schedule a [CARDS Data House Call](https://calendly.com/data-house-calls/cards).  
-:::
+## Community Events Participation Guidelines
+Data Science Lab community events are safe spaces to learn, teach, and ask questions of each other. In order to ensure our events welcome to all, we provide [Participation Guidelines](pages/participation.qmd).
+
+
 

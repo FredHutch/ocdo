@@ -4,4 +4,50 @@ toc: true
 sidebar: data-sidebar
 ---
 
-DaSL Front Doors
+
+:::: {layout-ncol=3}
+::: {#first-column}
+
+[Data House Calls](programs/dhc.qmd)
+
+:::
+
+::: {#second-column}
+[Learning Communities](programs/communities.qmd)
+
+
+:::
+
+::: {#third-column}
+
+[WILDS](programs/wilds.qmd)
+:::
+::::
+
+
+
+
+:::: {layout-ncol=3}
+::: {#first-column}
+
+[Biomedical Data Science Wiki](programs/sciwiki.qmd)
+
+:::
+
+::: {#second-column}
+[FH Data Slack](https://join.slack.com/t/fhdata/signup)
+
+
+:::
+
+::: {#third-column}
+
+[Monday Morning Data Science](https://fhdata.substack.com/)
+:::
+::::
+
+
+## Openscapes
+text here since it's only occasionally available
+
+

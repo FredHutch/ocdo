@@ -1,36 +1,26 @@
 ---
-title: "Data Science Training Resources"
+title: "Training & Community Resources"
 toc: true
-sidebar: data-sidebar
 ---
 
-Resources for using CARDS based data tooling is provided by the Office of the Chief Data Officer (the Data Science Lab).  
-
-
-## DaSL Data Science Training
 
 Our collaborative data science training group creates a variety of data science training resources including live classes at Fred Hutch, trainer-lead learning communities and online resources.  You can find links to our [training resources on our Training page.](https://hutchdatascience.org/training/)
 
 
-## Biomedical Data Science Wiki
-The Fred Hutch Cancer Center’s Biomedical Data Science Wiki aims to create a community curated knowledgebase for biomedical data science and research computing including guidance on best practices, resources and tools supporting data intensive research by researchers at the Fred Hutch and beyond.
+## Community-Based Training
+
+Training at the Data Science Lab consists of more than courses and workshops. We learn best when we learn with others, so we provide social opportunities to learn together. There are opportunities to Learn Skills through courses, to Experience skills in Learning Communities, and to practice our skills together with codeathons.
+
+Please note that all courses, workshops, and learning community sessions adhere to the [DaSL Community Participation Guidelines](pages/participation.qmd). 
+
+{% include feature_row id="learning"%}
+
+## Self Directed Training
+
+We also offer self directed material in the form of guides and documentation for computational and data oriented topics in the SciWiki.
+
+{% include feature_row id="document"%}
 
 
 
-::: {.callout-note icon=false}
-### Read and Contribute
-DaSL leads this collaborative effort to create and maintain an open resource at [sciwiki.fredhutch.org](sciwiki.fredhutch.org).
-You can contribute to the SciWiki via our [GitHub Repo](https://github.com/fredHutch/wiki).
 
-:::
-
-
-## Data House Calls
-
-The Data Science Lab Data House Calls are a chance to leverage DaSL staff’s expertise to help you get where you want to go with your data science skills, data management plans and execution, computing needs and beyond. Data House Calls are meant to be topical, focused on solving specific problems or discussing specific topics and function sometimes as a navigation tool to refer people to where they need to go even if we don’t have all the answers. Typically 1-2 DaSL staff members are available for any given topic with an eye toward keeping availability high to ensure a fairly rapid timeframe between when people need the help and when they can sign up for it and get it.
-
-::: {.callout-note icon=false}
-### Schedule a Data House Call
-The OCDO/DaSL offer a broad array of topical [Data House Calls](https://hutchdatascience.org/datahousecalls/), which are self-scheduled 20 min sessions with OCDO staff with domain specific expertise.  
-
-:::

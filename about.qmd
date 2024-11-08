@@ -1,15 +1,254 @@
 ---
 title: "About our team"
 toc: true
-sidebar: data-sidebar
+
 ---
+As a part of Fred Hutch DaSL, we are committed to supporting friendly, open, and collaborative data science efforts. Our team is a collection of staff with data related expertise from a wide variety of areas who collaborate on cross-functional projects that build resources, supports and ongoing collaborations across many departments at Fred Hutch.  
 
-The mission of the Fred Hutch Data Science Lab (the Office of the Chief Data Officer) is to ensure an effective data ecosystem by developing a modern, well documented, well implemented, overall data strategy that evolves with the needs and capabilities of those leveraging data regardless of “where they live” from the clinic to the research groups.
-
-Find out more at the [Data Science Lab public website](https://hutchdatascience.org/) or our [internal Fred Hutch Centernet page](https://centernet.fredhutch.org/u/data-science-lab.html).
-
-Learn more about the broader [data efforts at Fred Hutch](https://research.fredhutch.org/data/en.html). 
+:::: {layout-ncol=2}
+::: {#first-column}
 
 
+![Jeff Leek, Chief Data Officer](img/favicon.png)
 
-Team site!!!
+Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at Fred Hutchinson Cancer Center. He leads the Fred Hutch Data Science Lab in building a data environment that is both cutting edge and friendly, supportive, open, and collaborative.
+
+[More about Jeff](https://jtleek.com/)
+:::
+
+::: {#second-column}
+![Amy Paguirigan, Deputy Chief Data Officer](img/favicon.png)
+
+Amy is the Deputy Chief Data Officer and Associate Vice President and has worked to support bench and biomedical data scientists in translational research at Fred Hutch. She is co-leading the development of the Data Science Lab to support democratization of data, expertise and technology across the spectrum of our merged institution.
+
+[More about Amy](https://amypag.com)
+:::
+::::
+
+## OCDO Staff
+
+### Data Science Domain Leadership
+:::: {layout-ncol=2}
+::: {#first-column }
+
+
+![Sean Kross, Data Staff Scientist](img/favicon.png)
+
+![Monica Gerber, Translational Analytics Manager](img/favicon.png)
+
+![Taylor Firman, Research Informatics Data Scientist](img/favicon.png)
+
+![Ted Laderas, Director of Training & Community](img/favicon.png)
+
+
+:::
+
+::: {#second-column}
+![Brian Bot, Data Science Partnerships Director](img/favicon.png)
+
+![Abby Wall, Data Program and Porfolio Manager](img/favicon.png)
+
+![Jenny Weddle, Data Governnace Specialist](img/favicon.png)
+
+
+:::
+::::
+
+
+
+### Administration and Operations
+:::: {layout-ncol=2}
+::: {#first-column}
+
+
+![Sandy Ormbrek, Senior Program Operations Director](img/favicon.png)
+
+![Sana Hirata, Associate Program Operations Director](img/favicon.png)
+
+
+
+:::
+
+::: {#second-column}
+![Maleah O'Connor, Research Administration Manager](img/favicon.png)
+
+![Maria Owen, Executive Assistant](img/favicon.png)
+
+
+:::
+::::
+
+
+
+
+
+
+  - image_path: /images/profile-pics/sean-kross.jpg
+    alt: "photo of Sean"
+    title: "Sean Kross - Data Staff Scientist"
+    excerpt: 'Sean Kross is a Data Staff Scientist interested in building better tools and workflows for data scientists. His background is in computer science, cognitive science, and design. He leads the [Human Computer Interaction (HCI)](/hci/) effort for DaSL.'
+    url: "https://seankross.com/"
+    btn_label: "More about Sean"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/ted-laderas.jpg
+    alt: "photo of Ted Laderas"
+    title: "Ted Laderas - Training and Community Director"
+    excerpt: "Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads the [training and community](/training/) efforts related to data science for DaSL."
+    url: "https://laderast.github.io/"
+    btn_label: "More about Ted"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/monica-gerber.jpg
+    alt: "photo of Monica"
+    title: "Monica Gerber – Translational Research Analytics Manager"
+    excerpt: "Monica has a background in biostatistics and epidemiology. She's interested in helping researchers implement reproducible workflows for statistical analysis, working on ways to pair technical shifts with cultural shifts to advance science, and building inclusive data science communities. She leads [Translational Analytics](/tr-analytics/) for DaSL."
+    url: "https://www.monicagerber.com/"
+    btn_label: "More about Monica"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/jenny-weddle.jpg
+    alt: "photo of Jenny"
+    title: "Jenny Weddle - Data Governance Specialist" 
+    excerpt: "Jenny has a background in business analytics and compliance. She leads our growing [data governance](/governance/) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and reserach data governance."
+  - image_path: /images/profile-pics/abby-wall.jpg
+    alt: "photo of Abby"
+    title: "Abby Wall - Data Product Management Lead"
+    excerpt: "Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for product and tooling development across Fred Hutch in addition to leading the DaSL [Data Product Management Team](/pmo/)."
+  - image_path: /images/profile-pics/taylor-firman.jpg
+    alt: "photo of Taylor Firman"
+    title: "Taylor Firman - Research Informatics Lead"
+    excerpt: "Taylor's background is in computational biophysics, clinical bioinformatics, and high-performance computing. His work is focused on generating open source bioinformatics software tools for the Fred Hutch research community while fostering a spirit of collaboration through data consultations and community building. He leads the [Research Informatics](/informatics/) effort for DaSL."
+    url: "https://www.taylorfirman.com/"
+    btn_label: "More about Taylor"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/brian-bot.jpg
+    alt: "photo of Brian Bot"
+    title: "Brian M. Bot - Director, Data Science Partnerships"
+    excerpt: "Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He is the Director of Data Science Partnerships for DaSL and functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care."
+    url: "https://brian-bot.github.io/"
+    btn_label: "More about Brian"
+    btn_class: "btn--primary"
+
+
+Admin Team
+  - image_path: /images/profile-pics/sandy-ombrek.jpg
+    alt: "photo of Sandy"
+    title: "Sandy Ormbrek - Program Operations Director"
+    excerpt: "A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sandy has worked in the PHS Division office, the epidemiology program, PHS Labs, and since 2000 in the Biostatistics Program before joining DaSL."
+  - image_path: /images/profile-pics/sana-hirata.jpg
+    alt: "photo of Sana"
+    title: "Sana Hirata – Program Administrator"
+    excerpt: "Sana is a Program Administrator for the Data Systems and Analytics team. She has been working at Fred Hutch since 2019. Prior to joining the DaSL team, she supported implementation of clinical trials in the Bezos Family Immunotherapy Clinic as a project manager in the Immunotherapy Integrated Research Center Project Management Office (IIRC PMO)."
+  - image_path: /images/profile-pics/maleah-oconnor.jpg
+    alt: "photo of Maleah"
+    title: "Maleah O'Connor - Research Administration Manager"
+    excerpt: "Maleah has a background in Grant Manager with a focus on federal and foundation grants. She ensures grant compliance and manages all financial aspects of grant funded programs."
+    url: "https://www.linkedin.com/in/maleah-o-connor/"
+    btn_label: "More about Maleah"
+    btn_class: "btn--primary"
+  - image_path:
+    alt: "photo of Maria"
+    title: "Maria Owen - Executive Assistant"
+    excerpt: "Maria has a background in higher education administration and public health grant initiatives. She joined Fred Hutch in October 2023 and will be supporting the efforts of DaSL team in an administrative capacity."
+
+
+
+
+
+### Team Members
+  - image_path: /images/profile-pics/scott-chamberlain.jpg
+    alt: "photo of Scott"
+    title: "Scott Chamberlain - Software Developer"
+    excerpt: "Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves as part of the HCI team."
+    url: "https://scottchamberlain.info"
+    btn_label: ""
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/sitapriya-moorthi.jpg
+    alt: "photo of Sita"
+    title: "Sitapriya Moorthi - Affiliate Staff Scientist"
+    excerpt: "Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. Sita has hands-on experience, ranging from conducting intricate bench experiments in molecular-cellular biology and genetics, to analyzing complex data from whole genome, exome, and single-cell sequencing. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our Research Informatics group."
+  - image_path: /images/profile-pics/sindiya-devi-thangavel.jpg
+    alt: "photo of Sindiya"
+    title: "Sindiya Devi Thangavel - Cloud Data Engineer"
+    excerpt: "Sindiya is supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of DaSL infrastructure projects and data product development efforts."
+  - image_path: /images/profile-pics/sonali-mishra.jpg
+    alt: "photo of Sonali Mishra"
+    title: "Sonu (Sonali) Mishra - User Experience Researcher"
+    excerpt: "Sonu is a UX researcher interested in building impactful systems that meet user needs. Her background is in health behavior change intervention design and health informatics."
+    url: "https://www.srmishra.com/"
+    btn_label: "More about Sonu"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/vivek_cropped.JPG
+    alt: "photo of Vivek Sriram"
+    title: "Vivek Sriram – Data Scientist, Translational Analytics"
+    excerpt: "Vivek has a background in biomedical informatics, statistics, and computer science. His work at DaSL focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside."
+    url: "https://vsriram24.github.io"
+    btn_label: "More about Vivek"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/ty-lambert.jpg
+    alt: "photo of Ty Lambert"
+    title: "Tyreesha Lambert - Data Governance Specialist"
+    excerpt: "Tyreesha has a background in privacy and compliance. In her role she will manage governance activities related to AI governance and research data protection. Prior to joining the team, she worked at Amazon and Delta Dental of Washington."
+  - image_path: /images/profile-pics/chris-lo.jpg
+    alt: "photo of Chris Lo"
+    title: "Chris Lo - Data Science Trainer"
+    excerpt: ""
+  - image_path: 
+    alt: "photo of Gina"
+    title: "Gina Conseca Crescioni - Data Governance Specialist"
+    excerpt: ""
+  - image_path: 
+    alt: "photo of Sean"
+    title: "Sean Olmstead - Technical Project Manager"
+    excerpt: ""
+
+
+
+## DaSL Affiliates
+We have a group of affiliated researchers and training staff who focus on a variety of different data science education efforts externally to the Fred Hutch. 
+
+  - image_path: /images/profile-pics/carrie-wright.png
+    alt: "photo of Carrie"
+    title: "Carrie Wright - Senior Staff Scientist"
+    excerpt: "Carrie has a background in genomics and brain imaging analysis. Her current work is focused on innovating ways to make data science and computational biology more accessible. She is a member of the [Open Case Studies](https://www.opencasestudies.org/) team and the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/). She also currently leads the [ITCR Operations, Promotion, Education, and Networking (OPEN) Group](https://www.itcrtraining.org/open)."
+    url: "https://carriewright11.github.io/"
+    btn_label: "More about Carrie"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/ava-hoffman.jpg
+    alt: "photo of Ava"
+    title: "Ava Hoffman - Senior Staff Scientist"
+    excerpt: "Ava is a Senior Staff Scientist. She helps lead the [AnVIL Project](https://anvilproject.org/) and the Genomic Data Science Community Network ([GDSCN](https://www.gdscn.org/)), exploring ways to make genomics research more accessible by connecting communities to cloud-based resources. Previously, she researched ecological genomics and worked as a data scientist in industry."
+    url: "https://www.avahoffman.com/"
+    btn_label: "More about Ava"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/elizabeth-humphries.jpg
+    alt: "photo of Elizabeth"
+    title: "Elizabeth Humphries - Staff Scientist"
+    excerpt: "Elizabeth did her PhD in molecular epidemiology and the genetics of mood disorders, and her MS in evolutionary and population genetics in birds. She works on the [AnVIL Project](https://anvilproject.org/)."
+    url: "https://www.linkedin.com/in/elizabeth-humphries-61202a103/"
+    btn_label: "More about Elizabeth"
+    btn_class: "btn--primary"
+  - image_path: /images/profile-pics/candace-savonen.jpg
+    alt: "photo of Candace"
+    title: "Candace Savonen - Data Scientist"
+    excerpt: "Candace has a background in neuroscience and is interested in making data science tools more approachable to those who are looking to apply them to their areas of knowledge and expertise. She is enthusiastic about reproducibility and documentation of data analyses. She works as a part of the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/) and [DataTrail](https://www.datatrail.org/) teams."
+    url: "https://www.cansavvy.com/"
+    btn_label: "More about Candace"
+    btn_class: "btn--primary"
+  - image_path: 
+    alt: "photo of Kate"
+    title: "Kate Isaac - Postdoctoral Researcher"
+    excerpt: ""
+
+
+
+## Jobs
+Come work with us! Here are some resources to help find jobs at Fred Hutch Cancer Center that are data-oriented.  Would you to share your job posting with the Fred Hutch community? Post it in the [#opportunities channel in FH-Data Slack](https://fhdata.slack.com/archives/C03T4QXBB7F).
+
+### Fred Hutch DaSL Jobs
+
+The Data Science Lab is growing in the near future.  When jobs are ready, we will post them here.
+
+### Fred Hutch Jobs
+
+Check out [Fred Hutch Cancer Center Careers page](https://www.fredhutch.org/en/about/careers/job-openings.html#eyJrZXl3b3JkcyI6IiIsImNhcmVlckNhdGVnb3J5IjpbIkMzNTgxMDIiXSwibG9jYXRpb24iOltdfQ==) for more info on current data oriented jobs!! 
+
+

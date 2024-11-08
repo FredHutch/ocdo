@@ -24,5 +24,6 @@ Read about [OCDO and DaSL's Core Values](pages/values.qmd) and how we foster a s
 ## Community Events Participation Guidelines
 Data Science Lab community events are safe spaces to learn, teach, and ask questions of each other. In order to ensure our events welcome to all, we provide [Participation Guidelines](pages/participation.qmd).
 
+![](img/dasl-eco-fade-web.png)
 
 

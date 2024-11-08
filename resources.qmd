@@ -5,44 +5,49 @@ sidebar: data-sidebar
 ---
 
 
+
+
 :::: {layout-ncol=3}
 ::: {#first-column}
 
 [Data House Calls](programs/dhc.qmd)
-
+![](img/DaSLHouseCalls-lucy.png)
 :::
 
 ::: {#second-column}
 [Learning Communities](programs/communities.qmd)
 
-
+![](img/learning_comm.png)
 :::
 
 ::: {#third-column}
 
 [WILDS](programs/wilds.qmd)
+![](img/WILDS_V3 Square.png)
 :::
 ::::
 
 
 
 
-:::: {layout-ncol=3}
+:::: {layout-ncol=3 text-align=center}
 ::: {#first-column}
 
 [Biomedical Data Science Wiki](programs/sciwiki.qmd)
+![](img/wiki.jpg)
 
 :::
 
 ::: {#second-column}
 [FH Data Slack](https://join.slack.com/t/fhdata/signup)
 
-
+![](img/fh-data.png)
 :::
 
 ::: {#third-column}
 
 [Monday Morning Data Science](https://fhdata.substack.com/)
+![](img/substack.png)
 :::
 ::::
 

@@ -41,7 +41,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).
 Use this event to schedule a meeting with Amy Paguirigan to discuss how DaSL/OCDO can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/general).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  
 :::
 ### Data Partnerships
 
@@ -56,7 +56,7 @@ Or any other questions you have that relate to Data Science Partnerships.
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/partnerships).  
 :::
 ### Data Policy and AI
 
@@ -71,7 +71,7 @@ Note, many of these topics can be supported by various other subject matter expe
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/data-policy).  
 :::
 ### Data Sharing, Study Planning and Grants
 
@@ -88,7 +88,7 @@ Or other questions you have that you feel might relate to this topic!
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/sharing).  
 :::
 ### Clinical Data Access
 
@@ -99,7 +99,7 @@ Wondering what the newly signed agreement with UW means for the data that is par
 Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch?  This DHC is the right one. 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/clinical-data).  
 :::
 ### Research Data Management
 
@@ -120,7 +120,7 @@ Or other questions you have that you feel might relate to this topic!
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/management).  
 :::
 ### Code and Software: R, Python and Beyond
 Use this event to schedule a Data House Call for questions about learning, writing and managing code and research software.
@@ -134,7 +134,7 @@ Use this event to schedule a Data House Call for questions about learning, writi
 Or other questions you have that you feel might relate to this topic!
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/code).  
 :::
 ### Research Computing: Running and Scaling your Analyses
 
@@ -154,7 +154,7 @@ Or other questions you have that you feel might relate to this topic!  
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/computing).  
 :::
 ### Data Wrangling and Visualization
 
@@ -164,10 +164,10 @@ Or other questions you have that you feel might relate to this topic.
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/analysis-viz).  
 :::
 
-:::
+
 ### DaSL Supported Resources
 
 Use this event to schedule a Data House Call for questions about DaSL supported resources such as:
@@ -180,7 +180,7 @@ Use this event to schedule a Data House Call for questions about DaSL supported 
 Or other questions you have that you feel might relate to this topic! Note: we often pull in folks from the DaSL team to provide expert advice so please describe the resource in question and your specific needs with that resource so we can try to have the right staff ready.
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/resources).  
 :::
 
 

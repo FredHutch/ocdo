@@ -4,27 +4,31 @@ toc: true
 
 ---
 
+As part of our overall data strategy efforts, we partner with a variety of departments across Fred Hutch to help coordinate and streamline our overall data portfolio.  This work includes aligning our technology resources with data community needs and ensuring connections between subject matter experts in issues such as technology, security and compliance to enable ethical use of data resources at Fred Hutch.  
+
+
 
 ::: {.callout-note appearance="minimal"}
 All documentation about Data Science Lab Tools and best practices can also be found on the Fred Hutch [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/).
 :::
 
+
 ## Product Management & Engineering Teams
-Our Data Product Management team partners with various groups on campus and our growing Applications & Engineering team to deliver data related products in an responsive and sustainable way. We provide strategic institutional support for data products and correlated projects to ensure streamlined development, resource coordination, and visibility across Fred Hutch. 
+Our Data Product Management team partners with various groups on campus and our growing Engineering team to deliver data related products in an responsive and sustainable way. The team supports the management and delivery of responsive and sustainable data-related products. They provide strategic support for data products by managing the data product portfolio, assessing the product landscape in alignment with OCDO strategic goals, and ensuring optimal product development by; streamlining development, coordinating resources, and enhancing visibility across Fred Hutch.
+
 
 Our work includes:
 
 - Program Management of the Fred Hutch Data Initiatives (Strategy & Integrations, Patient and Research)
-- Product management for DaSL developed Tools and Products
+- Product management for OCDO developed Tools and Products
 - Product management support for cross-institutional data infrastructure products
 
-More to come on the growing OCDO Engineering team over the winter of 2024-2025.  
+> More to come on the growing OCDO Engineering team over the winter of 2024-2025.  
 
 
 
 
-
-## Research Applications and Tooling
+## Research Applications and Tools
 
 ### PROOF
 PROOF (PRoduction On-ramp for Optimization and Feasibility) is a user-friendly tool designed for managing and executing WDL (Workflow Description Language) workflows using the Cromwell workflow manager, configured to run on the Fred Hutch cluster. PROOF allows users to:
@@ -51,6 +55,11 @@ The [Fred Hutch deployment of cBioPortal](https://cbioportal.fredhutch.org/) pro
 For more details on what the Fred Hutch instance of cBioPortal can do for you, read our Fred Hutch cBioPortal [product page](https://sciwiki.fredhutch.org/datascience/cbioportal/) and [documentation](https://sciwiki.fredhutch.org/dasldemos/fh-cbio-intro/) on the Fred Hutch SciWiki and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to give it a spin.
 :::
 
-## CARDS
+## Translational Applications and Tools
 
-More to come here. 
+Fred Hutch is building a secure, scalable, and supportable technical infrastructure foundation and tools that provide a centrally governed, democratized platform. Upon this system, the Fred Hutch community can build data products and tooling leveraging multimodal Fred Hutch patient clinical data to support clinical care, operations, clinical trials, precision oncology, data science and AI innovation.
+
+### CARDS
+Clinical and Research Data Solutions (CARDS) will become the foundation of the Fred Hutch Cancer Center’s new translational data ecosystem.
+
+To get up to date information regarding the current state and upcoming availability opportunities please schedule a [Data House Call for CARDS](https://calendly.com/data-house-calls/cards), or email [oncdataaccess@fredhutch.org](mailto:oncdataaccess@fredhutch.org).  

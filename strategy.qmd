@@ -43,22 +43,21 @@ DaSL is committed to fostering a vibrant community centered around data science 
 
 ## Connect with Us
 
-Amy fields the [General Data House Call](https://calendly.com/data-house-calls/misc) requests which is a 20 min discussion session to let us know what issues you're seeing, desired data capabilities that would advance your work, or to get updates on current status of DaSL's efforts around strategy.  
-
-Or email your questions or concerns to [data@fredhutch.org](mailto:data@fredhutch.org).  
-
-### Data Noons
-We hold open "Data Noons" where we present the current status of identified data programs and projects relating to our overall data strategy and governance, our patient data  and our research data.  If you are Fred Hutch staff and would like to join the calls, or receive the email summaries, please email [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org) to be added. 
+If you'd like to let us know what issues you’re seeing, desired data capabilities that would advance your work, or to get updates on current status of our efforts around strategy please email [data@fredhutch.org](mailto:data@fredhutch.org) or schedule a [General Data House Call (a 20 min discussion session)](https://calendly.com/data-house-calls/misc).
 
 
+### Data Portfolio and Data Noon Community Calls
+
+We support the Fred Hutch’s diverse data community by aligning efforts to a common data strategy, ensuring the delivery of responsive and sustainable data-related products.  This includes strategic support for data products by managing the data product portfolio, assessing the product landscape in alignment with OCDO strategic goals, and ensuring optimal product development by; streamlining development, coordinating resources, and enhancing visibility across Fred Hutch. 
+
+Join our regular "Data Noon" community calls, where we present the current status of identified data programs and projects relating to our overall Data Strategy and Governance, Patient Data or Research Data. Please request to be added to the relevant Community Call or the associated newsletter by emailing [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org). 
 
 
 ### Data Science Partnerships
-The Data Science Partnership team is an emerging group that helps to facilitate matching the right technology or data science partner capability with the right research or clinical use case at Fred Hutch.This work is done collaboratively with Business Development and Philanthropy in support of Fred Hutch faculty and staff.
+We aim to connect the right technology or data science partners with research and clinical use cases at Fred Hutch, collaborating with Business Development and Philanthropy to enhance research capabilities and drive innovation. Our staff cultivates external relationships with AI, Technology and data science partners and identify opportunities for philanthropic investment, industry sponsorships, and technology partnerships to advance research and clinical care.
 
 
-Schedule a [Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships) if you are interested in learning how DaSL can help facilitate data science capabilities.
-Some examples of areas that might be of interest:
+Schedule a [Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships) if you are interested in learning how OCDO can help facilitate data science capabilities via a partnership. Some examples of areas that might be of interest:
 
 - You have a gap in data science and/or technology need that would benefit from a known (or unknown) partner.
 - You have been contacted by a data science and/or technology company that is interested in partnering and could use a sounding board for if/how to proceed.

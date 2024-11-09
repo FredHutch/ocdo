@@ -3,6 +3,8 @@ title: "Data Science & Software"
 toc: true
 ---
 
+Our Data Science & Software groups aim to support both research and clinical staff by developing data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care. Our collaborative approach supports researchers in piloting custom applications and software via our HCI group, while our Translational Analytics and Research Informatics group connect healthcare data and large scale laboratory generated datasets creating a feedback loop to foster a learning healthcare system. 
+
 
 ::: {.callout-caution collapse="false"}
 ## TDS IRC and DS&S Collaborative Data Science Consulting
@@ -14,6 +16,8 @@ The Translational Data Science Integrated Research Center (TDS IRC) and Data Sci
 
 
 ## Translational Data Science and Analytics
+
+The Translational Analytics team supports healthcare data science at Fred Hutch by analyzing real-world data generated over the course of health care delivery, and by improving the interoperability, quality, and accessibility of these data. They collaborate with Hutch researchers and staff to understand critical questions about cancer patients, develop impactful and practical data analyses, and to develop tools that support democratized data access, exploration, and analysis.
 
 Translational Data Science and Analytics is a team of data scientists with the aim of solving [translational problems](https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.13055) in data analysis across the Fred Hutch. Our goals are to: 
 
@@ -111,7 +115,7 @@ Or other questions you have that you feel might relate to this topic!
 
 ## Human Computer Interaction
 
-
+The HCI team at Fred Hutch develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development and data analysis. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
 
 Participate in our Needs Assessment [by scheduling a consultation with Sean](/needs/).
 

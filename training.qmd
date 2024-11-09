@@ -3,6 +3,9 @@ title: "Training & Community Resources"
 toc: true
 ---
 
+The Data Science Lab (DaSL, the outreach efforts of the Office of the Chief Data Officer), offers various types of data oriented support to the Fred Hutch data community.  We aim to foster a vibrant data science community at Fred Hutch, promoting democratized access to expertise, collaboration, and mentorship. We encourage a culture of transparency, collaboration, open documentation, and sharing to maximize resources and ensure stakeholders can effectively use the provided resources. By investing in comprehensive training programs, they equip researchers with the necessary skills to navigate complex data landscapes. Offering in-person and online courses, workshops, and documentation, the team empowers the Fred Hutch community with essential data science skills to drive impactful advancements in healthcare.
+
+
 
 Our collaborative data science training group creates a variety of data science training resources including live classes at Fred Hutch, trainer-lead learning communities and online resources.  You can find links to our [training resources on our Training page.](https://hutchdatascience.org/training/)
 

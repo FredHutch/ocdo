@@ -1,6 +1,6 @@
 ---
 title:  DaSL Culture and Work Style
-tags:  program
+# tags:  program
 ---
 
 We are building the Fred Hutch Data Science Lab to support the data community broadly as a part of the Hutch. As we build our data organization it is important to establish our values for how we work together and then what those values imply for how we work. These values have grown out of our experiences building data science groups at other organizations and the core importance we place on the people we work with. If people love where they work, feel like they are supported to do their work, and feel like they have the trust of the team to move forward, they will do incredible work! As with everything we do, we are shipping these values early so people can see them, provide feedback and be part of an open conversation about how we work. 

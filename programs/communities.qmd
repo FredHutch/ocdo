@@ -10,8 +10,10 @@ In Learning Communities we hold closely the belief that we are all on the same t
 
 DaSL employees will moderate, attend, and occasionally present on topics in the Learning Communities. 
 
-    title: "Learning Communities Mission Statement"
-    excerpt: "The Mission of DaSL Learning Communities is to provide a psychologically safe, professional environment to co-learn topics in biomedical data science and to share and apply this knowledge together across groups at Fred Hutch."
+::: {.callout-note title="Learning Communities Mission Statement"}
+
+DaSL Learning Communities aim to provide a psychologically safe, professional environment to co-learn topics in biomedical data science and to share and apply this knowledge together across groups at Fred Hutch.
+:::
 
 ## Learning Community Events
 
@@ -34,8 +36,6 @@ Please be aware that all Learning Community events adhere to the [Learning Commu
 
 ## Interested? Join us!
 
-[Join the FH Data Slack](https://join.slack.com/t/fhdata/signup) to find community support.
-
-and join our mailing list by emailing ([data@fredhutch.org](emailto:data@fredhutch.org)).
+[Join the FH Data Slack](https://join.slack.com/t/fhdata/signup) to find community support and join our training mailing list by emailing [data@fredhutch.org](emailto:data@fredhutch.org).
 
 

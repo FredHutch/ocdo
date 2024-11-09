@@ -1,7 +1,7 @@
 ---
 title: "About our team"
 toc: true
-
+fig-cap-location: top
 ---
 As a part of Fred Hutch DaSL, we are committed to supporting friendly, open, and collaborative data science efforts. Our team is a collection of staff with data related expertise from a wide variety of areas who collaborate on cross-functional projects that build resources, supports and ongoing collaborations across many departments at Fred Hutch.  
 
@@ -9,7 +9,8 @@ As a part of Fred Hutch DaSL, we are committed to supporting friendly, open, and
 ::: {#first-column}
 
 
-![Jeff Leek - Chief Data Officer](img/team/jeff-leek.jpg)
+![Jeff Leek - Chief Data Officer](img/team/jeff-leek.jpg){width=80%}
+
 
 Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at Fred Hutchinson Cancer Center. He leads the Fred Hutch Data Science Lab in building a data environment that is both cutting edge and friendly, supportive, open, and collaborative.
 
@@ -17,7 +18,8 @@ Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of
 :::
 
 ::: {#second-column}
-![Amy Paguirigan - Deputy Chief Data Officer](img/team/amy-paguirigan.jpg)
+![Amy Paguirigan - Deputy Chief Data Officer](img/team/amy-paguirigan.jpg){width=80%}
+
 
 Amy is the Deputy Chief Data Officer and Associate Vice President and has worked to support bench and biomedical data scientists in translational research at Fred Hutch. She is co-leading the development of the Data Science Lab to support democratization of data, expertise and technology across the spectrum of our merged institution.
 
@@ -32,13 +34,16 @@ Amy is the Deputy Chief Data Officer and Associate Vice President and has worked
 ::: {#first-column }
 
 
-![Sean Kross- Data Staff Scientist](img/team/sean-kross.jpg)
+![Sean Kross- Data Staff Scientist](img/team/sean-kross.jpg){width=80%}
+
+
+
 Sean Kross is a Data Staff Scientist interested in building better tools and workflows for data scientists. His background is in computer science, cognitive science, and design. He leads the [Human Computer Interaction (HCI)](dss.qmd#human-computer-interaction) effort for OCDO. 
 
 [More about Sean](https://seankross.com/)
 
 
-![Monica Gerber - Translational Analytics Manager](img/team/monica-gerber.jpg)
+![Monica Gerber - Translational Analytics Manager](img/team/monica-gerber.jpg){width=80%}
 
 Monica has a background in biostatistics and epidemiology. She's interested in helping researchers implement reproducible workflows for statistical analysis, working on ways to pair technical shifts with cultural shifts to advance science, and building inclusive data science communities. She leads [Translational Analytics](dss.qmd#translational-data-science-and-analytics) for OCDO.
 
@@ -48,14 +53,15 @@ Monica has a background in biostatistics and epidemiology. She's interested in h
 
 
 
-![Taylor Firman - Research Informatics Data Scientist](img/team/taylor-firman.jpg)
+![Taylor Firman - Research Informatics Data Scientist](img/team/taylor-firman.jpg){width=80%}
+
 Taylor's background is in computational biophysics, clinical bioinformatics, and high-performance computing. His work is focused on generating open source bioinformatics software tools for the Fred Hutch research community while fostering a spirit of collaboration through data consultations and community building. He leads the [Research Informatics](dss.qmd#research-informatics) effort for OCDO. 
 
 [More about Taylor](https://www.taylorfirman.com/)
 
 
 
-![Ted Laderas, Director of Training & Community](img/team/ted-laderas.jpg)
+![Ted Laderas, Director of Training & Community](img/team/ted-laderas.jpg){width=80%}
 
 Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads the [training and community](training.qmd) efforts related to data science for OCDO. 
 
@@ -65,7 +71,7 @@ Ted Laderas has worked with lots of different data types and knows his way aroun
 :::
 
 ::: {#second-column}
-![Brian Bot, Director of Data Science Partnerships](img/team/brian-bot.jpg)
+![Brian Bot, Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
 
 Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He is the Director of Data Science Partnerships for OCDO and functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care.
 
@@ -75,7 +81,7 @@ Brian has more than two decades of experience in a variety of roles at the inter
 
 
 
-![Abby Wall, Data Program and Porfolio Manager](img/team/abby-wall.jpg)
+![Abby Wall, Data Program and Porfolio Manager](img/team/abby-wall.jpg){width=80%}
 
 Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for product and tooling development for OCDO as the lead for our [Data Product Management team](tools.qmd). 
 
@@ -83,7 +89,7 @@ Abby has experience in program, product, and project management for bioinformati
 
 
 
-![Jenny Weddle, Data Governnace Specialist](img/team/jenny-weddle.jpg)
+![Jenny Weddle, Data Governnace Specialist](img/team/jenny-weddle.jpg){width=80%}
 
 Jenny has a background in business analytics and compliance. She leads our growing [data governance](gov/qmd) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and research data governance.
 
@@ -98,18 +104,23 @@ Jenny has a background in business analytics and compliance. She leads our growi
 ::: {#first-column}
 
 
-![Sandy Ombrek, Senior Program Operations Director](img/team/sandy-ombrek.jpg)
+![Sandy Ombrek, Senior Program Operations Director](img/team/sandy-ombrek.jpg){width=80%}
+
+
 A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sandy has worked in the PHS Division office, the epidemiology program, PHS Labs, and since 2000 in the Biostatistics Program before joining OCDO. 
 
 
-![Sana Hirata, Associate Program Operations Director](img/team/sana-hirata.jpg)
+![Sana Hirata, Associate Program Operations Director](img/team/sana-hirata.jpg){width=80%}
+
 
 Sana has been working at Fred Hutch since 2019. Prior to joining the OCDO team, she supported implementation of clinical trials in the Bezos Family Immunotherapy Clinic as a project manager in the Immunotherapy Integrated Research Center Project Management Office (IIRC PMO).
 
 :::
 
 ::: {#second-column}
-![Maleah O'Connor, Research Administration Manager](img/team/maleah-oconnor.jpg)
+
+![Maleah O'Connor, Research Administration Manager](img/team/maleah-oconnor.jpg){width=80%}
+
 Maleah has a background in Grant Manager with a focus on federal and foundation grants. She ensures grant compliance and manages all financial aspects of grant funded programs.
 
 
@@ -119,6 +130,7 @@ Maleah has a background in Grant Manager with a focus on federal and foundation 
 
 
 ![Maria Owen, Executive Assistant]()
+
 Maria has a background in higher education administration and public health grant initiatives. She supports OCDO leadership as an EA and operations broadly.  
 
 :::
@@ -135,7 +147,7 @@ Maria has a background in higher education administration and public health gran
 ::: {#first-column }
 
 
-![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg)
+![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg){width=80%}
 
 Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves as part of the HCI team.
 
@@ -143,7 +155,7 @@ Scott has a background in ecology and evolutionary biology and software developm
 [More about Scott](https://scottchamberlain.info)
 
 
-![Sonu (Sonali) Mishra - User Experience Researcher](img/team/sonali-mishra.jpg)
+![Sonu (Sonali) Mishra - User Experience Researcher](img/team/sonali-mishra.jpg){width=80%}
 
 Sonu is a UX researcher interested in building impactful systems that meet user needs. Her background is in health behavior change intervention design and health informatics.
 
@@ -152,19 +164,19 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 
 
 
-![Sitapriya Moorthi, Staff Scientist](img/team/sitapriya-moorthi.jpg)
+![Sitapriya Moorthi, Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
 Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. Sita has hands-on experience, ranging from conducting intricate bench experiments in molecular-cellular biology and genetics, to analyzing complex data from whole genome, exome, and single-cell sequencing. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Data Science and Software group.](dss.qmd)
 
 
 
-![Sindiya Devi Thangavel - Cloud Data Engineer](img/team/sindiya-devi-thangavel.jpg)
+![Sindiya Devi Thangavel - Cloud Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
 
 Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of OCDO infrastructure projects and data product development efforts.  
 
 :::
 
 ::: {#second-column}
-![Vivek Sriram – Data Scientist, Translational Analytics](img/team/vivek_cropped.JPG)
+![Vivek Sriram – Data Scientist, Translational Analytics](img/team/vivek_cropped.JPG){width=80%}
 
 
 Vivek has a background in biomedical informatics, statistics, and computer science. His work in OCDO focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
@@ -173,20 +185,20 @@ Vivek has a background in biomedical informatics, statistics, and computer scien
 
 
 
-![Tyreesha Lambert - Data Governance Specialist](img/team/ty-lambert.jpg)
+![Tyreesha Lambert - Data Governance Specialist](img/team/ty-lambert.jpg){width=80%}
 
 Tyreesha has a background in privacy and compliance. In her role she will manage governance activities related to AI governance and research data stewardship Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
 
 
 
 
-![Chris Lo, Data Science Trainer](img/team/chris-lo.jpg)
+![Chris Lo, Data Science Trainer](img/team/chris-lo.jpg){width=80%}
 
 
-![Gina Conseca Crescioni - Data Governance Specialist]()
+![Gina Conseca Crescioni - Data Governance Specialist](){width=80%}
 
 
-![Sean Olmstead- Technical Project Manager]()
+![Sean Olmstead- Technical Project Manager](){width=80%}
 
 :::
 ::::
@@ -203,13 +215,13 @@ We have a group of affiliated researchers and training staff who focus on a vari
 ::: {#first-column}
 
 
-![Carrie Wright - Senior Staff Scientist](img/team/carrie-wright.png)
+![Carrie Wright - Senior Staff Scientist](img/team/carrie-wright.png){width=80%}
 Carrie has a background in genomics and brain imaging analysis. Her current work is focused on innovating ways to make data science and computational biology more accessible. She is a member of the [Open Case Studies](https://www.opencasestudies.org/) team and the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/). She also currently leads the [ITCR Operations, Promotion, Education, and Networking (OPEN) Group](https://www.itcrtraining.org/open).
 
 [More about Carrie](https://carriewright11.github.io/)
 
 
-![Candace Savonen - Data Scientist](img/team/candace-savonen.jpg)
+![Candace Savonen - Data Scientist](img/team/candace-savonen.jpg){width=80%}
 
 "Candace has a background in neuroscience and is interested in making data science tools more approachable to those who are looking to apply them to their areas of knowledge and expertise. She is enthusiastic about reproducibility and documentation of data analyses. She works as a part of the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/) and [DataTrail](https://www.datatrail.org/) teams.
 
@@ -217,13 +229,13 @@ Carrie has a background in genomics and brain imaging analysis. Her current work
 [More about Candace](https://www.cansavvy.com/) 
 
 
-![Kate Isaac - Postdoctoral Researcher]()
+![Kate Isaac - Postdoctoral Researcher](){width=80%}
 
 
 :::
 
 ::: {#second-column}
-![Ava Hoffman - Senior Staff Scientist](img/team/ava-hoffman.jpg)
+![Ava Hoffman - Senior Staff Scientist](img/team/ava-hoffman.jpg){width=80%}
 Ava is a Senior Staff Scientist. She helps lead the [AnVIL Project](https://anvilproject.org/) and the Genomic Data Science Community Network ([GDSCN](https://www.gdscn.org/)), exploring ways to make genomics research more accessible by connecting communities to cloud-based resources. Previously, she researched ecological genomics and worked as a data scientist in industry.
 
 [More about Ava](https://www.avahoffman.com/)
@@ -231,11 +243,11 @@ Ava is a Senior Staff Scientist. She helps lead the [AnVIL Project](https://anvi
 
 
 
-![Elizabeth Humphries - Staff Scientist](img/team/elizabeth-humphries.jpg)
+![Elizabeth Humphries - Staff Scientist](img/team/elizabeth-humphries.jpg){width=80%}
 
 Elizabeth did her PhD in molecular epidemiology and the genetics of mood disorders, and her MS in evolutionary and population genetics in birds. She works on the [AnVIL Project](https://anvilproject.org/).
     
-[More about Elizabeth](https://www.linkedin.com/in/elizabeth-humphries-61202a103/)
+[More about Elizabeth](https://www.linkedin.com/in/elizabeth-humphries-61202a103/){width=80%}
 
 :::
 ::::

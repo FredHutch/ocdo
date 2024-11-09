@@ -38,57 +38,57 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).
 ### General
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/general).  
 :::
 ### Data Partnerships
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### Data Policy and AI
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### Data Sharing, Study Planning and Grants
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### Clinical Data Access
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### Research Data Management
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### Code and Software: R, Python and Beyond
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### Research Computing: Running and Scaling your Analyses
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### Data Wrangling and Visualization
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 
 ### Research and User-Developed Applications
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### DaSL Supported Resources
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 
 

@@ -11,7 +11,7 @@ Our collaborative data science training group creates a variety of data science 
 
 Training at the Data Science Lab consists of more than courses and workshops. We learn best when we learn with others, so we provide social opportunities to learn together. There are opportunities to Learn Skills through courses, to Experience skills in Learning Communities, and to practice our skills together with codeathons.
 
-Please note that all courses, workshops, and learning community sessions adhere to the [DaSL Community Participation Guidelines](pages/participation.qmd). 
+Please note that all courses, workshops, and learning community sessions adhere to the [DaSL Event Participation Guidelines](pages/participation.qmd). 
 
 {% include feature_row id="learning"%}
 

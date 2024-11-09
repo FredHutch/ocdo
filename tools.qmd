@@ -5,9 +5,9 @@ toc: true
 ---
 
 
-
-> All documentation about Data Science Lab Tools and best practices can also be found on the Fred Hutch [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/).
-
+::: {.callout-note appearance="minimal"}
+All documentation about Data Science Lab Tools and best practices can also be found on the Fred Hutch [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/).
+:::
 
 ## Product Management & Engineering Teams
 Our Data Product Management team partners with various groups on campus and our growing Applications & Engineering team to deliver data related products in an responsive and sustainable way. We provide strategic institutional support for data products and correlated projects to ensure streamlined development, resource coordination, and visibility across Fred Hutch. 
@@ -33,8 +33,9 @@ PROOF (PRoduction On-ramp for Optimization and Feasibility) is a user-friendly t
 - **Validate**, troubleshoot, assess performance, and run their workflows all under one roof.
 - **Refine** their workflows before potential transitions to cloud-based infrastructures, providing a "proofing" resource of sorts.
 
+::: {.callout-note appearance="minimal"}
 Find out more on the [PROOF page on the Fred Hutch SciWiki](https://sciwiki.fredhutch.org/datascience/proof/).
-
+:::
 
 ### cBioPortal
 cBioPortal is an open-source platform for visualization, exploration, and analysis of cancer genomics data sets developed by Memorial Sloan Kettering (MSK). The Data Science Lab (DaSL) in conjunction with the Scientific Computing Group (SciComp) at Fred Hutch have launched a Fred Hutch instance of cBioPortal for research use only. 
@@ -46,8 +47,9 @@ The [Fred Hutch deployment of cBioPortal](https://cbioportal.fredhutch.org/) pro
 - Users can host and share their data through the Fred Hutch instance of cBioPortal to **facilitate collaborations**.
 - Additionally, this instance has been reviewed and approved by InfoSec to include up to individually identifiable research data.
 
+::: {.callout-note appearance="minimal"}
 For more details on what the Fred Hutch instance of cBioPortal can do for you, read our Fred Hutch cBioPortal [product page](https://sciwiki.fredhutch.org/datascience/cbioportal/) and [documentation](https://sciwiki.fredhutch.org/dasldemos/fh-cbio-intro/) on the Fred Hutch SciWiki and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to give it a spin.
-
+:::
 
 ## CARDS
 

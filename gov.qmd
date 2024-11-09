@@ -3,7 +3,9 @@ title: "Data Governance"
 toc: true
 ---
 
-This emerging group aims to create a collaborative network across Fred Hutch to provide additional support for data governance generally. This involves partnering with Fred Hutch departments like legal, compliance, IT and others to develop a comprehensive network of communication and documentation related to data governance, policy, procedures, and best practices. DaSL supports investigators navigating resources at Fred Hutch regarding data policy and governance processes surrounding topics such as data use agreements, software licensing, data oriented tech-transfer issues and guidance regarding IRB oversight of data use. We also support various ongoing projects and efforts to promote data stewardship and literacy in the clinical and research community.
+This emerging group aims to create a collaborative network across Fred Hutch to provide additional support for data governance generally. This involves partnering with Fred Hutch departments like legal, compliance, IT and others to develop a comprehensive network of communication and documentation related to data governance, policy, procedures, and best practices. 
+
+We support investigators navigating resources at Fred Hutch regarding data policy and governance processes surrounding topics such as data use agreements, software licensing, data oriented tech-transfer issues and guidance regarding IRB oversight of data use. We also support various ongoing projects and efforts to promote data stewardship and literacy in the clinical and research community.
 
 ## Data Governance Efforts
 
@@ -31,6 +33,7 @@ Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) to
 
 ### Clinical Patient Data Access House Call
 Use this [Data House Call](https://calendly.com/data-house-calls/clinical-data) to discuss questions about Fred Hutch adult oncology clinical patient data access for research and it's oversight.  
+
 - Curious about how to get access to Fred Hutch clinical patient data?
 - Wondering what the newly signed agreement with UW means for the data that is part of the cancer program at Fred Hutch?
 - Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch?

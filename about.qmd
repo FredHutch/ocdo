@@ -30,6 +30,28 @@ Amy is the Deputy Chief Data Officer and Associate Vice President and has worked
 ## OCDO Staff
 
 ### Data Science Domain Leadership
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+![Jenny Weddle, Data Governnace Specialist](img/team/jenny-weddle.jpg){width=80%}
+
+Jenny has a background in business analytics and compliance. She leads our growing [data governance](gov/qmd) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and research data governance.
+
+
+:::
+
+::: {#second-column}
+
+![Brian Bot, Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
+
+Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He is the Director of Data Science Partnerships for OCDO and functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care.
+
+[More about Brian](https://brian-bot.github.io/)
+
+:::
+::::
+
 :::: {layout-ncol=2}
 ::: {#first-column }
 
@@ -42,6 +64,9 @@ Sean Kross is a Data Staff Scientist interested in building better tools and wor
 
 [More about Sean](https://seankross.com/)
 
+:::
+
+::: {#second-column}
 
 ![Monica Gerber - Translational Analytics Manager](img/team/monica-gerber.jpg){width=80%}
 
@@ -49,9 +74,11 @@ Monica has a background in biostatistics and epidemiology. She's interested in h
 
 
 [More about Monica](https://www.monicagerber.com/)
+:::
+::::
 
-
-
+:::: {layout-ncol=2}
+::: {#first-column }
 
 ![Taylor Firman - Research Informatics Data Scientist](img/team/taylor-firman.jpg){width=80%}
 
@@ -59,43 +86,38 @@ Taylor's background is in computational biophysics, clinical bioinformatics, and
 
 [More about Taylor](https://www.taylorfirman.com/)
 
+:::
 
-
+::: {#second-column}
 ![Ted Laderas, Director of Training & Community](img/team/ted-laderas.jpg){width=80%}
 
 Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads the [training and community](training.qmd) efforts related to data science for OCDO. 
 
 [More about Ted](https://laderast.github.io/)
-
-
 :::
-
-::: {#second-column}
-![Brian Bot, Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
-
-Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He is the Director of Data Science Partnerships for OCDO and functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care.
-
-[More about Brian](https://brian-bot.github.io/)
+::::
 
 
+:::: {layout-ncol=2}
 
-
-
+::: {#first-column }
 ![Abby Wall, Data Program and Porfolio Manager](img/team/abby-wall.jpg){width=80%}
 
 Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for product and tooling development for OCDO as the lead for our [Data Product Management team](tools.qmd). 
 
 
+:::
+
+::: {#second-column}
 
 
+![TBN, Engineering Manager](img/job.png){width=80%}
 
-![Jenny Weddle, Data Governnace Specialist](img/team/jenny-weddle.jpg){width=80%}
-
-Jenny has a background in business analytics and compliance. She leads our growing [data governance](gov/qmd) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and research data governance.
-
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28721/data-engineering-manager/job)
 
 :::
 ::::
+
 
 
 
@@ -108,7 +130,9 @@ Jenny has a background in business analytics and compliance. She leads our growi
 
 
 A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sandy has worked in the PHS Division office, the epidemiology program, PHS Labs, and since 2000 in the Biostatistics Program before joining OCDO. 
+:::
 
+::: {#second-column}
 
 ![Sana Hirata, Associate Program Operations Director](img/team/sana-hirata.jpg){width=80%}
 
@@ -116,8 +140,11 @@ A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sa
 Sana has been working at Fred Hutch since 2019. Prior to joining the OCDO team, she supported implementation of clinical trials in the Bezos Family Immunotherapy Clinic as a project manager in the Immunotherapy Integrated Research Center Project Management Office (IIRC PMO).
 
 :::
+::::
 
-::: {#second-column}
+
+:::: {layout-ncol=2}
+::: {#first-column}
 
 ![Maleah O'Connor, Research Administration Manager](img/team/maleah-oconnor.jpg){width=80%}
 
@@ -126,8 +153,9 @@ Maleah has a background in Grant Manager with a focus on federal and foundation 
 
 [More about Maleah](https://www.linkedin.com/in/maleah-o-connor/)
 
+:::
 
-
+::: {#second-column}
 
 ![Maria Owen, Executive Assistant]()
 
@@ -153,55 +181,103 @@ Scott has a background in ecology and evolutionary biology and software developm
 
 
 [More about Scott](https://scottchamberlain.info)
+:::
 
+::: {#second-column}
 
 ![Sonu (Sonali) Mishra - User Experience Researcher](img/team/sonali-mishra.jpg){width=80%}
 
 Sonu is a UX researcher interested in building impactful systems that meet user needs. Her background is in health behavior change intervention design and health informatics.
 
 [More about Sonu](https://www.srmishra.com/)
+:::
+::::
 
+:::: {layout-ncol=2}
+::: {#first-column }
 
 
 
 ![Sitapriya Moorthi, Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
+
 Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. Sita has hands-on experience, ranging from conducting intricate bench experiments in molecular-cellular biology and genetics, to analyzing complex data from whole genome, exome, and single-cell sequencing. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Data Science and Software group.](dss.qmd)
-
-
-
-![Sindiya Devi Thangavel - Cloud Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
-
-Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of OCDO infrastructure projects and data product development efforts.  
 
 :::
 
 ::: {#second-column}
+
+![Sindiya Devi Thangavel - Cloud Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
+
+
+Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of OCDO infrastructure projects and data product development efforts.  
+
+:::
+::::
+
+
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+
 ![Vivek Sriram – Data Scientist, Translational Analytics](img/team/vivek_cropped.JPG){width=80%}
 
 
 Vivek has a background in biomedical informatics, statistics, and computer science. His work in OCDO focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
 
 [More about Vivek](https://vsriram24.github.io)
-
-
+:::
+::: {#second-column}
 
 ![Tyreesha Lambert - Data Governance Specialist](img/team/ty-lambert.jpg){width=80%}
 
 Tyreesha has a background in privacy and compliance. In her role she will manage governance activities related to AI governance and research data stewardship Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
 
+:::
+::::
+
+:::: {layout-ncol=2}
+::: {#first-column }
 
 
 
 ![Chris Lo, Data Science Trainer](img/team/chris-lo.jpg){width=80%}
 
-
+:::
+::: {#second-column}
 ![Gina Conseca Crescioni - Data Governance Specialist](){width=80%}
-
-
-![Sean Olmstead- Technical Project Manager](){width=80%}
 
 :::
 ::::
+
+:::: {layout-ncol=2}
+::: {#first-column }
+![Sean Olmstead- Technical Project Manager](){width=80%}
+
+:::
+::: {#second-column}
+
+:::
+::::
+
+:::: {layout-ncol=2}
+::: {#first-column }
+![TBN, Cloud Data System Administrator](img/job.png){width=80%}
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
+:::
+
+::: {#second-column}
+
+![TBN, Data Engineer](img/job.png){width=80%}
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28722/data-engineer-iii/job)
+
+
+
+:::
+::::
+
 
 
 
@@ -216,38 +292,55 @@ We have a group of affiliated researchers and training staff who focus on a vari
 
 
 ![Carrie Wright - Senior Staff Scientist](img/team/carrie-wright.png){width=80%}
+
 Carrie has a background in genomics and brain imaging analysis. Her current work is focused on innovating ways to make data science and computational biology more accessible. She is a member of the [Open Case Studies](https://www.opencasestudies.org/) team and the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/). She also currently leads the [ITCR Operations, Promotion, Education, and Networking (OPEN) Group](https://www.itcrtraining.org/open).
 
 [More about Carrie](https://carriewright11.github.io/)
-
-
-![Candace Savonen - Data Scientist](img/team/candace-savonen.jpg){width=80%}
-
-"Candace has a background in neuroscience and is interested in making data science tools more approachable to those who are looking to apply them to their areas of knowledge and expertise. She is enthusiastic about reproducibility and documentation of data analyses. She works as a part of the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/) and [DataTrail](https://www.datatrail.org/) teams.
-
-
-[More about Candace](https://www.cansavvy.com/) 
-
-
-![Kate Isaac - Postdoctoral Researcher](){width=80%}
-
-
 :::
+
 
 ::: {#second-column}
 ![Ava Hoffman - Senior Staff Scientist](img/team/ava-hoffman.jpg){width=80%}
+
 Ava is a Senior Staff Scientist. She helps lead the [AnVIL Project](https://anvilproject.org/) and the Genomic Data Science Community Network ([GDSCN](https://www.gdscn.org/)), exploring ways to make genomics research more accessible by connecting communities to cloud-based resources. Previously, she researched ecological genomics and worked as a data scientist in industry.
 
 [More about Ava](https://www.avahoffman.com/)
 
+:::
+::::
 
-
+:::: {layout-ncol=2}
+::: {#first-column }
 
 ![Elizabeth Humphries - Staff Scientist](img/team/elizabeth-humphries.jpg){width=80%}
 
 Elizabeth did her PhD in molecular epidemiology and the genetics of mood disorders, and her MS in evolutionary and population genetics in birds. She works on the [AnVIL Project](https://anvilproject.org/).
     
-[More about Elizabeth](https://www.linkedin.com/in/elizabeth-humphries-61202a103/){width=80%}
+[More about Elizabeth](https://www.linkedin.com/in/elizabeth-humphries-61202a103/)
+
+:::
+
+
+::: {#second-column}
+
+![Candace Savonen - Data Scientist](img/team/candace-savonen.jpg){width=80%}
+
+Candace has a background in neuroscience and is interested in making data science tools more approachable to those who are looking to apply them to their areas of knowledge and expertise. She is enthusiastic about reproducibility and documentation of data analyses. She works as a part of the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/) and [DataTrail](https://www.datatrail.org/) teams.
+
+
+[More about Candace](https://www.cansavvy.com/) 
+:::
+::::
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+
+![Kate Isaac - Postdoctoral Researcher](){width=80%}
+
+:::
+
+::: {#second-column}
 
 :::
 ::::
@@ -260,14 +353,27 @@ Elizabeth did her PhD in molecular epidemiology and the genetics of mood disorde
 
 
 ## Jobs
-Come work with us! Here are some resources to help find jobs at Fred Hutch Cancer Center that are data-oriented.  Would you to share your job posting with the Fred Hutch community? Post it in the [#opportunities channel in FH-Data Slack](https://fhdata.slack.com/archives/C03T4QXBB7F).
+Come work with us! 
 
-### Fred Hutch DaSL Jobs
 
-The Data Science Lab is growing in the near future.  When jobs are ready, we will post them here.
+We are very excited to have the opportunity to bring on another leader to lead our newly minted Engineering team! This role will help me build a team that will focus on translational data applications and data infrastructure. They will be hugely impactful in building the way to enabling AI and data science in the clinic and in research. 
+
+[TBN Engineering Manager - Apply here!](https://careers-fhcrc.icims.com/jobs/28721/data-engineering-manager/job)
+
+
+We are hiring a cloud engineer who'll work on our Engineering team to support our cloud based application deployments and user account management. This is such a critical role for enabling access to data for our translational staff who span the clinic and research spaces.
+
+[TBN Cloud Data System Administrator - Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
+
+
+We're on the hunt for a data engineer who'll work on our Engineering team to help build translational multi-modal data ingestion pipelines and lakehouse components in Databricks!
+
+[TBN Data Engineer - Apply here!](https://careers-fhcrc.icims.com/jobs/28722/data-engineer-iii/job)
+
+
+
 
 ### Fred Hutch Jobs
 
-Check out [Fred Hutch Cancer Center Careers page](https://www.fredhutch.org/en/about/careers/job-openings.html#eyJrZXl3b3JkcyI6IiIsImNhcmVlckNhdGVnb3J5IjpbIkMzNTgxMDIiXSwibG9jYXRpb24iOltdfQ==) for more info on current data oriented jobs!! 
-
+Check out the [Fred Hutch Cancer Center Careers page](https://www.fredhutch.org/en/about/careers/job-openings.html#eyJrZXl3b3JkcyI6IiIsImNhcmVlckNhdGVnb3J5IjpbIkMzNTgxMDIiXSwibG9jYXRpb24iOltdfQ==) for more info on current data oriented jobs across the Center.  
 

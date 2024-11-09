@@ -13,13 +13,12 @@ Training at the Data Science Lab consists of more than courses and workshops. We
 
 Please note that all courses, workshops, and learning community sessions adhere to the [DaSL Event Participation Guidelines](pages/participation.qmd). 
 
-{% include feature_row id="learning"%}
+
 
 ## Self Directed Training
 
 We also offer self directed material in the form of guides and documentation for computational and data oriented topics in the SciWiki.
 
-{% include feature_row id="document"%}
 
 
 

@@ -4,7 +4,7 @@ toc: true
 ---
 
 
-::: {.callout-caution collapse="true"}
+::: {.callout-caution collapse="false"}
 ## TDS IRC and DS&S Collaborative Data Science Consulting
 The Translational Data Science Integrated Research Center (TDS IRC) and Data Science & Software teams have partnered together to provide support for data scientists to work with Fred Hutch labs. [Find out how we can help.](https://centernet.fredhutch.org/u/tdsirc/funding/-2024-tds-irc-data-scientist-collaboration.html)
 :::
@@ -47,6 +47,7 @@ As a data science *lab*, we are interested in learning from the community and te
 ### Connect with Us
 
 Examples of how our team can work with you:
+
 * Data access and short-term analysis support can be requested on [FHCC CenterNet](https://centernet.fredhutch.org/f/data-science-lab/patient-data.html).
 * Provide advice and navigation through a 20 minute [Data House Call](https://calendly.com/data-house-calls)
     + Choose [clinical data access](https://calendly.com/data-house-calls/clinical-data) to meet to Monica (Translational Analytics Manager) and Jenny (Data Governance Specialist) to discuss how we can support you in accessing and using FHCC patient data for research 
@@ -73,7 +74,7 @@ We support the private [Fred Hutch instance of cBioPortal](/tools/#cbioportal) i
 ### Connect with Us
 The DaSL Research Informatics team provides support to the community through documentation on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), through our new [Community Studios program](/communitystudios/), and through our Data House Calls program.
 
-### Research Data Management House Calls
+#### Research Data Management House Calls
 Use this [Data House Call](https://calendly.com/data-house-calls/management) to discuss questions about research data management, infrastructure, or tools:
 
 - Developing lab or group data management schemes that support research, leverage Fred Hutch infrastructure, and are cost-effective
@@ -87,7 +88,7 @@ Use this [Data House Call](https://calendly.com/data-house-calls/management) to 
 Or other questions you have that you feel might relate to this topic!  
 
 
-### Research Computing House Calls
+#### Research Computing House Calls
 
 Use this [Data House Call](https://calendly.com/data-house-calls/computing) to discuss questions about how to run your code or analysis more effectively and at scale:
 

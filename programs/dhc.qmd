@@ -80,10 +80,6 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/).
 Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 
-### Research and User-Developed Applications
-
-::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/).  
 :::
 ### DaSL Supported Resources
 

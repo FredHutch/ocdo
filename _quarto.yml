@@ -33,7 +33,7 @@ website:
 
     right:
       - text: "Get Help"
-        href: https://hutchdatascience.org/datahousecalls/
+        href: programs/dhc.mgd
       - text: "Resources"
         href: resources.qmd
       - text: "Our Team"

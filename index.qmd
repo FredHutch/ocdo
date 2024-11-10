@@ -7,11 +7,11 @@ toc: true
 
 Fred Hutch’s recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation. To support this, the **Office of the Chief Data Officer, (OCDO)** works to create a robust and coordinated data ecosystem at Fred Hutch via a few mechanisms.
 
-One is through **guiding data infrastructure development with a comprehensive data strategy** and integrating technology and philanthropic partnerships to leverage cutting edge innovations to advance our understanding of disease, therapeutics, and patient outcomes.  
+We **guide data infrastructure development to enable a comprehensive data strategy**. To do this we integrate technology and philanthropic partnerships to leverage cutting edge innovations to advance our understanding of disease, therapeutics, and patient outcomes.  
 
-Another is by **building data governance, data science and software development resources** in our team that are available to support institution-wide intiatives as well as provide tactical, data related supports and products for 
+We **build data governance, data science and software development expertise and resources** that are available to support institution-wide intiatives as well as provide tactical, data related supports and products for our data community to use in their every day work. 
 
-To make this work directly impact our community **we do outreach and support resources are coordinated through the Data Science Lab**, a community-oriented, collaborative effort supported by all of our OCDO staff as well as with support from other departments and efforts related to data and technology education.  
+We **do outreach and resource distribution coordinated through the Data Science Lab**, a community-oriented, collaborative effort supported by all of our OCDO staff as well as with support from other departments and efforts related to data and technology education.  
 
 
 >The mission of our group is to ensure an effective data ecosystem at Fred Hutch by developing a modern, well documented, well implemented, overall data strategy that evolves with the needs and capabilities of those leveraging data regardless of “where they live” from the clinic to the research groups.

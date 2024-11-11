@@ -284,70 +284,7 @@ Tyreesha has a background in privacy and compliance. In her role she will manage
 
 
 ## DaSL Research Affiliates
-We have a group of affiliated researchers and training staff who focus on a variety of different data science education efforts externally to the Fred Hutch. 
-
-
-:::: {layout-ncol=2}
-::: {#first-column}
-
-
-![Carrie Wright - Senior Staff Scientist](img/team/carrie-wright.png){width=80%}
-
-Carrie has a background in genomics and brain imaging analysis. Her current work is focused on innovating ways to make data science and computational biology more accessible. She is a member of the [Open Case Studies](https://www.opencasestudies.org/) team and the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/). She also currently leads the [ITCR Operations, Promotion, Education, and Networking (OPEN) Group](https://www.itcrtraining.org/open).
-
-[More about Carrie](https://carriewright11.github.io/)
-:::
-
-
-::: {#second-column}
-![Ava Hoffman - Senior Staff Scientist](img/team/ava-hoffman.jpg){width=80%}
-
-Ava is a Senior Staff Scientist. She helps lead the [AnVIL Project](https://anvilproject.org/) and the Genomic Data Science Community Network ([GDSCN](https://www.gdscn.org/)), exploring ways to make genomics research more accessible by connecting communities to cloud-based resources. Previously, she researched ecological genomics and worked as a data scientist in industry.
-
-[More about Ava](https://www.avahoffman.com/)
-
-:::
-::::
-
-:::: {layout-ncol=2}
-::: {#first-column }
-
-![Elizabeth Humphries - Staff Scientist](img/team/elizabeth-humphries.jpg){width=80%}
-
-Elizabeth did her PhD in molecular epidemiology and the genetics of mood disorders, and her MS in evolutionary and population genetics in birds. She works on the [AnVIL Project](https://anvilproject.org/).
-    
-[More about Elizabeth](https://www.linkedin.com/in/elizabeth-humphries-61202a103/)
-
-:::
-
-
-::: {#second-column}
-
-![Candace Savonen - Data Scientist](img/team/candace-savonen.jpg){width=80%}
-
-Candace has a background in neuroscience and is interested in making data science tools more approachable to those who are looking to apply them to their areas of knowledge and expertise. She is enthusiastic about reproducibility and documentation of data analyses. She works as a part of the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/) and [DataTrail](https://www.datatrail.org/) teams.
-
-
-[More about Candace](https://www.cansavvy.com/) 
-:::
-::::
-
-:::: {layout-ncol=2}
-::: {#first-column }
-
-
-![Kate Isaac - Postdoctoral Researcher](){width=80%}
-
-:::
-
-::: {#second-column}
-
-:::
-::::
-
-
-
-
+We have a group of affiliated researchers and training staff who focus on a variety of different data science education efforts externally to the Fred Hutch.  You can find more about them and their work on our [hutchdatascience.org](https://hutchdatascience.org/).
 
 
 

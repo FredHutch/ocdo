@@ -5,24 +5,29 @@ toc: true
 
 
 
-Fred Hutch’s recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation. To support this, the **Office of the Chief Data Officer, (OCDO)** works to create a robust and coordinated data ecosystem at Fred Hutch via a few mechanisms.
+Fred Hutch’s recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation. To support this, the **Office of the Chief Data Officer, (OCDO)** works to create a robust and coordinated data ecosystem at Fred Hutch via a few mechanisms.  
 
-We **guide data infrastructure development to enable a comprehensive data strategy**. To do this we integrate technology and philanthropic partnerships to leverage cutting edge innovations to advance our understanding of disease, therapeutics, and patient outcomes.  
+- Read more about our [Strategy and Goals](strategy.qmd)
+- Find out about our [Data Governance](gov.qmd) work
+- See what our [Data Science & Software](dss.qmd) team is up to
+- Leverage our [Data Science Lab Training and Community](training.qmd) resources
+- Discover our [Applications and Engineering](tools.qmd) resources to advance your work
 
-We **build data governance, data science and software development expertise and resources** that are available to support institution-wide intiatives as well as provide tactical, data related supports and products for our data community to use in their every day work. 
+::: {.callout-note appearance="minimal"}
 
-We **do outreach and resource distribution coordinated through the Data Science Lab**, a community-oriented, collaborative effort supported by all of our OCDO staff as well as with support from other departments and efforts related to data and technology education.  
-
-
->The mission of our group is to ensure an effective data ecosystem at Fred Hutch by developing a modern, well documented, well implemented, overall data strategy that evolves with the needs and capabilities of those leveraging data regardless of “where they live” from the clinic to the research groups.
+The mission of our group is to ensure an effective data ecosystem at Fred Hutch by developing a modern, well documented, well implemented, overall data strategy that evolves with the needs and capabilities of those leveraging data regardless of “where they live” from the clinic to the research groups.
+:::
 
 
+## Data Culture
 
-## OCDO and DaSL Core Values
-Read about [OCDO and DaSL's Core Values](pages/values.qmd) and how we foster a supportive data science community at Fred Hutch and beyond.
+“Culture eats strategy for breakfast.” In OCDO, we believe that a strong, inclusive culture is essential to achieving our mission. Our core values and community event guidelines reflect this commitment, fostering an environment where respect, curiosity, and collaboration drive innovation. Through shared principles and open participation, we create a space where every voice contributes to advancing healthcare and research.
 
-## Community Events Participation Guidelines
-Data Science Lab community events are safe spaces to learn, teach, and ask questions of each other. In order to ensure our events welcome to all, we provide [Participation Guidelines](pages/participation.qmd).
+### OCDO and DaSL Core Values
+Read about [OCDO and DaSL's Core Values](pages/values.qmd) and how we foster an innovative and supportive data science community at Fred Hutch and beyond.
+
+### Community Events Participation Guidelines
+Data Science Lab community events are safe spaces to learn, teach, and ask questions of each other. In order to ensure our events are welcome to all, we provide [Participation Guidelines](pages/participation.qmd).
 
 ![](img/dasl-eco-fade-web.png)
 

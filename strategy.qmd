@@ -11,39 +11,57 @@ fig-cap-location: top
 Our approach to supporting Fred Hutch staff focuses on the following guiding principles:
 
 
-**Democratize appropriate data access and facilitate ethical data stewardship.**
-Our work is driven by the idea that by making high quality, timely, well-governed data available to a wide range of staff members via tools that both meet their needs and make ethical data stewardship straightforward, we can empower individuals at all levels to make industry-leading data-driven decisions and discoveries.  
+#### Advance a Unified Data Strategy Through Collaboration
+
+Close collaboration between data and technology teams empowers our staff to lead and innovate in clinical care and translational research.  By working together to shape and implement a cohesive data strategy, we drive progress in clinical care, research, and operations, adapting to emerging needs and opportunities in data science and technology.
+
+
+
+#### Prioritize Data Democratization and Ethical Data Stewardship
+
+We are committed to data democratization - making it accessible, understandable, and actionable for everyone in our organization, regardless of technical expertise. Through intuitive tools and a culture of ethical data stewardship, we ensure data serves as a driving force for innovation and responsible decision-making across healthcare and research.
 
 
 ![Data democratization has a number of components, it's not just enough to grant access to data. Image credit: [Arpit Choudhury, Toward Data Science](https://towardsdatascience.com/what-the-heck-is-data-democratization-39b86eb27aa6) ](img/choudhury-datademo.png){width=60%}
 
 
 
-**Play an active role in building and empowering communities of practice around data.**
-Through the development of common data platforms, software, and tools with open documentation, training, and peer-to-peer engagement programs, we can build continuously innovating communities of practice who will be on the forefront of defining what best practices are for data in their fields. 
+#### Build, Foster and Empower Data Communities of Practice
+
+We are dedicated to building and supporting data-related communities of practice that span the Fred Hutch, from the clinic to the research labs. By providing shared platforms, tools, open documentation, training and peer-to-peer programs, we empower our teams to collaborate, share knowledge, and establish best practices that drive innovation in their fields.
 
 ![Communities of practice are essential for building domain-specific shared knowledge. [Image credit: Giulia Forsythe.](https://www.flickr.com/photos/gforsythe/38547088821) ](img/data-cop.jpg){width=60%}
 
 
-**Provide strategic coordination of our data infrastructure and alignment with evolving needs for data capabilities via a continuous improvement cycle.**
-We aim to empower and engage our clinical, research, technical and analytics staff to participate actively in creating a transparent, continuously improving, shared data ecosystem that prioritizes responsiveness to necessary data capabilities and incorporates new technology to advance clinical care and biomedical research.
 
 
 
 ## Connect with Us
 
-If you'd like to let us know what issues you’re seeing, desired data capabilities that would advance your work, or to get updates on current status of our efforts around strategy please email [data@fredhutch.org](mailto:data@fredhutch.org) or schedule a [General Data House Call (a 20 min discussion session)](https://calendly.com/data-house-calls/misc).
+If you'd like to let us know what issues you’re seeing, desired data capabilities that would advance your work, or to get updates on current status of our efforts around strategy please email [data@fredhutch.org](mailto:data@fredhutch.org). 
+
+
+### General and CARDS Data House Calls
+
+Amy Paguirigan (Deputy Chief Data Officer), fields two [Data House Call](programs/dhc/qmd) types:
+
+- For high level or broad data related topics, please schedule a[General Data House Call](https://calendly.com/data-house-calls/misc)
+- For a translational data and technology oriented discussion, please schedule a [CARDS Data House Call ](https://calendly.com/data-house-calls/cards).  
 
 
 ### Data Portfolio and Data Noon Community Calls
 
-We support the Fred Hutch’s diverse data community by aligning efforts to a common data strategy, ensuring the delivery of responsive and sustainable data-related products.  This includes strategic support for data products by managing the data product portfolio, assessing the product landscape in alignment with OCDO strategic goals, and ensuring optimal product development by; streamlining development, coordinating resources, and enhancing visibility across Fred Hutch. 
+We support the Fred Hutch’s diverse data community by providing visibility and communications around ongoing data-related projects through our regular "Data Noon" community calls.  We present the current status of identified data programs and projects via three series:  
 
-Join our regular "Data Noon" community calls, where we present the current status of identified data programs and projects relating to our overall Data Strategy and Governance, Patient Data or Research Data. Please request to be added to the relevant Community Call or the associated newsletter by emailing [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org). 
+- Data Strategy and Governance
+- Patient Data 
+- Research Data 
+
+Please request to be added to the relevant Data Noon Community Call or to recieve the associated newsletter by emailing [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org). 
 
 
 ### Data Science Partnerships
-We aim to connect the right technology or data science partners with research and clinical use cases at Fred Hutch, collaborating with Business Development and Philanthropy to enhance research capabilities and drive innovation. Our staff cultivates external relationships with AI, Technology and data science partners and identify opportunities for philanthropic investment, industry sponsorships, and technology partnerships to advance research and clinical care.
+We aim to connect the right technology or data science partners with research and clinical use cases at Fred Hutch, collaborating with Business Development and Philanthropy to enhance research capabilities and drive innovation. Our staff cultivates external relationships with AI, technology and data science partners and identify opportunities for philanthropic investment, industry sponsorships, and technology partnerships to advance research and clinical care.
 
 
 Schedule a [Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships) if you are interested in learning how OCDO can help facilitate data science capabilities via a partnership. Some examples of areas that might be of interest:
@@ -55,27 +73,26 @@ Schedule a [Data House Call](https://calendly.com/data-house-calls/partnerships)
 Or any other questions you have that relate to Data Science Partnerships.
 
 
-
 ## Our Strategic Priorities
 These priorities have been developed and evolved since our beginnings in summer of 2022.  They illustrate the high level needs we have heard from the data community broadly at Fred Hutch and help to guide our work to ensure what we do has the maximum impact on the daily data lives of Fred Hutch staff.  
 
 ### Data Infrastructure, Partnerships and Strategy
-Fred Hutch’s recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation.  To foster a feedback loop between biomedical discovery and clinical care, DaSL aims to create a robust and coordinated data ecosystem at Fred Hutch via guiding data infrastructure development with a comprehensive data strategy. The strategic coordination of our data infrastructure work via a continuous improvement cycle will allow us to be responsive to current capabilities in data to empower our staff at all levels to make data-driven decisions and discoveries. This includes identifying and integrating technology and philanthropic partnerships to leverage cutting edge innovations to advance our understanding of disease, therapeutics, and patient outcomes. 
+Fred Hutch’s recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation.  To foster a feedback loop between biomedical discovery and clinical care, OCDO aims to create a robust and coordinated data ecosystem at Fred Hutch via guiding data infrastructure development with a comprehensive data strategy. The strategic coordination of our data infrastructure work via a continuous improvement cycle will allow us to be responsive to current capabilities in data to empower our staff at all levels to make data-driven decisions and discoveries. This includes identifying and integrating technology and philanthropic partnerships to leverage cutting edge innovations to advance our understanding of disease, therapeutics, and patient outcomes. 
 
 
 ### Data Governance
-We work to create a collaborative network across Fred Hutch to provide additional support for data governance generally. This involves partnering with Fred Hutch departments like legal, compliance, IT and others to develop a comprehensive network of communication and documentation related to data governance, policy and procedures. DaSL supports investigators navigating resources at Fred Hutch regarding data policy and governance including data use agreements, software licensing, data oriented tech-transfer issues and guidance regarding IRB oversight of data use.  We also support efforts surrounding Fred Hutch-wide patient consent processes, community oriented cancer education efforts, and data stewardship literacy in the clinical and research community.
+We work to create a collaborative network across Fred Hutch to provide additional support for [data governance](gov.qmd) generally. This involves partnering with Fred Hutch departments like legal, compliance, IT and others to develop a comprehensive network of communication and documentation related to data governance, policy and procedures. OCDO supports investigators navigating resources at Fred Hutch regarding data policy and governance including data use agreements, software licensing, data oriented tech-transfer issues and guidance regarding IRB oversight of data use.  We also support efforts surrounding Fred Hutch-wide patient consent processes, community oriented cancer education efforts, and data stewardship literacy in the clinical and research community.
 
 
 ### Translational Analytics & Informatics
-As a hybrid organization, we have the opportunity to make a direct connection via translational analytics and informatics between our clinical and research data capabilities.  Our [Translational Analytics](/tr-analytics/) and [Research Informatics](/informatics/) groups work together to bridge the gap between healthcare data and large scale laboratory generated datasets critical for supporting efforts such as the Sloan Precision Oncology Institute and clinical trials.  This focus creates a continuous feedback loop between clinical care and research labs that will allow Fred Hutch to create a learning healthcare system to accelerate advancements in cancer care.
+As a hybrid organization, we have the opportunity to make a direct connection via translational analytics and informatics between our clinical and research data capabilities.  Our [Translational Analytics](dss.qmd) and [Research Informatics](dss.qmd) groups work together to bridge the gap between healthcare data and large scale laboratory generated datasets critical for supporting efforts such as the Sloan Precision Oncology Institute and clinical trials.  This focus creates a continuous feedback loop between clinical care and research labs that will allow Fred Hutch to create a learning healthcare system to accelerate advancements in cancer care.
 
 ### Data Product & Software Development
-We aim to support both research and clinical staff by developing data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care.  Our collaborative approach not only supports researchers in piloting, sharing and publishing [custom applications and software via our HCI group](/hci/), but also involves partnering with IT to support integration of these [tools](/tools/) into the Fred Hutch data ecosystem.
+We aim to support both research and clinical staff by developing data products, including web applications, process automation, and scientific software, to enable effective data use and integration into research and clinical care.  Our collaborative approach not only supports researchers in piloting, sharing and publishing [custom applications and software via our HCI group](dss.qmd), but also involves our [Data Product Management and Engineering teams](tools.qmd) partnering with IT to support integration of these and other [tools](tools.qmd) into the Fred Hutch data ecosystem.
 
 
 ### Training and Documentation
-DaSL champions the democratization of data science expertise through comprehensive training and educational resources. Our training group develops [training resources](/training/) including in-person, hybrid and self-paced courses, workshops, seminars and documentation catering to a range of working professionals and trainees as well as the general public. A critical part of supporting an ever evolving and advancing data community filled with people interacting with data in different ways and scales is an overall focus on open documentation to facilitate knowledge sharing.  We also lead and collaborate on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org), which aims to share best practices and foster community consensus and serves as an open, community knowledgebase, and valuable source to learn about available data science resources at the Fred Hutch and beyond.
+OCDO champions the democratization of data science expertise through comprehensive training and educational resources. Our training group develops [training resources](training.qmd) including in-person, hybrid and self-paced courses, workshops, seminars and documentation catering to a range of working professionals and trainees as well as the general public. A critical part of supporting an ever evolving and advancing data community filled with people interacting with data in different ways and scales is an overall focus on open documentation to facilitate knowledge sharing.  We also lead and collaborate on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org), which aims to share best practices and foster community consensus and serves as an open, community knowledgebase, and valuable source to learn about available data science resources at the Fred Hutch and beyond.
 
 ### Data Science Communities
-DaSL is committed to fostering a vibrant community centered around data science at Fred Hutch to encourage democratized access to data science expertise, collaborations and mentorship. We recognize the value of community connections across diverse research and clinical arenas, and strive to [connect](/contact/) individuals to community through the efforts such as the Fred Hutch Data Slack workspace, our Monday Morning Data Science newsletter, as well as hosting periodic events to bring people together in the DaSL Lounge. 
+OCDO is committed to fostering a vibrant community centered around data science at Fred Hutch to encourage democratized access to data science expertise, collaborations and mentorship. We recognize the value of community connections across diverse research and clinical arenas, and strive to connect individuals to community through the efforts such as our [Learning Communities](programs/communities.qmd), the [Fred Hutch Data Slack workspace](https://join.slack.com/t/fhdata/signup), our [Monday Morning Data Science](https://fhdata.substack.com/) newsletter, as well as hosting periodic [events](https://centernet.fredhutch.org/u/data-science-lab.html) to bring people together.

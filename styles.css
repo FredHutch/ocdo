@@ -1,43 +1,58 @@
-/* css styles */
 
+/* Top navigation bar */
 
 .navbar-container {
     font-size: 1.25em;
 }
-  
+
+.nav-link {
+  color: #1B365D;
+}
+
 .navbar {
-    border-bottom: 1px solid #00C1D5;
+    border-bottom: 1px solid #00ABC8;
 }
-  
-.menu-text img {
-    max-height: 40px;
+
+.navbar-logo {
+  max-height: 40px;
 }
-  
-.hero {
-    background-color: #1B365D;
-    color: #F4F4F4;
-    padding-top: 3em;
-    padding-bottom: 3em;
+
+
+/* Headers */
+
+h1, .h1 {
+    border-bottom: none;
+    color: #1B365D;
+    /* font: this should be a times-new-roman-style font according to brand guidance but that's ugly*/;
 }
-  
-.hero p {
-    font-size: 1.4em;
-}
-  
-.hero h1 {
-    font-size: 2.5em;
-}
-  
+
 h2, .h2 {
+    color: #0A799A;
+    font: Arial;
+}
+
+h3, .h3 {
+    color: #0A799A;
+    font: Arial;
     border-bottom: none;
 }
 
-.nav-link {
-    /* text-align: center; */
-    padding-bottom: 0px;
+h4, .h4 {
+    color: #0A799A;
+    font: Arial;
+    border-bottom: none;
 }
 
-.nav-link.active {
-    /* text-align: center; */
-    padding-bottom: auto;
+h5, .h5 {
+    color: #0A799A;
+    font: Arial;
+    border-bottom: none;
+}
+
+a:link {
+  color: #0A799A;
+}
+
+a:hover, a:active {
+  color: #00ABC8;
 }

@@ -13,18 +13,6 @@ All documentation about Data Science Lab Tools and best practices can also be fo
 :::
 
 
-## Product Management & Engineering Teams
-Our Data Product Management team partners with various groups on campus and our growing Engineering team to deliver data related products in an responsive and sustainable way. The team supports the management and delivery of responsive and sustainable data-related products. They provide strategic support for data products by managing the data product portfolio, assessing the product landscape in alignment with OCDO strategic goals, and ensuring optimal product development by; streamlining development, coordinating resources, and enhancing visibility across Fred Hutch.
-
-
-Our work includes:
-
-- Program Management of the Fred Hutch Data Initiatives (Strategy & Integrations, Patient and Research)
-- Product management for OCDO developed Tools and Products
-- Product management support for cross-institutional data infrastructure products
-
-> More to come on the growing OCDO Engineering team over the winter of 2024-2025.  
-
 
 
 
@@ -63,3 +51,18 @@ Fred Hutch is building a secure, scalable, and supportable technical infrastruct
 Clinical and Research Data Solutions (CARDS) will become the foundation of the Fred Hutch Cancer Center’s new translational data ecosystem.
 
 To get up to date information regarding the current state and upcoming availability opportunities please schedule a [Data House Call for CARDS](https://calendly.com/data-house-calls/cards), or email [oncdataaccess@fredhutch.org](mailto:oncdataaccess@fredhutch.org).  
+
+
+
+## Product Management & Engineering Teams
+Our Data Product Management team partners with various groups on campus and our growing Engineering team to deliver data related products in an responsive and sustainable way. The team supports the management and delivery of responsive and sustainable data-related products. They provide strategic support for data products by managing the data product portfolio, assessing the product landscape in alignment with OCDO strategic goals, and ensuring optimal product development by; streamlining development, coordinating resources, and enhancing visibility across Fred Hutch.
+
+
+Our work includes:
+
+- Program Management of the Fred Hutch Data Initiatives (Strategy & Integrations, Patient and Research)
+- Product management for OCDO developed Tools and Products
+- Product management support for cross-institutional data infrastructure products
+
+> More to come on the growing OCDO Engineering team over the winter of 2024-2025.  
+

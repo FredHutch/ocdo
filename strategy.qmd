@@ -46,7 +46,7 @@ If you'd like to let us know what issues you’re seeing, desired data capabilit
 
 Amy Paguirigan (Deputy Chief Data Officer), fields two [Data House Call](programs/dhc/qmd) types:
 
-- For high level or broad data related topics, please schedule a[General Data House Call](https://calendly.com/data-house-calls/misc)
+- For high level or broad data related topics, please schedule a [General Data House Call](https://calendly.com/data-house-calls/misc)
 - For a translational data and technology oriented discussion, please schedule a [CARDS Data House Call ](https://calendly.com/data-house-calls/cards).  
 
 

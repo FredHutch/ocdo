@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+// FHCC Colors -
+// See: https://brand.fredhutch.org/ for more FHCC brand guidance
+
+$dark-navy: #1B365D;
+$bright-blue: #00ABC8;
+$vivid-yellow: #FFB500;
+$warm-purple: #AA4AC4;
+$teal: #0A799A;
+$light-gray: #F4F4F4;
+$white: #FFFFFF;
+$black: #000000;
+
+// Base document colors
+$font-color: $black;
+$link-color: $bright-blue;
+
+// Callout Blocks
+$callout-color-note: $warm-purple;
+$callout-color-tip: $warm-purple;
+$callout-color-important: $bright-blue;
+$callout-color-caution: $vivid-yellow;
+$callout-color-warning: $vivid-yellow;
+
+/*-- scss:rules --*/
+
+h1 {
+  font-family: Arial;
+  color: $dark-navy;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: Arial;
+  color: $teal;
+}
+
+.navbar {
+    border-bottom: 1px solid #00ABC8;
+}
+.navbar-logo {
+  max-height: 50px;
+}
+

@@ -3,31 +3,68 @@ title: "Data Governance"
 toc: true
 ---
 
-This emerging group aims to create a collaborative network across Fred Hutch to provide additional support for data governance generally. This involves partnering with Fred Hutch departments like legal, compliance, IT and others to develop a comprehensive network of communication and documentation related to data governance, policy, procedures, and best practices. 
+Our Data Governance team works collaboratively across Fred Hutch to build a network for ethical data use and stewardship supports. By partnering with departments such as Legal, Compliance, Business Development and Information Security, we support communication and documentation to increase staff awareness of data governance policies and procedures. The Data Governance team helps investigators navigate data policy and governance resources, such as data use agreements, software licensing, and IRB guidance. We also contribute to and facilitate organization-wide initiatives related to data governance such as Cancer Consortium data sharing, connecting patients’ data to research and staff data stewardship literacy. 
 
-We support investigators navigating resources at Fred Hutch regarding data policy and governance processes surrounding topics such as data use agreements, software licensing, data oriented tech-transfer issues and guidance regarding IRB oversight of data use. We also support various ongoing projects and efforts to promote data stewardship and literacy in the clinical and research community.
 
 ## Data Governance Efforts
+Data governance and stewardship can be defined as the collection of institutional policies, processes, and procedures that support ethical, compliant data use using our particular technology, tools and data assets. Our Data Governance team works to support the coordinated effort done by a variety of subject matter experts and departments at Fred Hutch to enable staff to leverage data best practices to ensure clinical and research staff have the ability to use high quality, timely data in their everyday work.  Through training and awareness, we aim to support responsible, ethical data use in clinical care and research.   
 
-Projects we're working on:
 
-- Documentation of data access policies and procedures for Fred Hutch clinical patient data
-- Developing an honest broker process for review of clinical data requests for research
-- Coordination of clinical data agreements with data access and use with our Consortium partners (UW and Seattle Children's).
-- Navigation support for data related compliance, privacy and oversight questions
-- Developing policy, best practices and guidance for use of AI and regulated research datasets
-- Providing resources for improved data stewardship and data management approaches
+### [Cancer Consortium](https://www.cancerconsortium.org/) Data Governance & Sharing
+
+Since its designation as a National Cancer Institute (NCI) Comprehensive Cancer Center in 1973, the Fred Hutch/University of Washington/Seattle Children’s Cancer Consortium has demonstrated a commitment to excellence in cancer research and treatment. An important part of our success as a Consortium are the data sharing relationships we maintain to facilitate cross-institutional clinical care and research. 
+
+#### UW Medicine - Fred Hutch Joint Clinical Data Governance 
+The Clinical Data Exchange Memorandum of Understanding (MOU) between Fred Hutch and UW went into effect on April 18, 2023, and called for an ongoing joint governance structure that will oversee the Parties’ collaboration relating to all Exchanged Clinical Data for Cancer-Related Care, Healthcare Operations, and Research. This joint governance structure between Fred Hutch and the University of Washington related to clinical data exchange includes an Oversight committee as well as a sub-committee which serves to address joint decision making in an ongoing way.  
+
+
+
+#### Seattle Children's Hosptial - Fred Hutch Governance
+Fred Hutch has a data sharing partnership with Seattle Children's Hospital.  Our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/sch-research.html) outlines some key resources prepared by the Research Data Governance Subcommittee (RDGS) related to the exchange of data for research purposes. 
+
+
+### Patient and Reserach Data Governance & Stewardship
+
+#### Patient Data for Research
+
+OCDO serves as a gatekeeper/honest broker to help ensure that patient data for research is provided in alignment with applicable regulations, policies, standards, IRB approvals, and/or other contractual obligations. See our [Clinical Data Access Data House Call](https://calendly.com/data-house-calls/clinical-data) for more information. 
+
+
+#### Research Data Stewardship
+
+We provide support for leveraging restricted use research data and facilitating compliant data sharing. 
+
+
+- [DUA Process](https://sciwiki.fredhutch.org/datascience/compliance_legal/) support
+- Data Classification and data-related policy development and guidance
+- [Research data stewardship](https://sciwiki.fredhutch.org/datascience/stewardship/) advising and education 
+- NIH Data Management and Sharing Plans and guidance (see [dmptool.org](https://dmptool.org/) and our [Biomedical Data Science Wiki supports for developing and implementing your plans](https://sciwiki.fredhutch.org/datascience/nih_data_sharing/))
+
+
+### AI Governance
+We strive to enable the Fred Hutch community to make use of the benefits of AI systems for work-related activities, while mitigating risk and upholding Fred Hutch’s values in the rapidly evolving AI landscape. There are some important issues to think about when contemplating the use of an AI based tool as part of your work.  Considerations include: 
+
+- what type of AI system you’re working with, 
+- what type of data you’re using, 
+- the technology and infrastructure you’re using to process the data and 
+- what the downstream use of the results will be.  
+
+Fred Hutch focused AI resources and governance processes are currently in development by OCDO in partnership with various subject matter experts in other departments and with our partners at UW Medicine (for clinical settings). More can be found on our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/ai.html) or you can email [dataprotection@fredhutch.org](mailto:dataprotection@fredhutch.org) with questions or to request an AI Review of your use case.  
+
 
 
 ## Connect with Us
 You can email questions about data governance generally to [datagovernance@fredhutch.org](mailto:datagovernance@fredhutch.org) or connect with us through our Data House Calls program. 
 
 ### Data Policy and AI House Call
-Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) to discuss questions about data policy, data protection and AI use cases.
+Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) for questions about data policy, data protection and AI use cases.
 
 - Inquire about the status of our AI interim policy and guidance for use of AI with patient and research data,
 - Ask questions about data use agreements, IRB protocols, and other data privacy or security concerns,
 - Get guidance regarding what aspects of our our data infrastructure supports your intended work.
+
+
+>Note, many of these topics can be supported by various other subject matter expert groups at the Fred Hutch. This DHC serves primarily as advice where DaSL is responsible for aspects of these issues and navigation support for finding an expert to help you for those aspects that we are not.
 
 
 
@@ -37,3 +74,18 @@ Use this [Data House Call](https://calendly.com/data-house-calls/clinical-data) 
 - Curious about how to get access to Fred Hutch clinical patient data?
 - Wondering what the newly signed agreement with UW means for the data that is part of the cancer program at Fred Hutch?
 - Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch?
+
+
+
+### Data Sharing, Study Planning and Grants
+
+Use this [Data House Call](https://calendly.com/data-house-calls/sharing) for questions about data sharing and planning such as:
+
+- preparing NIH or other funding agency Data Sharing Plans,
+- grant materials regarding DaSL support services available,
+- data sharing and/or tools to move and share data,
+- lab or research collaboration data management planning,
+- DaSL resources available to support your grant applications.
+
+Or other questions you have that you feel might relate to this topic!
+

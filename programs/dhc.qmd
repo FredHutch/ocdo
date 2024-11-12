@@ -60,14 +60,14 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/partnershi
 :::
 ### Data Policy and AI
 
-Use this event to schedule a Data House Call for questions about data policy, data protection and AI use cases.
+Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) for questionsabout data policy, data protection and AI use cases.
 
 - Inquire about the status of our AI interim policy and guidance for use of AI with patient and research data,
 - Ask questions about data use agreements, IRB protocols, and other data privacy or security concerns,
 - Get guidance regarding what aspects of our our data infrastructure supports your intended work.
 
 
-Note, many of these topics can be supported by various other subject matter expert groups at the Fred Hutch. This DHC serves primarily as advice where DaSL is responsible for aspects of these issues and navigation support for finding an expert to help you for those aspects that we are not.
+>Note, many of these topics can be supported by various other subject matter expert groups at the Fred Hutch. This DHC serves primarily as advice where DaSL is responsible for aspects of these issues and navigation support for finding an expert to help you for those aspects that we are not.
 
 
 ::: {.callout-tip appearance="simple"}
@@ -76,7 +76,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/data-polic
 ### Data Sharing, Study Planning and Grants
 
 
-Use this event to schedule a Data House Call for questions about data sharing and planning such as:
+Use this [Data House Call](https://calendly.com/data-house-calls/sharing) for questions about data sharing and planning such as:
 
 - preparing NIH or other funding agency Data Sharing Plans,
 - grant materials regarding DaSL support services available,
@@ -92,11 +92,15 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/sharing).
 :::
 ### Clinical Data Access
 
-Curious about how to get access to Fred Hutch clinical patient data?
+Use this Data House Call to discuss questions about Fred Hutch adult oncology clinical patient data access for research and it's oversight.
 
-Wondering what the newly signed agreement with UW means for the data that is part of the cancer program at Fred Hutch?
+- Curious about how to get access to Fred Hutch clinical patient data?
 
-Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch?  This DHC is the right one. 
+- Wondering what the newly signed agreement with UW means for the data that is part of the cancer program at Fred Hutch?
+
+- Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch?  
+
+This DHC is the right one. 
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/clinical-data).  

@@ -80,10 +80,13 @@ website:
 format:
   html:
     page-layout: full
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - styles.scss
     link-color: '#00ABC8'
+    fontsize: 1.1em
     toc: false
+    toc-depth: 2
     link-external-icon: true
     link-external-newwindow: true
     anchor-sections: true

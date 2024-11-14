@@ -34,6 +34,8 @@ We are dedicated to building and supporting data-related communities of practice
 ![Communities of practice are essential for building domain-specific shared knowledge. [Image credit: Giulia Forsythe.](https://www.flickr.com/photos/gforsythe/38547088821) ](img/data-cop.jpg){width=60%}
 
 
+## Data Science Partnerships
+We aim to connect the right technology or data science partners with research and clinical use cases at Fred Hutch, collaborating with Business Development and Philanthropy to enhance research capabilities and drive innovation. Our staff cultivates external relationships with AI, technology and data science partners and identify opportunities for philanthropic investment, industry sponsorships, and technology partnerships to advance research and clinical care.
 
 
 
@@ -42,15 +44,15 @@ We are dedicated to building and supporting data-related communities of practice
 If you'd like to let us know what issues you’re seeing, desired data capabilities that would advance your work, or to get updates on current status of our efforts around strategy please email [data@fredhutch.org](mailto:data@fredhutch.org). 
 
 
-### General and Transalational Data House Calls
+### Data House Calls
 
-Amy Paguirigan (Deputy Chief Data Officer), fields two [Data House Call](programs/dhc/qmd) types:
+Amy Paguirigan (Deputy Chief Data Officer), fields two [Data House Call](programs/dhc.qmd) types:
 
 - For high level or broad data related topics, please schedule a [General Data House Call](https://calendly.com/data-house-calls/misc)
 - For a translational data and technology oriented discussion, please schedule a [Translational Data House Call ](https://calendly.com/data-house-calls/cards).  
+- For information about Data Science Partnerships, schedule a [Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships).  
 
-
-### Data Portfolio and Data Noon Community Calls
+### Data Noon Community Calls
 
 We support the Fred Hutch’s diverse data community by providing visibility and communications around ongoing data-related projects through our regular "Data Noon" community calls.  We present the current status of identified data programs and projects via three series:  
 
@@ -61,17 +63,7 @@ We support the Fred Hutch’s diverse data community by providing visibility and
 Please request to be added to the relevant Data Noon Community Call or to recieve the associated newsletter by emailing [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org). 
 
 
-### Data Science Partnerships
-We aim to connect the right technology or data science partners with research and clinical use cases at Fred Hutch, collaborating with Business Development and Philanthropy to enhance research capabilities and drive innovation. Our staff cultivates external relationships with AI, technology and data science partners and identify opportunities for philanthropic investment, industry sponsorships, and technology partnerships to advance research and clinical care.
 
-
-Schedule a [Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships) if you are interested in learning how OCDO can help facilitate data science capabilities via a partnership. Some examples of areas that might be of interest:
-
-- You have a gap in data science and/or technology need that would benefit from a known (or unknown) partner.
-- You have been contacted by a data science and/or technology company that is interested in partnering and could use a sounding board for if/how to proceed.
-- You are interested in an offering from a data science and/or technology company that you would like someone to help you assess for fit.
-
-Or any other questions you have that relate to Data Science Partnerships.
 
 
 ## Our Strategic Priorities

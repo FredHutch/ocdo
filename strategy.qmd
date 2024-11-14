@@ -42,12 +42,12 @@ We are dedicated to building and supporting data-related communities of practice
 If you'd like to let us know what issues you’re seeing, desired data capabilities that would advance your work, or to get updates on current status of our efforts around strategy please email [data@fredhutch.org](mailto:data@fredhutch.org). 
 
 
-### General and CARDS Data House Calls
+### General and Transalational Data House Calls
 
 Amy Paguirigan (Deputy Chief Data Officer), fields two [Data House Call](programs/dhc/qmd) types:
 
 - For high level or broad data related topics, please schedule a [General Data House Call](https://calendly.com/data-house-calls/misc)
-- For a translational data and technology oriented discussion, please schedule a [CARDS Data House Call ](https://calendly.com/data-house-calls/cards).  
+- For a translational data and technology oriented discussion, please schedule a [Translational Data House Call ](https://calendly.com/data-house-calls/cards).  
 
 
 ### Data Portfolio and Data Noon Community Calls

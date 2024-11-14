@@ -29,9 +29,9 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 
 ## Data House Call Topics
 
-### CARDS
+### Translational Data
 
-Clinical and Research Data Solutions (CARDS) will become the foundational translational data infrastructure of the recently merged Fred Hutch Cancer Center. This DHC is for more information about the current status of CARDS development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
+Clinical and Research Data Solutions (CARDS) will become the foundational translational data infrastructure of the recently merged Fred Hutch Cancer Center. This DHC is for more information about the current status of translational data supports, CARDS development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  

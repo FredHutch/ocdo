@@ -9,9 +9,9 @@ toc: true
 
 - Read more about our [Strategy and Goals](strategy.qmd)
 - Find out about our [Data Governance](gov.qmd) work
-- See what our [Data Science & Software](dss.qmd) team is up to
+- See what our [Data Science, Analytics & Software](dss.qmd) team is up to
 - Leverage our [Data Science Lab Training and Community](training.qmd) resources
-- Discover our [Applications and Engineering](tools.qmd) resources to advance your work
+- Discover our [Translational Applications and Engineering](tools.qmd) resources to advance your work
 
 ::: {.callout-note appearance="minimal"}
 

@@ -73,7 +73,7 @@ Sean Kross is a Data Staff Scientist interested in building better tools and wor
 Monica has a background in biostatistics and epidemiology. She's interested in helping researchers implement reproducible workflows for statistical analysis, working on ways to pair technical shifts with cultural shifts to advance science, and building inclusive data science communities. She leads [Translational Analytics](dss.qmd#translational-data-science-and-analytics) for OCDO.
 
 
-[More about Monica](https://www.monicagerber.com/)
+[More about Monica](https://www.linkedin.com/in/monica-gerber/)
 :::
 ::::
 

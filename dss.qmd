@@ -3,124 +3,57 @@ title: "Data Science & Software"
 toc: true
 ---
 
-Our Data Science & Software groups aim to support both research and clinical staff by developing data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care. Our collaborative approach supports researchers in piloting custom applications and software via our HCI group, while our Translational Analytics and Research Informatics group connect healthcare data and large scale laboratory generated datasets creating a feedback loop to foster a learning healthcare system. 
+The Data Science & Software group collaborate with and support both research and clinical staff with applying effective data science and analysis into research and clinical care. Our goal is to create a feedback loop to foster a learning healthcare system.
+
+We develop data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care. We also collaborate with our clinical and research partners to develop statistical/ML/NLP models, data analyses, and data-driven dashboards and visualizations using real-world healthcare and laboratory-generated data. 
 
 
 ::: {.callout-caution collapse="false"}
 ## TDS IRC and DS&S Collaborative Data Science Consulting
-The Translational Data Science Integrated Research Center (TDS IRC) and Data Science & Software teams have partnered together to provide support for data scientists to work with Fred Hutch labs. [Find out how we can help.](https://centernet.fredhutch.org/u/tdsirc/funding/-2024-tds-irc-data-scientist-collaboration.html)
+The Translational Data Science Integrated Research Center (TDS IRC) and Data Science & Software teams have partnered together to provide financial support for data scientists to work with Fred Hutch research groups. [Find out more about how to apply.](https://centernet.fredhutch.org/u/tdsirc/funding.html)
 :::
-
-
-
 
 
 ## Translational Data Science and Analytics
 
-The Translational Analytics team supports healthcare data science at Fred Hutch by analyzing real-world data generated over the course of health care delivery, and by improving the interoperability, quality, and accessibility of these data. They collaborate with Hutch researchers and staff to understand critical questions about cancer patients, develop impactful and practical data analyses, and to develop tools that support democratized data access, exploration, and analysis.
+The Translational Data Science and Analytics team supports healthcare data science at Fred Hutch by analyzing real-world data generated over the course of health care delivery, and by improving the interoperability, quality, and accessibility of these data. They collaborate with Hutch researchers and staff to understand critical questions about cancer patients, develop impactful and practical data analyses, and to develop tools that support democratized data access, exploration, and analysis.
 
-Translational Data Science and Analytics is a team of data scientists with the aim of solving [translational problems](https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.13055) in data analysis across the Fred Hutch. Our goals are to: 
+### Connect with Translational Data Science and Analytics
 
-1. Improve the interoperability, quality, and accessibility of healthcare data, 
-2. Develop accelerator data products that address data access and analysis needs while upskilling the data science capabilities at Fred Hutch, and 
-3. Understand the user needs around healthcare data at Fred Hutch.
-
-
-Some examples of what we're working on:
-
-* Implement common data standards such as the [OMOP CDM](https://www.ohdsi.org/data-standardization/)
-* Develop user guides and documentation of Fred Hutch’s data assets to improve accessibility and support democratization of data
-* Create data products and support [patient data access for research](https://centernet.fredhutch.org/f/data-science-lab/patient-data.html)
-* Pilot and prototype self-service tools for working with patient data
-
-
-### Data Accelerator Products
-
-Data Accelerator Products are versioned, time-bound data science solutions for Fred Hutch clinical researchers. We are interested in developing products that prioritize open source solutions, code sharing within FHCC, reproducibility, and collaborative efforts.
-
-Some examples of this work include:
-
-* Develop data pipelines and 'data-as-a-product' solutions for FHCC patient clinical data access 
-* Define rule-based and probabilistic patient cohort defintions
-* Interactive visualizations and analysis tools utilizing FHCC clinical data
-
-Our ability to develop top-notch data accelerator products for FHCC team depends on ongoing data infrastructure improvements. We appreciate your patience as we continue to make improvements to the type of solutions that are available for FHCC researchers.
-
-As a data science *lab*, we are interested in learning from the community and testing new ideas. Please reach out to our team with ideas for new data science products.
-
-### Connect with Us
-
-Examples of how our team can work with you:
-
-* Data access and short-term analysis support can be requested on [FHCC CenterNet](https://centernet.fredhutch.org/f/data-science-lab/patient-data.html).
-* Provide advice and navigation through a 20 minute [Data House Call](https://calendly.com/data-house-calls)
-    + Choose [clinical data access](https://calendly.com/data-house-calls/clinical-data) to meet to Monica (Translational Analytics Manager) and Jenny (Data Governance Specialist) to discuss how we can support you in accessing and using FHCC patient data for research 
-    + Choose [data analysis](https://calendly.com/data-house-calls/analysis-viz) to meet with Monica to discuss data analysis and visualization questions
-* Consult on research projects through the [TDS IRC](https://centernet.fredhutch.org/u/tdsirc/funding/2023-tds-irc-data-scientist-collaboration.html) funding mechanism
-* General questions can be sent to `analytics@fredhutch.org`.
-
-
+- Fred Hutch patient data access and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/f/data-science-lab/patient-data.html).
+- E-mail us about partnering on other clinical research data projects: `analytics@fredhutch.org`.
+- Schedule a 20-minute[Data House Call](https://calendly.com/data-house-calls)
+    + [Clinical data access](https://calendly.com/data-house-calls/clinical-data) to discuss how we can support you in accessing and using Fred Hutch patient data for research 
+    + [Data wranging and visualization](https://calendly.com/data-house-calls/analysis-viz) 
 
 ## Research Informatics
 
 Research Informatics supports the use of biomedical datasets in the research context that often include large scale public or private genomic data, licensed or regulated datasets (such as those under DUAs or legal protection like GDPR), or laboratory-generated data that require significant computational processing as part of their analysis.  We focus on providing open-source tooling, best practices for computational workloads and data management, and other resources such as computational workflows and templates that staff can use as a jumping off point to customize for their own work.  We work closely with Fred Hutch IT's Scientific Computing group who provide support for our on-prem computing cluster, scientific data storage, and research applications.  
 
-
-### Workflow Support in WILDS
+**Workflow Support in WILDS**
 
 We're developing resources in collaboration with the Fred Hutch IT Scientific Computing group to support simplified interfaces to computing resources through our project [PROOF](https://sciwiki.fredhutch.org/dasldemos/proof-how-to/). This will facilitate users running WDL workflows on our cluster and you can find our emerging resources in our WILDS GitHub organization, such as our [WDL supports](https://github.com/orgs/getwilds/repositories?q=cromwell+OR+WDL&type=all&language=&sort=).
 
-### Research Data Applications
+
+**Research Data Applications**
+
 We support the private [Fred Hutch instance of cBioPortal](/tools/#cbioportal) in collaboration with Fred Hutch IT's [Scientific Computing group](https://centernet.fredhutch.org/u/it/scicomp.html). cBioPortal allows users to easily explore multidimensional cancer genomics data with an intuitive point-and-click interface. For more information, read the [SciWiki documentation](https://sciwiki.fredhutch.org/dasldemos/fh-cbio-intro/) and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to try it out.
 
+### Connect with Research Informatics
 
+The DaSL Research Informatics team provides support to the community through documentation on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), through our new [Community Studios program](/communitystudios/), and through our [Data House Calls](programs/dhc) program.
 
-### Connect with Us
-The DaSL Research Informatics team provides support to the community through documentation on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), through our new [Community Studios program](/communitystudios/), and through our Data House Calls program.
+- [Research Data Management House Calls](https://calendly.com/data-house-calls/management): to discuss questions about research data management, infrastructure, or tools.
 
-#### Research Data Management House Calls
-Use this [Data House Call](https://calendly.com/data-house-calls/management) to discuss questions about research data management, infrastructure, or tools:
+- [Research Computing House Calls](https://calendly.com/data-house-calls/computing): to discuss questions about how to run your code or analysis more effectively and at scale
 
-- Developing lab or group data management schemes that support research, leverage Fred Hutch infrastructure, and are cost-effective
-- Transferring, storing, or collaborating on large datasets
-- Accessing data in cloud storages
-- Accessing public datasets
-- How to work with DUAs, licensed or private datasets
-- Learning about and accessing Fred Hutch hosted datasets (e.g., data from our clinics, our large research groups, and reference datasets)
-- Managing and accessing reference datasets such as genome data and common bioinformatic tool reference data sets
-
-Or other questions you have that you feel might relate to this topic!  
-
-
-#### Research Computing House Calls
-
-Use this [Data House Call](https://calendly.com/data-house-calls/computing) to discuss questions about how to run your code or analysis more effectively and at scale:
-
-- Using our computing cluster for your analyses
-- Writing and running scientific workflows
-- Managing and executing WDL workflows via [PROOF](https://sciwiki.fredhutch.org/dasldemos/proof-how-to/)
-- Bioinformatics software and environment management (including [Docker](https://github.com/getwilds/wilds-docker-library)!)
-- Leveraging Git/GitHub for code management and sharing
-- Leveraging cloud-based data storage and/or computing
-- Collaboration and sharing of workflows, environments, and large datasets
-
-Or other questions you have that you feel might relate to this topic!  
-
->Note: Often we pull in folks from the Scientific Computing team to provide expert advice as well so please describe your needs well so we can try to have the right staff ready. 
-
-
-
-
+    > Note: Often we pull in folks from the Scientific Computing team to provide expert advice as well so     please describe your needs well so we can try to have the right staff ready. 
 
 
 ## Human Computer Interaction
 
 The HCI team at Fred Hutch develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development and data analysis. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
 
-Participate in our Needs Assessment [by scheduling a consultation with Sean](/needs/).
-
-### Our Resources
-
-### Connect with Us
+### Connect HCI
 
 Schedule a discussion on your code or software questions via a [Code and Software, Data House Call type](https://calendly.com/data-house-calls).  

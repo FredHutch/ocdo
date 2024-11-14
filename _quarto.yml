@@ -53,7 +53,7 @@ website:
               href: dss.qmd
             - text: "Training & Community"
               href: training.qmd
-            - text: "Applications & Engineering"
+            - text: "Translational Applications & Engineering"
               href: tools.qmd
         - section: "Our Resources"
           href: resources.qmd

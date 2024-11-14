@@ -4,36 +4,32 @@ project:
 website:
   google-analytics: "UA-XXXXXXXX"
   cookie-consent: true
-  announcement: 
+  announcement:
     icon: info-circle
     dismissable: true
     content: "Welcome to our new home focused on our work for Fred Hutch data efforts! Our [prior site is still live](https://hutchdatascience.org/) and is focused on resources beyond the Fred Hutch."
     type: dark
     position: above-navbar
-  page-footer: 
+  page-footer:
     left: "Contact us by scheduling a [Data House Call](programs/dhc.qmd)"
-    right: 
+    right:
       - icon: house-gear-fill
         href: https://calendly.com/data-house-calls
       - icon: github
         href: https://github.com/getwilds
 
   page-navigation: true
-  search: 
+  search:
     location: navbar
     type: textbox
   favicon: /img/favicon.png
   open-graph: true
   navbar:
-    background: "#F4F4F4"
-    foreground: "#1B365D"
-    left: 
-      - text: "![](/img/FHCC_Logo_FullColor_RGB.png)"
-        href: index.qmd
-
+    logo: img/Fred-Hutch-Logo-Primary.png
+    logo-alt: "Logo for Fred Hutch Cancer Center"
     right:
       - text: "Get Help"
-        href: programs/dhc.mgd
+        href: programs/dhc.qmd
       - text: "Resources"
         href: resources.qmd
       - text: "Our Team"
@@ -84,11 +80,13 @@ website:
 format:
   html:
     page-layout: full
-    #mainfont: arial
-    theme: lumen
-    linkcolor: "#00C1D5"
-    css: styles.css
-    toc: false    
+    theme:
+      - cosmo
+      - styles.scss
+    link-color: '#00ABC8'
+    fontsize: 1.1em
+    toc: false
+    toc-depth: 2
     link-external-icon: true
     link-external-newwindow: true
     anchor-sections: true

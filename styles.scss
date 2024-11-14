@@ -1,0 +1,92 @@
+/*-- scss:defaults --*/
+// FHCC Colors -
+// See: https://brand.fredhutch.org/ for more FHCC brand guidance
+
+$dark-navy: #1B365D;
+$bright-blue: #00ABC8;
+$vivid-yellow: #FFB500;
+$warm-purple: #AA4AC4;
+$teal: #0A799A;
+$light-gray: #F4F4F4;
+$white: #FFFFFF;
+$black: #000000;
+
+// Callout Blocks
+$callout-color-note: $warm-purple;
+$callout-color-tip: $vivid-yellow;
+$callout-color-important: $bright-blue;
+$callout-color-caution: $vivid-yellow;
+$callout-color-warning: $vivid-yellow;
+
+// TOC
+$toc-color: $dark-navy;
+
+
+/*-- scss:rules --*/
+
+// Headers
+
+h2, h3, h4, h5, h6 {
+  color: $teal;
+  font: Arial;
+}
+
+h3, h4, h5, h6 {
+  border-bottom: none;
+}
+
+title, h1 {
+  font-family: "Tiempos";
+  font-weight: bold;
+  color: $dark-navy;
+  border-bottom: none;
+}
+
+
+// Navbar
+#navbarCollapse a:link,
+#navbarCollapse a:visited,
+#navbarCollapse a:active {
+    font-size: 1.2em;
+    color: #1B365D;
+}
+
+#navbarCollapse a:hover {
+    color: #0A799A;
+    text-decoration: underline;
+}
+
+.navbar {
+    border-bottom: 1px solid #00ABC8;
+}
+
+.navbar-logo {
+  /* makes logo bigger */
+  max-height: 40px;
+}
+
+
+// Left sidebar
+#quarto-sidebar a:link,
+#quarto-sidebar a:visited {
+    color:  #1B365D;
+}
+
+#quarto-sidebar a:hover,
+#quarto-sidebar a:active {
+  color: #0A799A;
+}
+
+
+// Site links
+a:link {
+  color: #0A799A;
+}
+
+a:visited {
+  color: #0A799A;
+}
+
+a:hover, a:active {
+  color: #00ABC8;
+}

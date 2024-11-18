@@ -49,7 +49,7 @@ You can connect with us through our [Data House Calls](programs/dhc.qmd) and the
 
 - For high level or broad data related topics, please schedule a [General Data House Call](https://calendly.com/data-house-calls/misc)
 - For a translational data and technology oriented discussion, please schedule a [Translational Data House Call ](https://calendly.com/data-house-calls/cards).  
-- For information about Data Science Partnerships, schedule a [Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships).  
+- For information about Data Science Partnerships, schedule a [Partnerships Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships).  
 
 ### Data Noon Community Calls
 

@@ -20,7 +20,7 @@ The Translational Data Science and Analytics team supports healthcare data scien
 
 ### Connect with Translational Data Science and Analytics
 
-- Fred Hutch patient data access and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/f/data-science-lab/patient-data.html).
+- Fred Hutch patient data access and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html).
 - E-mail us about partnering on other clinical research data projects: `analytics@fredhutch.org`.
 - Schedule a 20-minute[Data House Call](https://calendly.com/data-house-calls)
     + [Clinical data access](https://calendly.com/data-house-calls/clinical-data) to discuss how we can support you in accessing and using Fred Hutch patient data for research 

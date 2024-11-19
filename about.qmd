@@ -157,7 +157,7 @@ Maleah has a background in Grant Manager with a focus on federal and foundation 
 
 ::: {#second-column}
 
-![Maria Owen, Executive Assistant]()
+![Maria Owen, Executive Assistant](img/team/ScooterMuppet.jpg){width=80%}
 
 Maria has a background in higher education administration and public health grant initiatives. She supports OCDO leadership as an EA and operations broadly.  
 
@@ -245,14 +245,19 @@ Tyreesha has a background in privacy and compliance. In her role she will manage
 
 :::
 ::: {#second-column}
-![Gina Conseca Crescioni - Data Governance Specialist](){width=80%}
+![Gina Conseca Crescioni - Data Governance Specialist](img/team/gina-fc.jpg){width=80%}
+
+Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the data governance team, she focuses on ensuring the integrity, privacy, and accessibility of patient and research data.
 
 :::
 ::::
 
 :::: {layout-ncol=2}
 ::: {#first-column }
-![Sean Olmstead- Technical Project Manager](){width=80%}
+![Sean Olmstead- Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
+
+Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign.
+
 
 :::
 ::: {#second-column}

@@ -5,7 +5,7 @@ toc: true
 
 
 
-[Fred Hutch's](https://www.fredhutch.org/en.html) recent merger to form a hybrid clinical care and research institute brings a diversity of focus, skills, interests and capabilities that can spur innovation. To support this, the **Office of the Chief Data Officer, (OCDO)** works to create a robust and coordinated data ecosystem at Fred Hutch via a few mechanisms.  
+[Fred Hutch's](https://www.fredhutch.org/en.html) merger to form a hybrid clinical care and research institute in 2022 joins a diversity of focus, skills, interests and capabilities that can spur innovation. To support this, the **Office of the Chief Data Officer, (OCDO)** works to create a robust and coordinated data ecosystem at Fred Hutch via a few mechanisms.  
 
 - Read more about our [Strategy and Goals](strategy.qmd)
 - Find out about our [Data Governance](gov.qmd) work

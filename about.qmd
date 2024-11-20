@@ -3,7 +3,7 @@ title: "About our team"
 toc: true
 fig-cap-location: top
 ---
-As a part of Fred Hutch DaSL, we are committed to supporting friendly, open, and collaborative data science efforts. Our team is a collection of staff with data related expertise from a wide variety of areas who collaborate on cross-functional projects that build resources, supports and ongoing collaborations across many departments at Fred Hutch.  
+As a team, we are committed to supporting friendly, open, and collaborative data science efforts. Our team is a collection of staff with data related expertise from a wide variety of areas who collaborate on cross-functional projects that build resources, supports and ongoing collaborations across many departments at Fred Hutch.  
 
 :::: {layout-ncol=2}
 ::: {#first-column}

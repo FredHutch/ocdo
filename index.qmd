@@ -9,7 +9,7 @@ toc: true
 
 - Read more about our [Strategy and Goals](strategy.qmd)
 - Find out about our [Data Governance](gov.qmd) work
-- See what our [Data Science, Analytics & Software](dss.qmd) team is up to
+- See what our [Data Science & Software](dss.qmd) team is up to
 - Leverage our [Data Science Lab Training and Community](training.qmd) resources
 - Discover our [Translational Applications and Engineering](tools.qmd) resources to advance your work
 
@@ -23,8 +23,8 @@ The mission of our group is to ensure an effective data ecosystem at Fred Hutch 
 
 “Culture eats strategy for breakfast.” In OCDO, we believe that a strong, inclusive culture is essential to achieving our mission. Our core values and community event guidelines reflect this commitment, fostering an environment where respect, curiosity, and collaboration drive innovation. Through shared principles and open participation, we create a space where every voice contributes to advancing healthcare and research.
 
-### OCDO and DaSL Core Values
-Read about [OCDO and DaSL's Core Values](pages/values.qmd) and how we foster an innovative and supportive data science community at Fred Hutch and beyond.
+### Core Values
+Read about [our Core Values](pages/values.qmd) and how we foster an innovative and supportive data science community in our team, at Fred Hutch and beyond.
 
 ### Community Events Participation Guidelines
 Data Science Lab community events are safe spaces to learn, teach, and ask questions of each other. In order to ensure our events are welcome to all, we provide [Participation Guidelines](pages/participation.qmd).

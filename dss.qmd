@@ -54,6 +54,6 @@ The DaSL Research Informatics team provides support to the community through doc
 
 The HCI team at Fred Hutch develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development and data analysis. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
 
-### Connect HCI
+### Connect with Human Computer Interaction
 
 Schedule a discussion on your code or software questions via a [Code and Software, Data House Call type](https://calendly.com/data-house-calls).  

@@ -27,7 +27,7 @@ __Give each other permission to be human.__ We understand that life doesn’t st
 
 When we treat each other well and provide people support to work on what they know, we can accomplish a lot together! 
 
-__Build things that will help people.__ Our [Guiding Principles](strategy.qmd#guiding-principles) drive what we choose to focus on and how we make it happen.  Sometimes that is helping people directly with training, community events, documentation or Data House Calls. Sometimes it is indirectly by building resources, software, infrastructure or processes that will help others. Our goal is to maximize impact by enabling others.  
+__Build things that will help people.__ Our [Guiding Principles](../strategy.qmd#guiding-principles) drive what we choose to focus on and how we make it happen.  Sometimes that is helping people directly with training, community events, documentation or Data House Calls. Sometimes it is indirectly by building resources, software, infrastructure or processes that will help others. Our goal is to maximize impact by enabling others.  
 
 
 __Ship as soon as you can.__ Our success hinges on sharing drafts, prototypes, and ideas as soon as they can start to be useful for others. A rough draft shared widely holds far more value than a polished manuscript hidden on your desktop. By embracing the "work in the open" philosophy inspired by David Robinson’s model for understanding value, we maximize feedback, collaboration, and progress. The sooner we share, the sooner we improve—and the closer we get to meaningful impact.

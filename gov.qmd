@@ -42,7 +42,7 @@ We provide support for leveraging restricted use research data and facilitating 
 
 
 ## AI Governance
-We strive to enable the Fred Hutch community to make use of the benefits of AI systems for work-related activities, while mitigating risk and upholding Fred Hutch’s values in the rapidly evolving AI landscape. There are some important issues to think about when contemplating the use of an AI based tool as part of your work.  Considerations include: 
+We strive to enable the Fred Hutch community to make use of the benefits of AI systems for work-related activities, while mitigating risk and upholding Fred Hutch’s values in the rapidly evolving AI landscape. There are some important issues to think about when contemplating the use of an AI based tool as part of your work. Considerations include:
 
 - what type of AI system you’re working with, 
 - what type of data you’re using, 

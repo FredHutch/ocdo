@@ -14,7 +14,7 @@ website:
     left: "Contact us by scheduling a [Data House Call](programs/dhc.qmd)"
     right:
       - icon: house-gear-fill
-        href: https://calendly.com/data-house-calls
+        href: programs/dhc.qmd
       - icon: github
         href: https://github.com/getwilds
 
@@ -42,8 +42,9 @@ website:
       contents:
         - text: "Home"
           href: index.qmd
-        - section: "Our Team"
-          href: about.qmd
+        - text: "Our Team"
+          href: about.qmd         
+        - section: "What we Do"
           contents:
             - text: "Data Strategy & Partnerships"
               href: strategy.qmd

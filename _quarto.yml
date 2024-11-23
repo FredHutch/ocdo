@@ -49,7 +49,7 @@ website:
               href: strategy.qmd
             - text: "Data Governance"
               href: gov.qmd
-            - text: "Data Science, Analytics & Software"
+            - text: "Translational Data Science & Software"
               href: dss.qmd
             - text: "Training & Community"
               href: training.qmd

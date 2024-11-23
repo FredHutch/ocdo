@@ -1,24 +1,24 @@
 ---
-title: "Data Science & Software"
+title: "Translational Data Science & Software"
 toc: true
 ---
 
-The Data Science & Software group collaborate with and support both research and clinical staff with applying effective data science and analysis into research and clinical care. Our goal is to create a feedback loop to foster a learning healthcare system.
+The Translational Data Science & Software group collaborate with and support both research and clinical staff with applying effective data science and analysis into research and clinical care. Our goal is to create a feedback loop to foster a learning healthcare system.
 
 We develop data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care. We also collaborate with our clinical and research partners to develop statistical/ML/NLP models, data analyses, and data-driven dashboards and visualizations using real-world healthcare and laboratory-generated data. 
 
 
 ::: {.callout-caution collapse="false"}
-## TDS IRC and DS&S Collaborative Data Science Consulting
-The Translational Data Science Integrated Research Center (TDS IRC) and Data Science & Software teams have partnered together to provide financial support for data scientists to work with Fred Hutch research groups. [Find out more about how to apply.](https://centernet.fredhutch.org/u/tdsirc/funding.html)
+## TDS IRC and TDS&S Collaborative Data Science Consulting
+The Translational Data Science Integrated Research Center (TDS IRC) and Translational Data Science & Software teams have partnered together to provide financial support for data scientists to work with Fred Hutch research groups. [Find out more about how to apply.](https://centernet.fredhutch.org/u/tdsirc/funding.html)
 :::
 
 
-## Translational Data Science and Analytics
+## Healthcare Data Science
 
-The Translational Data Science and Analytics team supports healthcare data science at Fred Hutch by analyzing real-world data generated over the course of health care delivery, and by improving the interoperability, quality, and accessibility of these data. They collaborate with Hutch researchers and staff to understand critical questions about cancer patients, develop impactful and practical data analyses, and to develop tools that support democratized data access, exploration, and analysis.
+Our team supports healthcare data science at Fred Hutch by analyzing real-world data generated over the course of health care delivery, and by improving the interoperability, quality, and accessibility of these data. They collaborate with Hutch researchers and staff to understand critical questions about cancer patients, develop impactful and practical data analyses, and to develop tools that support democratized data access, exploration, and analysis.
 
-### Connect with Translational Data Science and Analytics
+### Connect with us
 
 - Fred Hutch patient data access and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html).
 - E-mail us about partnering on other clinical research data projects: `analytics@fredhutch.org`.
@@ -28,7 +28,7 @@ The Translational Data Science and Analytics team supports healthcare data scien
 
 ## Research Informatics
 
-Research Informatics supports the use of biomedical datasets in the research context that often include large scale public or private genomic data, licensed or regulated datasets (such as those under DUAs or legal protection like GDPR), or laboratory-generated data that require significant computational processing as part of their analysis.  We focus on providing open-source tooling, best practices for computational workloads and data management, and other resources such as computational workflows and templates that staff can use as a jumping off point to customize for their own work.  We work closely with Fred Hutch IT's Scientific Computing group who provide support for our on-prem computing cluster, scientific data storage, and research applications.  
+Our team supports the use of biomedical datasets in the research context that often include large scale public or private genomic data, licensed or regulated datasets (such as those under DUAs or legal protection like GDPR), or laboratory-generated data that require significant computational processing as part of their analysis.  We focus on providing open-source tooling, best practices for computational workloads and data management, and other resources such as computational workflows and templates that staff can use as a jumping off point to customize for their own work.  We work closely with Fred Hutch IT's Scientific Computing group who provide support for our on-prem computing cluster, scientific data storage, and research applications.  
 
 **Workflow Support in WILDS**
 
@@ -39,9 +39,9 @@ We're developing resources in collaboration with the Fred Hutch IT Scientific Co
 
 We support the private [Fred Hutch instance of cBioPortal](/tools/#cbioportal) in collaboration with Fred Hutch IT's [Scientific Computing group](https://centernet.fredhutch.org/u/it/scicomp.html). cBioPortal allows users to easily explore multidimensional cancer genomics data with an intuitive point-and-click interface. For more information, read the [SciWiki documentation](https://sciwiki.fredhutch.org/dasldemos/fh-cbio-intro/) and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to try it out.
 
-### Connect with Research Informatics
+### Connect with us
 
-The DaSL Research Informatics team provides support to the community through documentation on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), through our new [Community Studios program](/communitystudios/), and through our [Data House Calls](programs/dhc) program.
+Our team provides support to the community through documentation on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), through our new [Community Studios program](/communitystudios/), and through our [Data House Calls](programs/dhc) program.
 
 - [Research Data Management House Calls](https://calendly.com/data-house-calls/management): to discuss questions about research data management, infrastructure, or tools.
 
@@ -52,8 +52,8 @@ The DaSL Research Informatics team provides support to the community through doc
 
 ## Human Computer Interaction
 
-The HCI team at Fred Hutch develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development and data analysis. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
+The Human Computer Interaction (HCDI) team develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development and data analysis. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
 
-### Connect with Human Computer Interaction
+### Connect with us
 
 Schedule a discussion on your code or software questions via a [Code and Software, Data House Call type](https://calendly.com/data-house-calls).  

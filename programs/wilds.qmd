@@ -2,17 +2,16 @@
 title: "WILDS"
 toc: true
 ---
-DaSL prioritizes open source resources for tooling to support our clinical and 
-research communities at Fred Hutch.  Our emerging resources will be housed in 
-our [WILDS GitHub organization](https://github.com/getwilds) as well as the 
-emerging homepage for [WILDS](https://getwilds.org/). This org is where you can 
+We prioritize open source resources for tooling to support our clinical and 
+research communities at Fred Hutch.  Our emerging resources are housed in 
+our [WILDS GitHub organization](https://github.com/getwilds) described on our homepage for [WILDS](https://getwilds.org/). This org is where you can 
 get Workflows Integrating Large Data set and Software. 
 
 Our work in populating the WILDS aims to address the following goals:
 
 - highlighting, maturing, and enabling translational implementation of open 
 source research software for biomedical research that is developed at Fred 
-Hutch by DaSL or Fred Hutch staff
+Hutch by our group or Fred Hutch staff
 - development of supportive tools for a range of end user expertise levels that 
 make the management, processing and presentation of diverse types of 
 translational data sets (medical record, laboratory, sequencing, imaging, etc) 

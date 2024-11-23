@@ -27,7 +27,7 @@ Fred Hutch has a data sharing partnership with Seattle Children's Hospital.  Our
 
 ### Patient Data for Research
 
-OCDO serves as a gatekeeper/honest broker to help ensure that patient data for research is provided in alignment with applicable regulations, policies, standards, IRB approvals, and/or other contractual obligations. See our [Clinical Data Access Data House Call](https://calendly.com/data-house-calls/clinical-data) for more information. 
+Our team serves as a gatekeeper/honest broker to help ensure that patient data for research is provided in alignment with applicable regulations, policies, standards, IRB approvals, and/or other contractual obligations. See our [Clinical Data Access Data House Call](https://calendly.com/data-house-calls/clinical-data) for more information. 
 
 
 ### Research Data Stewardship
@@ -49,7 +49,7 @@ We strive to enable the Fred Hutch community to make use of the benefits of AI s
 - the technology and infrastructure you’re using to process the data and 
 - what the downstream use of the results will be.  
 
-Fred Hutch focused AI resources and governance processes are currently in development by OCDO in partnership with various subject matter experts in other departments and with our partners at UW Medicine (for clinical settings). More can be found on our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/ai.html) or you can email [dataprotection@fredhutch.org](mailto:dataprotection@fredhutch.org) with questions or to request an AI Review of your use case.  
+Fred Hutch focused AI resources and governance processes are currently in development by our team in partnership with various subject matter experts in other departments and with our partners at UW Medicine (for clinical settings). More can be found on our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/ai.html) or you can email [dataprotection@fredhutch.org](mailto:dataprotection@fredhutch.org) with questions or to request an AI Review of your use case.  
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Fred Hutch Data Science Lab Resources"
+title: "Our Resources"
 toc: true
 sidebar: data-sidebar
 ---
@@ -12,7 +12,7 @@ sidebar: data-sidebar
 
 [Data House Calls](programs/dhc.qmd)
 ![](img/DaSLHouseCalls-lucy.png)
-Data House Calls are a self-service way to leverage OCDO staff's expertise to help you get where you want to go with your data science skills.  
+Data House Calls are a self-service way to leverage our staff's expertise to help you get where you want to go with your data science skills.  
 
 :::
 
@@ -29,7 +29,7 @@ Learning Communities are events designed to catalyze community and conversations
 
 [WILDS](programs/wilds.qmd)
 ![](img/WILDS_V3 Square.png)
-OCDO-built, open source resources for tooling to support **W**orkflows **I**ntegrating **L**arge **D**ata and **S**oftware (WILDS), for our clinical and research communities at Fred Hutch.
+We make our open source resources for tooling to support **W**orkflows **I**ntegrating **L**arge **D**ata and **S**oftware (WILDS), available for our clinical and research communities at Fred Hutch through our GitHub organization. 
 
 :::
 ::::
@@ -64,7 +64,7 @@ Monday Morning Data Science is our weekly newsletter with updates from the Lab, 
 
 
 ## Openscapes
-The Fred Hutch Data Science Lab is proud to partner with [Openscapes](https://www.openscapes.org/) to bring the Openscapes Champions Cohort Program to Fred Hutch. Openscapes 
+We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring the Openscapes Champions Cohort Program to Fred Hutch. Openscapes 
 Champions is a mentorship program for scientific research groups. Centered 
 around collaborative coding and open science, Openscapes meet scientists where 
 they are and help develop skill sets, habits, and mindsets to make data 

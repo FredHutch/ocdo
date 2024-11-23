@@ -12,7 +12,7 @@ As a team, we are committed to supporting friendly, open, and collaborative data
 ![Jeff Leek - Chief Data Officer](img/team/jeff-leek.jpg){width=80%}
 
 
-Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at Fred Hutchinson Cancer Center. He leads the Fred Hutch Data Science Lab in building a data environment that is both cutting edge and friendly, supportive, open, and collaborative.
+Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of Biostatistics at Fred Hutchinson Cancer Center. He leads the group in building a data environment that is both cutting edge and friendly, supportive, open, and collaborative.
 
 [More about Jeff](https://jtleek.com/)
 :::
@@ -21,13 +21,13 @@ Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of
 ![Amy Paguirigan - Deputy Chief Data Officer](img/team/amy-paguirigan.jpg){width=80%}
 
 
-Amy is the Deputy Chief Data Officer and Associate Vice President and has worked to support bench and biomedical data scientists in translational research at Fred Hutch. She is co-leading the development of the Data Science Lab to support democratization of data, expertise and technology across the spectrum of our merged institution.
+Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-leading the group to support democratization of data, expertise and technology across the spectrum of our merged institution. She has a background in translational data science, connecting the clinic to laboratory research, as well as open science efforts and data community building.  
 
 [More about Amy](https://amypag.com)
 :::
 ::::
 
-## OCDO Staff
+## Our Staff
 
 ### Data Science Domain Leadership
 
@@ -45,7 +45,7 @@ Jenny has a background in business analytics and compliance. She leads our growi
 
 ![Brian Bot, Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
 
-Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He is the Director of Data Science Partnerships for OCDO and functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care.
+Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care.
 
 [More about Brian](https://brian-bot.github.io/)
 
@@ -60,7 +60,7 @@ Brian has more than two decades of experience in a variety of roles at the inter
 
 
 
-Sean Kross is a Data Staff Scientist interested in building better tools and workflows for data scientists. His background is in computer science, cognitive science, and design. He leads the [Human Computer Interaction (HCI)](dss.qmd#human-computer-interaction) effort for OCDO. 
+Sean Kross is interested in building better tools and workflows for data scientists. His background is in computer science, cognitive science, and design. He leads [Human Computer Interaction (HCI)](dss.qmd#human-computer-interaction) as part of our Translational Data Science and Software teams.
 
 [More about Sean](https://seankross.com/)
 
@@ -70,7 +70,7 @@ Sean Kross is a Data Staff Scientist interested in building better tools and wor
 
 ![Monica Gerber - Translational Analytics Manager](img/team/monica-gerber.jpg){width=80%}
 
-Monica has a background in biostatistics and epidemiology. She's interested in helping researchers implement reproducible workflows for statistical analysis, working on ways to pair technical shifts with cultural shifts to advance science, and building inclusive data science communities. She leads [Translational Analytics](dss.qmd#translational-data-science-and-analytics) for OCDO.
+Monica has a background in biostatistics and epidemiology. She's interested in helping translational staff implement reproducible workflows for statistical analysis, working on ways to pair technical shifts with cultural shifts to advance science, and building inclusive data science communities. She leads [Translational Analytics](dss.qmd#translational-data-science-and-analytics) as part of our Translational Data Science and Software teams.
 
 
 [More about Monica](https://www.linkedin.com/in/monica-gerber/)
@@ -82,7 +82,7 @@ Monica has a background in biostatistics and epidemiology. She's interested in h
 
 ![Taylor Firman - Research Informatics Data Scientist](img/team/taylor-firman.jpg){width=80%}
 
-Taylor's background is in computational biophysics, clinical bioinformatics, and high-performance computing. His work is focused on generating open source bioinformatics software tools for the Fred Hutch research community while fostering a spirit of collaboration through data consultations and community building. He leads the [Research Informatics](dss.qmd#research-informatics) effort for OCDO. 
+Taylor's background is in computational biophysics, clinical bioinformatics, and high-performance computing. His work is focused on generating open source bioinformatics software tools for the Fred Hutch research community while fostering a spirit of collaboration through data consultations and community building. He leads [Research Informatics](dss.qmd#research-informatics) as part of our Translational Data Science and Software teams.
 
 [More about Taylor](https://www.taylorfirman.com/)
 
@@ -91,8 +91,7 @@ Taylor's background is in computational biophysics, clinical bioinformatics, and
 ::: {#second-column}
 ![Ted Laderas, Director of Training & Community](img/team/ted-laderas.jpg){width=80%}
 
-Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads the [training and community](training.qmd) efforts related to data science for OCDO. 
-
+Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads our [training and community](training.qmd) efforts.  
 [More about Ted](https://laderast.github.io/)
 :::
 ::::
@@ -103,7 +102,7 @@ Ted Laderas has worked with lots of different data types and knows his way aroun
 ::: {#first-column }
 ![Abby Wall, Data Program and Porfolio Manager](img/team/abby-wall.jpg){width=80%}
 
-Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for product and tooling development for OCDO as the lead for our [Data Product Management team](tools.qmd). 
+Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for translational data product and tooling development as the lead for our [Data Product Management team](tools.qmd). 
 
 
 :::
@@ -129,7 +128,7 @@ Abby has experience in program, product, and project management for bioinformati
 ![Sandy Ombrek, Senior Program Operations Director](img/team/sandy-ombrek.jpg){width=80%}
 
 
-A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sandy has worked in the PHS Division office, the epidemiology program, PHS Labs, and since 2000 in the Biostatistics Program before joining OCDO. 
+A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sandy has worked in the PHS Division office, the epidemiology program, PHS Labs, and since 2000 in the Biostatistics Program before joining the group. 
 :::
 
 ::: {#second-column}
@@ -137,7 +136,7 @@ A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sa
 ![Sana Hirata, Associate Program Operations Director](img/team/sana-hirata.jpg){width=80%}
 
 
-Sana has been working at Fred Hutch since 2019. Prior to joining the OCDO team, she supported implementation of clinical trials in the Bezos Family Immunotherapy Clinic as a project manager in the Immunotherapy Integrated Research Center Project Management Office (IIRC PMO).
+Sana has been working at Fred Hutch since 2019. Prior to joining the group, she supported implementation of clinical trials in the Bezos Family Immunotherapy Clinic as a project manager in the Immunotherapy Integrated Research Center Project Management Office (IIRC PMO).
 
 :::
 ::::
@@ -159,12 +158,10 @@ Maleah has a background in Grant Manager with a focus on federal and foundation 
 
 ![Maria Owen, Executive Assistant](img/team/ScooterMuppet.jpg){width=80%}
 
-Maria has a background in higher education administration and public health grant initiatives. She supports OCDO leadership as an EA and operations broadly.  
+Maria has a background in higher education administration and public health grant initiatives. She supports our leadership as an EA and operations broadly.  
 
 :::
 ::::
-
-
 
 
 
@@ -177,7 +174,7 @@ Maria has a background in higher education administration and public health gran
 
 ![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg){width=80%}
 
-Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves as part of the HCI team.
+Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves. 
 
 
 [More about Scott](https://scottchamberlain.info)
@@ -200,7 +197,7 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 
 ![Sitapriya Moorthi, Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
 
-Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. Sita has hands-on experience, ranging from conducting intricate bench experiments in molecular-cellular biology and genetics, to analyzing complex data from whole genome, exome, and single-cell sequencing. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Data Science and Software group.](dss.qmd)
+Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. Sita has hands-on experience, ranging from conducting intricate bench experiments in molecular-cellular biology and genetics, to analyzing complex data from whole genome, exome, and single-cell sequencing. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Translational Data Science and Software group.](dss.qmd)
 
 :::
 
@@ -209,7 +206,7 @@ Sita's research background is in cancer biology, genetics, and genomics. Her exp
 ![Sindiya Devi Thangavel - Cloud Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
 
 
-Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of OCDO infrastructure projects and data product development efforts.  
+Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts.  
 
 :::
 ::::
@@ -223,7 +220,7 @@ Sindiya is part of our growing [Engineering team](tools.qmd), supporting the dev
 ![Vivek Sriram – Data Scientist, Translational Analytics](img/team/vivek_cropped.JPG){width=80%}
 
 
-Vivek has a background in biomedical informatics, statistics, and computer science. His work in OCDO focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
+Vivek has a background in biomedical informatics, statistics, and computer science. His work focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
 
 [More about Vivek](https://vsriram24.github.io)
 :::
@@ -231,7 +228,7 @@ Vivek has a background in biomedical informatics, statistics, and computer scien
 
 ![Tyreesha Lambert - Data Governance Specialist](img/team/ty-lambert.jpg){width=80%}
 
-Tyreesha has a background in privacy and compliance. In her role she will manage governance activities related to AI governance and research data stewardship Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
+Tyreesha has a background in privacy and compliance. In her role she will manage governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
 
 :::
 ::::
@@ -251,7 +248,7 @@ Chris Lo is a data science trainer who is passionate about helping biomedical an
 ![Gina Conseca Crescioni - Data Governance Specialist](img/team/gina-fc.jpg){width=80%}
 
 
-Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the data governance team, she focuses on ensuring the integrity, privacy, and accessibility of patient and research data.
+Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the [data governance team](gov.qmd), she focuses on ensuring the integrity, privacy, and accessibility of patient and research data.
 
 :::
 ::::
@@ -260,7 +257,7 @@ Gina has a background in healthcare analytics, with expertise in data quality ma
 ::: {#first-column }
 ![Sean Olmstead- Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
 
-Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign.
+Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign. Sean works with our engineering team to implement [translational data product and infrastructure development](tools.qmd). 
 
 
 :::

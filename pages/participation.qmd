@@ -1,11 +1,11 @@
 ---
-title: "DaSL Community Events Participation Guidelines"
+title: "Community Events Participation Guidelines"
 toc: true
 ---
 
 (Adapted from [Mozilla Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/))
 
-DaSL community events are a safe space to learn, teach, and ask questions of each other. In order to make DaSL Community Studios welcome to all, we provide these Participation Guidelines. Please note that these guidelines are a supplement to (and not a replacement of) Fred Hutch’s [Standards of Conduct](https://www.fredhutch.org/en/about/about-the-hutch/accountability-impact/standards-of-conduct.html) while participating in Community Studios related activities.
+Our community events are a safe space to learn, teach, and ask questions of each other. In order to make our Community Studios welcome to all, we provide these Participation Guidelines. Please note that these guidelines are a supplement to (and not a replacement of) Fred Hutch’s [Standards of Conduct](https://www.fredhutch.org/en/about/about-the-hutch/accountability-impact/standards-of-conduct.html) while participating in Community Studios related activities.
 
 These guidelines aim to support a community where all people should feel safe to participate, introduce new ideas and inspire others, regardless of:
 
@@ -29,7 +29,7 @@ These guidelines aim to support a community where all people should feel safe to
 - Geographic location
 - Any other dimension of diversity
 
-Openness, collaboration and participation are core values of our work together. We gain strength from diversity and actively seek participation from those who enhance it. These guidelines exist to enable diverse individuals and groups to interact and collaborate to mutual advantage. This document outlines both expected and prohibited behavior. We welcome any suggestions and changes to make these guidelines more inclusive for everyone, by emailing us at data@fredhutch.org.
+Openness, collaboration and participation are core values of our work together. We gain strength from diversity and actively seek participation from those who enhance it. These guidelines exist to enable diverse individuals and groups to interact and collaborate to mutual advantage. This document outlines both expected and prohibited behavior. We welcome any suggestions and changes to make these guidelines more inclusive for everyone, by emailing us at `data@fredhutch.org`.
 
 ## When and How to Use These Guidelines
 
@@ -37,7 +37,7 @@ These guidelines outline our behavior expectations as participants of community 
 
 - Participating in Community Studio sessions (online or in person)
 - Participation in Community Studio Slack channels
-- DaSL Community Studio Co-working sessions
+- Community Studio Co-working sessions
 - Any projects resulting from Community Studios Participation
 
 ## Expected Behavior
@@ -136,7 +136,7 @@ We will treat influencing or leading such activities the same way we treat the a
 
 ## Consequences of Unacceptable Behavior
 
-These consequences build on [the Standards of Conduct at Fred Hutch](https://www.fredhutch.org/en/about/about-the-hutch/accountability-impact/standards-of-conduct.html)[.](https://fredhutch-fhccinstitutional.policystat.com/policy/12900694/latest/) When in doubt, refer to those policies, including the related [reporting procedures](https://fredhutch-fhccinstitutional.policystat.com/policy/12900694/latest/#autoid-vzake). The consequences below apply to DaSL Community Studio related events in particular.
+These consequences build on [the Standards of Conduct at Fred Hutch](https://www.fredhutch.org/en/about/about-the-hutch/accountability-impact/standards-of-conduct.html)[.](https://fredhutch-fhccinstitutional.policystat.com/policy/12900694/latest/) When in doubt, refer to those policies, including the related [reporting procedures](https://fredhutch-fhccinstitutional.policystat.com/policy/12900694/latest/#autoid-vzake). The consequences below apply to Community Studio related events in particular.
 
 Bad behavior from any participant, including those with decision-making authority, will not be tolerated. Intentional efforts to exclude people (except as part of a consequence of the guidelines or other official action) from community studio activities are not acceptable and will be dealt with appropriately.
 
@@ -146,7 +146,7 @@ Anyone being asked to stop unacceptable behavior is expected to comply immediate
 
 ## Reporting
 
-If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please use `data@fredhutch.org` to report it to DaSL leadership. 
+If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please use `data@fredhutch.org` to report it to our leadership. 
 
 After receiving a concise description of your situation, we will review and determine the next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. 
 

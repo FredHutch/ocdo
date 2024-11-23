@@ -3,7 +3,7 @@ title: "Data House Calls"
 toc: true
 ---
 
-Our **Data House Calls** are a chance to leverage OCDO staff's expertise to help you get where you want to go with your data science skills, data management plans and execution, computing needs and beyond. Data House Calls are meant to be topical, focused on solving specific problems or discussing specific topics and function sometimes as a navigation tool to refer people to where they need to go even if we don’t have all the answers.  
+Our **Data House Calls** are a chance to leverage our staff's expertise to help you get where you want to go with your data science skills, data management plans and execution, computing needs and beyond. Data House Calls are meant to be topical, focused on solving specific problems or discussing specific topics and function sometimes as a navigation tool to refer people to where they need to go even if we don’t have all the answers.  
 
 Typically 1-2 DaSL staff members are available for any given topic with an eye toward keeping availability high to ensure a fairly rapid timeframe between when people need the help and when they can sign up for it and get it.
 
@@ -38,7 +38,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).
 :::
 
 ### General
-Use this event to schedule a meeting with Amy Paguirigan to discuss how DaSL/OCDO can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
+Use this event to schedule a meeting with Amy Paguirigan to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  

@@ -3,7 +3,7 @@ title: "Our Core Values"
 toc: true
 ---
 
-We’re building the Fred Hutch Data Science Lab (DaSL) to support the Hutch’s data community and beyond. Our core values define how we work together and guide our efforts. These principles have grown out of our experience in open science and our belief that people thrive when they feel valued, trusted, and supported. If we create an environment where everyone can excel, we’ll accomplish incredible things.
+We’re building our group to support the Hutch’s data community and beyond. Our core values define how we work together and guide our efforts. These principles have grown out of our experience in open science and our belief that people thrive when they feel valued, trusted, and supported. If we create an environment where everyone can excel, we’ll accomplish incredible things.
 
 As with everything we do, we are making our core values open and we welcome feedback on these values to ensure they reflect how we work and how we contribute to the Fred Hutch data community.  
 

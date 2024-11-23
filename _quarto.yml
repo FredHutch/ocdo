@@ -7,7 +7,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "Welcome to our new home focused on our work for Fred Hutch data efforts! Our [prior site is still live](https://hutchdatascience.org/) and is focused on resources beyond the Fred Hutch."
+    content: "Welcome to our new home focused on our work for Fred Hutch data efforts! Our [Hutch Data Science site is still live](https://hutchdatascience.org/) and is being focused on training and community resources that include and extend beyond the Fred Hutch."
     type: dark
     position: above-navbar
   page-footer:

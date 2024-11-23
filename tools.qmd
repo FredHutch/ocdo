@@ -14,8 +14,6 @@ All documentation about Data Science Lab Tools and best practices can also be fo
 
 
 
-
-
 ## Research Applications and Tools
 
 ### PROOF
@@ -55,14 +53,14 @@ To get up to date information regarding the current state and upcoming availabil
 
 
 ## Product Management & Engineering Teams
-Our Data Product Management team partners with various groups on campus and our growing Engineering team to deliver data related products in an responsive and sustainable way. The team supports the management and delivery of responsive and sustainable data-related products. They provide strategic support for data products by managing the data product portfolio, assessing the product landscape in alignment with OCDO strategic goals, and ensuring optimal product development by; streamlining development, coordinating resources, and enhancing visibility across Fred Hutch.
+Our Data Product Management team partners with various groups on campus and our growing Engineering team to deliver data related products in an responsive and sustainable way. The team supports the management and delivery of responsive and sustainable data-related products. They provide strategic support for data products by managing the data product portfolio, assessing the product landscape in alignment with our strategic goals, and ensuring optimal product development by; streamlining development, coordinating resources, and enhancing visibility across Fred Hutch.
 
 
 Our work includes:
 
-- Program Management of the Fred Hutch Data Initiatives (Strategy & Integrations, Patient and Research)
-- Product management for OCDO developed Tools and Products
+- Program Management of the Fred Hutch Data Initiatives (Strategy & Governance, Patient and Research)
+- Product management for our developed Tools and Products
 - Product management support for cross-institutional data infrastructure products
 
-> More to come on the growing OCDO Engineering team over the winter of 2024-2025.  
+> More to come on the growing Engineering team over the winter of 2024-2025.  See our [open jobs as well](about.qmd#jobs).
 

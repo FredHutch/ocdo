@@ -5,7 +5,7 @@ fig-cap-location: top
 
 ---
 
-The OCDO provides data strategy and data governance support across the entire Fred Hutch data ecosystem, from the clinic to the research labs. We aim to create a compliant, scalable, and accessible data ecosystem that benefits all personnel through collaborative projects and programs. By enabling staff to leverage data and technology, the OCDO advances the understanding of disease, therapeutics, and patient outcomes.  
+Our group provides data strategy and data governance support across the entire Fred Hutch data ecosystem, from the clinic to the research labs. We aim to create a compliant, scalable, and accessible data ecosystem that benefits all personnel through collaborative projects and programs. By enabling staff to leverage data and technology, our work advances the understanding of disease, therapeutics, and patient outcomes.  
 
 ## Guiding Principles
 
@@ -69,11 +69,11 @@ Please request to be added to the relevant Data Noon Community Call or to reciev
 Since our inception in the summer of 2022, these priorities have evolved to reflect the high-level needs voiced by the Fred Hutch data community. They guide our work to maximize impact on the daily data experiences of Fred Hutch staff.
 
 ### Data Infrastructure, Partnerships and Strategy
-The recent merger creating a hybrid clinical and research institute at Fred Hutch brings together diverse skills, perspectives, and goals that foster innovation. To support a feedback loop between biomedical discovery and clinical care, the OCDO aims to develop a cohesive data ecosystem guided by a comprehensive data strategy. Through a continuous improvement cycle, we strategically and responsively coordinate data infrastructure to empower all staff in making data-driven decisions and discoveries. This priority includes building technology and philanthropic partnerships to leverage cutting-edge innovations that deepen our understanding of disease, therapeutics, and patient outcomes.
+The recent merger creating a hybrid clinical and research institute at Fred Hutch brings together diverse skills, perspectives, and goals that foster innovation. To support a feedback loop between biomedical discovery and clinical care, we aim to develop a cohesive data ecosystem guided by a comprehensive data strategy. Through a continuous improvement cycle, we strategically and responsively coordinate data infrastructure to empower all staff in making data-driven decisions and discoveries. This priority includes building technology and philanthropic partnerships to leverage cutting-edge innovations that deepen our understanding of disease, therapeutics, and patient outcomes.
 
 
 ### Data Governance
-We work collaboratively across Fred Hutch to build a network for [ethical data use and stewardship](gov.qmd) support. By partnering with departments such as Legal, Compliance, Business Development and Information Security, we support communication and documentation to increase staff awareness of data governance policies and procedures. The OCDO helps investigators navigate data policy and governance resources, such as data use agreements, software licensing, and IRB guidance. We also contribute to organization-wide initiatives related to data governance such as Cancer Consortium data sharing, connecting patients' data to research and staff data stewardship literacy.
+We work collaboratively across Fred Hutch to build a network for [ethical data use and stewardship](gov.qmd) support. By partnering with departments such as Legal, Compliance, Business Development and Information Security, we support communication and documentation to increase staff awareness of data governance policies and procedures. We help investigators navigate data policy and governance resources, such as data use agreements, software licensing, and IRB guidance. We also contribute to organization-wide initiatives related to data governance such as Cancer Consortium data sharing, connecting patients' data to research and staff data stewardship literacy.
 
 ### Translational Data Science, Analytics & Informatics
 As a hybrid organization, Fred Hutch is uniquely positioned to connect clinical and research data through translational data science, analytics and informatics. Our [Data Science teams](dss.qmd) have expertise that bridges healthcare data to large-scale laboratory datasets to support clinical trials, translational data science and AI initiatives. This work creates a continuous feedback loop between clinical care and research, accelerating progress toward a learning healthcare system to advance cancer care.
@@ -83,7 +83,7 @@ To support research and clinical staff, we develop [translational data products]
 
 
 ### Training and Documentation
-The OCDO champions democratizing data science expertise by providing a comprehensive range of [training resources](training.qmd), including in-person, hybrid, and self-paced courses, as well as workshops, seminars, and documentation. Supporting an evolving data community requires open, accessible documentation to enhance knowledge sharing. Our training group also collaborates on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org), a community-driven knowledge base that shares best practices and showcases data science resources at Fred Hutch and beyond.
+We champions democratizing data science expertise by providing a comprehensive range of [training resources](training.qmd), including in-person, hybrid, and self-paced courses, as well as workshops, seminars, and documentation. Supporting an evolving data community requires open, accessible documentation to enhance knowledge sharing. Our training group also collaborates on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org), a community-driven knowledge base that shares best practices and showcases data science resources at Fred Hutch and beyond.
 
 
 ### Data Science Communities

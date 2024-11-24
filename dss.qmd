@@ -22,7 +22,7 @@ Our team supports healthcare data science at Fred Hutch by analyzing real-world 
 
 - Fred Hutch patient data access and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html).
 - E-mail us about partnering on other clinical research data projects: `analytics@fredhutch.org`.
-- Schedule a 20-minute[Data House Call](https://calendly.com/data-house-calls)
+- Schedule a 20-minute[Data House Call](programs/dhc.qmd)
     + [Clinical data access](https://calendly.com/data-house-calls/clinical-data) to discuss how we can support you in accessing and using Fred Hutch patient data for research 
     + [Data wranging and visualization](https://calendly.com/data-house-calls/analysis-viz) 
 
@@ -41,13 +41,13 @@ We support the private [Fred Hutch instance of cBioPortal](/tools/#cbioportal) i
 
 ### Connect with us
 
-Our team provides support to the community through documentation on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), through our new [Community Studios program](/communitystudios/), and through our [Data House Calls](programs/dhc) program.
+Our team provides support to the community through documentation on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), through our [Learning Communities](programs/communities.qmd), and through our [Data House Calls](programs/dhc.qmd) program.
 
 - [Research Data Management House Calls](https://calendly.com/data-house-calls/management): to discuss questions about research data management, infrastructure, or tools.
 
 - [Research Computing House Calls](https://calendly.com/data-house-calls/computing): to discuss questions about how to run your code or analysis more effectively and at scale
 
-    > Note: Often we pull in folks from the Scientific Computing team to provide expert advice as well so     please describe your needs well so we can try to have the right staff ready. 
+    > Note: Often we pull in folks from the Scientific Computing team to provide expert advice as well so please describe your needs well so we can try to have the right staff ready. 
 
 
 ## Human Computer Interaction
@@ -56,4 +56,4 @@ The Human Computer Interaction (HCDI) team develops and enhances open-source sci
 
 ### Connect with us
 
-Schedule a discussion on your code or software questions via a [Code and Software, Data House Call type](https://calendly.com/data-house-calls).  
+Schedule a discussion on your code or software questions via a [Code and Software, Data House Call type](https://calendly.com/data-house-calls/code).  

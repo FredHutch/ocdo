@@ -12,7 +12,7 @@ sidebar: data-sidebar
 
 [Data House Calls](programs/dhc.qmd)
 ![](img/DaSLHouseCalls-lucy.png)
-Data House Calls are a self-service way to leverage our staff's expertise to help you get where you want to go with your data science skills.  
+Data House Calls are a self-service way to leverage our staff's expertise to help you get where you want to go with your data science skills.
 
 :::
 
@@ -21,7 +21,7 @@ Data House Calls are a self-service way to leverage our staff's expertise to hel
 
 ![](img/learning_comm.png)
 
-Learning Communities are events designed to catalyze community and conversations around shared workflows and interests in biomedical data science topics. 
+Learning Communities are events designed to catalyze community and conversations around shared workflows and interests in biomedical data science topics.
 
 :::
 
@@ -29,7 +29,7 @@ Learning Communities are events designed to catalyze community and conversations
 
 [WILDS](programs/wilds.qmd)
 ![](img/WILDS_V3 Square.png)
-We make our open source resources for tooling to support **W**orkflows **I**ntegrating **L**arge **D**ata and **S**oftware (WILDS), available for our clinical and research communities at Fred Hutch through our GitHub organization. 
+We make our open source resources for tooling to support **W**orkflows **I**ntegrating **L**arge **D**ata and **S**oftware (WILDS), available for our clinical and research communities at Fred Hutch through our GitHub organization.
 
 :::
 ::::
@@ -43,7 +43,7 @@ We make our open source resources for tooling to support **W**orkflows **I**nteg
 [Biomedical Data Science Wiki](programs/sciwiki.qmd)
 ![](img/wiki.jpg)
 
-The Fred Hutch Cancer Center's Biomedical Data Science Wiki is a curated knowledgebase for biomedical data science and research computing best practices, how-to's and other documentation. 
+The Fred Hutch Cancer Center's Biomedical Data Science Wiki is a curated knowledgebase for biomedical data science and research computing best practices, how-to's and other documentation.
 :::
 
 ::: {#second-column}
@@ -51,42 +51,40 @@ The Fred Hutch Cancer Center's Biomedical Data Science Wiki is a curated knowled
 
 ![](img/fh-data.png)
 
-Find our current events, peer to peer support, and other data oriented resources in the Fred Hutch Data Slack workspace which is open to anyone in the Fred Hutch Cancer Consortium.  
+Find our current events, peer to peer support, and other data oriented resources in the Fred Hutch Data Slack workspace which is open to anyone in the Fred Hutch Cancer Consortium.
 :::
 
 ::: {#third-column}
 
 [Monday Morning Data Science](https://fhdata.substack.com/)
 ![](img/substack.png)
-Monday Morning Data Science is our weekly newsletter with updates from the Lab, announcements about events happening at Fred Hutch and beyond, and data science related content our staff contribute!  
+Monday Morning Data Science is our weekly newsletter with updates from the Lab, announcements about events happening at Fred Hutch and beyond, and data science related content our staff contribute!
 :::
 ::::
 
 
 ## Openscapes
-We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring the Openscapes Champions Cohort Program to Fred Hutch. Openscapes 
-Champions is a mentorship program for scientific research groups. Centered 
-around collaborative coding and open science, Openscapes meet scientists where 
-they are and help develop skill sets, habits, and mindsets to make data 
-workflows and team culture more efficient and resilient. 
+We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring the Openscapes Champions Cohort Program to Fred Hutch. Openscapes
+Champions is a mentorship program for scientific research groups. Centered
+around collaborative coding and open science, Openscapes meet scientists where
+they are and help develop skill sets, habits, and mindsets to make data
+workflows and team culture more efficient and resilient.
 
-Openscapes Champions is a two-month program that is led remotely, with video 
-calls designed for active participation to ignite sustainable change within 
-research groups – within the realities of busy schedules and varying expertise 
-and needs. The Champions Program operates with cohorts of 3-5 research groups, 
-with 2-5 individuals per group (24-35 people total per cohort). Importantly, 
-research group leads (faculty, lecturers, program managers, etc.) and members 
+Openscapes Champions is a two-month program that is led remotely, with video
+calls designed for active participation to ignite sustainable change within
+research groups – within the realities of busy schedules and varying expertise
+and needs. The Champions Program operates with cohorts of 3-5 research groups,
+with 2-5 individuals per group (24-35 people total per cohort). Importantly,
+research group leads (faculty, lecturers, program managers, etc.) and members
 (students, analysts, lab managers, etc.) participate together so that:
 
 
-1) everyone sees and values what is possible with open data science; 
-2) leads enable members to invest time to learn skills and develop shared workflows; 
-3) members have guidance, agency, and support to incorporate concepts into 
-their work; and 
-4) everyone becomes Champions for open data science, 
+1) everyone sees and values what is possible with open data science;
+2) leads enable members to invest time to learn skills and develop shared workflows;
+3) members have guidance, agency, and support to incorporate concepts into
+their work; and
+4) everyone becomes Champions for open data science,
 strengthening the community of practice within the research group and beyond.
 
-For more information about participating in Openscapes @ Fred Hutch, please 
-contact us at `data@fredhutch.org`.
-
-
+For more information about participating in Openscapes @ Fred Hutch, please
+contact us at `data@fredhutch.org`. ......

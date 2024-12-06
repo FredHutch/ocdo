@@ -49,9 +49,9 @@ jobs:
 
       - name: Deploy Preview to Netlify as preview
         id: netlify-deploy
-        uses: nwtgck/actions-netlify@v2
+        uses: nwtgck/actions-netlify@v3.0
         env:
-          NETLIFY_SITE_ID: d9dd191c-8f69-45bd-8b31-ed6129366828
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         with:
           publish-dir: "./_site"

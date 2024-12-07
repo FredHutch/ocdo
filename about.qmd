@@ -156,9 +156,9 @@ Maleah has a background in Grant Manager with a focus on federal and foundation 
 
 ::: {#second-column}
 
-![Maria Owen, Executive Assistant](img/team/ScooterMuppet.jpg){width=80%}
+![Maria Owen, Program Administrator - Data Governance](img/team/ScooterMuppet.jpg){width=80%}
 
-Maria has a background in higher education administration and public health grant initiatives. She supports our leadership as an EA and operations broadly.  
+Maria has a background in higher education administration and public health grant initiatives. She works with our Data Governance team to facilitate coordination across our governance collaborations across external and internal partners.  
 
 :::
 ::::
@@ -268,7 +268,7 @@ Sean has experience in project management spanning multiple industries and funct
 
 :::: {layout-ncol=2}
 ::: {#first-column }
-![TBN, Cloud Data System Administrator](img/job.png){width=80%}
+![TBN, Cloud Data System Engineer](img/job.png){width=80%}
 
 [Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
 :::
@@ -304,9 +304,9 @@ We are very excited to have the opportunity to bring on another leader to lead o
 [Engineering Manager - Apply here!](https://careers-fhcrc.icims.com/jobs/28721/data-engineering-manager/job)
 
 
-We are hiring a cloud engineer who'll work on our Engineering team to support our cloud based application deployments and user account management. This is such a critical role for enabling access to data for our translational staff who span the clinic and research spaces.
+We are hiring a cloud engineer who'll work on our Engineering team to develop our cloud based application deployments, cloud architecture and role based access frameworks. This is such a critical role for enabling access to data for our translational staff who span the clinic and research spaces.
 
-[Cloud Data System Administrator - Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
+[Cloud Data System Engineer - Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
 
 
 We're on the hunt for a data engineer who'll work on our Engineering team to help build translational multi-modal data ingestion pipelines and lakehouse components in Databricks!

@@ -6,6 +6,8 @@ toc: true
 
 As part of our overall data strategy efforts, we partner with a variety of departments across Fred Hutch to help coordinate and streamline our overall data portfolio.  This work includes aligning our technology resources with data community needs and ensuring connections between subject matter experts in issues such as technology, security and compliance to enable ethical use of data resources at Fred Hutch.  
 
+We also build data infrastructure, applications and data products to support translational use of patient data in a secure, scalable, collaborative way to bridge the gap between the clinic and research.  
+
 
 
 ::: {.callout-note appearance="minimal"}
@@ -46,7 +48,7 @@ For more details on what the Fred Hutch instance of cBioPortal can do for you, r
 Fred Hutch is building a secure, scalable, and supportable technical infrastructure foundation and tools that provide a centrally governed, democratized platform. Upon this system, the Fred Hutch community can build data products and tooling leveraging multimodal Fred Hutch patient clinical data to support clinical care, operations, clinical trials, precision oncology, data science and AI innovation.
 
 ### CARDS
-Clinical and Research Data Solutions (CARDS) will become the foundation of the Fred Hutch Cancer Center’s new translational data ecosystem.
+Clinical and Research Data System (CARDS) will become the foundation of the Fred Hutch Cancer Center’s new translational data ecosystem.
 
 To get up to date information regarding the current state and upcoming availability opportunities please schedule a [Data House Call for Translational Data Needs](https://calendly.com/data-house-calls/cards), or email [oncdataaccess@fredhutch.org](mailto:oncdataaccess@fredhutch.org).  
 

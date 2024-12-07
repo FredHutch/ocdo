@@ -36,7 +36,7 @@ Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-lea
 
 ![Jenny Weddle, Data Governnace Specialist](img/team/jenny-weddle.jpg){width=80%}
 
-Jenny has a background in business analytics and compliance. She leads our growing [data governance](gov/qmd) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and research data governance.
+Jenny has a background in business analytics and compliance. She leads our growing [data governance](gov.qmd) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and research data governance.
 
 
 :::
@@ -60,7 +60,7 @@ Brian has more than two decades of experience in a variety of roles at the inter
 
 
 
-Sean Kross is interested in building better tools and workflows for data scientists. His background is in computer science, cognitive science, and design. He leads [Human Computer Interaction (HCI)](dss.qmd#human-computer-interaction) as part of our Translational Data Science and Software teams.
+Sean Kross is interested in building better tools and workflows for data scientists. His background is in computer science, cognitive science, and design. He leads our [Human Computer Interaction (HCI)](dss.qmd#human-computer-interaction) effort as part of our Translational Data Science and Software team.
 
 [More about Sean](https://seankross.com/)
 
@@ -70,7 +70,7 @@ Sean Kross is interested in building better tools and workflows for data scienti
 
 ![Monica Gerber - Translational Analytics Manager](img/team/monica-gerber.jpg){width=80%}
 
-Monica has a background in biostatistics and epidemiology. She's interested in helping translational staff implement reproducible workflows for statistical analysis, working on ways to pair technical shifts with cultural shifts to advance science, and building inclusive data science communities. She leads [Translational Analytics](dss.qmd#translational-data-science-and-analytics) as part of our Translational Data Science and Software teams.
+Monica has a background in biostatistics and epidemiology. She's interested in helping translational staff implement reproducible workflows for statistical analysis, working on ways to pair technical shifts with cultural shifts to advance science, and building inclusive data science communities. She leads our [Clinical Data Science](dss.qmd#clinical-data-science) efforts as part of our Translational Data Science and Software team.
 
 
 [More about Monica](https://www.linkedin.com/in/monica-gerber/)
@@ -82,7 +82,7 @@ Monica has a background in biostatistics and epidemiology. She's interested in h
 
 ![Taylor Firman - Research Informatics Data Scientist](img/team/taylor-firman.jpg){width=80%}
 
-Taylor's background is in computational biophysics, clinical bioinformatics, and high-performance computing. His work is focused on generating open source bioinformatics software tools for the Fred Hutch research community while fostering a spirit of collaboration through data consultations and community building. He leads [Research Informatics](dss.qmd#research-informatics) as part of our Translational Data Science and Software teams.
+Taylor's background is in computational biophysics, clinical bioinformatics, and high-performance computing. His work is focused on generating open source bioinformatics software tools for the Fred Hutch research community while fostering a spirit of collaboration through data consultations and community building. He leads our [Research Informatics](dss.qmd#research-informatics) efforts as part of our Translational Data Science and Software team.
 
 [More about Taylor](https://www.taylorfirman.com/)
 
@@ -102,7 +102,7 @@ Ted Laderas has worked with lots of different data types and knows his way aroun
 ::: {#first-column }
 ![Abby Wall, Data Program and Porfolio Manager](img/team/abby-wall.jpg){width=80%}
 
-Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for translational data product and tooling development as the lead for our [Data Product Management team](tools.qmd). 
+Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for translational [data product and tooling development](tools.qmd) as the lead for our [Data Product Management team](tools.qmd). 
 
 
 :::

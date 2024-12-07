@@ -14,14 +14,14 @@ The Translational Data Science Integrated Research Center (TDS IRC) and Translat
 :::
 
 
-## Healthcare Data Science
+## Clinical Data Science
 
-Our team supports healthcare data science at Fred Hutch by analyzing real-world data generated over the course of health care delivery, and by improving the interoperability, quality, and accessibility of these data. They collaborate with Hutch researchers and staff to understand critical questions about cancer patients, develop impactful and practical data analyses, and to develop tools that support democratized data access, exploration, and analysis.
+Our team supports clinical data science at Fred Hutch by analyzing real-world data generated over the course of health care delivery, and by improving the interoperability, quality, and accessibility of these data. They collaborate with Hutch researchers and staff to understand critical questions about cancer patients, develop impactful and practical data analyses, and to develop tools that support democratized data access, exploration, and analysis.
 
 ### Connect with us
 
 - Fred Hutch patient data access and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html).
-- E-mail us about partnering on other clinical research data projects: `analytics@fredhutch.org`.
+- E-mail us about partnering on other clinical data science projects: `analytics@fredhutch.org`.
 - Schedule a 20-minute[Data House Call](programs/dhc.qmd)
     + [Clinical data access](https://calendly.com/data-house-calls/clinical-data) to discuss how we can support you in accessing and using Fred Hutch patient data for research 
     + [Data wranging and visualization](https://calendly.com/data-house-calls/analysis-viz) 
@@ -52,7 +52,7 @@ Our team provides support to the community through documentation on the [Biomedi
 
 ## Human Computer Interaction
 
-The Human Computer Interaction (HCDI) team develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development and data analysis. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
+The Human Computer Interaction (HCI) team develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
 
 ### Connect with us
 

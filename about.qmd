@@ -163,6 +163,24 @@ Maria has a background in higher education administration and public health gran
 :::
 ::::
 
+:::: {layout-ncol=2}
+::: {#first-column}
+
+![TBN, Executive Assistant to the VP/CDO](img/job.png){width=80%}
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28843/executive-assistant-to-vp-officer/job)
+
+
+:::
+
+::: {#second-column}
+
+
+:::
+::::
+
+
+
 
 
 

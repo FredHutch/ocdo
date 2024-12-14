@@ -31,7 +31,7 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 
 ### Translational Data
 
-Clinical and Research Data Solutions (CARDS) will become the foundational translational data infrastructure of the recently merged Fred Hutch Cancer Center. This DHC is for more information about the current status of translational data supports, CARDS development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
+Clinical and Research Data Solutions (CARDS) will become the foundational translational data infrastructure of the recently merged Fred Hutch Cancer Center. This [Data House Call](https://calendly.com/data-house-calls/cards) is for more information about the current status of translational data supports, CARDS development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
@@ -45,7 +45,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).
 :::
 ### Data Partnerships
 
-Use this event to schedule a Data House Call if you are interested in a Data Science Partnership with an external partner. Some examples of areas you might be interested in exploring:
+Use this [Data House Call](https://calendly.com/data-house-calls/partnerships) if you are interested in a Data Science Partnership with an external partner. Some examples of areas you might be interested in exploring:
 
 - You have a gap in data science and/or technology need that would benefit from a known (or unknown) partner.
 - You have been contacted by a data science and/or technology company that is interested in partnering and could use a sounding board for if/how to proceed.
@@ -60,7 +60,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/partnershi
 :::
 ### Data Policy and AI
 
-Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) for questionsabout data policy, data protection and AI use cases.
+Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) for questions about data policy, data protection and AI use cases.
 
 - Inquire about the status of our AI interim policy and guidance for use of AI with patient and research data,
 - Ask questions about data use agreements, IRB protocols, and other data privacy or security concerns,
@@ -92,15 +92,9 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/sharing).
 :::
 ### Clinical Data Access
 
-Use this Data House Call to discuss questions about Fred Hutch adult oncology clinical patient data access, especially for research and it's oversight.
+Use this [Data House Call](https://calendly.com/data-house-calls/clinical-data) to discuss questions about Fred Hutch adult oncology clinical patient data access, especially for research and it's oversight.
 
-Curious about pathways to get access to Fred Hutch clinical patient data? 
-
-Have questions about IRB protocols and patient data for research options?
-
-Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch?
-
-This DHC is the right one. 
+Curious about pathways to get access to Fred Hutch clinical patient data?  Have questions about IRB protocols and patient data for research options? Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch? This DHC is the right one. 
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/clinical-data).  
@@ -108,7 +102,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/clinical-d
 ### Research Data Management
 
 
-Use this event to schedule a Data House Call for questions about research data management, infrastructure or tools.
+Use this [Data House Call](https://calendly.com/data-house-calls/management) for questions about research data management, infrastructure or tools.
 
 
 - Developing lab or group data management schemes that support research, leverage FHCC infrastructure and are cost effective
@@ -127,7 +121,7 @@ Or other questions you have that you feel might relate to this topic!
 Schedule this [Data House Call](https://calendly.com/data-house-calls/management).  
 :::
 ### Code and Software: R, Python and Beyond
-Use this event to schedule a Data House Call for questions about learning, writing and managing code and research software.
+Use this [Data House Call](https://calendly.com/data-house-calls/code) for questions about learning, writing and managing code and research software.
 
 - R
 - Python
@@ -142,7 +136,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/code).
 :::
 ### Research Computing: Running and Scaling your Analyses
 
-Use this event to schedule a Data House Call for questions about how to run your code or analysis more effectively and scale up your work via:
+Use this [Data House Call](https://calendly.com/data-house-calls/computing) for questions about how to run your code or analysis more effectively and scale up your work via:
 
 - Using our computing cluster
 - Writing and running scientific workflows
@@ -160,21 +154,11 @@ Or other questions you have that you feel might relate to this topic!  
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/computing).  
 :::
-### Data Wrangling and Visualization
-
-Use this event to schedule a Data House Call if you are looking for a sounding board about strategies for data handling, tidy data, and data visualization, such as how to make engaging, clear, or even interactive figures.
-
-Or other questions you have that you feel might relate to this topic.
-
-
-::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/analysis-viz).  
-:::
 
 
 ### DaSL Supported Resources
 
-Use this event to schedule a Data House Call for questions about DaSL supported resources such as:
+Use this [Data House Call](https://calendly.com/data-house-calls/resources) for questions about DaSL supported resources such as:
 
 - PROOF
 - cBioPortal

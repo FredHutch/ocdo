@@ -3,7 +3,7 @@ title: "Translational Data Science & Software"
 toc: true
 ---
 
-The Translational Data Science & Software group collaborate with and support both research and clinical staff with applying effective data science and analysis into research and clinical care. Our goal is to create a feedback loop to foster a learning healthcare system.
+The Translational Data Science & Software group collaborates with and supports both research and clinical staff to integrate effective data science and analysis into research and clinical care. Our goal is to create a feedback loop to foster a learning healthcare system.
 
 We develop data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care. We also collaborate with our clinical and research partners to develop statistical/ML/NLP models, data analyses, and data-driven dashboards and visualizations using real-world healthcare and laboratory-generated data. 
 
@@ -20,11 +20,11 @@ Our team supports clinical data science at Fred Hutch by analyzing real-world da
 
 ### Connect with us
 
-- Fred Hutch patient data access and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html).
-- E-mail us about partnering on other clinical data science projects: `analytics@fredhutch.org`.
-- Schedule a 20-minute[Data House Call](programs/dhc.qmd)
-    + [Clinical data access](https://calendly.com/data-house-calls/clinical-data) to discuss how we can support you in accessing and using Fred Hutch patient data for research 
-    + [Data wranging and visualization](https://calendly.com/data-house-calls/analysis-viz) 
+
+Fred Hutch patient data access for research and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html).  E-mail us about partnering on other clinical data science projects: `analytics@fredhutch.org` or connect with us through our [Data House Calls](programs/dhc.qmd) program. 
+
+
+- [Clinical data access](https://calendly.com/data-house-calls/clinical-data): to discuss how we can support you in accessing and using Fred Hutch patient data for research 
 
 ## Research Informatics
 
@@ -56,4 +56,4 @@ The Human Computer Interaction (HCI) team develops and enhances open-source scie
 
 ### Connect with us
 
-Schedule a discussion on your code or software questions via a [Code and Software, Data House Call type](https://calendly.com/data-house-calls/code).  
+- [Code and Software, Data House Call](https://calendly.com/data-house-calls/code): for code or software questions and support

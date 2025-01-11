@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  google-analytics: "UA-XXXXXXXX"
+  google-analytics: "G-F8NWF32PC7"
   cookie-consent: true
   announcement:
     icon: info-circle

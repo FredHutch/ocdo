@@ -31,4 +31,4 @@ policy and governance, data management, reproducible analysis, data sharing and
 open science into the very tools we create rather than assuming those practices 
 are up to the user to understand and implement separately
 
-For more information contact at `wilds@fredhutch.org`.
+For more information email us at `wilds@fredhutch.org`.

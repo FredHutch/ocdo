@@ -5,3 +5,7 @@
 
 .Rhistory
 .Rproj.user
+
+.Rbuildignore
+
+ocdo.Rproj

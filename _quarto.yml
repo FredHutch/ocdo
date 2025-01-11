@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  google-analytics: "UA-XXXXXXXX"
+  google-analytics: "G-F8NWF32PC7"
   cookie-consent: true
   announcement:
     icon: info-circle
@@ -71,8 +71,8 @@ website:
               href: https://join.slack.com/t/fhdata/signup
             - text: "Monday Morning Data Science"
               href: https://fhdata.substack.com/
-            - text: "Openscapes @ Fred Hutch"
-              href: resources.qmd#openscapes
+            - text: "Openscapes at Fred Hutch"
+              href: programs/openscapes.qmd
             - text: "Events"
               href: https://centernet.fredhutch.org/u/data-science-lab.html
             - text: "Our Partners"

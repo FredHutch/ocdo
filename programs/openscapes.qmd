@@ -1,0 +1,27 @@
+---
+title: "Openscapes at Fred Hutch"
+toc: true
+---
+We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring the Openscapes Champions Cohort Program to Fred Hutch. Openscapes 
+Champions is a mentorship program originally developed for scientific research groups. Centered 
+around collaborative coding and open science, Openscapes meet scientists of many flavors where 
+they are and help develop skill sets, habits, and mindsets to make data 
+workflows and team culture more efficient and resilient. 
+
+Openscapes Champions is a two-month program that is led remotely, with video 
+calls designed for active participation to ignite sustainable change within 
+data groups – within the realities of busy schedules and varying expertise 
+and needs. The Champions Program operates with cohorts of 3-5  groups, 
+with 2-5 individuals per group (24-35 people total per cohort). Importantly, 
+ group leads (faculty, lecturers, program managers, etc.) and members 
+(students, analysts, lab managers, etc.) participate together so that:
+
+
+1) everyone sees and values what is possible with open data science; 
+2) leads enable members to invest time to learn skills and develop shared workflows; 
+3) members have guidance, agency, and support to incorporate concepts into 
+their work; and 
+4) everyone becomes Champions for open data science, 
+strengthening the community of practice within the research group and beyond.
+
+For more information email us at `data@fredhutch.org`.

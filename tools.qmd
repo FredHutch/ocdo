@@ -34,10 +34,10 @@ cBioPortal is an open-source platform for visualization, exploration, and analys
 
 The [Fred Hutch deployment of cBioPortal](https://cbioportal.fredhutch.org/) provides users with several advantages to enhance their research:
 
-- The private nature of this instance allows researchers to utilize the powerful visualization tools of the application to facilitate visualization of **interim data**.
+- The private nature of this instance allows researchers to utilize the powerful visualization tools of the application to facilitate visualization of **internal data**.
 - It also provides research groups with the ability to establish **controlled access** to their study data, ensuring data protection.
 - Users can host and share their data through the Fred Hutch instance of cBioPortal to **facilitate collaborations**.
-- Additionally, this instance has been reviewed and approved by InfoSec to include up to individually identifiable research data.
+- Additionally, this instance and our administration plans have been reviewed and approved by InfoSec to allow users to include individually identifiable research data in their data uploads when investigators have clear IRB approvals in place. 
 
 ::: {.callout-note appearance="minimal"}
 For more details on what the Fred Hutch instance of cBioPortal can do for you, read our Fred Hutch cBioPortal [product page](https://sciwiki.fredhutch.org/datascience/cbioportal/) and [documentation](https://sciwiki.fredhutch.org/dasldemos/fh-cbio-intro/) on the Fred Hutch SciWiki and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to give it a spin.
@@ -54,15 +54,17 @@ To get up to date information regarding the current state and upcoming availabil
 
 
 
-## Product Management & Engineering Teams
+## Data Product Management & Engineering Teams
 Our Data Product Management team partners with various groups on campus and our growing Engineering team to deliver data related products in an responsive and sustainable way. The team supports the management and delivery of responsive and sustainable data-related products. They provide strategic support for data products by managing the data product portfolio, assessing the product landscape in alignment with our strategic goals, and ensuring optimal product development by; streamlining development, coordinating resources, and enhancing visibility across Fred Hutch.
 
 
 Our work includes:
 
-- Program Management of the Fred Hutch Data Initiatives (Strategy & Governance, Patient and Research)
+- Program management of the Fred Hutch Data Initiatives (Strategy & Governance, Patient and Research)
 - Product management for our developed Tools and Products
 - Product management support for cross-institutional data infrastructure products
+
+Our newly forming Engineering team builds translational data infrastructure and data products to enable new capabilities in translational data science and AI for the Fred Hutch translational data community.  
 
 > More to come on the growing Engineering team over the winter of 2024-2025.  See our [open jobs as well](about.qmd#jobs).
 

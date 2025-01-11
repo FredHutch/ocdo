@@ -47,9 +47,9 @@ If you'd like to let us know what issues you’re seeing, desired data capabilit
 ### Data House Calls
 You can connect with us through our [Data House Calls](programs/dhc.qmd) and these specific Data House Call types to schedule a quick, 20 min discussion with us.  
 
-- For high level or broad data related topics, please schedule a [General Data House Call](https://calendly.com/data-house-calls/misc)
-- For a translational data and technology oriented discussion, please schedule a [Translational Data House Call ](https://calendly.com/data-house-calls/cards).  
-- For information about Data Science Partnerships, schedule a [Partnerships Data House Call](https://calendly.com/data-house-calls/partnerships) with Brian Bot (Director, Data Science Partnerships).  
+-  [General Data House Call](https://calendly.com/data-house-calls/misc): For high level or broad data related topics
+- [Translational Data House Call ](https://calendly.com/data-house-calls/cards): For a translational data and technology oriented discussion, please schedule a   
+- [Partnerships Data House Call](https://calendly.com/data-house-calls/partnerships): For information about Data Science Partnerships, schedule a  with Brian Bot (Director, Data Science Partnerships)
 
 ### Data Noon Community Calls
 

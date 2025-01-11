@@ -47,26 +47,26 @@ If you'd like to let us know what issues you’re seeing, desired data capabilit
 ### Data House Calls
 You can connect with us through our [Data House Calls](programs/dhc.qmd) and these specific Data House Call types to schedule a quick, 20 min discussion with us.  
 
--  [General Data House Call](https://calendly.com/data-house-calls/misc): For high level or broad data related topics
-- [Translational Data House Call ](https://calendly.com/data-house-calls/cards): For a translational data and technology oriented discussion, please schedule a   
-- [Partnerships Data House Call](https://calendly.com/data-house-calls/partnerships): For information about Data Science Partnerships, schedule a  with Brian Bot (Director, Data Science Partnerships)
+-  [General Data House Call](https://calendly.com/data-house-calls/misc): For high level or broad data related topics with Amy Paguirigan, Deputy CDO
+- [Translational Data House Call ](https://calendly.com/data-house-calls/cards): For a translational data and technology oriented discussion (e.g, CARDS, UWM governance collaborations) with Amy Paguirigan, Deputy CDO
+- [Partnerships Data House Call](https://calendly.com/data-house-calls/partnerships): For information about Data Science Partnerships with Brian Bot, Director of AI and Data Science Partnerships
 
 ### Data Noon Community Calls
 
-We support the Fred Hutch’s diverse data community by providing visibility and communications around ongoing data-related projects through our regular "Data Noon" community calls.  We present the current status of identified data programs and projects via three series:  
+We support the Fred Hutch’s diverse data community by providing visibility and communications around ongoing data-related projects through our regular "Data Noon" community calls and newsletters.  We present the current status of identified data programs and projects via three series:  
 
 - Data Strategy and Governance
 - Patient Data 
 - Research Data 
 
-Please request to be added to the relevant Data Noon Community Call or to recieve the associated newsletter by emailing [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org). 
+Please request to be added to the relevant Data Noon Community Call or to receive the associated newsletter by emailing [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org). 
 
 
 
 
 
 ## Our Strategic Priorities
-Since our inception in the summer of 2022, these priorities have evolved to reflect the high-level needs voiced by the Fred Hutch data community. They guide our work to maximize impact on the daily data experiences of Fred Hutch staff.
+Since our inception in the summer of 2022, these priorities have evolved to reflect the high-level needs voiced by the Fred Hutch data community. They guide our work to maximize impact on the daily data experiences of Fred Hutch staff.  They are informed by the Fred Hutch Strategic Priorities and aim to identify opportunities that make progress toward our collective goals and mitigate data related risk.  
 
 ### Data Infrastructure, Partnerships and Strategy
 The recent merger creating a hybrid clinical and research institute at Fred Hutch brings together diverse skills, perspectives, and goals that foster innovation. To support a feedback loop between biomedical discovery and clinical care, we aim to develop a cohesive data ecosystem guided by a comprehensive data strategy. Through a continuous improvement cycle, we strategically and responsively coordinate data infrastructure to empower all staff in making data-driven decisions and discoveries. This priority includes building technology and philanthropic partnerships to leverage cutting-edge innovations that deepen our understanding of disease, therapeutics, and patient outcomes.

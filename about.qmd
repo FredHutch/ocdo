@@ -34,35 +34,36 @@ Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-lea
 :::: {layout-ncol=2}
 ::: {#first-column }
 
-![Jenny Weddle, Data Governnace Specialist](img/team/jenny-weddle.jpg){width=80%}
-
-Jenny has a background in business analytics and compliance. She leads our growing [data governance](gov.qmd) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and research data governance.
-
-
-:::
-
-::: {#second-column}
-
-![Brian Bot, Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
+![Brian Bot - Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
 
 Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care.
 
 [More about Brian](https://brian-bot.github.io/)
 
+
+:::
+
+
+
+::: {#second-column}
+
+
+![Ted Laderas - Director of Training & Community](img/team/ted-laderas.jpg){width=80%}
+
+Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads our [training and community](training.qmd) efforts.  
+[More about Ted](https://laderast.github.io/)
 :::
 ::::
+
 
 :::: {layout-ncol=2}
 ::: {#first-column }
 
 
-![Sean Kross- Data Staff Scientist](img/team/sean-kross.jpg){width=80%}
+![Jenny Weddle - Data Governance Specialist](img/team/jenny-weddle.jpg){width=80%}
 
+Jenny has a background in business analytics and compliance. She leads our growing [data governance](gov.qmd) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and research data governance.
 
-
-Sean Kross is interested in building better tools and workflows for data scientists. His background is in computer science, cognitive science, and design. He leads our [Human Computer Interaction (HCI)](dss.qmd#human-computer-interaction) effort as part of our Translational Data Science and Software team.
-
-[More about Sean](https://seankross.com/)
 
 :::
 
@@ -77,30 +78,11 @@ Monica has a background in biostatistics and epidemiology. She's interested in h
 :::
 ::::
 
-:::: {layout-ncol=2}
-::: {#first-column }
-
-![Taylor Firman - Research Informatics Data Scientist](img/team/taylor-firman.jpg){width=80%}
-
-Taylor's background is in computational biophysics, clinical bioinformatics, and high-performance computing. His work is focused on generating open source bioinformatics software tools for the Fred Hutch research community while fostering a spirit of collaboration through data consultations and community building. He leads our [Research Informatics](dss.qmd#research-informatics) efforts as part of our Translational Data Science and Software team.
-
-[More about Taylor](https://www.taylorfirman.com/)
-
-:::
-
-::: {#second-column}
-![Ted Laderas, Director of Training & Community](img/team/ted-laderas.jpg){width=80%}
-
-Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads our [training and community](training.qmd) efforts.  
-[More about Ted](https://laderast.github.io/)
-:::
-::::
-
 
 :::: {layout-ncol=2}
 
 ::: {#first-column }
-![Abby Wall, Data Program and Porfolio Manager](img/team/abby-wall.jpg){width=80%}
+![Abby Wall - Data Program and Porfolio Manager](img/team/abby-wall.jpg){width=80%}
 
 Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for translational [data product and tooling development](tools.qmd) as the lead for our [Data Product Management team](tools.qmd). 
 
@@ -110,9 +92,39 @@ Abby has experience in program, product, and project management for bioinformati
 ::: {#second-column}
 
 
-![TBN, Engineering Manager](img/job.png){width=80%}
+![TBN - Engineering Manager](img/job.png){width=80%}
 
 [Apply here!](https://careers-fhcrc.icims.com/jobs/28721/data-engineering-manager/job)
+
+:::
+::::
+
+
+
+
+
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+
+![Sean Kross - Data Staff Scientist](img/team/sean-kross.jpg){width=80%}
+
+
+
+Sean Kross is interested in building better tools and workflows for data scientists. His background is in computer science, cognitive science, and design. He leads our [Human Computer Interaction (HCI)](dss.qmd#human-computer-interaction) effort as part of our Translational Data Science and Software team.
+
+[More about Sean](https://seankross.com/)
+
+:::
+
+::: {#second-column }
+
+![Taylor Firman - Research Informatics Data Scientist](img/team/taylor-firman.jpg){width=80%}
+
+Taylor's background is in computational biophysics, clinical bioinformatics, and high-performance computing. His work is focused on generating open source bioinformatics software tools for the Fred Hutch research community while fostering a spirit of collaboration through data consultations and community building. He leads our [Research Informatics](dss.qmd#research-informatics) efforts as part of our Translational Data Science and Software team.
+
+[More about Taylor](https://www.taylorfirman.com/)
 
 :::
 ::::
@@ -125,7 +137,7 @@ Abby has experience in program, product, and project management for bioinformati
 ::: {#first-column}
 
 
-![Sandy Ombrek, Senior Program Operations Director](img/team/sandy-ombrek.jpg){width=80%}
+![Sandy Ombrek - Senior Program Operations Director](img/team/sandy-ombrek.jpg){width=80%}
 
 
 A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sandy has worked in the PHS Division office, the epidemiology program, PHS Labs, and since 2000 in the Biostatistics Program before joining the group. 
@@ -133,7 +145,7 @@ A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sa
 
 ::: {#second-column}
 
-![Sana Hirata, Associate Program Operations Director](img/team/sana-hirata.jpg){width=80%}
+![Sana Hirata - Associate Program Operations Director](img/team/sana-hirata.jpg){width=80%}
 
 
 Sana has been working at Fred Hutch since 2019. Prior to joining the group, she supported implementation of clinical trials in the Bezos Family Immunotherapy Clinic as a project manager in the Immunotherapy Integrated Research Center Project Management Office (IIRC PMO).
@@ -145,7 +157,7 @@ Sana has been working at Fred Hutch since 2019. Prior to joining the group, she 
 :::: {layout-ncol=2}
 ::: {#first-column}
 
-![Maleah O'Connor, Research Administration Manager](img/team/maleah-oconnor.jpg){width=80%}
+![Maleah O'Connor - Research Administration Manager](img/team/maleah-oconnor.jpg){width=80%}
 
 Maleah has a background in Grant Manager with a focus on federal and foundation grants. She ensures grant compliance and manages all financial aspects of grant funded programs.
 
@@ -156,7 +168,7 @@ Maleah has a background in Grant Manager with a focus on federal and foundation 
 
 ::: {#second-column}
 
-![Maria Owen, Program Administrator - Data Governance](img/team/ScooterMuppet.jpg){width=80%}
+![Maria Owen - Program Administrator, Data Governance](img/team/ScooterMuppet.jpg){width=80%}
 
 Maria has a background in higher education administration and public health grant initiatives. She works with our Data Governance team to facilitate coordination across our governance collaborations across external and internal partners.  
 
@@ -166,7 +178,7 @@ Maria has a background in higher education administration and public health gran
 :::: {layout-ncol=2}
 ::: {#first-column}
 
-![TBN, Executive Assistant to the VP/CDO](img/job.png){width=80%}
+![TBN - Executive Assistant to the VP/CDO](img/job.png){width=80%}
 
 [Apply here!](https://careers-fhcrc.icims.com/jobs/28843/executive-assistant-to-vp-officer/job)
 
@@ -213,18 +225,17 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 
 
 
-![Sitapriya Moorthi, Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
+![Sitapriya Moorthi - Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
 
-Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. Sita has hands-on experience, ranging from conducting intricate bench experiments in molecular-cellular biology and genetics, to analyzing complex data from whole genome, exome, and single-cell sequencing. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Translational Data Science and Software group.](dss.qmd)
+Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Translational Data Science and Software group.](dss.qmd)
 
 :::
 
 ::: {#second-column}
 
-![Sindiya Devi Thangavel - Cloud Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
+![Chris Lo - Data Science Trainer](img/team/chris-lo.jpg){width=80%}
 
-
-Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts.  
+Chris Lo is a data science trainer who is passionate about helping biomedical and clinical researchers learn new tools to be effective at their research. He has a background in biostatistics and computational biology and has taught students of various backgrounds in biomedical data science.
 
 :::
 ::::
@@ -235,7 +246,7 @@ Sindiya is part of our growing [Engineering team](tools.qmd), supporting the dev
 ::: {#first-column }
 
 
-![Vivek Sriram – Data Scientist, Translational Analytics](img/team/vivek_cropped.JPG){width=80%}
+![Vivek Sriram – Data Scientist](img/team/vivek_cropped.JPG){width=80%}
 
 
 Vivek has a background in biomedical informatics, statistics, and computer science. His work focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
@@ -244,9 +255,11 @@ Vivek has a background in biomedical informatics, statistics, and computer scien
 :::
 ::: {#second-column}
 
-![Tyreesha Lambert - Data Governance Specialist](img/team/ty-lambert.jpg){width=80%}
 
-Tyreesha has a background in privacy and compliance. In her role she will manage governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
+![TBN - Cloud Data System Engineer](img/job.png){width=80%}
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
+
 
 :::
 ::::
@@ -256,10 +269,9 @@ Tyreesha has a background in privacy and compliance. In her role she will manage
 
 
 
-![Chris Lo, Data Science Trainer](img/team/chris-lo.jpg){width=80%}
+![Tyreesha Lambert - Data Governance Specialist](img/team/ty-lambert.jpg){width=80%}
 
-Chris Lo is a data science trainer who is passionate about helping biomedical and clinical researchers learn new tools to be effective at their research. He has a background in biostatistics and computational biology and has taught students of various backgrounds in biomedical data science.
-
+Tyreesha has a background in privacy and compliance. In her role she will manage governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
 
 :::
 ::: {#second-column}
@@ -273,27 +285,34 @@ Gina has a background in healthcare analytics, with expertise in data quality ma
 
 :::: {layout-ncol=2}
 ::: {#first-column }
-![Sean Olmstead- Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
+![Sean Olmstead - Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
 
 Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign. Sean works with our engineering team to implement [translational data product and infrastructure development](tools.qmd). 
 
 
 :::
 ::: {#second-column}
+![TBH - Technical Program Manager](img/job.png){width=80%}
 
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28928/technical-program-manager-ii-iii/job)
 :::
 ::::
 
 :::: {layout-ncol=2}
 ::: {#first-column }
-![TBN, Cloud Data System Engineer](img/job.png){width=80%}
 
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
+
+![Sindiya Devi Thangavel - Cloud Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
+
+
+Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts.  
+
 :::
 
 ::: {#second-column}
 
-![TBN, Data Engineer](img/job.png){width=80%}
+![TBN - Data Engineer](img/job.png){width=80%}
 
 [Apply here!](https://careers-fhcrc.icims.com/jobs/28722/data-engineer-iii/job)
 
@@ -301,8 +320,6 @@ Sean has experience in project management spanning multiple industries and funct
 
 :::
 ::::
-
-
 
 
 
@@ -334,6 +351,9 @@ We're on the hunt for a data engineer who'll work on our Engineering team to hel
 We are looking for an Executive Assistant to the VP/CDO, which involves providing high-level administrative support, managing complex schedules, coordinating events, handling sensitive information, and facilitating effective communication within our team. This position requires exceptional organizational skills, discretion, and adaptability. 
 
 [Executive Assistant - Apply here!](https://careers-fhcrc.icims.com/jobs/28843/executive-assistant-to-vp-officer/job)
+
+We're hiring a Technical Program Manager responsible for managing and driving program and product development within our Data Product Portfolio. The position will act as Product Manager within the team; supporting development of product roadmaps, prioritizing and coordinating feature development and release scheduling, working with the team to understand priorities and break down work, and communicating with stakeholders to iterate and coordinate work that delivers value. 
+[Technical Program Manager - Apply here!](https://careers-fhcrc.icims.com/jobs/28928/technical-program-manager-ii-iii/job)
 
 ### Fred Hutch Jobs
 

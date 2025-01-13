@@ -11,6 +11,15 @@ We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring 
 We are currently accepting applications for the Spring 2025 Champions Cohort! See below for how to apply.
 :::
 
+Do you or your team...
+
+- Need to use new data science tools but don’t know where to start?
+- Work in isolation, but want to collaborate more often?
+- Want to make your science more reproducible?
+- Want to work alongside other teams to implement new practices for data analysis & stewardship.
+
+If yes, the Openscapes Champions may be a good fit!
+
 ### How does it work?
 
 Openscapes Champions is a two-month program that is led remotely, with video 

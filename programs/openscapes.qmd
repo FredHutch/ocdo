@@ -39,6 +39,7 @@ their work; and
 4. everyone becomes Champions for open data science, 
 strengthening the community of practice within the research group and beyond.
 
+If you are the ["lonely data scientist"](https://openscapes.org/blog/2025-01-07-solving-the-lonely-data-scientist-problem/) in your group, we still encourage you to apply. You will be grouped with similar-minded people as a group. 
 
 ### Spring 2025 Champions Cohort 
 
@@ -56,7 +57,7 @@ The cohort meeting time is: 10am to 11:30am PT
 
 In addition to the cohort meetings times, there will be 4 optional co-working times scheduled between the cohort meeting times.
 
-To apply, ...
+To apply, please fill out the form here to nominate yourself or you group: [Openscapes 2025 Application](https://www.canva.com/design/DAGOhIUcrzY/YQaCQN6nLQ9U8-zHHAWvnA/view?utm_content=DAGOhIUcrzY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6922cbb2ba)
 
 For more information email us at `data@fredhutch.org`.
 
@@ -67,7 +68,7 @@ The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) 
 ::: columns
 ::: {.column width="30%"}
 
-![](img/team/sitapriya-moorthi.jpg)
+![](../img/team/sitapriya-moorthi.jpg)
 :::
 
 ::: {.column width="70%"}

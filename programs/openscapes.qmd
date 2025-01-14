@@ -39,6 +39,7 @@ their work; and
 4. everyone becomes Champions for open data science, 
 strengthening the community of practice within the research group and beyond.
 
+If you are the ["lonely data scientist"](https://openscapes.org/blog/2025-01-07-solving-the-lonely-data-scientist-problem/) in your group, we still encourage you to apply. You will be grouped with similar-minded people as a group. 
 
 ### Spring 2025 Champions Cohort 
 
@@ -56,18 +57,18 @@ The cohort meeting time is: 10am to 11:30am PT
 
 In addition to the cohort meetings times, there will be 4 optional co-working times scheduled between the cohort meeting times.
 
-To apply, ...
+To apply, please fill out the form here to nominate yourself or you group: [Openscapes 2025 Application](https://forms.gle/2SVfjvfCrAP87Hrt8)
 
 For more information email us at `data@fredhutch.org`.
 
-### Fall 2023 Champions Cohort
+### Testimony from the 2023 Champions Cohort
 
 The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) included the the Berger Lab, Setty Lab, and Ha Lab. A recap of some of the work thse teams accomplished is on the [Openscapes blog](https://openscapes.org/blog/2023-12-04-fred-hutch/).
 
 ::: columns
 ::: {.column width="30%"}
 
-![](img/team/sitapriya-moorthi.jpg)
+![](../img/team/sitapriya-moorthi.jpg)
 :::
 
 ::: {.column width="70%"}

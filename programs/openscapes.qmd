@@ -16,7 +16,7 @@ Do you or your team...
 - Need to use new data science tools but don’t know where to start?
 - Work in isolation, but want to collaborate more often?
 - Want to make your science more reproducible?
-- Want to work alongside other teams to implement new practices for data analysis & stewardship.
+- Want to work alongside other teams to implement new practices for data analysis & stewardship?
 
 If yes, the Openscapes Champions may be a good fit!
 
@@ -57,13 +57,13 @@ The cohort meeting time is: 10am to 11:30am PT
 
 In addition to the cohort meetings times, there will be 4 optional co-working times scheduled between the cohort meeting times.
 
-To apply, please fill out the form here to nominate yourself or you group: [Openscapes 2025 Application](https://forms.gle/2SVfjvfCrAP87Hrt8)
+To apply, please fill out the form here to nominate yourself or your group: [Openscapes 2025 Application](https://forms.gle/2SVfjvfCrAP87Hrt8)
 
 For more information email us at `data@fredhutch.org`.
 
 ### Testimony from the 2023 Champions Cohort
 
-The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) included the the Berger Lab, Setty Lab, and Ha Lab. A recap of some of the work thse teams accomplished is on the [Openscapes blog](https://openscapes.org/blog/2023-12-04-fred-hutch/).
+The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) included the the Berger Lab, Setty Lab, and Ha Lab. A recap of some of the work these teams accomplished is on the [Openscapes blog](https://openscapes.org/blog/2023-12-04-fred-hutch/).
 
 ::: columns
 ::: {.column width="30%"}

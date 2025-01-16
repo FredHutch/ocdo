@@ -68,18 +68,25 @@ The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) 
 ::: columns
 ::: {.column width="30%"}
 
-![](../img/team/sitapriya-moorthi.jpg)
+![](../img/team/sitapriya-moorthi.jpg){width=300}
 :::
 
 ::: {.column width="70%"}
 
-Openscapes was a fantastic introduction to what doing open science truly means. It provides practical skills on how to implement open science effectively and shows how collaborative coding  helps you conduct better, more impactful research.
+> "Openscapes was a fantastic introduction to what doing open science truly means. It provides practical skills on how to implement open science effectively and shows how collaborative coding  helps you conduct better, more impactful research."
 
 -- Sitapriya Moorthi, Staff Scientist, Berger Lab
 
 :::
 :::
 
+::: columns
+::: {.column width="30%"}
 
-
-
+![](../img/elana.jpg){width=300}
+:::
+::: {.column width="70%"}
+> “Openscapes has helped me to implement better daily practices for reproducibility; for example, I now use a standardized README template for any new sequencing project that includes all relevant information for publication.”
+ 
+-- Elana Thieme, PhD Candidate, Setty + Lee Labs
+:::

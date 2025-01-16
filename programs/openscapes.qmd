@@ -79,7 +79,6 @@ The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) 
 
 :::
 :::
-
 ::: columns
 ::: {.column width="30%"}
 
@@ -89,4 +88,15 @@ The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) 
 > “Openscapes has helped me to implement better daily practices for reproducibility; for example, I now use a standardized README template for any new sequencing project that includes all relevant information for publication.”
  
 -- Elana Thieme, PhD Candidate, Setty + Lee Labs
+:::
+
+::: columns
+::: {.column width="30%"}
+:::
+
+::: {.column width="70%}
+> "[The] Openscapes program has helped us establish practices for reproducibility and sharability for the projects in our lab."
+
+-- Manu Setty, PI, Setty Lab
+:::
 :::

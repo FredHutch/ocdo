@@ -101,3 +101,15 @@ The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) 
 -- Manu Setty, PI, Setty Lab
 :::
 :::
+
+::: columns
+::: {.column width="30%"}
+![](../img/siobhan.jpg){width=300}
+:::
+
+::: {.column width="70%"}
+> "Participating in Openscapes was the first time I was part of a group actively discussing and thinking about collaborative coding, most of my experience in code driven data analysis has been on my own, with the support of online resources, not colleagues! It was great to be a part of such a welcoming group at all levels, and be able to share experiences and develop systems in our lab, and foster a culture of sharing work in all stages of development."
+
+-- Siobhan O'Brien, Postdoctoral Researcher, Berger Lab
+:::
+:::

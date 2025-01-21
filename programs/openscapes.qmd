@@ -79,6 +79,19 @@ The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) 
 
 :::
 :::
+
+::::{.columns}
+:::{.column width="30%"}
+![](../img/berger.png){width=300}
+:::
+:::{.column width="70%"}
+> "Openscapes was both so informative for our lab and also fun! Our technicians even developed a Github-based method for tracking wet lab tasks. I highly recommend the program for groups that want to improve their reproducible coding skills together!"
+
+-- Alice Berger, Prinicipal Investigator, Berger Lab 
+:::
+::::
+
+
 ::: columns
 ::: {.column width="30%"}
 

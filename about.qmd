@@ -343,15 +343,6 @@ We are hiring a cloud engineer who'll work on our Engineering team to develop ou
 
 [Cloud Data System Engineer - Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
 
-
-We're on the hunt for a data engineer who'll work on our Engineering team to help build translational multi-modal data ingestion pipelines and lakehouse components in Databricks!
-
-[Data Engineer - Apply here!](https://careers-fhcrc.icims.com/jobs/28722/data-engineer-iii/job)
-
-We are looking for an Executive Assistant to the VP/CDO, which involves providing high-level administrative support, managing complex schedules, coordinating events, handling sensitive information, and facilitating effective communication within our team. This position requires exceptional organizational skills, discretion, and adaptability. 
-
-[Executive Assistant - Apply here!](https://careers-fhcrc.icims.com/jobs/28843/executive-assistant-to-vp-officer/job)
-
 We're hiring a Technical Program Manager responsible for managing and driving program and product development within our Data Product Portfolio. The position will act as Product Manager within the team; supporting development of product roadmaps, prioritizing and coordinating feature development and release scheduling, working with the team to understand priorities and break down work, and communicating with stakeholders to iterate and coordinate work that delivers value. 
 [Technical Program Manager - Apply here!](https://careers-fhcrc.icims.com/jobs/28928/technical-program-manager-ii-iii/job)
 

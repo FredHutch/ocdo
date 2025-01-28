@@ -331,20 +331,112 @@ We have a group of affiliated researchers and training staff who focus on a vari
 
 
 ## Jobs
+
 Come work with us! 
 
+::: card
+
+::: card-body
+
+::: card-title
+
+##### Analytics Engineer II
+
+:::
+
+::: card-text
+
+We're looking for an Analytics Engineer II to design, build, and maintain data models and pipelines that support AI-driven research and translational data science. The role involves ensuring data quality and governance, collaborating with cross-functional teams, and documenting and democratizing clinical and research datasets. This position emphasizes open science, reproducible research, and fostering an inclusive culture to advance cancer and infectious disease breakthroughs.
+
+:::
+
+::: card-link
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/29138/job)
+
+:::
+
+:::
+
+:::
+
+::: card
+
+::: card-body
+
+::: card-title
+
+##### Engineering Manager
+
+:::
+
+::: card-text
 
 We are very excited to have the opportunity to bring on another leader to lead our newly minted Engineering team! This role will help me build a team that will focus on translational data applications and data infrastructure. They will be hugely impactful in building the way to enabling AI and data science in the clinic and in research. 
 
-[Engineering Manager - Apply here!](https://careers-fhcrc.icims.com/jobs/28721/data-engineering-manager/job)
+:::
 
+::: card-link
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28721/data-engineering-manager/job)
+
+:::
+
+:::
+
+:::
+
+::: card
+
+::: card-body
+
+::: card-title
+
+##### Cloud Data System Engineer
+
+:::
+
+::: card-text
 
 We are hiring a cloud engineer who'll work on our Engineering team to develop our cloud based application deployments, cloud architecture and role based access frameworks. This is such a critical role for enabling access to data for our translational staff who span the clinic and research spaces.
 
-[Cloud Data System Engineer - Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
+:::
 
-We're hiring a Technical Program Manager responsible for managing and driving program and product development within our Data Product Portfolio. The position will act as Product Manager within the team; supporting development of product roadmaps, prioritizing and coordinating feature development and release scheduling, working with the team to understand priorities and break down work, and communicating with stakeholders to iterate and coordinate work that delivers value. 
-[Technical Program Manager - Apply here!](https://careers-fhcrc.icims.com/jobs/28928/technical-program-manager-ii-iii/job)
+::: card-link
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
+
+:::
+
+:::
+
+:::
+
+::: card
+
+::: card-body
+
+::: card-title
+
+##### Technical Program Manager
+
+:::
+
+::: card-text
+
+We're hiring a Technical Program Manager responsible for managing and driving program and product development within our Data Product Portfolio. The position will act as Product Manager within the team; supporting development of product roadmaps, prioritizing and coordinating feature development and release scheduling, working with the team to understand priorities and break down work, and communicating with stakeholders to iterate and coordinate work that delivers value.
+
+:::
+
+::: card-link
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/28928/technical-program-manager-ii-iii/job)
+
+:::
+
+:::
+
+:::
 
 ### Fred Hutch Jobs
 

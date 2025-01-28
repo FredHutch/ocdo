@@ -8,6 +8,12 @@ We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring 
 [Openscapes Champions](https://openscapes.github.io/series/program-summary) is a data science mentorship program designed for scientific research groups. The Champions program helps people reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to the team, and cultivate collaborative and inclusive research communities.
 
 ::: {.callout-important}
+## Openscapes Info Session!
+
+Curious about the Openscapes Champions program but not sure it’s for you? Join us for our information session. Julia Stewart-Lowndes, the founder of Openscapes, will be online to answer all of your questions. [RSVP Here](https://www.addevent.com/event/Eq24697729).
+:::
+
+::: {.callout-important}
 We are currently accepting applications for the Spring 2025 Champions Cohort! See below for how to apply.
 :::
 

@@ -410,32 +410,6 @@ We are hiring a cloud engineer who'll work on our Engineering team to develop ou
 
 :::
 
-::: card
-
-::: card-body
-
-::: card-title
-
-##### Technical Program Manager
-
-:::
-
-::: card-text
-
-We're hiring a Technical Program Manager responsible for managing and driving program and product development within our Data Product Portfolio. The position will act as Product Manager within the team; supporting development of product roadmaps, prioritizing and coordinating feature development and release scheduling, working with the team to understand priorities and break down work, and communicating with stakeholders to iterate and coordinate work that delivers value.
-
-:::
-
-::: card-link
-
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28928/technical-program-manager-ii-iii/job)
-
-:::
-
-:::
-
-:::
-
 ### Fred Hutch Jobs
 
 Check out the [Fred Hutch Cancer Center Careers page](https://www.fredhutch.org/en/about/careers/job-openings.html#eyJrZXl3b3JkcyI6IiIsImNhcmVlckNhdGVnb3J5IjpbIkMzNTgxMDIiXSwibG9jYXRpb24iOltdfQ==) for more info on current data oriented jobs across the Center.  

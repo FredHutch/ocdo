@@ -178,9 +178,8 @@ Maria has a background in higher education administration and public health gran
 :::: {layout-ncol=2}
 ::: {#first-column}
 
-![TBN - Executive Assistant to the VP/CDO](img/job.png){width=80%}
+![Shelly Erez - Executive Assistant to the VP/CDO](img/team/coming_soon.png){width=80%}
 
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28843/executive-assistant-to-vp-officer/job)
 
 
 :::
@@ -295,7 +294,6 @@ Sean has experience in project management spanning multiple industries and funct
 ![TBH - Technical Program Manager](img/job.png){width=80%}
 
 
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28928/technical-program-manager-ii-iii/job)
 :::
 ::::
 
@@ -303,7 +301,7 @@ Sean has experience in project management spanning multiple industries and funct
 ::: {#first-column }
 
 
-![Sindiya Devi Thangavel - Cloud Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
+![Sindiya Devi Thangavel - Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
 
 
 Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts.  
@@ -312,10 +310,10 @@ Sindiya is part of our growing [Engineering team](tools.qmd), supporting the dev
 
 ::: {#second-column}
 
-![TBN - Data Engineer](img/job.png){width=80%}
+![Chetan Chauhan - Data Engineer](img/team/coming_soon.png){width=80%}
 
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28722/data-engineer-iii/job)
 
+Chetan is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts. 
 
 
 :::

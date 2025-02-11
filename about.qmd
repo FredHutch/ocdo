@@ -178,9 +178,9 @@ Maria has a background in higher education administration and public health gran
 :::: {layout-ncol=2}
 ::: {#first-column}
 
-![Shelly Erez - Executive Assistant to the VP/CDO](img/team/coming_soon.png){width=80%}
+![Shelly Erez - Executive Assistant to the VP/CDO](img/team/shelly-erez.jpeg){width=80%}
 
-
+Shelly brings a strong background as a social worker, where she developed a passion for helping others and refining her communication and problem-solving skills. Now, she finds fulfillment in administrative operations, supporting leadership and creating efficient workflows. With a compassionate approach and attention to detail, Shelly is dedicated to making a positive impact.
 
 :::
 

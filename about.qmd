@@ -357,58 +357,6 @@ We're looking for an Analytics Engineer II to design, build, and maintain data m
 
 :::
 
-::: card
-
-::: card-body
-
-::: card-title
-
-##### Engineering Manager
-
-:::
-
-::: card-text
-
-We are very excited to have the opportunity to bring on another leader to lead our newly minted Engineering team! This role will help me build a team that will focus on translational data applications and data infrastructure. They will be hugely impactful in building the way to enabling AI and data science in the clinic and in research. 
-
-:::
-
-::: card-link
-
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28721/data-engineering-manager/job)
-
-:::
-
-:::
-
-:::
-
-::: card
-
-::: card-body
-
-::: card-title
-
-##### Cloud Data System Engineer
-
-:::
-
-::: card-text
-
-We are hiring a cloud engineer who'll work on our Engineering team to develop our cloud based application deployments, cloud architecture and role based access frameworks. This is such a critical role for enabling access to data for our translational staff who span the clinic and research spaces.
-
-:::
-
-::: card-link
-
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
-
-:::
-
-:::
-
-:::
-
 ### Fred Hutch Jobs
 
 Check out the [Fred Hutch Cancer Center Careers page](https://www.fredhutch.org/en/about/careers/job-openings.html#eyJrZXl3b3JkcyI6IiIsImNhcmVlckNhdGVnb3J5IjpbIkMzNTgxMDIiXSwibG9jYXRpb24iOltdfQ==) for more info on current data oriented jobs across the Center.  

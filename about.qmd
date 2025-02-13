@@ -310,10 +310,9 @@ Sindiya is part of our growing [Engineering team](tools.qmd), supporting the dev
 
 ::: {#second-column}
 
-![Chetan Chauhan - Data Engineer](img/team/coming_soon.png){width=80%}
+![Chetan Chauhan - Data Engineer](img/team/chetan-chauhan.jpg){width=80%}
 
-
-Chetan is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts. 
+Chetan designs data pipelines for healthcare research while supporting tool development, translational data infrastructure, and data product efforts. Outside work, he explores human behavioral science, volleyball, and dance.
 
 
 :::

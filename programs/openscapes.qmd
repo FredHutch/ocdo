@@ -7,16 +7,12 @@ We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring 
 
 [Openscapes Champions](https://openscapes.github.io/series/program-summary) is a data science mentorship program designed for scientific research groups. The Champions program helps people reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to the team, and cultivate collaborative and inclusive research communities.
 
-::: {.callout-note}
-# Let's Talk!
+::: {.callout-important}
+# Watch the Information Session
 
-### Join Us for a Live Information Session
+On Feb 20, we had an informational session with Julia Stewart-Lowndes, founder of Openscapes and Stefanie Butland, co-coordinator of the program. [Slides from the presentation](https://docs.google.com/presentation/d/1BHoKwhIOvgapdXLm6XAI-UhV4_z2FwIQv2gUwDZ-nek/edit#slide=id.g336f8865178_0_264).
 
-We are currently accepting applications for the Spring 2025 Champions Cohort. 
-Please join us for an information session online and in-person on February 20th
-at 10:00am PT. [Click here to RSVP](https://www.addevent.com/event/Eq24697729)
-and to get more information about this event. **See below for how to apply for 
-this year's Champions Cohort.**
+<iframe src="https://fredhutch-my.sharepoint.com/personal/tladera2_fredhutch_org/_layouts/15/embed.aspx?UniqueId=07f5dfd4-5af8-4a8d-a24d-3ab2c73aedd3&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Openscapes Info Session-20250220_100519-Meeting Recording.mp4"></iframe>
 :::
 
 Do you or your team...
@@ -65,9 +61,30 @@ The cohort meeting time is: 10am to 11:30am PT
 
 In addition to the cohort meetings times, there will be 4 optional co-working times scheduled between the cohort meeting times.
 
-To apply, please fill out the form here to nominate yourself or your group: [Openscapes 2025 Application](https://forms.gle/2SVfjvfCrAP87Hrt8)
+To apply, please fill out the form here to nominate yourself or your group: [Openscapes 2025 Application](https://forms.gle/2SVfjvfCrAP87Hrt8). Deadline for application: March 17, 2025
 
 For more information email us at `data@fredhutch.org`.
+
+### FAQ
+
+- Q: What are the time commitments and cadence for participation?
+  - A: Please refer to <https://openscapes.github.io/series/what-to-expect.html#cohort-calls>
+ 
+- Q: What are we actually doing during the sessions?
+  - A: [Schedule of sessions are here](https://openscapes.github.io/series/what-to-expect.html#cohort-calls)
+ 
+- Q: Any opportunities for observers? Auditing?
+  - A: People need to commit to full participation. No observers because we build psychological safety and trust from people participating and not dropping in and out. Sitapriya Moorthi acknowledges it was challenging at the start with the openendedness, but that ended up being an opportunity to define what you wanted.
+ 
+- Q: would this work for someone like myself who is not directly involved with the science but on the administrative side, but still dealing with multiple data platforms and complex processes?
+  - A: Admins & contracts, managers, IT staff have participated. Value in people connecting across processes and workflows contributes to improving them.
+ 
+- Q: How many people participate?
+  - A: Participants will be ~7 teams from Fred Hutch (35-40 people)
+ 
+- Q: Mine is a wet lab. What would be relevant?
+  - A: Sita gave some examples: How do we decide as a team how to name our files consistently? Elana Thieme: Developed a consistent README for every sequencing project
+
 
 ### Testimony from the 2023 Champions Cohort
 

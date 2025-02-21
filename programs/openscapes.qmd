@@ -10,10 +10,6 @@ We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring 
 ::: {.callout-important}
 # Watch the Information Session
 
-We are currently accepting applications for the Spring 2025 Champions Cohort! See below for how to apply. Application deadline is March 17.
-
-## Openscapes Info Session Video
-
 On Feb 20, we had an informational session with Julia Stewart-Lowndes, founder of Openscapes and Stefanie Butland, co-coordinator of the program. [Slides from the presentation](https://docs.google.com/presentation/d/1BHoKwhIOvgapdXLm6XAI-UhV4_z2FwIQv2gUwDZ-nek/edit#slide=id.g336f8865178_0_264).
 
 <iframe src="https://fredhutch-my.sharepoint.com/personal/tladera2_fredhutch_org/_layouts/15/embed.aspx?UniqueId=07f5dfd4-5af8-4a8d-a24d-3ab2c73aedd3&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Openscapes Info Session-20250220_100519-Meeting Recording.mp4"></iframe>

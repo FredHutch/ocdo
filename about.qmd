@@ -337,6 +337,32 @@ Come work with us!
 
 ::: card-title
 
+##### Data Scientist II
+
+:::
+
+::: card-text
+
+The Data Scientist II will develop and maintain computational tools to support bioinformatics research at Fred Hutch, focusing on genomic, imaging, and laboratory-generated data. Responsibilities include creating automated data processing pipelines, building reproducible bioinformatics workflows, and developing interactive data visualizations for research collaboration. Candidates should have expertise in Python or R, experience with sequencing data analysis, and familiarity with cloud computing, workflow languages, and version control tools like Git.
+
+:::
+
+::: card-link
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/29136/data-scientist-ii/job)
+
+:::
+
+:::
+
+:::
+
+::: card
+
+::: card-body
+
+::: card-title
+
 ##### Analytics Engineer II
 
 :::

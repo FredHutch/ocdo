@@ -27,9 +27,11 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 ::::
 
 
-## Data House Call Topics
+# Data House Call Topics
 
-### Translational Data ACcess
+
+## Translational Data ACcess
+
 
 This DHC is for more information about the current status of translational patient data access, CARDS platform development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
 
@@ -37,13 +39,15 @@ This DHC is for more information about the current status of translational patie
 Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
 :::
 
-### General
+
+## General
 Use this event to schedule a meeting to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
+
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  
 :::
-### Data Partnerships
+## Data Partnerships
 
 Use this [Data House Call](https://calendly.com/data-house-calls/partnerships) if you are interested in a Data Science Partnership with an external partner. Some examples of areas you might be interested in exploring:
 
@@ -58,7 +62,7 @@ Or any other questions you have that relate to Data Science Partnerships.
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/partnerships).  
 :::
-### Data Policy and AI
+## Data Policy and AI
 
 Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) for questions about data policy, data protection and AI use cases.
 
@@ -73,7 +77,7 @@ Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) fo
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/data-policy).  
 :::
-### Data Sharing, Study Planning and Grants
+## Data Sharing, Study Planning and Grants
 
 
 Use this [Data House Call](https://calendly.com/data-house-calls/sharing) for questions about data sharing and planning such as:
@@ -92,8 +96,8 @@ Or other questions you have that you feel might relate to this topic!
 Schedule this [Data House Call](https://calendly.com/data-house-calls/sharing).  
 :::
 
+## Research Data Management
 
-### Research Data Management
 
 
 Use this [Data House Call](https://calendly.com/data-house-calls/management) for questions about research data management, infrastructure or tools.
@@ -114,7 +118,7 @@ Or other questions you have that you feel might relate to this topic!
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/management).  
 :::
-### Code and Software: R, Python and Beyond
+## Code and Software: R, Python and Beyond
 Use this [Data House Call](https://calendly.com/data-house-calls/code) for questions about learning, writing and managing code and research software.
 
 - R
@@ -128,7 +132,7 @@ Or other questions you have that you feel might relate to this topic!
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/code).  
 :::
-### Research Computing: Running and Scaling your Analyses
+## Research Computing: Running and Scaling your Analyses
 
 Use this [Data House Call](https://calendly.com/data-house-calls/computing) for questions about how to run your code or analysis more effectively and scale up your work via:
 
@@ -150,7 +154,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/computing)
 :::
 
 
-### DaSL Supported Resources
+## DaSL Supported Resources
 
 Use this [Data House Call](https://calendly.com/data-house-calls/resources) for questions about DaSL supported resources such as:
 

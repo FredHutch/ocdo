@@ -24,7 +24,7 @@ Do you or your team...
 
 If yes, the Openscapes Champions may be a good fit!
 
-### How does it work?
+## How does it work?
 
 Openscapes Champions is a two-month program that is led remotely, with video 
 calls designed for active participation to ignite sustainable change within 
@@ -45,7 +45,7 @@ strengthening the community of practice within the research group and beyond.
 
 If you are the ["lonely data scientist"](https://openscapes.org/blog/2025-01-07-solving-the-lonely-data-scientist-problem/) in your group, we still encourage you to apply. You will be grouped with similar-minded people as a group. 
 
-### Spring 2025 Champions Cohort 
+## Spring 2025 Champions Cohort 
 
 The spring 2025 Champions Cohort will run from **April 9th, 2025 to June 4th, 2025**. 
 
@@ -65,7 +65,7 @@ To apply, please fill out the form here to nominate yourself or your group: [Ope
 
 For more information email us at `data@fredhutch.org`.
 
-### FAQ
+## FAQ
 
 - Q: What are the time commitments and cadence for participation?
   - A: Please refer to <https://openscapes.github.io/series/what-to-expect.html#cohort-calls>
@@ -86,7 +86,7 @@ For more information email us at `data@fredhutch.org`.
   - A: Sita gave some examples: How do we decide as a team how to name our files consistently? Elana Thieme: Developed a consistent README for every sequencing project
 
 
-### Testimony from the 2023 Champions Cohort
+## Testimony from the 2023 Champions Cohort
 
 The [fall 2023 Champions Cohort](https://openscapes.github.io/2023-fred-hutch/) included the the Berger Lab, Setty Lab, and Ha Lab. A recap of some of the work these teams accomplished is on the [Openscapes blog](https://openscapes.org/blog/2023-12-04-fred-hutch/).
 

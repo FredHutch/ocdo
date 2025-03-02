@@ -95,7 +95,6 @@ Abby has experience in program, product, and project management for bioinformati
 ![Coming Soon - Engineering Manager](img/team/coming_soon.png){width=80%}
 
 
-
 :::
 ::::
 
@@ -255,9 +254,7 @@ Vivek has a background in biomedical informatics, statistics, and computer scien
 ::: {#second-column}
 
 
-![TBN - Cloud Data System Engineer](img/job.png){width=80%}
-
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28720/cloud-data-system-administrator/job)
+![Team Member Incoming! - Cloud Data System Engineer](img/team/coming_soon.png){width=80%}
 
 
 :::
@@ -291,7 +288,8 @@ Sean has experience in project management spanning multiple industries and funct
 
 :::
 ::: {#second-column}
-![Coming Soon - Technical Program Manager](img/team/coming_soon.png){width=80%}
+
+![Anna Oldre - Technical Program Manager](img/team/coming_soon.png){width=80%}
 
 
 :::
@@ -371,7 +369,7 @@ The Data Scientist II will develop and maintain computational tools to support b
 
 ::: card-text
 
-We're looking for an Analytics Engineer II to design, build, and maintain data models and pipelines that support AI-driven research and translational data science. The role involves ensuring data quality and governance, collaborating with cross-functional teams, and documenting and democratizing clinical and research datasets. This position emphasizes open science, reproducible research, and fostering an inclusive culture to advance cancer and infectious disease breakthroughs.
+We're looking for an Analytics Engineer to design, build, and maintain data models and pipelines that support AI-driven research and translational data science. The role involves ensuring data quality and governance, collaborating with cross-functional teams, and documenting and democratizing clinical and research datasets. This position emphasizes open science, reproducible research, and fostering an inclusive culture to advance cancer and infectious disease breakthroughs.
 
 :::
 

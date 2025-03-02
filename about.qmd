@@ -60,7 +60,7 @@ Ted Laderas has worked with lots of different data types and knows his way aroun
 ::: {#first-column }
 
 
-![Jenny Weddle - Data Governance Specialist; Jenny - Data Governance Specialist; Consortium and Clinical Data Programs](img/team/jenny-weddle.jpg){width=80%}
+![Jenny Weddle - Data Governance Specialist; Jenny - Data Governance Specialist; Consortium and Clinical Data Program Manager](img/team/jenny-weddle.jpg){width=80%}
 
 Jenny has a background in business analytics and compliance. She runs point for our [data governance](gov.qmd) effort including development of Consortium-spanning data governance processes as well as internal department communications and process development around clinical data governance, including clinical research uses of data.
 
@@ -268,7 +268,7 @@ Vivek has a background in biomedical informatics, statistics, and computer scien
 
 
 
-![Tyreesha Lambert - Data Governance Specialist; AI, Research and Data Protections](img/team/ty-lambert.jpg){width=80%}
+![Tyreesha Lambert - Data Governance Specialist; AI and Research Data Protections Program Manager](img/team/ty-lambert.jpg){width=80%}
 
 Tyreesha has a background in privacy and compliance. In her role she supports data governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
 

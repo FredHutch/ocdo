@@ -29,16 +29,20 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 
 # Data House Call Topics
 
-## Translational Data
 
-Clinical and Research Data Solutions (CARDS) will become the foundational translational data infrastructure of the recently merged Fred Hutch Cancer Center. This [Data House Call](https://calendly.com/data-house-calls/cards) is for more information about the current status of translational data supports, CARDS development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
+## Translational Data ACcess
+
+
+This DHC is for more information about the current status of translational patient data access, CARDS platform development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
 :::
 
+
 ## General
-Use this event to schedule a meeting with Amy Paguirigan to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
+Use this event to schedule a meeting to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
+
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  
@@ -82,7 +86,8 @@ Use this [Data House Call](https://calendly.com/data-house-calls/sharing) for qu
 - grant materials regarding DaSL support services available,
 - data sharing and/or tools to move and share data,
 - lab or research collaboration data management planning,
-- DaSL resources available to support your grant applications.
+- data use agreements or research data stewardship support,
+- resources available to support your grant applications.
 
 Or other questions you have that you feel might relate to this topic!
 
@@ -90,16 +95,9 @@ Or other questions you have that you feel might relate to this topic!
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/sharing).  
 :::
-## Clinical Data Access
 
-Use this [Data House Call](https://calendly.com/data-house-calls/clinical-data) to discuss questions about Fred Hutch adult oncology clinical patient data access, especially for research and it's oversight.
-
-Curious about pathways to get access to Fred Hutch clinical patient data?  Have questions about IRB protocols and patient data for research options? Want to learn about some of the ongoing work with DaSL, IT, Compliance, OTR and others that will be supporting the clinical data program at Fred Hutch? This DHC is the right one. 
-
-::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/clinical-data).  
-:::
 ## Research Data Management
+
 
 
 Use this [Data House Call](https://calendly.com/data-house-calls/management) for questions about research data management, infrastructure or tools.

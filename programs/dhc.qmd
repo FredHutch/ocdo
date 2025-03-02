@@ -30,7 +30,7 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 # Data House Call Topics
 
 
-## Translational Data ACcess
+## Clinical Data Access and Tools
 
 
 This DHC is for more information about the current status of translational patient data access, CARDS platform development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 

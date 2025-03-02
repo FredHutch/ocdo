@@ -27,9 +27,10 @@ Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-lea
 :::
 ::::
 
-## Our Staff
 
-### Data Science Domain Leadership
+
+
+## Partnerships and Strategy
 
 :::: {layout-ncol=2}
 ::: {#first-column }
@@ -43,9 +44,67 @@ Brian has more than two decades of experience in a variety of roles at the inter
 
 :::
 
+::: {#second-column }
+![Abby Wall - Data Program and Porfolio Manager](img/team/abby-wall.jpg){width=80%}
 
+Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for translational [data product and tooling development](tools.qmd) as the lead for our [Data Product Management team](tools.qmd). 
+
+:::
+::::
+
+## Data Governance
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+
+![Jenny Weddle - Data Governance Specialist; Consortium and Clinical Data Program Manager](img/team/jenny-weddle.jpg){width=80%}
+
+Jenny has a background in business analytics and compliance. She focuses on our Consortium-spanning data governance processes as well as internal department communications and process development around clinical data governance, including clinical research uses of patient data.
+
+
+:::
 
 ::: {#second-column}
+
+
+
+
+![Tyreesha Lambert - Data Governance Specialist; AI and Research Data Protections Program Manager](img/team/ty-lambert.jpg){width=80%}
+
+Tyreesha has a background in privacy and compliance. In her role she supports data governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
+
+
+:::
+::::
+
+
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+![Gina Conseca Crescioni - Data Governance Specialist](img/team/gina-fc.jpg){width=80%}
+
+
+Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the [data governance team](gov.qmd), she focuses on ensuring the integrity, privacy, and accessibility of patient and research data.
+
+
+:::
+
+::: {#second-column}
+
+
+:::
+::::
+
+
+
+## Training and Community
+
+
+:::: {layout-ncol=2}
+
+::: {#first-column}
 
 
 ![Ted Laderas - Director of Training & Community](img/team/ted-laderas.jpg){width=80%}
@@ -53,21 +112,21 @@ Brian has more than two decades of experience in a variety of roles at the inter
 Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads our [training and community](training.qmd) efforts.  
 [More about Ted](https://laderast.github.io/)
 :::
+
+::: {#second-column}
+
+![Chris Lo - Data Science Trainer](img/team/chris-lo.jpg){width=80%}
+
+Chris Lo is a data science trainer who is passionate about helping biomedical and clinical researchers learn new tools to be effective at their research. He has a background in biostatistics and computational biology and has taught students of various backgrounds in biomedical data science.
+
+:::
 ::::
 
 
+## Translational Data Science and Software
+
 :::: {layout-ncol=2}
 ::: {#first-column }
-
-
-![Jenny Weddle - Data Governance Specialist; Jenny - Data Governance Specialist; Consortium and Clinical Data Program Manager](img/team/jenny-weddle.jpg){width=80%}
-
-Jenny has a background in business analytics and compliance. She runs point for our [data governance](gov.qmd) effort including development of Consortium-spanning data governance processes as well as internal department communications and process development around clinical data governance, including clinical research uses of data.
-
-
-:::
-
-::: {#second-column}
 
 ![Monica Gerber - Translational Analytics Manager](img/team/monica-gerber.jpg){width=80%}
 
@@ -75,32 +134,18 @@ Monica has a background in biostatistics and epidemiology. She's interested in h
 
 
 [More about Monica](https://www.linkedin.com/in/monica-gerber/)
-:::
-::::
-
-
-:::: {layout-ncol=2}
-
-::: {#first-column }
-![Abby Wall - Data Program and Porfolio Manager](img/team/abby-wall.jpg){width=80%}
-
-Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for translational [data product and tooling development](tools.qmd) as the lead for our [Data Product Management team](tools.qmd). 
 
 
 :::
 
 ::: {#second-column}
 
+![Sitapriya Moorthi - Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
 
-![Coming Soon - Engineering Manager](img/team/coming_soon.png){width=80%}
-
+Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Translational Data Science and Software group.](dss.qmd)
 
 :::
 ::::
-
-
-
-
 
 
 :::: {layout-ncol=2}
@@ -131,7 +176,141 @@ Taylor's background is in computational biophysics, clinical bioinformatics, and
 
 
 
-### Administration and Operations
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+
+![Vivek Sriram – Data Scientist](img/team/vivek_cropped.JPG){width=80%}
+
+
+Vivek has a background in biomedical informatics, statistics, and computer science. His work focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
+
+[More about Vivek](https://vsriram24.github.io)
+
+:::
+
+::: {#second-column }
+![TBH - Analytics Engineer](img/job.png){width=80%}
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/29138/job)
+
+
+:::
+::::
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+
+![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg){width=80%}
+
+Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves. 
+
+
+[More about Scott](https://scottchamberlain.info)
+:::
+
+::: {#second-column}
+
+![Sonu (Sonali) Mishra - User Experience Researcher](img/team/sonali-mishra.jpg){width=80%}
+
+Sonu is a UX researcher interested in building impactful systems that meet user needs. Her background is in health behavior change intervention design and health informatics.
+
+[More about Sonu](https://www.srmishra.com/)
+:::
+::::
+
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+![TBH - Reserach Informatics Data Scientist](img/job.png){width=80%}
+
+
+[Apply here!](https://careers-fhcrc.icims.com/jobs/29136/data-scientist-ii/job)
+
+:::
+
+::: {#second-column }
+
+
+
+:::
+::::
+
+
+
+
+
+
+## Translational Applications & Engineering
+
+
+
+
+:::: {layout-ncol=2}
+
+::: {#first-column}
+
+
+![Coming Soon - Engineering Manager](img/team/coming_soon.png){width=80%}
+
+
+:::
+
+::: {#second-column}
+![Coming Soon - Cloud Data System Engineer](img/team/coming_soon.png){width=80%}
+
+:::
+::::
+
+
+:::: {layout-ncol=2}
+::: {#first-column }
+![Sean Olmstead - Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
+
+Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign. Sean works with our engineering team to implement [translational data product and infrastructure development](tools.qmd). 
+
+
+:::
+::: {#second-column}
+
+![Anna Oldre - Technical Program Manager](img/team/coming_soon.png){width=80%}
+
+
+:::
+::::
+
+
+
+
+:::: {layout-ncol=2}
+::: {#first-column }
+
+
+![Sindiya Devi Thangavel - Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
+
+
+Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts.  
+
+:::
+
+::: {#second-column}
+
+![Chetan Chauhan - Data Engineer](img/team/chetan-chauhan.jpg){width=80%}
+
+Chetan designs data pipelines for healthcare research while supporting tool development, translational data infrastructure, and data product efforts. Outside work, he explores human behavioral science, volleyball, and dance.
+
+
+:::
+::::
+
+
+
+
+
+## Administration and Operations
 :::: {layout-ncol=2}
 ::: {#first-column}
 
@@ -194,127 +373,7 @@ Shelly brings a strong background as a social worker, where she developed a pass
 
 
 
-### Team Members
 
-:::: {layout-ncol=2}
-::: {#first-column }
-
-
-![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg){width=80%}
-
-Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves. 
-
-
-[More about Scott](https://scottchamberlain.info)
-:::
-
-::: {#second-column}
-
-![Sonu (Sonali) Mishra - User Experience Researcher](img/team/sonali-mishra.jpg){width=80%}
-
-Sonu is a UX researcher interested in building impactful systems that meet user needs. Her background is in health behavior change intervention design and health informatics.
-
-[More about Sonu](https://www.srmishra.com/)
-:::
-::::
-
-:::: {layout-ncol=2}
-::: {#first-column }
-
-
-
-![Sitapriya Moorthi - Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
-
-Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Translational Data Science and Software group.](dss.qmd)
-
-:::
-
-::: {#second-column}
-
-![Chris Lo - Data Science Trainer](img/team/chris-lo.jpg){width=80%}
-
-Chris Lo is a data science trainer who is passionate about helping biomedical and clinical researchers learn new tools to be effective at their research. He has a background in biostatistics and computational biology and has taught students of various backgrounds in biomedical data science.
-
-:::
-::::
-
-
-
-:::: {layout-ncol=2}
-::: {#first-column }
-
-
-![Vivek Sriram – Data Scientist](img/team/vivek_cropped.JPG){width=80%}
-
-
-Vivek has a background in biomedical informatics, statistics, and computer science. His work focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
-
-[More about Vivek](https://vsriram24.github.io)
-:::
-::: {#second-column}
-
-
-![Team Member Incoming! - Cloud Data System Engineer](img/team/coming_soon.png){width=80%}
-
-
-:::
-::::
-
-:::: {layout-ncol=2}
-::: {#first-column }
-
-
-
-![Tyreesha Lambert - Data Governance Specialist; AI and Research Data Protections Program Manager](img/team/ty-lambert.jpg){width=80%}
-
-Tyreesha has a background in privacy and compliance. In her role she supports data governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
-
-:::
-::: {#second-column}
-![Gina Conseca Crescioni - Data Governance Specialist](img/team/gina-fc.jpg){width=80%}
-
-
-Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the [data governance team](gov.qmd), she focuses on ensuring the integrity, privacy, and accessibility of patient and research data.
-
-:::
-::::
-
-:::: {layout-ncol=2}
-::: {#first-column }
-![Sean Olmstead - Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
-
-Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign. Sean works with our engineering team to implement [translational data product and infrastructure development](tools.qmd). 
-
-
-:::
-::: {#second-column}
-
-![Anna Oldre - Technical Program Manager](img/team/coming_soon.png){width=80%}
-
-
-:::
-::::
-
-:::: {layout-ncol=2}
-::: {#first-column }
-
-
-![Sindiya Devi Thangavel - Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
-
-
-Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts.  
-
-:::
-
-::: {#second-column}
-
-![Chetan Chauhan - Data Engineer](img/team/chetan-chauhan.jpg){width=80%}
-
-Chetan designs data pipelines for healthcare research while supporting tool development, translational data infrastructure, and data product efforts. Outside work, he explores human behavioral science, volleyball, and dance.
-
-
-:::
-::::
 
 
 

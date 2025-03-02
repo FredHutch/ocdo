@@ -60,9 +60,9 @@ Ted Laderas has worked with lots of different data types and knows his way aroun
 ::: {#first-column }
 
 
-![Jenny Weddle - Data Governance Specialist](img/team/jenny-weddle.jpg){width=80%}
+![Jenny Weddle - Data Governance Specialist; Jenny - Data Governance Specialist; Consortium and Clinical Data Program Manager](img/team/jenny-weddle.jpg){width=80%}
 
-Jenny has a background in business analytics and compliance. She leads our growing [data governance](gov.qmd) effort including development of cross-institutional data governance processes as well as internal department coordination and process development around patient and research data governance.
+Jenny has a background in business analytics and compliance. She runs point for our [data governance](gov.qmd) effort including development of Consortium-spanning data governance processes as well as internal department communications and process development around clinical data governance, including clinical research uses of data.
 
 
 :::
@@ -92,9 +92,9 @@ Abby has experience in program, product, and project management for bioinformati
 ::: {#second-column}
 
 
-![TBN - Engineering Manager](img/job.png){width=80%}
+![Coming Soon - Engineering Manager](img/team/coming_soon.png){width=80%}
 
-[Apply here!](https://careers-fhcrc.icims.com/jobs/28721/data-engineering-manager/job)
+
 
 :::
 ::::
@@ -268,9 +268,9 @@ Vivek has a background in biomedical informatics, statistics, and computer scien
 
 
 
-![Tyreesha Lambert - Data Governance Specialist](img/team/ty-lambert.jpg){width=80%}
+![Tyreesha Lambert - Data Governance Specialist; AI and Research Data Protections Program Manager](img/team/ty-lambert.jpg){width=80%}
 
-Tyreesha has a background in privacy and compliance. In her role she will manage governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
+Tyreesha has a background in privacy and compliance. In her role she supports data governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
 
 :::
 ::: {#second-column}
@@ -291,7 +291,7 @@ Sean has experience in project management spanning multiple industries and funct
 
 :::
 ::: {#second-column}
-![TBH - Technical Program Manager](img/job.png){width=80%}
+![Coming Soon - Technical Program Manager](img/team/coming_soon.png){width=80%}
 
 
 :::
@@ -363,7 +363,9 @@ The Data Scientist II will develop and maintain computational tools to support b
 
 ::: card-title
 
+
 ##### Analytics Engineer II
+
 
 :::
 

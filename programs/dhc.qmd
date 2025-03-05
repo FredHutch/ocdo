@@ -30,23 +30,26 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 # Data House Call Topics
 
 
+
+
+## General
+Use this [Data House Call](https://calendly.com/data-house-calls/misc) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
+
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  
+:::
+
 ## Clinical Data Access and Tools
 
-
-This DHC is for more information about the current status of translational patient data access, CARDS platform development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
+Use this [Data House Call](https://calendly.com/data-house-calls/cards) for more information about the current status of translational patient data access, CARDS platform development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
 
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
 :::
 
 
-## General
-Use this event to schedule a meeting to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
 
-
-::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  
-:::
 ## Data Partnerships
 
 Use this [Data House Call](https://calendly.com/data-house-calls/partnerships) if you are interested in a Data Science Partnership with an external partner. Some examples of areas you might be interested in exploring:

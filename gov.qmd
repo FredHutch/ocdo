@@ -58,7 +58,7 @@ Fred Hutch focused AI resources and governance processes are currently in develo
 Email questions about data governance generally to [datagovernance@fredhutch.org](mailto:datagovernance@fredhutch.org) or connect with us through our [Data House Calls](programs/dhc.qmd) program. 
 
 - [Data Policy and AI](https://calendly.com/data-house-calls/data-policy) House Call: questions about data policy, data protection and AI use cases.
-- [Clinical Patient Data Access](https://calendly.com/data-house-calls/clinical-data) House Call: questions about Fred Hutch adult oncology clinical patient data access for research and it's oversight.  
+- [Clinical Data Access and Tools](https://calendly.com/data-house-calls/cards) House Call: questions about Fred Hutch adult oncology clinical patient data access and tools for research and it's oversight.  
 - [Data Sharing, Study Planning and Grants](https://calendly.com/data-house-calls/sharing): questions about data sharing and planning.
 
 

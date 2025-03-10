@@ -260,7 +260,9 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 :::
 
 ::: {#second-column}
-![Coming Soon - Cloud Data System Engineer](img/team/coming_soon.png){width=80%}
+![Josh Southam - Cloud Data System Engineer](img/team/josh-southam.jpg){width=80%}
+
+Josh has a background in utilizing cloud technologies to deploy innovative, scalable, and secure data systems in both higher education and biotech environments. At Fred Hutch, this will continue to be his focus – optimizing our platform to enable the best environment for our science.
 
 :::
 ::::
@@ -276,8 +278,9 @@ Sean has experience in project management spanning multiple industries and funct
 :::
 ::: {#second-column}
 
-![Anna Oldre - Technical Program Manager](img/team/coming_soon.png){width=80%}
+![Anna Oldre - Technical Program Manager](img/team/anna-oldre.jpg){width=80%}
 
+Anna has a background in technical product and program management. Prior to joining the team, she worked in the technology industry, including positions at Amazon and Tableau (Salesforce).
 
 :::
 ::::

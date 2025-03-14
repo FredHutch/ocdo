@@ -58,10 +58,9 @@ Abby has experience in program, product, and project management for bioinformati
 ::: {#first-column }
 
 
-![Jenny Weddle - Data Governance Specialist; Consortium and Clinical Data Program Manager](img/team/jenny-weddle.jpg){width=80%}
+![Open position coming soon - Data Governance Specialist; Consortium and Clinical Data Program Manager](img/job.png){width=80%}
 
-Jenny has a background in business analytics and compliance. She focuses on our Consortium-spanning data governance processes as well as internal department communications and process development around clinical data governance, including clinical research uses of patient data.
-
+We will be posting a position for our senior data governnace specialist who will lead our Consortium and Clinical Data Governance Program. Stay tuned. 
 
 :::
 
@@ -225,7 +224,7 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 :::: {layout-ncol=2}
 ::: {#first-column }
 
-![TBH - Reserach Informatics Data Scientist](img/job.png){width=80%}
+![TBH - Research Informatics Data Scientist](img/job.png){width=80%}
 
 
 [Apply here!](https://careers-fhcrc.icims.com/jobs/29136/data-scientist-ii/job)
@@ -260,7 +259,9 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 :::
 
 ::: {#second-column}
-![Coming Soon - Cloud Data System Engineer](img/team/coming_soon.png){width=80%}
+![Josh Southam - Cloud Data System Engineer](img/team/josh-southam.jpg){width=80%}
+
+Josh has a background in utilizing cloud technologies to deploy innovative, scalable, and secure data systems in both higher education and biotech environments. At Fred Hutch, this will continue to be his focus – optimizing our platform to enable the best environment for our science.  He supports our cloud based [translational data product and infrastructure tooling](tools.qmd) with our engineering team. 
 
 :::
 ::::
@@ -276,8 +277,9 @@ Sean has experience in project management spanning multiple industries and funct
 :::
 ::: {#second-column}
 
-![Anna Oldre - Technical Program Manager](img/team/coming_soon.png){width=80%}
+![Anna Oldre - Technical Program Manager](img/team/anna-oldre.jpg){width=80%}
 
+Anna has a background in technical product and program management. Prior to joining the team, she worked in the technology industry, including positions at Amazon and Tableau (Salesforce).  She is our Product Manager with our engineering team doing our [translational data product and infrastructure development](tools.qmd). 
 
 :::
 ::::

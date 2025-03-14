@@ -254,8 +254,9 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 ::: {#first-column}
 
 
-![Coming Soon - Engineering Manager](img/team/coming_soon.png){width=80%}
+![Flavio Fenley - Engineering Manager](img/team/flavio-fenley.jpg){width=80%}
 
+Flavio is a data engineering leader with experience in health-tech, specializing in modernizing architectures and optimizing data platforms. He drives secure and scalable solutions, mentors teams, and ensures data systems support business growth and technical innovation.
 
 :::
 

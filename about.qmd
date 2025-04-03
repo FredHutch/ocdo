@@ -447,34 +447,6 @@ The Data Scientist II will develop and maintain computational tools to support b
 
 :::
 
-::: card
-
-::: card-body
-
-::: card-title
-
-
-##### Analytics Engineer II
-
-
-:::
-
-::: card-text
-
-We're looking for an Analytics Engineer to design, build, and maintain data models and pipelines that support AI-driven research and translational data science. The role involves ensuring data quality and governance, collaborating with cross-functional teams, and documenting and democratizing clinical and research datasets. This position emphasizes open science, reproducible research, and fostering an inclusive culture to advance cancer and infectious disease breakthroughs.
-
-:::
-
-::: card-link
-
-[Apply here!](https://careers-fhcrc.icims.com/jobs/29138/job)
-
-:::
-
-:::
-
-:::
-
 ### Fred Hutch Jobs
 
 Check out the [Fred Hutch Cancer Center Careers page](https://www.fredhutch.org/en/about/careers/job-openings.html#eyJrZXl3b3JkcyI6IiIsImNhcmVlckNhdGVnb3J5IjpbIkMzNTgxMDIiXSwibG9jYXRpb24iOltdfQ==) for more info on current data oriented jobs across the Center.  

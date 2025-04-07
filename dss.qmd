@@ -32,12 +32,12 @@ Our team supports the use of biomedical datasets in the research context that of
 
 **Workflow Support in WILDS**
 
-We're developing resources in collaboration with the Fred Hutch IT Scientific Computing group to support simplified interfaces to computing resources through our project [PROOF](https://sciwiki.fredhutch.org/dasldemos/proof-how-to/). This will facilitate users running WDL workflows on our cluster and you can find our emerging resources in our WILDS GitHub organization, such as our [WDL supports](https://github.com/orgs/getwilds/repositories?q=cromwell+OR+WDL&type=all&language=&sort=).
+We're developing resources in collaboration with the Fred Hutch IT Scientific Computing group to support simplified interfaces to computing resources through our project [PROOF](https://sciwiki.fredhutch.org/datademos/proof-how-to/). This will facilitate users running WDL workflows on our cluster and you can find our emerging resources in our WILDS GitHub organization, such as our [WDL supports](https://github.com/orgs/getwilds/repositories?q=cromwell+OR+WDL&type=all&language=&sort=) and [WILDS Docker Library](https://github.com/getwilds/wilds-docker-library).
 
 
 **Research Data Applications**
 
-We support the private [Fred Hutch instance of cBioPortal](/tools/#cbioportal) in collaboration with Fred Hutch IT's [Scientific Computing group](https://centernet.fredhutch.org/u/it/scicomp.html). cBioPortal allows users to easily explore multidimensional cancer genomics data with an intuitive point-and-click interface. For more information, read the [SciWiki documentation](https://sciwiki.fredhutch.org/dasldemos/fh-cbio-intro/) and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to try it out.
+We support the private [Fred Hutch instance of cBioPortal](https://sciwiki.fredhutch.org/datascience/cbioportal/) in collaboration with Fred Hutch IT's [Scientific Computing group](https://centernet.fredhutch.org/u/it/scicomp.html). cBioPortal allows users to easily explore multidimensional cancer genomics data with an intuitive point-and-click interface. For more information, read the [SciWiki documentation](https://sciwiki.fredhutch.org/datademos/fh-cbio-intro/) and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to try it out.
 
 ### Connect with us
 

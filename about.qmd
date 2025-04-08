@@ -129,9 +129,9 @@ Chris Lo is a data science trainer who is passionate about helping biomedical an
 :::: {layout-ncol=2}
 ::: {#first-column }
 
-![Monica Gerber - Translational Analytics Manager](img/team/monica-gerber.jpg){width=80%}
+![Monica Gerber - Data Science Manager](img/team/monica-gerber.jpg){width=80%}
 
-Monica has a background in biostatistics and epidemiology. She's interested in helping translational staff implement reproducible workflows for statistical analysis, working on ways to pair technical shifts with cultural shifts to advance science, and building inclusive data science communities. She leads our [Clinical Data Science](dss.qmd#clinical-data-science) efforts as part of our Translational Data Science and Software team.
+Monica has a background in biostatistics and epidemiology. She leads our [Clinical Data Science](dss.qmd#clinical-data-science) efforts as part of our Translational Data Science and Software team.
 
 
 [More about Monica](https://www.linkedin.com/in/monica-gerber/)
@@ -193,8 +193,6 @@ Vivek has a background in biomedical informatics, statistics, and computer scien
 
 ::: {#second-column }
 ![TBH - Analytics Engineer](img/job.png){width=80%}
-
-[Apply here!](https://careers-fhcrc.icims.com/jobs/29138/job)
 
 
 :::

@@ -12,7 +12,7 @@ Our group provides data strategy and data governance support across the entire F
 Our approach to supporting Fred Hutch staff focuses on the following guiding principles. 
 
 
-#### Advance a Unified Data Strategy Through Collaboration
+#### Advance a Unified Data Strategy Through Data and Technology Collaborations 
 
 Close collaboration between data and technology teams empowers our staff to lead and innovate in clinical care and translational research.  By working together to shape and implement a cohesive data strategy, we drive progress in clinical care, research, and operations, adapting to emerging needs and opportunities in data science and technology.
 
@@ -63,30 +63,27 @@ Please request to be added to the relevant Data Noon Community Call or to receiv
 
 
 
-
-
 ## Our Strategic Priorities
 Since our inception in the summer of 2022, these priorities have evolved to reflect the high-level needs voiced by the Fred Hutch data community. They guide our work to maximize impact on the daily data experiences of Fred Hutch staff.  They are informed by the Fred Hutch Strategic Priorities and aim to identify opportunities that make progress toward our collective goals and mitigate data related risk.  
 
-### Data Infrastructure, Partnerships and Strategy
-The recent merger creating a hybrid clinical and research institute at Fred Hutch brings together diverse skills, perspectives, and goals that foster innovation. To support a feedback loop between biomedical discovery and clinical care, we aim to develop a cohesive data ecosystem guided by a comprehensive data strategy. Through a continuous improvement cycle, we strategically and responsively coordinate data infrastructure to empower all staff in making data-driven decisions and discoveries. This priority includes building technology and philanthropic partnerships to leverage cutting-edge innovations that deepen our understanding of disease, therapeutics, and patient outcomes.
+### Data Partnerships and Strategy
 
+The merger making Fred Hutch a hybrid clinical and research institute brings together diverse skills, perspectives, and goals that accelerate innovation. To realize this potential, we nucleate institution-wide efforts to build a unified, ethical, and scalable data ecosystem through iterative, use-case-driven, and transparent processes.  Our leadership works across clinical and research domains to shape data and AI strategy, connect Fred Hutch with technology and data science partners, and foster communities of practice.
 
 ### Data Governance
-We work collaboratively across Fred Hutch to build a network for [ethical data use and stewardship](gov.qmd) support. By partnering with departments such as Legal, Compliance, Business Development and Information Security, we support communication and documentation to increase staff awareness of data governance policies and procedures. We help investigators navigate data policy and governance resources, such as data use agreements, software licensing, and IRB guidance. We also contribute to organization-wide initiatives related to data governance such as Cancer Consortium data sharing, connecting patients' data to research and staff data stewardship literacy.
 
-### Translational Data Science
-As a hybrid organization, Fred Hutch is uniquely positioned to connect clinical and research data through translational data science, analytics and informatics. Our [Translational Data Science teams](dss.qmd) have expertise that bridges healthcare data to large-scale laboratory datasets to support clinical trials, translational data science and AI initiatives. This work creates a continuous feedback loop between clinical care and research, accelerating progress toward a learning healthcare system to advance cancer care.
+We work to advance ethical, compliant, and responsible data use across Fred Hutch through cross-departmental support through data related policies, processes, and staff education that strengthen data stewardship in clinical care and research. We help staff navigate data access, sharing, licensing, and regulatory requirements, and we support emerging areas such as AI governance. We also lead cross-institution data governance initiatives supporting Cancer Consortium data sharing to enable adult oncology initiatives. Through this work, we ensure that high-quality, timely data can be leveraged to drive discovery while protecting patient privacy and institutional integrity.  
 
-### Data Product & Software Development
-To support research and clinical staff, we develop [translational data products](dss.qmd) as well as web applications, process automation, and scientific software that facilitate effective data use and integration. Our collaborative approach enables Fred Hutch staff to pilot, share, and publish custom applications and software and we work closely with technology teams to integrate these [tools](tools.qmd) into the Fred Hutch data ecosystem.
+### Translational Data Science and AI
 
+Fred Hutch’s hybrid role in clinical care and research gives us the opportunity to connect real-world patient data with laboratory discoveries with data and technology to enable a learning healthcare system.  We work to develop scalable translational data products — including large scale analysis workflows, statistical and machine learning models and multimodal data packages —  that span both the research and clinical domains, enhancing integration of data across Fred Hutch. As the use of AI systems rapidly expands, we are also focused on enabling their ethical, effective adoption through governance processes, education, and technical consultation.  
 
-### Training and Documentation
-We champions democratizing data science expertise by providing a comprehensive range of [training resources](training.qmd), including in-person, hybrid, and self-paced courses, as well as workshops, seminars, and documentation. Supporting an evolving data community requires open, accessible documentation to enhance knowledge sharing. Our training group also collaborates on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org), a community-driven knowledge base that shares best practices and showcases data science resources at Fred Hutch and beyond.
+### Translational Tools and Data Products
 
+Our team is building the data and technology foundations needed to power the next generation of translational data science. Through our efforts, we connect data engineering, data science, data governance and product development to create a secure, scalable, well-governed platform that bridges clinical care and research.  At the heart of this work is our Clinical and Research Data System (CARDS) — the emerging backbone of Fred Hutch’s translational data ecosystem. CARDS integrates multimodal clinical data to enable new capabilities across clinical trials, precision oncology, data science, and AI innovation. Our vision is to democratize access to high-quality, actionable data, and to deliver scalable data products that empower researchers and clinicians to securely explore, analyze, and accelerate life-saving discoveries.
 
-### Data Science Communities
-We are committed to fostering a vibrant data science community at Fred Hutch to promote democratized access, collaboration, and mentorship. Our initiatives — including [Learning Communities](programs/communities.qmd), the [Fred Hutch Data Slack workspace](https://join.slack.com/t/fhdata/signup), our [Monday Morning Data Science](https://fhdata.substack.com/) newsletter, and regular [events](https://centernet.fredhutch.org/u/data-science-lab.html) — connect individuals across research and clinical arenas, creating spaces for collaboration and support.
+### Training, Documentation and Communities of Practice
+
+Our goal is to create a data environment where the entire Fred Hutch community is equipped to leverage data and technology to drive breakthroughs in research, improve patient care, and transform healthcare delivery.  Our efforts are designed to empower every member of the organization with the skills, knowledge, and support they need to harness the full potential of data science, AI, and technology in their everyday work.  Through a wide range of training programs — including live courses, workshops, and collaborative learning opportunities — we aim to foster accessible opportunities for continuous learning and development for all staff.
 
 

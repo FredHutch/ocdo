@@ -192,7 +192,11 @@ Vivek has a background in biomedical informatics, statistics, and computer scien
 :::
 
 ::: {#second-column }
-![TBH - Analytics Engineer](img/job.png){width=80%}
+![Megan Stachura - Analytics Engineer](img/team/megan-stachura.jpeg){width=80%}
+
+Megan has a background in environmental sciences and statistical modeling. Through that work she discovered a passion for supporting data infrastructure providing high-quality data for decision making, analysis, and collaboration. She is working to develop a common data model to bring together data cross domains at Fred Hutch.
+
+[More about Megan](https://www.meganstachura.com)
 
 
 :::

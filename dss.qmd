@@ -20,7 +20,7 @@ Our team supports clinical data science at Fred Hutch by analyzing real-world da
 
 ### Connect with us
 
-Fred Hutch patient data access for research and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/patient-data.html). E-mail us about partnering on other clinical data science projects: `analytics@fredhutch.org`. 
+Fred Hutch patient data access for research and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/data-governance/patient-data.html). E-mail us about partnering on other clinical data science projects: `analytics@fredhutch.org`. 
 
 ## Research Informatics
 

@@ -64,26 +64,25 @@ Please request to be added to the relevant Data Noon Community Call or to receiv
 
 
 ## Our Strategic Priorities
-Since our inception in the summer of 2022, these priorities have evolved to reflect the high-level needs voiced by the Fred Hutch data community. They guide our work to maximize impact on the daily data experiences of Fred Hutch staff.  They are informed by the Fred Hutch Strategic Priorities and aim to identify opportunities that make progress toward our collective goals and mitigate data related risk.  
+Since our inception in the summer of 2022, these priorities have evolved to reflect the high-level needs voiced by the Fred Hutch data community. They guide our work to maximize impact on the daily data experiences of Fred Hutch staff.  They are informed by the Fred Hutch Strategic Priorities and aim to identify opportunities that make progress toward our collective goals and mitigate data related risk (updated in Spring of 2025).
 
-### Data Partnerships and Strategy
+### **Data Partnerships and Strategy**
 
 The merger making Fred Hutch a hybrid clinical and research institute brings together diverse skills, perspectives, and goals that accelerate innovation. To realize this potential, we nucleate institution-wide efforts to build a unified, ethical, and scalable data ecosystem through iterative, use-case-driven, and transparent processes.  Our leadership works across clinical and research domains to shape data and AI strategy, connect Fred Hutch with technology and data science partners, and foster communities of practice.
 
-### Data Governance
+### **Data Governance**
 
 We work to advance ethical, compliant, and responsible data use across Fred Hutch through cross-departmental support through data related policies, processes, and staff education that strengthen data stewardship in clinical care and research. We help staff navigate data access, sharing, licensing, and regulatory requirements, and we support emerging areas such as AI governance. We also lead cross-institution data governance initiatives supporting Cancer Consortium data sharing to enable adult oncology initiatives. Through this work, we ensure that high-quality, timely data can be leveraged to drive discovery while protecting patient privacy and institutional integrity.  
 
-### Translational Data Science and AI
+### **Translational Data Science and AI**
 
 Fred Hutch’s hybrid role in clinical care and research gives us the opportunity to connect real-world patient data with laboratory discoveries with data and technology to enable a learning healthcare system.  We work to develop scalable translational data products — including large scale analysis workflows, statistical and machine learning models and multimodal data packages —  that span both the research and clinical domains, enhancing integration of data across Fred Hutch. As the use of AI systems rapidly expands, we are also focused on enabling their ethical, effective adoption through governance processes, education, and technical consultation.  
 
-### Translational Tools and Data Products
+### **Translational Tools and Data Products**
 
 Our team is building the data and technology foundations needed to power the next generation of translational data science. Through our efforts, we connect data engineering, data science, data governance and product development to create a secure, scalable, well-governed platform that bridges clinical care and research.  At the heart of this work is our Clinical and Research Data System (CARDS) — the emerging backbone of Fred Hutch’s translational data ecosystem. CARDS integrates multimodal clinical data to enable new capabilities across clinical trials, precision oncology, data science, and AI innovation. Our vision is to democratize access to high-quality, actionable data, and to deliver scalable data products that empower researchers and clinicians to securely explore, analyze, and accelerate life-saving discoveries.
 
-### Training, Documentation and Communities of Practice
+### **Training, Documentation and Communities of Practice**
 
 Our goal is to create a data environment where the entire Fred Hutch community is equipped to leverage data and technology to drive breakthroughs in research, improve patient care, and transform healthcare delivery.  Our efforts are designed to empower every member of the organization with the skills, knowledge, and support they need to harness the full potential of data science, AI, and technology in their everyday work.  Through a wide range of training programs — including live courses, workshops, and collaborative learning opportunities — we aim to foster accessible opportunities for continuous learning and development for all staff.
-
 

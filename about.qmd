@@ -228,10 +228,11 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 :::: {layout-ncol=2}
 ::: {#first-column }
 
-![TBH - Research Informatics Data Scientist](img/job.png){width=80%}
+![Emma Bishop - Research Informatics Data Scientist](img/team/emma-bishop.jpg){width=80%}
 
+Emma to write a super awesome blurb about herself here!
 
-[Apply here!](https://careers-fhcrc.icims.com/jobs/29136/data-scientist-ii/job)
+[More about Emma](https://github.com/emjbishop)
 
 :::
 

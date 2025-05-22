@@ -58,10 +58,10 @@ Abby has experience in program, product, and project management for bioinformati
 ::: {#first-column }
 
 
-![TBH - Data Governance Specialist; Consortium and Clinical Data Governance Program Manager](img/job.png){width=80%}
+![Tyreesha Lambert - Data Governance Specialist; AI and Research Data Protections Program Manager](img/team/ty-lambert.jpg){width=80%}
 
+Tyreesha has a background in privacy and compliance. In her role she supports data governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
 
-[Apply here!](https://careers-fhcrc.icims.com/jobs/29329/job)
 
 
 :::
@@ -71,9 +71,8 @@ Abby has experience in program, product, and project management for bioinformati
 
 
 
-![Tyreesha Lambert - Data Governance Specialist; AI and Research Data Protections Program Manager](img/team/ty-lambert.jpg){width=80%}
+![Coming Soon - Data Governance Specialist; Consortium and Clinical Data Governance Program Manager](img/team/coming_soon.png){width=80%}
 
-Tyreesha has a background in privacy and compliance. In her role she supports data governance activities related to AI governance and research data stewardship. Prior to joining the team, she worked at Amazon and Delta Dental of Washington.
 
 
 :::
@@ -84,10 +83,10 @@ Tyreesha has a background in privacy and compliance. In her role she supports da
 :::: {layout-ncol=2}
 ::: {#first-column }
 
-![Gina Fonseca Crescioni - Data Governance Specialist](img/team/gina-fc.jpg){width=80%}
+![Gina Fonseca Crescioni - Data Governance Specialist; Translational Data Governance](img/team/gina-fc.jpg){width=80%}
 
 
-Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the [data governance team](gov.qmd), she focuses on ensuring the integrity, privacy, and accessibility of patient and research data.
+Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the [data governance team](gov.qmd), she focuses on ensuring the integrity, privacy, and accessibility of patient and research data and data governance of our translational data applications and resources. 
 
 
 :::
@@ -228,10 +227,9 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 :::: {layout-ncol=2}
 ::: {#first-column }
 
-![TBH - Research Informatics Data Scientist](img/job.png){width=80%}
+![Coming Soon- Research Informatics Data Scientist](img/team/coming_soon.png){width=80%}
 
 
-[Apply here!](https://careers-fhcrc.icims.com/jobs/29136/data-scientist-ii/job)
 
 :::
 
@@ -393,33 +391,9 @@ We have a group of affiliated researchers and training staff who focus on a vari
 
 ## Jobs
 
-Come work with us! 
+Check back later, our team is currently full!
 
 
-::: card
-
-::: card-body
-
-::: card-title
-
-##### Data Governance Specialist III - Consortium and Clinical Data Governance Program Manager
-
-:::
-
-::: card-text
-
-We are looking for a new team member to join us to manage our Consortium and Clinical Data Governance program.  As part of the Cancer Consortium, and as a hybrid patient care and research organization, our Data Governance program manager helps us enable the connections between our cancer care data and our research teams by creating processes that enable ethical data stewardship and the protection of patient data and privacy.  This is a critical role on our team and we’re looking for a great listener, communicator and consensus-builder who wants to approach translational data governance-as-an-enablement at Fred Hutch.  
-:::
-
-::: card-link
-
-[Apply here!](https://careers-fhcrc.icims.com/jobs/29329/job)
-
-:::
-
-:::
-
-:::
 
 ### Fred Hutch Jobs
 

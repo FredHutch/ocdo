@@ -230,7 +230,7 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 
 ![Emma Bishop - Research Informatics Data Scientist](img/team/emma-bishop.jpg){width=80%}
 
-Emma to write a super awesome blurb about herself here!
+Emma has a background in oncology clinical research and bioinformatics, with expertise in single-cell analysis. At Fred Hutch, she builds tools to meet data science needs across the institution.
 
 [More about Emma](https://github.com/emjbishop)
 

@@ -33,7 +33,7 @@ We're developing resources in collaboration with the Fred Hutch IT Scientific Co
 
 **Research Data Applications**
 
-We support the private [Fred Hutch instance of cBioPortal](https://sciwiki.fredhutch.org/datascience/cbioportal/) in collaboration with Fred Hutch IT's [Scientific Computing group](https://centernet.fredhutch.org/u/it/scicomp.html). cBioPortal allows users to easily explore multidimensional cancer genomics data with an intuitive point-and-click interface. For more information, read the [SciWiki documentation](https://sciwiki.fredhutch.org/datademos/fh-cbio-intro/) and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to try it out.
+We support the private [Fred Hutch instance of cBioPortal](https://sciwiki.fredhutch.org/datascience/cbioportal/) in collaboration with Fred Hutch IT's [Scientific Computing group](https://centernet.fredhutch.org/u/it/scicomp.html). cBioPortal allows users to easily explore multidimensional cancer genomics data with an intuitive point-and-click interface. For more information, read the [SciWiki documentation](https://sciwiki.fredhutch.org/datascience/cbioportal/) and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to try it out.
 
 ### Connect with us
 

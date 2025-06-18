@@ -40,7 +40,7 @@ The [Fred Hutch deployment of cBioPortal](https://cbioportal.fredhutch.org/) pro
 - Additionally, this instance and our administration plans have been reviewed and approved by InfoSec to allow users to include individually identifiable research data in their data uploads when investigators have clear IRB approvals in place. 
 
 ::: {.callout-note appearance="minimal"}
-For more details on what the Fred Hutch instance of cBioPortal can do for you, read our Fred Hutch cBioPortal [product page](https://sciwiki.fredhutch.org/datascience/cbioportal/) and [documentation](https://sciwiki.fredhutch.org/dasldemos/fh-cbio-intro/) on the Fred Hutch SciWiki and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to give it a spin.
+For more details on what the Fred Hutch instance of cBioPortal can do for you, read our Fred Hutch cBioPortal [product page](https://sciwiki.fredhutch.org/datascience/cbioportal/) on the Fred Hutch SciWiki and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to give it a spin.
 :::
 
 ## Translational Applications and Tools

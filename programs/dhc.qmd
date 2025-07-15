@@ -50,21 +50,6 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).
 
 
 
-## Data Partnerships
-
-Use this [Data House Call](https://calendly.com/data-house-calls/partnerships) if you are interested in a Data Science Partnership with an external partner. Some examples of areas you might be interested in exploring:
-
-- You have a gap in data science and/or technology need that would benefit from a known (or unknown) partner.
-- You have been contacted by a data science and/or technology company that is interested in partnering and could use a sounding board for if/how to proceed.
-- You are interested in an offering from a data science and/or technology company that you would like someone to help you assess for fit.
-
-Or any other questions you have that relate to Data Science Partnerships.
-
-
-
-::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/partnerships).  
-:::
 ## Data Policy and AI
 
 Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) for questions about data policy, data protection and AI use cases.

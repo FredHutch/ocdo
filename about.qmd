@@ -71,9 +71,9 @@ Tyreesha has a background in privacy and compliance. In her role she supports da
 
 
 
-![Coming Soon - Data Governance Specialist; Consortium and Clinical Data Governance Program Manager](img/team/coming_soon.png){width=80%}
+![Abby Karikari - Data Governance Specialist; Consortium and Clinical Data Governance Program Manager](img/team/abby-karikari.jpg){width=80%}
 
-
+Abby has a background in program management, clinical data management, regulatory compliance, data privacy, and ethical research oversight. In her role as Data Governance Consortium and Clinical Program Manager, she'll be leading governance councils, managing external relationships, and serving as the primary expert for clinical data governance functions.
 
 :::
 ::::

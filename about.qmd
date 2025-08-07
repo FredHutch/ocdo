@@ -321,69 +321,41 @@ Chetan designs data pipelines for healthcare research while supporting tool deve
 :::: {layout-ncol=2}
 ::: {#first-column}
 
-
-![Sandy Ombrek - Senior Program Operations Director](img/team/sandy-ombrek.jpg){width=80%}
-
-
-A northwest native, Sandy began working at Fred Hutch in 1984. In her tenure, Sandy has worked in the PHS Division office, the epidemiology program, PHS Labs, and since 2000 in the Biostatistics Program before joining the group. 
-:::
-
-::: {#second-column}
-
 ![Sana Hirata - Associate Program Operations Director](img/team/sana-hirata.jpg){width=80%}
-
 
 Sana has been working at Fred Hutch since 2019. Prior to joining the group, she supported implementation of clinical trials in the Bezos Family Immunotherapy Clinic as a project manager in the Immunotherapy Integrated Research Center Project Management Office (IIRC PMO).
 
 :::
-::::
 
-
-:::: {layout-ncol=2}
-::: {#first-column}
+::: {#second-column}
 
 ![Maleah O'Connor - Research Administration Manager](img/team/maleah-oconnor.jpg){width=80%}
 
 Maleah has a background in Grant Manager with a focus on federal and foundation grants. She ensures grant compliance and manages all financial aspects of grant funded programs.
 
-
 [More about Maleah](https://www.linkedin.com/in/maleah-o-connor/)
-
-:::
-
-::: {#second-column}
-
-![Maria Owen - Program Administrator, Data Governance](img/team/ScooterMuppet.jpg){width=80%}
-
-Maria has a background in higher education administration and public health grant initiatives. She works with our Data Governance team to facilitate coordination across our governance collaborations across external and internal partners.  
 
 :::
 ::::
 
+
 :::: {layout-ncol=2}
 ::: {#first-column}
+
+![Maria Owen - Program Administrator, Data Governance](img/team/ScooterMuppet.jpg){width=80%}
+
+Maria has a background in higher education administration and public health grant initiatives. She works with our Data Governance team to facilitate coordination across our governance collaborations across external and internal partners.
+
+:::
+
+::: {#second-column}
 
 ![Shelly Erez - Executive Assistant to the VP/CDO](img/team/shelly-erez.jpeg){width=80%}
 
 Shelly brings a strong background as a social worker, where she developed a passion for helping others and refining her communication and problem-solving skills. Now, she finds fulfillment in administrative operations, supporting leadership and creating efficient workflows. With a compassionate approach and attention to detail, Shelly is dedicated to making a positive impact.
 
 :::
-
-::: {#second-column}
-
-
-:::
 ::::
-
-
-
-
-
-
-
-
-
-
 
 ## DaSL Research Affiliates
 We have a group of affiliated researchers and training staff who focus on a variety of different data science education efforts externally to the Fred Hutch.  You can find more about them and their work on our [hutchdatascience.org](https://hutchdatascience.org/).

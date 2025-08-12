@@ -33,58 +33,56 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 
 
 ## General
-Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/VB6niny2jkaG2pdOglIplw2c) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
+Use this [Data House Call](https://calendly.com/data-house-calls/misc) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/VB6niny2jkaG2pdOglIplw2).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  
 :::
 
-## Clinical Data Governance
+## Clinical Data Access and Tools
 
-We provide guidance on accessing and using patient and healthcare data for research in compliance with policies and governance requirements. Topics may include navigating RADaR, disclosure processes for PHI, use of CARDS resources for IRB protocols, and cross-institutional data sharing. Sharing your needs in advance helps us bring in the right experts to address your questions efficiently.
-
-Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/x7Fhy2MuH0OuhtwmHKi38w2) for questions about:
-
-- Support navigating patient data access through RADaR (Research Access to Data Review for Healthcare data),
-
-- Guidance regarding data governance, data access, disclosure process requirements for Healthcare data (PHI),
-
-- Information on current policies or processes for appropriate data access, use, and sharing such as CARDS Data Resource Supplement requests for IRB protocols,
-
-- Support for gaining access to or using patient data for a different purpose where a governance review of your use case may be required,
-
-- Questions regarding Consortium data governance and sharing relationships such as UWM and Seattle Children's.
-
-> Note:  We often pull in folks from the DaSL team to provide expert advice so please describe the resource in question and your specific needs with that resource so we can try to have the right staff ready.
-
+Use this [Data House Call](https://calendly.com/data-house-calls/cards) for more information about the current status of translational patient data access, CARDS platform development and associated efforts that are upcoming related to patient data governance, infrastructure and data science capabilities. 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/x7Fhy2MuH0OuhtwmHKi38w2).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/cards).  
 :::
 
 
 
-## Research Data and AI Support
+## Data Policy and AI
 
-We provide guidance on ethical AI use with patient and research data, research data tooling support, data use agreements, and regulated data stewardship. We can also assist with preparing funding agency data sharing plans, the NIH Genomic Data Use Certification process, and genomic data stewardship plans. We focus on areas managed by the OCDO and can connect you to other experts for topics outside our scope.
+Use this [Data House Call](https://calendly.com/data-house-calls/data-policy) for questions about data policy, data protection and AI use cases.
 
-Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/Za2VlkjdWkeCgWJkeonMQg2) for questions about:
+- Inquire about the status of our AI interim policy and guidance for use of AI with patient and research data,
+- Ask questions about data use agreements, IRB protocols, and other data privacy or security concerns,
+- Get guidance regarding what aspects of our our data infrastructure supports your intended work.
 
-- Artificial Intelligence Review (AIR) support, guidance for use of AI with patient and research data and broadly approved AI use case guidance,
-- Get guidance regarding what aspects of our data tools and infrastructure supports your intended work,
-- Ask questions about Data Use Agreements and get Regulated Data Stewardship support,
-- Ask questions and get help preparing NIH or other funding agency Data Sharing Plans,
-- Get guidance on the NIH Data Use Certification Process and assistants with creating a NIH Genomic Data Stewardship Plan.
 
->Note, many of these topics can be supported by various other subject matter expert groups at the Fred Hutch. This DHC serves primarily as advice where OCDO is responsible for aspects of these issues and navigation support for finding an expert to help you for those aspects that we are not.
+>Note, many of these topics can be supported by various other subject matter expert groups at the Fred Hutch. This DHC serves primarily as advice where DaSL is responsible for aspects of these issues and navigation support for finding an expert to help you for those aspects that we are not.
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/Za2VlkjdWkeCgWJkeonMQg2).  
-:::]
+Schedule this [Data House Call](https://calendly.com/data-house-calls/data-policy).  
+:::
+## Data Sharing, Study Planning and Grants
 
 
+Use this [Data House Call](https://calendly.com/data-house-calls/sharing) for questions about data sharing and planning such as:
+
+- preparing NIH or other funding agency Data Sharing Plans,
+- grant materials regarding DaSL support services available,
+- data sharing and/or tools to move and share data,
+- lab or research collaboration data management planning,
+- data use agreements or research data stewardship support,
+- resources available to support your grant applications.
+
+Or other questions you have that you feel might relate to this topic!
+
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/sharing).  
+:::
 
 ## Research Data Management
 

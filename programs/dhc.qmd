@@ -12,7 +12,7 @@ Typically 1-2 DaSL staff members are available for any given topic with an eye t
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule a [Data House Call](https://calendly.com/data-house-calls).  
+Schedule a [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/).  
 :::
 Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here and select one of the data oriented topics (or when in doubt, you can always schedule a General Data House Call). See below for descriptions about each Data House Call Type.  
 :::
@@ -33,7 +33,7 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 
 
 ## General
-Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/VB6niny2jkaG2pdOglIplw2c) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
+Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/VB6niny2jkaG2pdOglIplw2) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
 
 
 ::: {.callout-tip appearance="simple"}
@@ -86,30 +86,38 @@ Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouse
 
 
 
-## Research Data Management
+## Research Computing and Data Management
 
+We support research data management and scaling up your data analysis using Fred Hutch infrastructure and recommended tools.  This includes guidance around where to store your data so you can develop scalable analyses and leverage our computing resources for your work.  We often pull in support from Scientific Computing when your questions relate also to infrastructure based on the notes you provide.  
 
+Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/8Ta9nXrTYEuAdWmMbAiTcA2) for questions about how to run your code or analysis more effectively and scale up your work via:
 
-Use this [Data House Call](https://calendly.com/data-house-calls/management) for questions about research data management, infrastructure or tools.
-
-
-- Developing lab or group data management schemes that support research, leverage FHCC infrastructure and are cost effective
-- Transferring, storing or collaborating on large datasets
-- Accessing data in cloud storages
-- Accessing public datasets
-- How to work with licensed or private datasets ([see the Data Policy and AI DHC for support for Data use agreements](programs/dhc.qmd#data-policy-and-ai))
-- Learning about and accessing FHCC hosted datasets (e.g., data from our clinics, our large research groups, and reference datasets)
-- Managing and accessing reference datasets such as genome data, common bioinformatic tool reference data sets
+- Using our computing cluster
+- Writing and running scientific workflows
+- Bioinformatics software and environment management (including Docker!)
+- Leveraging Git/GitHub for code management and sharing
+- Accessing data in our various storage locations and public datasets such as reference datasets including genome data, common bioinformatic tool reference data sets
+- Collaboration and sharing of workflows, environments and large datasets
 
 Or other questions you have that you feel might relate to this topic!
+
+> Note: Often we pull in folks from the Scientific Computing or Data Governance teams to provide expert advice as well so please describe your needs well so we can try to have the right staff ready.
+>
+
 
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/management).  
+Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/8Ta9nXrTYEuAdWmMbAiTcA2).  
 :::
+
 ## Code and Software: R, Python and Beyond
-Use this [Data House Call](https://calendly.com/data-house-calls/code) for questions about learning, writing and managing code and research software.
+
+
+We are here to field questions about writing code, working with software, managing computing environments, and software development. If you are working with or learning R, Python, Conda, Git/GitHub, the command line, Shiny, Jupyter, VSCode, or anything related we are happy to talk.
+
+
+Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/m9okIkclgkyGMaHuQNZktg2) for questions about learning, writing and managing code and research software such as:
 
 - R
 - Python
@@ -120,43 +128,39 @@ Use this [Data House Call](https://calendly.com/data-house-calls/code) for quest
 Or other questions you have that you feel might relate to this topic!
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/code).  
+Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/m9okIkclgkyGMaHuQNZktg2).  
 :::
-## Research Computing: Running and Scaling your Analyses
 
-Use this [Data House Call](https://calendly.com/data-house-calls/computing) for questions about how to run your code or analysis more effectively and scale up your work via:
-
-- Using our computing cluster
-- Writing and running scientific workflows
-- Bioinformatics software and environment management (including Docker!)
-- Leveraging Git/GitHub for code management and sharing
-- Leveraging cloud based data storage and/or computing
-- Collaboration and sharing of workflows, environments and large datasets
-
-Or other questions you have that you feel might relate to this topic!  
-
->Note: Often we pull in folks from the Scientific Computing team to provide expert advice as well so please describe your needs well so we can try to have the right staff ready.
-
-
-
-::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/computing).  
-:::
 
 
 ## DaSL Supported Resources
+We provide support for questions about DaSL-supported resources like PROOF, cBioPortal, WILDS, or SciWiki.   We can help you learn what these tools do, how to use them, and ways you can leverage them in your work. Based on your notes we can bring in the right DaSL experts to help if you have specific questions.  
 
-Use this [Data House Call](https://calendly.com/data-house-calls/resources) for questions about DaSL supported resources such as:
+Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/tnyC2KrBvkKBJX7wK1D1iQ2) in order to:
 
-- PROOF
-- cBioPortal
-- WILDS
-- SciWiki
+- **Learn what the resource is** – Understand its purpose, key features, and where it fits into your work.
+- **Explore how to use it** – Get guidance on setup, navigation, and best practices.
+- **Troubleshoot issues** – Work through roadblocks with help from DaSL experts.
 
-Or other questions you have that you feel might relate to this topic! Note: we often pull in folks from the DaSL team to provide expert advice so please describe the resource in question and your specific needs with that resource so we can try to have the right staff ready.
+When booking, please include the name of the resource and your specific questions so we can bring the right DaSL team members to provide targeted guidance.
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/resources).  
+Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/tnyC2KrBvkKBJX7wK1D1iQ2).  
 :::
 
+
+
+## Using Healthcare Data for Research
+
+We support research use of healthcare data for research including finding data you need and learning to develop cohorts and queries that are useful for answering research question.  We also support facilitated data extract requests for research and can discuss what our team can help you with today and in the future as we begin sharing multimodal healthcare datasets for research.
+
+Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/P5EAYR4e0US62RpMRtItNg2) meet with us about how we can help you with using healthcare data for research to answer questions such as:
+
+- I'm doing a retrospective study on prostate cancer patients, how far back to PSA lab values go?
+- I'm recruiting for a clinical research study, how do I find a list of potentially eligible patients?
+- I'm studying the social and behavioral determinants of health on treatment outcomes, how do I find questionnaire data collected in the clinic for my cohort of patients?
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/P5EAYR4e0US62RpMRtItNg2).  
+:::
 

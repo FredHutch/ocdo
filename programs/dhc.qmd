@@ -12,7 +12,7 @@ Typically 1-2 DaSL staff members are available for any given topic with an eye t
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule a [Data House Call](https://calendly.com/data-house-calls).  
+Schedule a [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/).  
 :::
 Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here and select one of the data oriented topics (or when in doubt, you can always schedule a General Data House Call). See below for descriptions about each Data House Call Type.  
 :::
@@ -33,7 +33,7 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 
 
 ## General
-Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/VB6niny2jkaG2pdOglIplw2c) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
+Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/VB6niny2jkaG2pdOglIplw2) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one.
 
 
 ::: {.callout-tip appearance="simple"}
@@ -136,7 +136,7 @@ Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouse
 ## DaSL Supported Resources
 We provide support for questions about DaSL-supported resources like PROOF, cBioPortal, WILDS, or SciWiki.   We can help you learn what these tools do, how to use them, and ways you can leverage them in your work. Based on your notes we can bring in the right DaSL experts to help if you have specific questions.  
 
-Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/8Ta9nXrTYEuAdWmMbAiTcA2) in order to:
+Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/tnyC2KrBvkKBJX7wK1D1iQ2) in order to:
 
 - **Learn what the resource is** – Understand its purpose, key features, and where it fits into your work.
 - **Explore how to use it** – Get guidance on setup, navigation, and best practices.
@@ -145,7 +145,7 @@ Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@
 When booking, please include the name of the resource and your specific questions so we can bring the right DaSL team members to provide targeted guidance.
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/8Ta9nXrTYEuAdWmMbAiTcA2).  
+Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/tnyC2KrBvkKBJX7wK1D1iQ2).  
 :::
 
 

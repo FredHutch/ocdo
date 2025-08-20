@@ -152,7 +152,7 @@ Schedule this [Data House Call](https://outlook.office.com/book/GeneralDataHouse
 
 ## Using Healthcare Data for Research
 
-We support research use of healthcare data for research including finding data you need and learning to develop cohorts and queries that are useful for answering research question.  We also support facilitated data extract requests for research and can discuss what our team can help you with today and in the future as we begin sharing multimodal healthcare datasets for research.
+We support research use of healthcare data for research including finding data you need and learning to develop cohorts and queries that are useful for answering research questions.  We also support facilitated data extract requests for research and can discuss what our team can help you with today and in the future as we begin sharing multimodal healthcare datasets for research.
 
 Use this [Data House Call](https://outlook.office.com/book/GeneralDataHouseCall@fredhutch.onmicrosoft.com/s/P5EAYR4e0US62RpMRtItNg2) meet with us about how we can help you with using healthcare data for research to answer questions such as:
 

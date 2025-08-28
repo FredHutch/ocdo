@@ -53,7 +53,7 @@ For more details on what the Fred Hutch instance of cBioPortal can do for you, r
 
 ## Translational Data Platform
 
-Fred Hutch is building a secure, scalable, and supportable technical infrastructure foundation and tools that provide a centrally governed, democratized platform. Upon this system, the Fred Hutch community can build data products and tooling leveraging multimodal Fred Hutch patient clinical data to support clinical trials, precision oncology, data science, research and AI innovation.  Clinical and Research Data System (CARDS) will become the foundation of the Fred Hutch Cancer Center’s new translational data ecosystem.
+We are building a secure, scalable, and supportable technical infrastructure foundation and tools that provide a centrally governed, democratized translational data platform, Clinical and Research Data System (CARDS).  This will allow the Fred Hutch community to build data products and tooling leveraging multimodal Fred Hutch patient clinical data to support clinical trials, precision oncology, data science, research and AI innovation. 
 
 
 ### Databricks

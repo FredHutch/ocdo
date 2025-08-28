@@ -19,12 +19,13 @@ Data governance and stewardship can be defined as the collection of institutiona
 Since its designation as a National Cancer Institute (NCI) Comprehensive Cancer Center in 1973, the Fred Hutch/University of Washington/Seattle Children’s Cancer Consortium has demonstrated a commitment to excellence in cancer research and treatment. An important part of our success as a Consortium are the data sharing relationships we maintain to facilitate cross-institutional clinical care and research. 
 
 ### UW Medicine - Fred Hutch Joint Clinical Data Governance 
-The Clinical Data Exchange Memorandum of Understanding (MOU) between Fred Hutch and UW went into effect on April 18, 2023, and called for an ongoing joint governance structure that will oversee the Parties’ collaboration relating to all Exchanged Clinical Data for Cancer-Related Care, Healthcare Operations, and Research. This joint governance structure between Fred Hutch and the University of Washington related to clinical data exchange includes an Oversight committee as well as a sub-committee which serves to address joint decision making in an ongoing way.  
+The Clinical Data Exchange Memorandum of Understanding (MOU) between Fred Hutch and UW went into effect on April 18, 2023, and called for an ongoing joint governance structure that will oversee the Parties’ collaboration relating to all Exchanged Clinical Data for Cancer-Related Care, Healthcare Operations, and Research. This joint governance structure between Fred Hutch and the University of Washington related to clinical data exchange includes an Oversight committee as well as a sub-committee which serves to address joint decision making in an ongoing way.  More information about this is in our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/data-governance/consortium.html).
 
 
 
-### Seattle Children's Hospital - Fred Hutch Governance
-Fred Hutch has a data sharing partnership with Seattle Children's Hospital.  Our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/sch-research.html) outlines some key resources prepared by the Research Data Governance Subcommittee (RDGS) related to the exchange of data for research purposes. 
+### Seattle Children's Hosptial - Fred Hutch Governance
+Fred Hutch has a data sharing partnership with Seattle Children's Hospital.  Our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/data-governance/consortium.html) outlines some key resources prepared by the Research Data Governance Subcommittee (RDGS) related to the exchange of data for research purposes. 
+
 
 
 ## Data Governance & Stewardship

@@ -1,0 +1,18 @@
+---
+title: "Data Partnerships"
+toc: true
+fig-cap-location: top
+
+---
+
+
+We aim to connect the right technology or data science partners with research and clinical use cases at Fred Hutch, collaborating with Business Development and Philanthropy to enhance research capabilities and drive innovation. Our staff cultivates external relationships with AI, technology and data science partners and identify opportunities for philanthropic investment, industry sponsorships, and technology partnerships to advance research and clinical care. 
+
+
+## Cancer AI Alliance
+Our current focus for data partnerships is the Cancer AI Alliance.  You can find out more about CAIA at it's [site](https://www.canceralliance.ai/).
+
+
+## Connect with us
+
+If you'd like to discuss what types of data partnerships and collaborations would advance your work, or to get updates on current status of our efforts please email [data@fredhutch.org](mailto:data@fredhutch.org). 

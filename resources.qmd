@@ -89,19 +89,20 @@ Monday Morning Data Science is our weekly newsletter with updates from the Lab, 
 
 ## Multi-Format Training
 :::: {layout-ncol=2 text-align=center}
-::: {#first-column}
-
-
-[Openscapes](programs/openscapes.qmd)
-
-We are proud to partner with [Openscapes](https://www.openscapes.org/) to bring the Openscapes Champions Cohort Program to Fred Hutch. Openscapes Champions is a mentorship program for biomedical data staff centered around collaborative coding and open science.
-
-:::
 
 ::: {#second-column}
 [DaSL Course Catalog](https://hutchdatascience.org/catalog/)
 
 We maintain a list of both self-service training materials and training sessions hosted at Fred Hutch.  
+
+:::
+
+::: {#first-column}
+
+
+[Openscapes](programs/openscapes.qmd)
+
+We are proud to have partnered with [Openscapes](https://www.openscapes.org/) to bring the Openscapes Champions Cohort Program to Fred Hutch in 2024 and 2025. Openscapes Champions is a mentorship program for biomedical data staff centered around collaborative coding and open science.
 
 :::
 ::::

@@ -2,6 +2,10 @@
 title: "Data Governance"
 toc: true
 ---
+::: {.callout-note appearance="minimal"}
+You can connect directly with our data governance team through our [Data House Calls program](/programs/dhc.html).
+:::
+
 
 Our Data Governance team works collaboratively across Fred Hutch to build a network for ethical data use and stewardship supports. By partnering with departments such as Legal, Compliance, Business Development and Information Security, we support communication and documentation to increase staff awareness of data governance policies and procedures. The Data Governance team helps investigators navigate data policy and governance resources, such as data use agreements, software licensing, and IRB guidance. We also contribute to and facilitate organization-wide initiatives related to data governance such as Cancer Consortium data sharing, connecting patients’ data to research and staff data stewardship literacy. 
 
@@ -15,19 +19,20 @@ Data governance and stewardship can be defined as the collection of institutiona
 Since its designation as a National Cancer Institute (NCI) Comprehensive Cancer Center in 1973, the Fred Hutch/University of Washington/Seattle Children’s Cancer Consortium has demonstrated a commitment to excellence in cancer research and treatment. An important part of our success as a Consortium are the data sharing relationships we maintain to facilitate cross-institutional clinical care and research. 
 
 ### UW Medicine - Fred Hutch Joint Clinical Data Governance 
-The Clinical Data Exchange Memorandum of Understanding (MOU) between Fred Hutch and UW went into effect on April 18, 2023, and called for an ongoing joint governance structure that will oversee the Parties’ collaboration relating to all Exchanged Clinical Data for Cancer-Related Care, Healthcare Operations, and Research. This joint governance structure between Fred Hutch and the University of Washington related to clinical data exchange includes an Oversight committee as well as a sub-committee which serves to address joint decision making in an ongoing way.  
+The Clinical Data Exchange Memorandum of Understanding (MOU) between Fred Hutch and UW went into effect on April 18, 2023, and called for an ongoing joint governance structure that will oversee the Parties’ collaboration relating to all Exchanged Clinical Data for Cancer-Related Care, Healthcare Operations, and Research. This joint governance structure between Fred Hutch and the University of Washington related to clinical data exchange includes an Oversight committee as well as a sub-committee which serves to address joint decision making in an ongoing way.  More information about this is in our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/data-governance/consortium.html).
 
 
 
 ### Seattle Children's Hosptial - Fred Hutch Governance
-Fred Hutch has a data sharing partnership with Seattle Children's Hospital.  Our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/sch-research.html) outlines some key resources prepared by the Research Data Governance Subcommittee (RDGS) related to the exchange of data for research purposes. 
+Fred Hutch has a data sharing partnership with Seattle Children's Hospital.  Our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/data-governance/consortium.html) outlines some key resources prepared by the Research Data Governance Subcommittee (RDGS) related to the exchange of data for research purposes. 
 
 
-## Patient and Research Data Governance & Stewardship
 
-### Patient Data for Research
+## Data Governance & Stewardship
 
-Our team serves as a gatekeeper/honest broker to help ensure that patient data for research is provided in alignment with applicable regulations, policies, standards, IRB approvals, and/or other contractual obligations. See our [Clinical Data Access Data House Call](https://calendly.com/data-house-calls/clinical-data) for more information. 
+### Clinical Data Governance
+
+Our team serves as a gatekeeper/honest broker to help ensure that patient data for research is provided in alignment with applicable regulations, policies, standards, IRB approvals, and/or other contractual obligations. More information about our specific supports can be found in [Centernet for Fred Hutch staff](https://centernet.fredhutch.org/u/data-science-lab/data-governance.html).
 
 
 ### Research Data Stewardship
@@ -35,13 +40,13 @@ Our team serves as a gatekeeper/honest broker to help ensure that patient data f
 We provide support for leveraging restricted use research data and facilitating compliant data sharing. 
 
 
-- [DUA Process](https://sciwiki.fredhutch.org/datascience/compliance_legal/) support
+- [Data Use Agreement Process](https://sciwiki.fredhutch.org/datascience/compliance_legal/) support
 - Data Classification and data-related policy development and guidance
 - [Research data stewardship](https://sciwiki.fredhutch.org/datascience/stewardship/) advising and education 
 - NIH Data Management and Sharing Plans and guidance (see [dmptool.org](https://dmptool.org/) and our [Biomedical Data Science Wiki supports for developing and implementing your plans](https://sciwiki.fredhutch.org/datascience/nih_data_sharing/))
 
 
-## AI Governance
+### AI Governance
 We strive to enable the Fred Hutch community to make use of the benefits of AI systems for work-related activities, while mitigating risk and upholding Fred Hutch’s values in the rapidly evolving AI landscape. There are some important issues to think about when contemplating the use of an AI based tool as part of your work. Considerations include:
 
 - what type of AI system you’re working with, 
@@ -49,17 +54,6 @@ We strive to enable the Fred Hutch community to make use of the benefits of AI s
 - the technology and infrastructure you’re using to process the data and 
 - what the downstream use of the results will be.  
 
-Fred Hutch focused AI resources and governance processes are currently in development by our team in partnership with various subject matter experts in other departments and with our partners at UW Medicine (for clinical settings). More can be found on our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/ai.html) or you can email [dataprotection@fredhutch.org](mailto:dataprotection@fredhutch.org) with questions or to request an AI Review of your use case.  
-
-
-
-## Connect with Us
-
-Email questions about data governance generally to [datagovernance@fredhutch.org](mailto:datagovernance@fredhutch.org) or connect with us through our [Data House Calls](programs/dhc.qmd) program. 
-
-- [Data Policy and AI](https://calendly.com/data-house-calls/data-policy) House Call: questions about data policy, data protection and AI use cases.
-- [Clinical Data Access and Tools](https://calendly.com/data-house-calls/cards) House Call: questions about Fred Hutch adult oncology clinical patient data access and tools for research and it's oversight.  
-- [Data Sharing, Study Planning and Grants](https://calendly.com/data-house-calls/sharing): questions about data sharing and planning.
-
+Fred Hutch focused AI resources and governance processes are currently in development by our team in partnership with various subject matter experts in other departments and with our partners at UW Medicine (for clinical settings). More can be found on our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/data-governance/ai.html). 
 
 

@@ -46,7 +46,7 @@ website:
           href: about.qmd         
         - section: "What we Do"
           contents:
-            - text: "Data Strategy & Partnerships"
+            - text: "Data Strategy"
               href: strategy.qmd
             - text: "Data Governance"
               href: gov.qmd
@@ -54,8 +54,10 @@ website:
               href: dss.qmd
             - text: "Training & Community"
               href: training.qmd
-            - text: "Translational Applications & Engineering"
+            - text: "Translational Applications & Tools"
               href: tools.qmd
+            - text: "Data Partnerships"
+              href: partnerships.qmd
         - section: "Our Resources"
           href: resources.qmd
           contents:
@@ -71,8 +73,6 @@ website:
               href: https://join.slack.com/t/fhdata/signup
             - text: "Monday Morning Data Science"
               href: https://fhdata.substack.com/
-            - text: "Openscapes at Fred Hutch"
-              href: programs/openscapes.qmd
             - text: "Events"
               href: https://centernet.fredhutch.org/u/data-science-lab.html
             - text: "Our Partners"

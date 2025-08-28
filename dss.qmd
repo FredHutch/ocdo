@@ -3,24 +3,21 @@ title: "Translational Data Science & Software"
 toc: true
 ---
 
+::: {.callout-note appearance="minimal"}
+You can connect directly with our data science and software teams through our [Data House Calls program](/programs/dhc.html).
+:::
+
 The Translational Data Science & Software group collaborates with and supports both research and clinical staff to integrate effective data science and analysis into research and clinical care. Our goal is to create a feedback loop to foster a learning healthcare system.
 
 We develop data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care. We also collaborate with our clinical and research partners to develop statistical/ML/NLP models, data analyses, and data-driven dashboards and visualizations using real-world healthcare and laboratory-generated data. 
 
-
-::: {.callout-caution collapse="false"}
-## TDS IRC and TDS&S Collaborative Data Science Consulting
-The Translational Data Science Integrated Research Center (TDS IRC) and Translational Data Science & Software teams have partnered together to provide financial support for data scientists to work with Fred Hutch research groups. [Find out more about how to apply.](https://centernet.fredhutch.org/u/tdsirc/funding.html)
-:::
 
 
 ## Clinical Data Science
 
 Our team supports clinical data science at Fred Hutch by analyzing real-world data generated over the course of health care delivery, and by improving the interoperability, quality, and accessibility of these data. They collaborate with Hutch researchers and staff to understand critical questions about cancer patients, develop impactful and practical data analyses, and to develop tools that support democratized data access, exploration, and analysis.
 
-### Connect with us
 
-Fred Hutch patient data access for research and analysis support can be requested on [Fred Hutch CenterNet](https://centernet.fredhutch.org/u/data-science-lab/data-governance/patient-data.html). [E-mail us](mailto:analytics@fredhutch.org) about partnering on other clinical data science projects or set up a Healthcare Data for Research consultation through our [Data House Calls](programs/dhc.qmd) program.
 
 ## Research Informatics
 
@@ -35,21 +32,10 @@ We're developing resources in collaboration with the Fred Hutch IT Scientific Co
 
 We support the private [Fred Hutch instance of cBioPortal](https://sciwiki.fredhutch.org/datascience/cbioportal/) in collaboration with Fred Hutch IT's [Scientific Computing group](https://centernet.fredhutch.org/u/it/scicomp.html). cBioPortal allows users to easily explore multidimensional cancer genomics data with an intuitive point-and-click interface. For more information, read the [SciWiki documentation](https://sciwiki.fredhutch.org/datascience/cbioportal/) and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to try it out.
 
-### Connect with us
-
-Our team provides support to the community through documentation on the [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), through our [Learning Communities](programs/communities.qmd), and through our [Data House Calls](programs/dhc.qmd) program.
-
-- [Research Data Management House Calls](https://calendly.com/data-house-calls/management): to discuss questions about research data management, infrastructure, or tools.
-
-- [Research Computing House Calls](https://calendly.com/data-house-calls/computing): to discuss questions about how to run your code or analysis more effectively and at scale
-
-    > Note: Often we pull in folks from the Scientific Computing team to provide expert advice as well so please describe your needs well so we can try to have the right staff ready. 
 
 
 ## Human Computer Interaction
 
 The Human Computer Interaction (HCI) team develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
 
-### Connect with us
 
-- [Code and Software, Data House Call](https://calendly.com/data-house-calls/code): for code or software questions and support

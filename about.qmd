@@ -37,7 +37,7 @@ Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-lea
 
 ![Brian Bot - Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
 
-Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care.
+Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care. You can find more about what Brian is working on on our emerging [Partnerships](partnerships.qmd) page.  
 
 [More about Brian](https://brian-bot.github.io/)
 
@@ -47,7 +47,7 @@ Brian has more than two decades of experience in a variety of roles at the inter
 ::: {#second-column }
 ![Abby Wall - Data Program and Portfolio Manager](img/team/abby-wall.jpg){width=80%}
 
-Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the Fred Hutch Data Initiative portfolio for translational [data product and tooling development](tools.qmd) as the lead for our [Data Product Management team](tools.qmd). 
+Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the coordination of our Translational Data Product portfolio and community engagement with our programs and resources as the lead for our [Data Product Management team](tools.qmd). 
 
 :::
 ::::

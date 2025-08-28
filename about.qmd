@@ -257,7 +257,7 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 ::: {#first-column}
 
 
-![Flavio Fenley - Engineering Manager](img/team/flavio-fenley.jpg){width=80%}
+![Flavio Fenley - Engineering Manager (Departing - Happy Trails Flavio!!)](img/team/flavio-fenley.jpg){width=80%}
 
 Flavio is a data engineering leader with experience in health-tech, specializing in modernizing architectures and optimizing data platforms. He drives secure and scalable solutions, mentors teams, and ensures data systems support business growth and technical innovation. He manages our data engineering team doing our [translational data product and infrastructure development](tools.qmd). 
 
@@ -365,7 +365,10 @@ We have a group of affiliated researchers and training staff who focus on a vari
 
 ## Jobs
 
-Check back later, our team is currently full!
+### Data Engineering Manager
+While we are happy for Flavio’s new opportunity, we’re also very excited to be opening a position for his role.  Our Data Engineering Manager position is a pivotal role for our entire group, leading the technical and strategic implementation of our translational data platform (CARDS).  We’re looking for a team lead who will take our newly operational data platform (in AWS via Databricks), and continue to make healthcare data available for research, data science, and AI at Fred Hutch.  We’re looking to find our new candidate soon so please apply at the [Fred Hutch jobs site](https://careers-fhcrc.icims.com/jobs/29963/job) ASAP and refer this posting to whomever might be interested and have the skills we need!
+
+
 
 
 

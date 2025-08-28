@@ -3,7 +3,7 @@ title: "Data Governance"
 toc: true
 ---
 ::: {.callout-note appearance="minimal"}
-You can connect directlywith our data governance team through our [Data House Calls program](/programs/dhc.html).
+You can connect directly with our data governance team through our [Data House Calls program](/programs/dhc.html).
 :::
 
 
@@ -23,7 +23,7 @@ The Clinical Data Exchange Memorandum of Understanding (MOU) between Fred Hutch 
 
 
 
-### Seattle Children's Hosptial - Fred Hutch Governance
+### Seattle Children's Hospital - Fred Hutch Governance
 Fred Hutch has a data sharing partnership with Seattle Children's Hospital.  Our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/sch-research.html) outlines some key resources prepared by the Research Data Governance Subcommittee (RDGS) related to the exchange of data for research purposes. 
 
 
@@ -53,6 +53,6 @@ We strive to enable the Fred Hutch community to make use of the benefits of AI s
 - the technology and infrastructure you’re using to process the data and 
 - what the downstream use of the results will be.  
 
-Fred Hutch focused AI resources and governance processes are currently in development by our team in partnership with various subject matter experts in other departments and with our partners at UW Medicine (for clinical settings). More can be found on our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/ai.html). 
+Fred Hutch focused AI resources and governance processes are currently in development by our team in partnership with various subject matter experts in other departments and with our partners at UW Medicine (for clinical settings). More can be found on our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/data-governance/ai.html). 
 
 

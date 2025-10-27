@@ -112,6 +112,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/computing)
 ## Code and Software: R, Python and Beyond
 
 We are here to field questions about writing code, working with software, managing computing environments, and research software development. Use this [Data House Call](https://calendly.com/data-house-calls/code) if you are working with or learning:
+
 - R/ Python/Bash
 - Conda/Docker
 - Git/GitHub

@@ -65,8 +65,11 @@ website:
               href: programs/dhc.qmd
             - text: "Learning Communities"
               href: programs/communities.qmd
-            - text: "WILDS"
+            - section: "WILDS"
               href: programs/wilds.qmd
+              contents: 
+                - text: Collaborative Projects
+                  href: programs/wildscp.qmd
             - text: "SciWiki"
               href: programs/sciwiki.qmd
             - text: "Fred Hutch Data Slack"

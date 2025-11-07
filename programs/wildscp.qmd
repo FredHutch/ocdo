@@ -1,0 +1,83 @@
+---
+title: "WILDS Collaborative Projects"
+toc: false
+---
+
+Are you a data-driven researcher looking to share your data and discoveries in
+a web application, bring more automation to your science, or transform analysis
+scripts into software, but you lack the time, resources, or skills in your
+group? Let us help!
+*WILDS Collaborative Projects* is our flagship partnership program. We work
+directly with researchers, principal investigators, and staff at Fred Hutch to
+co-design and build software tools that solve real-world scientific and
+operational challenges. **We are accepting proposals on a rolling basis and
+this opportunity is provided at no
+cost** to the teams we choose to partner with. We are happy to discuss a
+potential collaboration with anyone at Fred Hutch.
+
+## How to get started and what to expect
+
+1. Email us at `wilds@fredhutch.org` to express your interest.
+2. We will send you an intake form to describe your idea in more detail.
+3. We will then schedule a call to discuss your project goals and feasibility.
+4. Together, we will develop a project proposal for approval.
+
+WILDS Collaborative Projects are designed to be **focused, time-bound
+partnerships**. Our typical contributions include:
+
+- **3–8 months** of collaboration time, depending on project complexity.
+- A **dedicated WILDS software, data scientist, or user experience researcher**
+contributing roughly **20% effort**.
+- Support for co-design, development, testing, and documentation of your
+software, web application, website, or resource.
+- Regular check-ins and progress reviews with your research team.
+
+We prioritize projects that we can complete and deliver within that window
+rather than those requiring ongoing software maintenance or multi-year
+development. We are open to, although we cannot commit to in advance, iterations
+on prior collaborations that include maintenance work.
+
+## What projects are a good fit for WILDS Collaborative Projects?
+
+We are more likely to be open to an opportunity to collaborate if the project
+you have in mind fits one or more of the following criteria:
+
+- The deliverables of the collaboration have potential applications beyond an
+individual lab or group, better yet if the potential value can extend beyond
+Fred Hutch.
+- The project will produce open source deliverables (e.g. Python or R packages),
+the project enables the
+distribution of open source or open license resources (e.g. datasets, websites),
+or the project leverages open source technologies.
+- Project deliverables include software packages written in Python or R that
+will be widely distributed.
+- The project leads to or includes the development of websites or interactive
+web applications that promote [Fred Hutch's Strategic Priorities][fh-strat].
+- The project can be well-scoped, meaning the deliverables and requirements can
+be defined in detail, and success can be clearly evaluated.
+
+## What might *not* be a good fit
+
+To make the most of this opportunity, we generally do not select projects that:
+
+- Require creating a data analysis or models that describe patterns in a dataset.
+However, if you consistently receive hard to parse data, or you need to
+visualize the same data periodically, we could support you in building software
+to streamline your analysis.
+- Include building online computing platforms, where users could access high
+performance computing resources, or where users could upload their data for
+long term storage. We are happy to direct you to existing computing platforms
+that may fit your needs.
+
+## Continuous proposal review
+
+This is an **ongoing call for proposals** and there is no specific deadline. We
+review ideas and start new collaborations throughout the year.
+
+Ultimately, our goal is to build tools and resources that others can reuse,
+contribute to, and grow. By working together, we hope to create resources
+and software that supports research at Fred Hutch and amplifies our impact
+across the broader scientific community. Our team is excited to learn about your
+needs and ideas so we can explore what we can build together.
+
+[fh-strat]: https://www.fredhutch.org/en/about/about-the-hutch/mission-values.html

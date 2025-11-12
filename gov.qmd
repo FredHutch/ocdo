@@ -23,7 +23,7 @@ The Clinical Data Exchange Memorandum of Understanding (MOU) between Fred Hutch 
 
 
 
-### Seattle Children's Hosptial - Fred Hutch Governance
+### Seattle Children's Hospital - Fred Hutch Governance
 Fred Hutch has a data sharing partnership with Seattle Children's Hospital.  Our [Centernet page](https://centernet.fredhutch.org/u/data-science-lab/data-governance/consortium.html) outlines some key resources prepared by the Research Data Governance Subcommittee (RDGS) related to the exchange of data for research purposes. 
 
 

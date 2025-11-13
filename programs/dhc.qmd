@@ -26,6 +26,11 @@ Fred Hutch and UW Medicine staff can now schedule on-call Data House Calls here 
 :::
 ::::
 
+::: {.callout-note appearance="simple"}
+## Cancer AI Alliance (CAIA) Office Hours
+
+Looking to connect with the CAIA team? Learn how to participate in CAIA Office Hours on our [Data Partnerships](../partnerships.qmd) page.
+:::
 
 # Data House Call Topics
 
@@ -157,4 +162,3 @@ Use this [Data House Call](https://calendly.com/data-house-calls/omop) meet with
 ::: {.callout-tip appearance="simple"}
 Schedule this [Data House Call](https://calendly.com/data-house-calls/omop).  
 :::
-

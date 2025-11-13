@@ -2,17 +2,23 @@
 title: "Data Partnerships"
 toc: true
 fig-cap-location: top
-
 ---
-
 
 We aim to connect the right technology or data science partners with research and clinical use cases at Fred Hutch, collaborating with Business Development and Philanthropy to enhance research capabilities and drive innovation. Our staff cultivates external relationships with AI, technology and data science partners and identify opportunities for philanthropic investment, industry sponsorships, and technology partnerships to advance research and clinical care. 
 
-
 ## Cancer AI Alliance
-Our current focus for data partnerships is the Cancer AI Alliance.  You can find out more about CAIA at it's [site](https://www.canceralliance.ai/).
 
+Our current focus for data partnerships is the Cancer AI Alliance.  You can find out more about CAIA at [canceralliance.ai](https://www.canceralliance.ai/).
+
+CAIA Office Hours are a monthly opportunity for internal Fred Hutch staff to connect with the CAIA team, ask questions, and explore ways to get involved in the initiative.
+
+We meet **every fourth Tuesday from 1:30–2:30 PM PT** (first one starts 11/25/25)
+
+- **1:30–2:00 PM**: Open drop-in session — everyone is welcome!
+- **2:00–2:30 PM**: Reserved 10-minute slots for more private or specific questions.
+
+ To get the Microsoft Teams link for CAIA Office Hours, or to schedule an ad hoc discussion with the CAIA team, please reach out to [info@canceralliance.ai](mailto:info@canceralliance.ai).
 
 ## Connect with us
 
-If you'd like to discuss what types of data partnerships and collaborations would advance your work, or to get updates on current status of our efforts please email [data@fredhutch.org](mailto:data@fredhutch.org). 
+If you'd like to discuss what types of data partnerships and collaborations would advance your work, or to get updates on current status of our efforts please email [data@fredhutch.org](mailto:data@fredhutch.org).

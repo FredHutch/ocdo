@@ -255,10 +255,9 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 :::: {layout-ncol=2}
 
 ::: {#first-column}
+![Jennifer Bielak - Data Engineering Manager](img/team/jennifer-bielak.jpg){width=80%}
 
-
-![Coming Soon - Data Engineering Manager](img/team/coming_soon.png){width=80%}
-Our Data Engineering Manager position is a pivotal role for our entire group, leading the technical and strategic implementation of our translational data platform (CARDS) which is the foundation for our [translational data products and applications](tools.qmd). 
+Jennifer brings a strong blend of technical depth and strategic vision to the Data Engineering Manager role, guiding the architecture and evolution of CARDS, our translational data platform. Her experience shaping data ecosystems empowers the innovation behind our translational data products, positioning us to lead the next generation of scientific impact.
 
 :::
 
@@ -369,5 +368,4 @@ Check back later.
 
 ### Fred Hutch Jobs
 
-Check out the [Fred Hutch Cancer Center Careers page](https://www.fredhutch.org/en/about/careers/job-openings.html#eyJrZXl3b3JkcyI6IiIsImNhcmVlckNhdGVnb3J5IjpbIkMzNTgxMDIiXSwibG9jYXRpb24iOltdfQ==) for more info on current data oriented jobs across the Center.  
-
+Check out the [Fred Hutch Cancer Center Careers page](https://www.fredhutch.org/en/about/careers/job-openings.html#eyJrZXl3b3JkcyI6IiIsImNhcmVlckNhdGVnb3J5IjpbIkMzNTgxMDIiXSwibG9jYXRpb24iOltdfQ==) for more info on current data oriented jobs across the Center.

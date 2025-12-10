@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Fred Hutch Data Science Lab</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
+          crossorigin="anonymous" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+          rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="https://ocdo.fredhutch.org/dasl/styles.css" />
+    <link rel="icon"
+          href="https://ocdo.fredhutch.org/dasl/images/favicon.ico"
+          type="image/x-icon">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light px-3">
+      <a class="navbar-brand d-flex align-items-center" href="/">
+        <img src="https://ocdo.fredhutch.org/dasl/images/fred-hutch-logo-primary.png"
+             alt="Logo"
+             class="d-inline-block align-text-top navbar-logo mx-3" />
+      </a>
+
+      <button class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarContent">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end"
+           id="navbarContent">
+        <!-- Desktop Navigation -->
+        <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-none d-lg-flex">
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;courses&#x2F;">
+                  <span class="menu-text">Training</span>
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;community&#x2F;">
+                  
+                    <span class="menu-text">Community</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;connect&#x2F;">
+                  
+                    <span class="menu-text">Mailing List</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;faq&#x2F;">
+                  
+                    <span class="menu-text">FAQ</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;about&#x2F;">
+                  
+                    <span class="menu-text">About Us</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html">
+                  
+                    <span class="menu-text">Events<i class="bi bi-box-arrow-up-right ms-1"></i></span>
+                  
+                </a>
+              
+            </li>
+          
+        </ul>
+
+        <!-- Mobile Navigation -->
+        <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-lg-none">
+          
+            
+              <!-- Training main link for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;courses&#x2F;">
+                  <span class="menu-text">Training</span>
+                </a>
+              </li>
+              <!-- Training sub-navigation items for mobile -->
+              
+                <li class="nav-item ps-3 active-training-item">
+                  <a class="nav-link"
+                     href="&#x2F;courses&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Classes and Workshops Schedule
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;classes-workshops&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Class Catalog
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;teach-yourself&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Teach Yourself
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;faq&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Frequently Asked Questions
+                      
+                    </span>
+                  </a>
+                </li>
+              
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;community&#x2F;">
+                  
+                    <span class="menu-text">Community</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;connect&#x2F;">
+                  
+                    <span class="menu-text">Mailing List</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;faq&#x2F;">
+                  
+                    <span class="menu-text">FAQ</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;about&#x2F;">
+                  
+                    <span class="menu-text">About Us</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html">
+                  
+                    <span class="menu-text">Events<i class="bi bi-box-arrow-up-right ms-1"></i></span>
+                  
+                </a>
+              </li>
+            
+          
+        </ul>
+
+        <div class="search-container">
+          <div class="search-results d-lg-none order-1">
+            <div class="search-results__items"></div>
+          </div>
+
+          <div class="search-input-wrapper order-2">
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 width="16"
+                 height="16"
+                 fill="currentColor"
+                 class="bi bi-search"
+                 viewBox="0 0 16 16">
+              <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+            </svg>
+
+            <input type="text" id="search" />
+
+            <button type="button"
+                    id="search-clear"
+                    class="search-clear"
+                    style="display: none">
+              <svg xmlns="http://www.w3.org/2000/svg"
+                   width="25"
+                   height="25"
+                   fill="currentColor"
+                   class="bi bi-x"
+                   viewBox="0 0 16 16">
+                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708" />
+              </svg>
+            </button>
+          </div>
+
+          <div class="search-results d-none d-lg-block order-3">
+            <div class="search-results__items"></div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    
+  <!-- Secondary Navigation Bar -->
+  <nav class="navbar navbar-expand-lg px-3 training-secondary-nav">
+    <div class="container-fluid">
+      <!-- Mobile: Show current page title -->
+      <span class="navbar-text d-lg-none fw-bold">
+        
+          Classes and Workshops Schedule
+        
+          
+        
+          
+        
+          
+        
+      </span>
+
+      <!-- Desktop: Show full navigation -->
+      <div class="d-none d-lg-block w-100">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          
+            <li class="nav-item px-2">
+              <a class="nav-link active"
+                 href="&#x2F;courses&#x2F;"
+                 >
+                Classes and Workshops Schedule
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;classes-workshops&#x2F;"
+                 >
+                Class Catalog
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;teach-yourself&#x2F;"
+                 >
+                Teach Yourself
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;faq&#x2F;"
+                 >
+                Frequently Asked Questions
+                
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  
+<div class="container">
+  <div class="row">
+    <!-- Main Content -->
+    <div class="col-lg-8 col-12 p-4">
+      <h1>Intro to FH Cluster Computing</h1>
+      <p style="font-weight: 300;"><p>Many scientific computing tasks cannot be done locally on a personal computer due to constraints in computation, data, and memory. In this workshop, you will learn how to connect to the Fred Hutch SLURM high performance cluster to transfer files, load scientific software, compute interactively, and launch jobs!</p>
+</p>
+
+      <div class="container my-5 d-flex justify-content-between">
+        
+        <a
+          href="#"
+          class="btn btn-primary btn-lg me-2 mb-2"
+          style="background-color: #454b54; border-color: #454b54"
+          role="button"
+          >Registration is not open yet!</a
+        >
+        
+   
+        <a
+          href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;FH_Cluster_101&#x2F;index.html"
+          class="btn btn-outline-primary btn-lg no-hover"
+          style="border-color: #367797; color: #367797 !important"
+          role="button"
+        >
+          Explore the course materials
+          <i class="bi bi-box-arrow-up-right ms-1 small"></i>
+        </a>
+      </div>
+
+      <!-- Class information -->
+      <h2>Class information</h2>
+      <div class="row mt-4">
+        <ul>
+          
+          <li>
+            <p>
+              <strong>Quarters Offered:</strong> Fall 2025, Spring 2026
+            </p>
+          </li>
+          
+          <li>
+            <p>
+              <strong>Dates:</strong> May 8, 2026
+            </p>
+          </li>
+          
+          <li>
+            <p>
+              <strong>Time:</strong> Noon - 1:30pm PT
+            </p>
+          </li>
+          
+          <li>
+            <p>
+              <strong>Time commitment:</strong> 1.5 Hours
+            </p>
+          </li>
+          <li>
+            <p>
+              <strong>Audience:</strong> Researchers who want to use Fred Hutch’s SLURM high performance cluster to run software and analysis at scale. Participants should have basic familiarity with using the command line.
+            </p>
+          </li>
+          <li>
+            <p>
+              <strong>Prerequisites:</strong>
+              
+              <a href="&#x2F;courses&#x2F;intro-to-command-line"
+                >Intro to Command Line</a
+              >
+              
+            </p>
+          </li>
+          <li>
+            <p>
+              <strong>Followed by:</strong>
+              
+              <a href="&#x2F;courses&#x2F;bash-for-bioinformatics"
+                >Bash for Bioinformatics</a
+              >
+              
+            </p>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Learning Objectives -->
+      <h2>Learning Objectives (LOs)</h2>
+      <div class="row mt-4">
+        <ul>
+          
+          <li><p><strong>Describe</strong> the types of nodes and filesystems on FH’s cluster.</p>
+</li>
+          
+          <li><p><strong>Use</strong> the command line to log in to the FH cluster, and submit a simple job to run.</p>
+</li>
+          
+          <li><p><strong>Understand</strong> different ways of requesting resources for a cluster job and use them for job submission.</p>
+</li>
+          
+          <li><p><strong>Use</strong> already-installed software for job submission and log-in to interactive mode.</p>
+</li>
+          
+          <li><p><strong>Describe</strong> how one would upload and download files from the FH cluster.</p>
+</li>
+          
+        </ul>
+      </div>
+
+      <!-- FAQ section -->
+      <h2>Frequently Asked Questions</h2>
+      
+      <div class="row mt-4">
+        
+        <ul class="list-group-flush">
+          <li class="list-group-item">
+            <h5>What kind of computing resource do I need?</h5>
+            <p>You will need to have access to the command line, a network connection to Fred Hutch&#x27;s research network, and have your Fred Hutch account approved by Scientific Computing. See instructions on the registration form.</p>
+          </li>
+        </ul>
+        
+        <ul class="list-group-flush">
+          <li class="list-group-item">
+            <h5>How often is this class taught?</h5>
+            <p>This workshop is offered on average twice a year. Check the schedule to see when it will next be offered.</p>
+          </li>
+        </ul>
+        
+        <ul class="list-group-flush">
+          <li class="list-group-item">
+            <h5>Can I work through the materials without taking the class?</h5>
+            <p>Yes, you can access the course materials on your own any time.</p>
+          </li>
+        </ul>
+        
+        <ul class="list-group-flush">
+          <li class="list-group-item">
+            <h5>Can I take the class if I’m not an employee at Fred Hutch?</h5>
+            <p>The class is open to members of the Cancer Consortium including Fred Hutch, the University of Washington, and Seattle Children’s Hospital. But note that the content is focused on accessing the Fred Hutch cluster. Some instructions may not apply to clusters at other institutions.</p>
+          </li>
+        </ul>
+        
+      </div>
+      
+    </div>
+
+    <!-- Sidebar -->
+    <div class="col-lg-4 col-12 p-4">
+       
+  
+    
+  
+  <aside class="sidebar">
+    
+      
+        
+  
+  <div class="sidebar-section contact-us py-3">
+    <h3>Contact Us</h3>
+    <p>For questions about class schedule or content contact DaSL trainers</p>
+    <h5>DaSL Trainers</h5>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;ted-laderas.jpg"
+               alt="Ted Laderas"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Ted Laderas</p>
+          <p class="mb-0 text-muted small">tladera2@fredhutch.org</p>
+        </div>
+      </div>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;chris-lo.jpg"
+               alt="Chris Lo"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Chris Lo</p>
+          <p class="mb-0 text-muted small">clo2@fredhutch.org</p>
+        </div>
+      </div>
+    
+  </div>
+
+      
+    
+  </aside>
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+    <!-- Footer -->
+    <footer class="bg-light border-top mt-5">
+      <div class="container">
+        <div class="row py-4">
+          <div class="col-md-6 col-12 mb-3">
+            <img src="https://ocdo.fredhutch.org/dasl/images/fred-hutch-logo-primary.png"
+                 alt="Fred Hutch Logo"
+                 class="mb-3"
+                 style="max-height: 50px" />
+            <p class="text-muted mb-0">
+              Fred Hutchinson Cancer Center, a 501(c)(3) nonprofit
+              organization
+            </p>
+            <p class="text-muted mb-0">
+              The Data Science Lab is a program from the Office of
+              the Chief Data Officer
+            </p>
+            <p class="text-muted mb-0">
+              <a href="https://ocdo.fredhutch.org">ocdo.fredhutch.org</a>
+            </p>
+          </div>
+          <div class="col-md-3 col-6 mb-3">
+            <h6 class="fw-bold mb-3">Quick Links</h6>
+            <ul class="list-unstyled">
+              
+                <li class="mb-1">
+                  <a href="&#x2F;courses&#x2F;" class="text-decoration-none">
+                    Training
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;community&#x2F;" class="text-decoration-none">
+                    Community
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;connect&#x2F;" class="text-decoration-none">
+                    Mailing List
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;faq&#x2F;" class="text-decoration-none">
+                    FAQ
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;about&#x2F;" class="text-decoration-none">
+                    About Us
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html" class="text-decoration-none">
+                    Events
+                    <i class="bi bi-box-arrow-up-right ms-1 small"></i>
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+          <div class="col-md-3 col-6 mb-3">
+            <h6 class="fw-bold mb-3">Connect</h6>
+            <ul class="list-unstyled">
+              <li class="mb-1">
+                <a href="https://www.fredhutch.org" class="text-decoration-none">Fred Hutch
+                  <i class="bi bi-box-arrow-up-right ms-1 small"></i></a>
+              </li>
+              <li class="mb-1">
+                <a href="mailto:dasl@fredhutch.org" class="text-decoration-none">Contact Us</a>
+              </li>
+              <li class="mb-1">
+                <a href="#" class="text-decoration-none"><i class="bi bi-github me-1"></i>GitHub</a>
+              </li>
+              <li class="mb-1">
+                <a href="/connect/" class="text-decoration-none"><i class="bi bi-envelope-paper me-1"></i>Newsletter</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
+    <script type="text/javascript" src="https://ocdo.fredhutch.org/dasl/search.js"></script>
+  </body>
+</html>

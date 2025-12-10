@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Fred Hutch Data Science Lab</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
+          crossorigin="anonymous" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+          rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="https://ocdo.fredhutch.org/dasl/styles.css" />
+    <link rel="icon"
+          href="https://ocdo.fredhutch.org/dasl/images/favicon.ico"
+          type="image/x-icon">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light px-3">
+      <a class="navbar-brand d-flex align-items-center" href="/">
+        <img src="https://ocdo.fredhutch.org/dasl/images/fred-hutch-logo-primary.png"
+             alt="Logo"
+             class="d-inline-block align-text-top navbar-logo mx-3" />
+      </a>
+
+      <button class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarContent">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end"
+           id="navbarContent">
+        <!-- Desktop Navigation -->
+        <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-none d-lg-flex">
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;courses&#x2F;">
+                  <span class="menu-text active">Training</span>
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;community&#x2F;">
+                  
+                    <span class="menu-text">Community</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;connect&#x2F;">
+                  
+                    <span class="menu-text">Mailing List</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;faq&#x2F;">
+                  
+                    <span class="menu-text">FAQ</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;about&#x2F;">
+                  
+                    <span class="menu-text">About Us</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html">
+                  
+                    <span class="menu-text">Events<i class="bi bi-box-arrow-up-right ms-1"></i></span>
+                  
+                </a>
+              
+            </li>
+          
+        </ul>
+
+        <!-- Mobile Navigation -->
+        <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-lg-none">
+          
+            
+              <!-- Training main link for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;courses&#x2F;">
+                  <span class="menu-text text-decoration-underline fw-bold">Training</span>
+                </a>
+              </li>
+              <!-- Training sub-navigation items for mobile -->
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;courses&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Classes and Workshops Schedule
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;classes-workshops&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Class Catalog
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3 active-training-item">
+                  <a class="nav-link"
+                     href="&#x2F;teach-yourself&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Teach Yourself
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;faq&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Frequently Asked Questions
+                      
+                    </span>
+                  </a>
+                </li>
+              
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;community&#x2F;">
+                  
+                    <span class="menu-text">Community</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;connect&#x2F;">
+                  
+                    <span class="menu-text">Mailing List</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;faq&#x2F;">
+                  
+                    <span class="menu-text">FAQ</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;about&#x2F;">
+                  
+                    <span class="menu-text">About Us</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html">
+                  
+                    <span class="menu-text">Events<i class="bi bi-box-arrow-up-right ms-1"></i></span>
+                  
+                </a>
+              </li>
+            
+          
+        </ul>
+
+        <div class="search-container">
+          <div class="search-results d-lg-none order-1">
+            <div class="search-results__items"></div>
+          </div>
+
+          <div class="search-input-wrapper order-2">
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 width="16"
+                 height="16"
+                 fill="currentColor"
+                 class="bi bi-search"
+                 viewBox="0 0 16 16">
+              <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+            </svg>
+
+            <input type="text" id="search" />
+
+            <button type="button"
+                    id="search-clear"
+                    class="search-clear"
+                    style="display: none">
+              <svg xmlns="http://www.w3.org/2000/svg"
+                   width="25"
+                   height="25"
+                   fill="currentColor"
+                   class="bi bi-x"
+                   viewBox="0 0 16 16">
+                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708" />
+              </svg>
+            </button>
+          </div>
+
+          <div class="search-results d-none d-lg-block order-3">
+            <div class="search-results__items"></div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    
+  <!-- Secondary Navigation Bar -->
+  <nav class="navbar navbar-expand-lg px-3 training-secondary-nav">
+    <div class="container-fluid">
+      <!-- Mobile: Show current page title -->
+      <span class="navbar-text d-lg-none fw-bold">
+        
+          
+        
+          
+        
+          Teach Yourself
+        
+          
+        
+      </span>
+
+      <!-- Desktop: Show full navigation -->
+      <div class="d-none d-lg-block w-100">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;courses&#x2F;"
+                 >
+                Classes and Workshops Schedule
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;classes-workshops&#x2F;"
+                 >
+                Class Catalog
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link active"
+                 href="&#x2F;teach-yourself&#x2F;"
+                 >
+                Teach Yourself
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;faq&#x2F;"
+                 >
+                Frequently Asked Questions
+                
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  
+  <div class="container">
+    <div class="row">
+      <!-- Main Content -->
+      <div class="col-lg-8 col-12 p-4">
+        <h1>Teach yourself with online materials</h1>
+        <h4>Use class and workshop materials on your own, or resources designed for you to teach yourself.</h4>
+        <!-- Sections -->
+        <!-- Materials -->
+        <div class="card-body py-3">
+          
+    
+    <h3
+        class="card-title"
+        id="materials-materials-from-classes-and-workshops"
+    >
+        Materials from Classes and Workshops
+        <a class="zola-anchor"
+          href='#materials-materials-from-classes-and-workshops'
+           aria-label='Anchor link for: materials-materials-from-classes-and-workshops'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h3>
+
+          <hr style="background-color:var(--warm-purple);
+                     height: 4px;
+                     border-top: none" />
+          <p>You can teach yourself with the materials for all of our regular classes and workshops.</p>
+          <p>Browse our classes and workshops:</p>
+        </div>
+        <ul>
+          
+            <li>
+              <div>
+                <p>
+                  <a href="&#x2F;classes-workshops&#x2F;#data-science-programming">Data Science Programming</a> (e.g., Intro R, Intermediate Python, Intro to SQL)
+                </p>
+              </div>
+            </li>
+          
+            <li>
+              <div>
+                <p>
+                  <a href="&#x2F;classes-workshops&#x2F;#scalable-computing">Scalable Computing</a> (e.g., Intro to Command Line, Cluster 101)
+                </p>
+              </div>
+            </li>
+          
+            <li>
+              <div>
+                <p>
+                  <a href="&#x2F;classes-workshops&#x2F;#reproducible Research">Reproducible Research</a> (e.g., Intro to Git and GitHub)
+                </p>
+              </div>
+            </li>
+          
+            <li>
+              <div>
+                <p>
+                  <a href="&#x2F;classes-workshops&#x2F;#data-4-all">Data 4 All</a> (e.g., Better Spreadsheets, Better Tables, Better Plots)
+                </p>
+              </div>
+            </li>
+          
+        </ul>
+
+        <!-- Teach yourself courses -->
+        <div class="card-body">
+          
+    
+    <h3
+        class="card-title"
+        id="materials-teach-yourself-courses"
+    >
+        Teach Yourself Courses
+        <a class="zola-anchor"
+          href='#materials-teach-yourself-courses'
+           aria-label='Anchor link for: materials-teach-yourself-courses'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h3>
+
+          <hr style="background-color: var(--warm-purple);
+                     height: 4px;
+                     border-top: none" />
+          <p>These courses are designed for self-study; there is no corresponding class or workshop. But you should still feel free to reach out to us with any questions!</p>
+
+          
+            <div class="py-3">
+              
+    
+    <h4
+        
+        id="data-snacks"
+    >
+        Data Snacks
+        <a class="zola-anchor"
+          href='#data-snacks'
+           aria-label='Anchor link for: data-snacks'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h4>
+
+              <p>Short tutorials for Python and R that run in your browser, covering cool packages that help you work with data effectively.</p>
+              
+                <div class="card my-2">
+                  <div class="card-header d-flex justify-content-between align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-data-snacks-0"
+                       aria-expanded="false"
+                       aria-controls="collapse-data-snacks-0">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;cookie-bite-solid-full.svg"  class="img-fluid" />
+                    </div>
+                    <div>
+                      <h5 class="mb-1">Data Snacks</h5>
+                      <p>Learn cool Python and R tricks for working with data.</p>
+                    </div>
+                    <span class="toggle-icon">
+                      <i class="bi bi-plus"
+                         style="font-size: 3rem;
+                                color: var(--warm-purple)"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-data-snacks-0">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">R</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Python</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2"></p>
+                      
+
+                        
+                          <div>
+                            <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;data_snacks&#x2F;" target="_blank">Data Snacks</a>
+                            <i class="bi bi-box-arrow-up-right"></i>
+                          </div>
+                        
+
+                      
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          
+            <div class="py-3">
+              
+    
+    <h4
+        
+        id="workflows-for-bioinformatics"
+    >
+        Workflows for Bioinformatics
+        <a class="zola-anchor"
+          href='#workflows-for-bioinformatics'
+           aria-label='Anchor link for: workflows-for-bioinformatics'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h4>
+
+              <p>Workflows help bioinformaticians analyze data efficiently on the cluster. They are better than bash scripts! Learn about Workflow Development Language (WDL), a better alternative to SnakeMake.</p>
+              
+                <div class="card my-2">
+                  <div class="card-header d-flex justify-content-between align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-workflows-for-bioinformatics-0"
+                       aria-expanded="false"
+                       aria-controls="collapse-workflows-for-bioinformatics-0">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;wdl.Default.png"  class="img-fluid" />
+                    </div>
+                    <div>
+                      <h5 class="mb-1">Workflow Description Language (WDL) Materials</h5>
+                      <p>Analyze data more efficiently with workflows</p>
+                    </div>
+                    <span class="toggle-icon">
+                      <i class="bi bi-plus"
+                         style="font-size: 3rem;
+                                color: var(--warm-purple)"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-workflows-for-bioinformatics-0">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Workflows</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">WDL</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2">We offer three self-directed courses on how to write workflows in Workflow Description Language (WDL). We prefer WDL to SnakeMake -- ask us why!</p>
+                      
+
+                        
+                          <div>
+                            <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;Developing_WDL_Workflows&#x2F;" target="_blank">Developing WDL Workflows</a>
+                            <i class="bi bi-box-arrow-up-right"></i>
+                          </div>
+                        
+                          <div>
+                            <a href="https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cat" target="_blank">WDL 102</a>
+                            <i class="bi bi-box-arrow-up-right"></i>
+                          </div>
+                        
+
+                      
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          
+            <div class="py-3">
+              
+    
+    <h4
+        
+        id="code-review"
+    >
+        Code Review
+        <a class="zola-anchor"
+          href='#code-review'
+           aria-label='Anchor link for: code-review'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h4>
+
+              <p>Labs work better when labmates do code review. Code review is essentially proofreading each others’ code.</p>
+              
+                <div class="card my-2">
+                  <div class="card-header d-flex justify-content-between align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-code-review-0"
+                       aria-expanded="false"
+                       aria-controls="collapse-code-review-0">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;code-solid-full.svg"  class="img-fluid" />
+                    </div>
+                    <div>
+                      <h5 class="mb-1">Code Review for Labs</h5>
+                      <p>Code review helps labs prevent errors together</p>
+                    </div>
+                    <span class="toggle-icon">
+                      <i class="bi bi-plus"
+                         style="font-size: 3rem;
+                                color: var(--warm-purple)"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-code-review-0">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Data Science Programming</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">R</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2">Leading a lab with novice or experienced codewriters or users? Either way, check out our Code Review materials. We have tips on best practices for code review for labs of varying experience.</p>
+                      
+
+                        
+                          <div>
+                            <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;code_review&#x2F;" target="_blank">Code review for labs</a>
+                            <i class="bi bi-box-arrow-up-right"></i>
+                          </div>
+                        
+
+                      
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          
+            <div class="py-3">
+              
+    
+    <h4
+        
+        id="nih-data-sharing"
+    >
+        NIH Data Sharing
+        <a class="zola-anchor"
+          href='#nih-data-sharing'
+           aria-label='Anchor link for: nih-data-sharing'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h4>
+
+              <p>NIH Wants you to share your data because it is better for science. But you need to keep some information confidential! What do you do?</p>
+              
+                <div class="card my-2">
+                  <div class="card-header d-flex justify-content-between align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-nih-data-sharing-0"
+                       aria-expanded="false"
+                       aria-controls="collapse-nih-data-sharing-0">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;book-computer.svg"  class="img-fluid" />
+                    </div>
+                    <div>
+                      <h5 class="mb-1">NIH data sharing</h5>
+                      <p>Learn how to comply with NIH data sharing policies</p>
+                    </div>
+                    <span class="toggle-icon">
+                      <i class="bi bi-plus"
+                         style="font-size: 3rem;
+                                color: var(--warm-purple)"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-nih-data-sharing-0">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">general research</span>
+                        
+
+                      
+                      <p class="mb-2">We have created a gudie that walks you through the process of complying with the NIH data sharing policy of 2023. We have also created a helper app.</p>
+                      
+
+                        
+                          <div>
+                            <a href="#" target="_blank">Guide</a>
+                            <i class="bi bi-box-arrow-up-right"></i>
+                          </div>
+                        
+                          <div>
+                            <a href="#" target="_blank">Helper app</a>
+                            <i class="bi bi-box-arrow-up-right"></i>
+                          </div>
+                        
+
+                      
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          
+        </div>
+
+        <!-- Courses from Research Scientists -->
+        <div class="card-body">
+          
+    
+    <h3
+        class="card-title"
+        id="materials-course-materials-from-dasl-research-scientists"
+    >
+        Course Materials from DaSL Research Scientists
+        <a class="zola-anchor"
+          href='#materials-course-materials-from-dasl-research-scientists'
+           aria-label='Anchor link for: materials-course-materials-from-dasl-research-scientists'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h3>
+
+          <hr style="background-color: var(--warm-purple);
+                     height: 4px;
+                     border-top: none" />
+          <p>DaSL’s affiliate scientists create a variety of training materials geared more broadly towards the biomedical research community, and designed to allow you to teach yourself.</p>
+          <strong class="text-center d-block my-4">Explore all DaSL and DaSL affiliate course materials</strong>
+          
+            <div class="py-2">
+              <a href="https:&#x2F;&#x2F;anvilproject.org&#x2F;learn" target="_blank">
+    
+    <h4
+        
+        id="anvil-computing-platform"
+    >
+        AnVIL Computing Platform
+        <a class="zola-anchor"
+          href='#anvil-computing-platform'
+           aria-label='Anchor link for: anvil-computing-platform'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h4>
+</a>
+              <p>AnVIL is a computing platform that enables researchers to analyze controlled access data sets in a cloud computing environment. Our training materials will help you use AnVIL for data exploration and analysis on various bioinformatics topics. We also provide teaching support materials.</p>
+            </div>
+          
+            <div class="py-2">
+              <a href="https:&#x2F;&#x2F;www.datatrail.org&#x2F;" target="_blank">
+    
+    <h4
+        
+        id="datatrail"
+    >
+        DataTrail
+        <a class="zola-anchor"
+          href='#datatrail'
+           aria-label='Anchor link for: datatrail'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h4>
+</a>
+              <p>The DataTrail courses are free and designed to help those with less familiarity with computers and technology become savvy data scientists. It includes the technological data science fundamentals but also information on how to network and other accompanying and necessary skills for jobs in data science.</p>
+            </div>
+          
+            <div class="py-2">
+              <a href="https:&#x2F;&#x2F;www.itcrtraining.org&#x2F;" target="_blank">
+    
+    <h4
+        
+        id="itcr-training-network"
+    >
+        ITCR Training Network
+        <a class="zola-anchor"
+          href='#itcr-training-network'
+           aria-label='Anchor link for: itcr-training-network'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h4>
+</a>
+              <p>The ITCR Training Network is an effort to catalyze cancer informatics research through training opportunities. It has online courses that are available for free and&#x2F;or for certification, but also hosts synchronous training events and workshops related to data science in cancer research. Links to all the current ITCR courses can be found here.</p>
+            </div>
+          
+            <div class="py-2">
+              <a href="https:&#x2F;&#x2F;biodigs.org&#x2F;#home" target="_blank">
+    
+    <h4
+        
+        id="biodigs"
+    >
+        BioDIGS
+        <a class="zola-anchor"
+          href='#biodigs'
+           aria-label='Anchor link for: biodigs'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h4>
+</a>
+              <p>The BioDIGS materials are described here in several lines of blurb.The activities in this guide are written for undergraduate students and beginning graduate students. Some sections require basic understanding of the R programming language, which is indicated at the beginning of the chapter.</p>
+            </div>
+          
+        </div>
+      </div>
+      <!-- end main content -->
+
+      <!-- Sidebar -->
+      <div class="col-lg-4 col-12 p-4">
+        
+          
+  
+    
+  
+  <aside class="sidebar">
+    
+      
+        
+  
+  <div class="sidebar-section contact-us py-3">
+    <h3>Contact Us</h3>
+    <p>For questions about class schedule or content contact DaSL trainers</p>
+    <h5>DaSL Trainers</h5>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;ted-laderas.jpg"
+               alt="Ted Laderas"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Ted Laderas</p>
+          <p class="mb-0 text-muted small">tladera2@fredhutch.org</p>
+        </div>
+      </div>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;chris-lo.jpg"
+               alt="Chris Lo"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Chris Lo</p>
+          <p class="mb-0 text-muted small">clo2@fredhutch.org</p>
+        </div>
+      </div>
+    
+  </div>
+
+      
+    
+      
+        
+  
+  <div class="sidebar-section research-scientists py-3">
+    <h3>Questions about materials from DaSL Research Scientists?</h3>
+    <p>Contact any of us with questions about our courses or materials:</p>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;carrie-wright.png"
+               alt="Carrie Wright, PhD"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Carrie Wright, PhD</p>
+          <p class="mb-0 text-muted small">cwright@fredhutch.org</p>
+        </div>
+      </div>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;elizabeth-humphries.jpg"
+               alt="Elizabeth Humphries, PhD"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Elizabeth Humphries, PhD</p>
+          <p class="mb-0 text-muted small">eehumphri@fredhutch.org</p>
+        </div>
+      </div>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;ava-hoffman.jpg"
+               alt="Ava Hoffman, PhD"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Ava Hoffman, PhD</p>
+          <p class="mb-0 text-muted small">ahoffma2@fredhutch.org</p>
+        </div>
+      </div>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;kate-isaacs.png"
+               alt="Kate Isaac, PhD"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Kate Isaac, PhD</p>
+          <p class="mb-0 text-muted small">kisaac@fredhutch.org</p>
+        </div>
+      </div>
+    
+  </div>
+
+      
+    
+      
+        
+  
+  <div class="sidebar-section need-help py-3">
+    <h3>Other Ways to Find Help</h3>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href=""></a>
+        </h5>
+        <p class="card-text">In addition to training and community, the Office of the Chief Data Officer (OCDO) manages other resources and ways to ask for help:</p>
+      </div>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="&#x2F;community&#x2F;">Find a community to work with</a>
+        </h5>
+        <p class="card-text">Data science doesn&#x27;t have to be lonely. Meet other like minded data science people.</p>
+      </div>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https:&#x2F;&#x2F;sciwiki.fredhutch.org&#x2F;">Check out the SciWiki</a>
+        </h5>
+        <p class="card-text">Check out our communal knowledge on various computing and data related topics at Hutch at the Sciwiki.</p>
+      </div>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https:&#x2F;&#x2F;join.slack.com&#x2F;t&#x2F;fhdata&#x2F;signup">Ask a question on Slack</a>
+        </h5>
+        <p class="card-text">We have a community Slack channel for questions and answers, as well as some other channels where people share information and content about specific topics.</p>
+      </div>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https:&#x2F;&#x2F;ocdo.fredhutch.org&#x2F;programs&#x2F;dhc.html">Get a 30 minute consult (Data House Call)</a>
+        </h5>
+        <p class="card-text">If you need a little help troubleshooting, find the right resources, or figuring out the right question to ask, try a Data House Call.</p>
+      </div>
+    
+  </div>
+
+      
+    
+  </aside>
+
+        
+      </div>
+    </div>
+  </div>
+
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Handle collapse toggle events
+    document
+      .querySelectorAll('[data-bs-toggle="collapse"]')
+      .forEach(function (element) {
+        element.addEventListener("click", function () {
+          const target = document.querySelector(
+            this.getAttribute("data-bs-target"),
+          );
+          const icon = this.querySelector(".toggle-icon i");
+
+          // Toggle icon class
+          if (
+            target.classList.contains("show") ||
+            this.getAttribute("aria-expanded") === "true"
+          ) {
+            icon.classList.remove("bi-dash");
+            icon.classList.add("bi-plus");
+          } else {
+            icon.classList.remove("bi-plus");
+            icon.classList.add("bi-dash");
+          }
+        });
+      });
+
+    // Listen for Bootstrap collapse events
+    document.querySelectorAll(".collapse").forEach(function (collapseElement) {
+      collapseElement.addEventListener("shown.bs.collapse", function () {
+        const trigger = document.querySelector(
+          '[data-bs-target="#' + this.id + '"]',
+        );
+        const icon = trigger.querySelector(".toggle-icon i");
+        icon.classList.remove("bi-plus");
+        icon.classList.add("bi-dash");
+      });
+
+      collapseElement.addEventListener("hidden.bs.collapse", function () {
+        const trigger = document.querySelector(
+          '[data-bs-target="#' + this.id + '"]',
+        );
+        const icon = trigger.querySelector(".toggle-icon i");
+        icon.classList.remove("bi-dash");
+        icon.classList.add("bi-plus");
+      });
+    });
+  });
+  </script>
+
+  <style>
+.training-secondary-nav .nav-link.active::after {
+  background-color: var(--warm-purple) !important;
+}
+  </style>
+
+
+
+
+
+    <!-- Footer -->
+    <footer class="bg-light border-top mt-5">
+      <div class="container">
+        <div class="row py-4">
+          <div class="col-md-6 col-12 mb-3">
+            <img src="https://ocdo.fredhutch.org/dasl/images/fred-hutch-logo-primary.png"
+                 alt="Fred Hutch Logo"
+                 class="mb-3"
+                 style="max-height: 50px" />
+            <p class="text-muted mb-0">
+              Fred Hutchinson Cancer Center, a 501(c)(3) nonprofit
+              organization
+            </p>
+            <p class="text-muted mb-0">
+              The Data Science Lab is a program from the Office of
+              the Chief Data Officer
+            </p>
+            <p class="text-muted mb-0">
+              <a href="https://ocdo.fredhutch.org">ocdo.fredhutch.org</a>
+            </p>
+          </div>
+          <div class="col-md-3 col-6 mb-3">
+            <h6 class="fw-bold mb-3">Quick Links</h6>
+            <ul class="list-unstyled">
+              
+                <li class="mb-1">
+                  <a href="&#x2F;courses&#x2F;" class="text-decoration-none">
+                    Training
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;community&#x2F;" class="text-decoration-none">
+                    Community
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;connect&#x2F;" class="text-decoration-none">
+                    Mailing List
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;faq&#x2F;" class="text-decoration-none">
+                    FAQ
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;about&#x2F;" class="text-decoration-none">
+                    About Us
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html" class="text-decoration-none">
+                    Events
+                    <i class="bi bi-box-arrow-up-right ms-1 small"></i>
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+          <div class="col-md-3 col-6 mb-3">
+            <h6 class="fw-bold mb-3">Connect</h6>
+            <ul class="list-unstyled">
+              <li class="mb-1">
+                <a href="https://www.fredhutch.org" class="text-decoration-none">Fred Hutch
+                  <i class="bi bi-box-arrow-up-right ms-1 small"></i></a>
+              </li>
+              <li class="mb-1">
+                <a href="mailto:dasl@fredhutch.org" class="text-decoration-none">Contact Us</a>
+              </li>
+              <li class="mb-1">
+                <a href="#" class="text-decoration-none"><i class="bi bi-github me-1"></i>GitHub</a>
+              </li>
+              <li class="mb-1">
+                <a href="/connect/" class="text-decoration-none"><i class="bi bi-envelope-paper me-1"></i>Newsletter</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
+    <script type="text/javascript" src="https://ocdo.fredhutch.org/dasl/search.js"></script>
+  </body>
+</html>

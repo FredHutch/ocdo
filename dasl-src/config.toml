@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://dasl.fredhutch.org"
+base_url = "https://ocdo.fredhutch.org/dasl"
 
 default_language = "en"
 

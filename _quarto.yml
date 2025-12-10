@@ -40,49 +40,49 @@ website:
         href: dasl/
 
   sidebar:
-      style: "floating"
-      search: false
-      contents:
-        - text: "Home"
-          href: index.qmd
-        - text: "Our Team"
-          href: about.qmd         
-        - section: "What we Do"
-          contents:
-            - text: "Data Strategy"
-              href: strategy.qmd
-            - text: "Data Governance"
-              href: gov.qmd
-            - text: "Translational Data Science & Software"
-              href: dss.qmd
-            - text: "Training & Community"
-              href: training.qmd
-            - text: "Translational Applications & Tools"
-              href: tools.qmd
-            - text: "Data Partnerships"
-              href: partnerships.qmd
-        - section: "Our Resources"
-          href: resources.qmd
-          contents:
-            - text: "Data House Calls"
-              href: programs/dhc.qmd
-            - text: "Learning Communities"
-              href: programs/communities.qmd
-            - section: "WILDS"
-              href: programs/wilds.qmd
-              contents: 
-                - text: Collaborative Projects
-                  href: programs/wildscp.qmd
-            - text: "SciWiki"
-              href: programs/sciwiki.qmd
-            - text: "Fred Hutch Data Slack"
-              href: https://join.slack.com/t/fhdata/signup
-            - text: "Monday Morning Data Science"
-              href: https://fhdata.substack.com/
-            - text: "Events"
-              href: https://centernet.fredhutch.org/u/data-science-lab.html
-            - text: "Our Partners"
-              href: https://research.fredhutch.org/data/en.html
+    style: "floating"
+    search: false
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "Our Team"
+        href: about.qmd
+      - section: "What we Do"
+        contents:
+          - text: "Data Strategy"
+            href: strategy.qmd
+          - text: "Data Governance"
+            href: gov.qmd
+          - text: "Translational Data Science & Software"
+            href: dss.qmd
+          - text: "Training & Community"
+            href: training.qmd
+          - text: "Translational Applications & Tools"
+            href: tools.qmd
+          - text: "Data Partnerships"
+            href: partnerships.qmd
+      - section: "Our Resources"
+        href: resources.qmd
+        contents:
+          - text: "Data House Calls"
+            href: programs/dhc.qmd
+          - text: "Learning Communities"
+            href: programs/communities.qmd
+          - section: "WILDS"
+            href: programs/wilds.qmd
+            contents:
+              - text: Collaborative Projects
+                href: programs/wildscp.qmd
+          - text: "SciWiki"
+            href: programs/sciwiki.qmd
+          - text: "Fred Hutch Data Slack"
+            href: https://join.slack.com/t/fhdata/signup
+          - text: "Monday Morning Data Science"
+            href: https://fhdata.substack.com/
+          - text: "Events"
+            href: https://centernet.fredhutch.org/u/data-science-lab.html
+          - text: "Our Partners"
+            href: https://research.fredhutch.org/data/en.html
 
 format:
   html:
@@ -90,12 +90,10 @@ format:
     theme:
       - cosmo
       - styles.scss
-    link-color: '#00ABC8'
+    link-color: "#00ABC8"
     fontsize: 1.1em
     toc: false
     toc-depth: 2
     link-external-icon: true
     link-external-newwindow: true
     anchor-sections: true
-
-

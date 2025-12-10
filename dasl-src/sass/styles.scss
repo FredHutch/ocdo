@@ -1,0 +1,624 @@
+// Taken from https://github.com/FredHutch/ocdo/ thanks @monicagerber
+
+/*-- scss:defaults --*/
+// FHCC Colors -
+// See: https://brand.fredhutch.org/ for more FHCC brand guidance
+
+$dark-navy: #1b365d;
+$bright-blue: #00abc8;
+$vivid-yellow: #ffb500;
+$warm-purple: #aa4ac4;
+$teal: #0a799a;
+$white: #ffffff;
+$black: #000000;
+$grey: #5c5f5e;
+
+// CSS Custom Properties for dynamic color usage
+:root {
+  --dark-navy: #{$dark-navy};
+  --bright-blue: #{$bright-blue};
+  --vivid-yellow: #{$vivid-yellow};
+  --warm-purple: #{$warm-purple};
+  --teal: #{$teal};
+  --grey: #{$grey};
+  --white: #{$white};
+  --black: #{$black};
+}
+
+// Fonts to use throughout the site
+
+$serifs: "Source Serif 4", "Times New Roman", "Times", serif;
+$sans-serifs: "Source Sans 3", "Roboto", "Arial", sans-serif;
+
+// Callout Blocks
+$callout-color-note: $warm-purple;
+$callout-color-tip: $vivid-yellow;
+$callout-color-important: $bright-blue;
+$callout-color-caution: $vivid-yellow;
+$callout-color-warning: $vivid-yellow;
+
+// TOC
+$toc-color: $dark-navy;
+
+/*-- scss:rules --*/
+
+// Headers
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $teal;
+  font-family: $sans-serifs;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  border-bottom: none;
+}
+
+title {
+  font-family: $serifs;
+  font-weight: bold;
+  color: $dark-navy;
+  border-bottom: none;
+}
+
+h1 {
+  font-family: $sans-serifs;
+  font-weight: 600; /* semi bold */
+  color: $dark-navy;
+  border-bottom: none;
+}
+
+// Navbar
+#navbarCollapse a:link,
+#navbarCollapse a:visited,
+#navbarCollapse a:active {
+  font-size: 1.2em;
+  color: #1b365d;
+}
+
+#navbarCollapse a:hover {
+  color: #0a799a;
+  text-decoration: underline;
+}
+
+.navbar {
+  border-bottom: 1px solid #00abc8;
+}
+
+.navbar-logo {
+  /* makes logo bigger */
+  max-height: 40px;
+}
+
+.menu-text {
+  font-family: $sans-serifs;
+  font-optical-sizing: auto;
+  font-weight: 400; // A value between 200 - 900
+  font-style: normal;
+  font-size: 1.3em;
+  color: $dark-navy;
+}
+
+.menu-text:hover {
+  color: $teal;
+  text-decoration: none;
+}
+
+// Active navbar item styling
+.menu-text.active {
+  position: relative;
+  color: $dark-navy;
+  font-weight: bold;
+}
+
+.menu-text.active::after {
+  content: "";
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background-color: $dark-navy;
+  border-radius: 1px;
+}
+
+.menu-text.active:hover {
+  color: $teal;
+}
+
+// Left sidebar
+#quarto-sidebar a:link,
+#quarto-sidebar a:visited {
+  color: #1b365d;
+}
+
+#quarto-sidebar a:hover,
+#quarto-sidebar a:active {
+  color: #0a799a;
+}
+
+// Site links
+a:link {
+  color: #0a799a;
+}
+
+a:visited {
+  color: #0a799a;
+}
+
+a:hover,
+a:active {
+  color: #00abc8;
+}
+
+// Bootstrap buttons (anchor tags styled as buttons)
+a.btn,
+a.btn:link,
+a.btn:visited,
+a.btn:hover,
+a.btn:active {
+  color: $white !important;
+}
+
+.no-hover:hover {
+  background-color: transparent !important;
+}
+
+.hero {
+  background-color: $dark-navy;
+  color: $white;
+  font-family: $serifs;
+}
+
+.hero h1,
+.hero h2 {
+  color: $white;
+}
+
+.sans-serif,
+.sans-serif h1,
+.sans-serif h2 {
+  font-family: $sans-serifs;
+}
+
+// Custom underline for card items
+.card-item-underline {
+  position: relative;
+  border-bottom: none !important; // Override Bootstrap border
+}
+
+.card-item-underline::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70%;
+  height: 3px;
+  background-color: var(
+    --underline-color,
+    var(--bright-blue)
+  ); // Default to bright-blue
+}
+
+.card-header-white {
+  background-color: $white;
+}
+
+// Dropdown Menu Styling
+.dropdown-menu {
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  margin-top: 0.5rem;
+}
+
+.dropdown-item {
+  color: $dark-navy;
+  font-size: 1.1em;
+  padding: 0.5rem 1rem;
+
+  &:hover,
+  &:focus {
+    background-color: $grey;
+    color: $teal;
+  }
+
+  &:active {
+    background-color: $bright-blue;
+    color: $white;
+  }
+}
+
+// Dropdown toggle styling
+.dropdown-toggle::after {
+  margin-left: 0.5rem;
+  color: $dark-navy;
+}
+
+.nav-link.dropdown-toggle:hover .menu-text {
+  color: $teal;
+}
+
+/* For search */
+.search-container {
+  position: relative;
+  width: 180px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Search icon positioning - targeting SVG */
+.search-container .bi-search {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #666;
+  z-index: 10;
+  pointer-events: none;
+  width: 16px;
+  height: 16px;
+}
+
+/* Search input */
+#search {
+  width: 100%;
+  height: 32px;
+  padding: 6px 10px 6px 35px; /* Add left padding for icon */
+  font-size: 14px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  outline: none;
+  box-sizing: border-box;
+}
+
+/* Focus styles for search */
+#search:focus {
+  border-color: var(--bright-blue);
+  box-shadow: 0 0 0 2px rgba(0, 171, 200, 0.2);
+}
+
+.search-container:focus-within .bi-search {
+  color: var(--bright-blue);
+}
+
+/* Container for the search results */
+.search-results {
+  display: none;
+  position: absolute;
+  top: 95%; /* Position it just below the input */
+  right: 0;
+  width: 400px; /* Wider than the search container */
+  max-height: 889px; /* Set a maximum height and make it scrollable */
+  overflow-y: auto;
+  overflow-x: hidden;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Add a shadow for the overlay effect */
+  z-index: 1000; /* Ensure it's above other content */
+  margin-top: 15px;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 991.98px) {
+  .search-container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .search-input-wrapper {
+    order: 2;
+  }
+
+  .search-results.d-lg-none {
+    order: 1;
+    position: relative;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 10px;
+    top: auto;
+    right: auto;
+    left: auto;
+  }
+
+  .search-results.d-none.d-lg-block {
+    display: none !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .search-container {
+    display: block;
+  }
+
+  .search-input-wrapper {
+    position: relative;
+  }
+
+  .search-results.d-lg-none {
+    display: none !important;
+  }
+
+  .search-results.d-none.d-lg-block {
+    display: none;
+    position: absolute;
+    top: 95%;
+    right: 0;
+    width: 400px;
+    max-height: 889px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    margin-top: 15px;
+  }
+}
+
+/* Individual search result items */
+.search-results__items {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Individual search result item styling */
+.search-results__item {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+
+.search-results__item:hover {
+  background-color: #f5f5f5;
+}
+
+.search-results__item:last-child {
+  border-bottom: none;
+}
+
+.search-results__item a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.search-results__item div {
+  color: #666;
+  font-size: 0.9em;
+  margin-top: 4px;
+}
+
+/* Search clear button styling */
+.search-clear {
+  position: absolute;
+  right: 12px;
+  top: 40%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #666;
+  padding: 0;
+  width: 16px;
+  height: 16px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-clear:hover {
+  color: #333;
+}
+
+.search-container:focus-within .search-clear {
+  color: var(--teal);
+}
+
+/* Expandable Card Styles */
+.card-header[role="button"] {
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.card-header[role="button"]:hover {
+  background-color: #f8f9fa;
+}
+
+.toggle-icon {
+  transition: transform 0.3s ease;
+  font-size: 1.2em;
+  color: $teal;
+}
+
+.toggle-icon i {
+  transition: transform 0.3s ease;
+}
+
+/* Rotate the icon when expanded */
+.card-header[aria-expanded="true"] .toggle-icon i {
+  transform: rotate(45deg);
+}
+
+/* Smooth collapse transition */
+.collapse {
+  transition: height 0.35s ease;
+}
+
+/* Card spacing */
+.card.mb-2 {
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+/* Header styling */
+.card-header h5 {
+  margin-bottom: 0;
+  color: #212529;
+  font-weight: 600;
+}
+
+/* Body content styling */
+.card-body p {
+  margin-bottom: 0;
+  color: $grey;
+  line-height: 1.5;
+}
+
+// Secondary Training Navigation Styles
+.training-secondary-nav {
+  background-color: var(--dark-navy) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.training-secondary-nav .nav-link {
+  color: var(--white) !important;
+  font-family: $sans-serifs;
+  font-weight: 400;
+  font-size: 1.1em;
+  transition: color 0.2s ease;
+}
+
+.training-secondary-nav .nav-link:hover {
+  color: var(--bright-blue) !important;
+}
+
+.training-secondary-nav .nav-link.active {
+  position: relative;
+  color: var(--white) !important;
+  font-weight: bold;
+}
+
+.training-secondary-nav .nav-link.active::after {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  height: 7px;
+  background-color: var(--bright-blue);
+  border-radius: 1px;
+}
+
+.training-secondary-nav .navbar-text {
+  color: var(--white) !important;
+}
+
+.training-secondary-nav .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.training-secondary-nav .navbar-toggler:focus {
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.25);
+}
+
+// Mobile responsive adjustments for secondary nav
+@media (max-width: 991.98px) {
+  .training-secondary-nav .navbar-nav {
+    padding-top: 1rem;
+  }
+
+  .training-secondary-nav .nav-item {
+    text-align: left;
+    padding: 0.25rem 0;
+  }
+
+  // Mobile navbar active state styling
+  .navbar-nav .nav-link .menu-text.text-decoration-underline {
+    color: $teal;
+    text-decoration: underline !important;
+  }
+
+  // Training sub-nav indentation on mobile
+  .navbar-nav .nav-item.ps-3 .menu-text {
+    font-size: 1.1em;
+    color: lighten($dark-navy, 10%);
+    padding-left: 1rem;
+  }
+
+  // Training sub-nav link styling
+  .navbar-nav .nav-item.ps-3 .nav-link {
+    border-radius: 4px;
+    margin: 0.2rem 0.5rem;
+    transition: background-color 0.2s ease;
+  }
+
+  .navbar-nav .nav-item.ps-3 .nav-link:hover {
+    background-color: rgba(0, 171, 200, 0.1);
+  }
+
+  // Active Training sub-nav item - blue background highlight
+  .navbar-nav .nav-item.ps-3.active-training-item .nav-link {
+    background-color: $dark-navy !important;
+  }
+
+  .navbar-nav .nav-item.ps-3.active-training-item .menu-text {
+    color: $white !important;
+    font-weight: bold;
+  }
+
+  // Ensure mobile navbar items have proper spacing
+  .navbar-nav .nav-item {
+    padding: 0.25rem 0;
+  }
+
+  // Mobile navbar collapse background
+  .navbar-collapse {
+    background-color: rgba(255, 255, 255, 0.98);
+    border-top: 1px solid lighten($bright-blue, 20%);
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+  }
+
+  // Ensure mobile nav items are clearly separated
+  .navbar-nav .nav-link {
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    margin: 0.1rem 0;
+    transition: background-color 0.2s ease;
+  }
+
+  .navbar-nav .nav-link:hover {
+    background-color: lighten($grey, 2%);
+  }
+}
+
+// Anchor Link Styling - show only on hover
+.zola-anchor {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  margin-left: 0.3rem;
+  text-decoration: none;
+  color: $teal;
+}
+
+.zola-anchor:hover {
+  color: $bright-blue;
+  text-decoration: none;
+}
+
+// Show anchor link when hovering over headings
+h1:hover .zola-anchor,
+h2:hover .zola-anchor,
+h3:hover .zola-anchor,
+h4:hover .zola-anchor,
+h5:hover .zola-anchor,
+h6:hover .zola-anchor {
+  opacity: 1;
+}

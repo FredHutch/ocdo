@@ -9,3 +9,5 @@
 .Rbuildignore
 
 ocdo.Rproj
+
+**/*.quarto_ipynb

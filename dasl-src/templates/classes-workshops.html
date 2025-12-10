@@ -1,0 +1,139 @@
+{% import "macros/sidebar.html" as sidebar %}
+{% import "macros/headings.html" as h %}
+{% extends "training-base.html" %}
+{% block training_content %}
+  <div class="container">
+    <div class="row">
+      <!-- Main Content -->
+      <div class="col-lg-8 col-12 p-4">
+        <h1>{{ page.title }}</h1>
+        <h4>{{ page.extra.subtitle }}</h4>
+        <p>{{ page.extra.intro | markdown | safe }}</p>
+        <a href="/courses/">See the class schedule >></a>
+
+        <!-- Sections -->
+        {% for course in page.extra.courses %}
+          <div class="card-body py-4">
+            {{ h::heading(text=course.title, level=3, class="card-title") }}
+            <hr style="background-color:{{ page.extra.color }};
+                       height: 4px;
+                       border-top: none" />
+            <p>{{ course.description }}</p>
+
+            <div class="py-3">
+              {% for card in course.cards %}
+                <div class="card my-2">
+                  <div class="card-header card-header-white d-flex align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-{{ course.title | slugify }}-{{ loop.index0 }}"
+                       aria-expanded="false"
+                       aria-controls="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
+                    <div class="col-md-2 text-center">
+                      <img src="{{ card.img }}" alt="{{ card.img_alt }}" class="img-fluid" />
+                    </div>
+                    <div class="flex-grow-1 ms-3">
+                      <h5 class="mb-1">{{ card.title }}</h5>
+                      <p class="mb-0" style="color: var(--grey)">{{ card.brief }}</p>
+                    </div>
+                    <span class="toggle-icon ms-auto">
+                      <i class="bi bi-plus"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
+                    <div class="card-body">
+                      {% if card.tags %}
+
+                        {% for tag in card.tags %}
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">{{ tag }}</span>
+                        {% endfor %}
+
+                      {% endif %}
+                      <p class="mb-2">{{ card.description }}</p>
+                      {% if card.links %}
+
+                        {% for link in card.links %}
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="{{ link.course_link }}"
+                                 {% if link.external %}target="_blank"{% endif %}>{{ link.course_title }}</a>
+                              {% if link.external %}<i class="bi bi-box-arrow-up-right"></i>{% endif %}
+                              {% if link.offered %}{{ link.offered }}{% endif %}
+                            </p>
+                          </div>
+                        {% endfor %}
+
+                      {% endif %}
+                      <div class="d-flex justify-content-end">
+                        <a href="/courses/">See the class schedule >></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <!-- end main content -->
+
+      <!-- Sidebar -->
+      <div class="col-lg-4 col-12 p-4">
+        {% if page.extra.sidebar_sections %}
+          {{ sidebar::render_sidebar_sections(sections=page.extra.sidebar_sections) }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Handle collapse toggle events
+    document
+      .querySelectorAll('[data-bs-toggle="collapse"]')
+      .forEach(function (element) {
+        element.addEventListener("click", function () {
+          const target = document.querySelector(
+            this.getAttribute("data-bs-target"),
+          );
+          const icon = this.querySelector(".toggle-icon i");
+
+          // Toggle icon class
+          if (
+            target.classList.contains("show") ||
+            this.getAttribute("aria-expanded") === "true"
+          ) {
+            icon.classList.remove("bi-dash");
+            icon.classList.add("bi-plus");
+          } else {
+            icon.classList.remove("bi-plus");
+            icon.classList.add("bi-dash");
+          }
+        });
+      });
+
+    // Listen for Bootstrap collapse events
+    document.querySelectorAll(".collapse").forEach(function (collapseElement) {
+      collapseElement.addEventListener("shown.bs.collapse", function () {
+        const trigger = document.querySelector(
+          '[data-bs-target="#' + this.id + '"]',
+        );
+        const icon = trigger.querySelector(".toggle-icon i");
+        icon.classList.remove("bi-plus");
+        icon.classList.add("bi-dash");
+      });
+
+      collapseElement.addEventListener("hidden.bs.collapse", function () {
+        const trigger = document.querySelector(
+          '[data-bs-target="#' + this.id + '"]',
+        );
+        const icon = trigger.querySelector(".toggle-icon i");
+        icon.classList.remove("bi-dash");
+        icon.classList.add("bi-plus");
+      });
+    });
+  });
+  </script>
+
+{% endblock training_content %}

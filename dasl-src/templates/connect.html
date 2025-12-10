@@ -1,0 +1,45 @@
+{% import "macros/sidebar.html" as sidebar %}
+{% import "macros/headings.html" as h %}
+{% extends "base.html" %}
+{% block content %}
+  <div class="container">
+    <div class="row">
+      <!-- Main Content -->
+      <div class="col-lg-8 col-12 p-4">
+        <h1>{{ page.title }}</h1>
+        <h4 style="font-weight: 300;">{{ page.extra.main_subtitle }}</h4>
+
+        <div class="container my-5">
+          <p>{{ page.extra.main_text_md | markdown | safe }}</p>
+          <a href="mailto:dasltraining-join@lists.fhcrc.org"
+             class="btn btn-primary btn-lg"
+             style="background-color: #367797;
+                    border-color: #367797"
+             role="button">Sign up for the newsletter</a>
+        </div>
+
+        <!-- FAQ section -->
+        {{ h::heading(text="Frequently Asked Questions", level=2) }}
+        {% if page.extra.faq %}
+          <div class="row mt-4">
+            {% for faq_item in page.extra.faq %}
+              <ul class="list-group-flush">
+                <li class="list-group-item">
+                  {{ h::heading(text=faq_item.question, level=5) }}
+                  <p>{{ faq_item.answer }}</p>
+                </li>
+              </ul>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+
+      <!-- Sidebar -->
+      <div class="col-lg-4 col-12 p-4">
+        {% if page.extra.sidebar_sections %}
+          {{ sidebar::render_sidebar_sections(sections=page.extra.sidebar_sections) }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endblock content %}

@@ -1,0 +1,1123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Fred Hutch Data Science Lab</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
+          crossorigin="anonymous" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+          rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="https://dasl.fredhutch.org/styles.css" />
+    <link rel="icon"
+          href="https://dasl.fredhutch.org/images/favicon.ico"
+          type="image/x-icon">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light px-3">
+      <a class="navbar-brand d-flex align-items-center" href="/">
+        <img src="https://dasl.fredhutch.org/images/fred-hutch-logo-primary.png"
+             alt="Logo"
+             class="d-inline-block align-text-top navbar-logo mx-3" />
+      </a>
+
+      <button class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarContent">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end"
+           id="navbarContent">
+        <!-- Desktop Navigation -->
+        <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-none d-lg-flex">
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;courses&#x2F;">
+                  <span class="menu-text active">Training</span>
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;community&#x2F;">
+                  
+                    <span class="menu-text">Community</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;connect&#x2F;">
+                  
+                    <span class="menu-text">Mailing List</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;faq&#x2F;">
+                  
+                    <span class="menu-text">FAQ</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="&#x2F;about&#x2F;">
+                  
+                    <span class="menu-text">About Us</span>
+                  
+                </a>
+              
+            </li>
+          
+            <li class="nav-item px-1">
+              
+                <a class="nav-link" href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html">
+                  
+                    <span class="menu-text">Events<i class="bi bi-box-arrow-up-right ms-1"></i></span>
+                  
+                </a>
+              
+            </li>
+          
+        </ul>
+
+        <!-- Mobile Navigation -->
+        <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-lg-none">
+          
+            
+              <!-- Training main link for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;courses&#x2F;">
+                  <span class="menu-text text-decoration-underline fw-bold">Training</span>
+                </a>
+              </li>
+              <!-- Training sub-navigation items for mobile -->
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;courses&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Classes and Workshops Schedule
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3 active-training-item">
+                  <a class="nav-link"
+                     href="&#x2F;classes-workshops&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Class Catalog
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;teach-yourself&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Teach Yourself
+                      
+                    </span>
+                  </a>
+                </li>
+              
+                <li class="nav-item ps-3">
+                  <a class="nav-link"
+                     href="&#x2F;faq&#x2F;"
+                     >
+                    <span class="menu-text">
+                      Frequently Asked Questions
+                      
+                    </span>
+                  </a>
+                </li>
+              
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;community&#x2F;">
+                  
+                    <span class="menu-text">Community</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;connect&#x2F;">
+                  
+                    <span class="menu-text">Mailing List</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;faq&#x2F;">
+                  
+                    <span class="menu-text">FAQ</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="&#x2F;about&#x2F;">
+                  
+                    <span class="menu-text">About Us</span>
+                  
+                </a>
+              </li>
+            
+          
+            
+              <!-- Other navigation links for mobile -->
+              <li class="nav-item">
+                <a class="nav-link" href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html">
+                  
+                    <span class="menu-text">Events<i class="bi bi-box-arrow-up-right ms-1"></i></span>
+                  
+                </a>
+              </li>
+            
+          
+        </ul>
+
+        <div class="search-container">
+          <div class="search-results d-lg-none order-1">
+            <div class="search-results__items"></div>
+          </div>
+
+          <div class="search-input-wrapper order-2">
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 width="16"
+                 height="16"
+                 fill="currentColor"
+                 class="bi bi-search"
+                 viewBox="0 0 16 16">
+              <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+            </svg>
+
+            <input type="text" id="search" />
+
+            <button type="button"
+                    id="search-clear"
+                    class="search-clear"
+                    style="display: none">
+              <svg xmlns="http://www.w3.org/2000/svg"
+                   width="25"
+                   height="25"
+                   fill="currentColor"
+                   class="bi bi-x"
+                   viewBox="0 0 16 16">
+                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708" />
+              </svg>
+            </button>
+          </div>
+
+          <div class="search-results d-none d-lg-block order-3">
+            <div class="search-results__items"></div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    
+  <!-- Secondary Navigation Bar -->
+  <nav class="navbar navbar-expand-lg px-3 training-secondary-nav">
+    <div class="container-fluid">
+      <!-- Mobile: Show current page title -->
+      <span class="navbar-text d-lg-none fw-bold">
+        
+          
+        
+          Class Catalog
+        
+          
+        
+          
+        
+      </span>
+
+      <!-- Desktop: Show full navigation -->
+      <div class="d-none d-lg-block w-100">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;courses&#x2F;"
+                 >
+                Classes and Workshops Schedule
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link active"
+                 href="&#x2F;classes-workshops&#x2F;"
+                 >
+                Class Catalog
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;teach-yourself&#x2F;"
+                 >
+                Teach Yourself
+                
+              </a>
+            </li>
+          
+            <li class="nav-item px-2">
+              <a class="nav-link"
+                 href="&#x2F;faq&#x2F;"
+                 >
+                Frequently Asked Questions
+                
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  
+  <div class="container">
+    <div class="row">
+      <!-- Main Content -->
+      <div class="col-lg-8 col-12 p-4">
+        <h1>Class Catalog</h1>
+        <h4>Learn to code, access the cluster, work better with your colleagues, or tell stories with plots and spreadsheets</h4>
+        <p><p>You can sign up for a class or workshop if you are affiliated with a Cancer Consortium institution (Fred Hutch, UW, or SCH). <strong>All class and workshop materials are available online.</strong> Classes with asterisks (*) have a prerequisite, offered here.</p>
+<p><strong>You are welcome to work through them yourself, but you can only get a badge if you sign up for the class.</strong></p>
+</p>
+        <a href="/courses/">See the class schedule >></a>
+
+        <!-- Sections -->
+        
+          <div class="card-body py-4">
+            
+    
+    <h3
+        class="card-title"
+        id="data-4-all"
+    >
+        Data 4 All
+        <a class="zola-anchor"
+          href='#data-4-all'
+           aria-label='Anchor link for: data-4-all'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h3>
+
+            <hr style="background-color:var(--bright-blue);
+                       height: 4px;
+                       border-top: none" />
+            <p>No matter who you are, improve your skills at working with data and communicating with data. These workshops are designed to be tool-agnostic, and are discussion oriented. No prerequisites for these workshops.</p>
+
+            <div class="py-3">
+              
+                <div class="card my-2">
+                  <div class="card-header card-header-white d-flex align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-data-4-all-0"
+                       aria-expanded="false"
+                       aria-controls="collapse-data-4-all-0">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;chart-column-solid-full.svg" alt="replace me" class="img-fluid" />
+                    </div>
+                    <div class="flex-grow-1 ms-3">
+                      <h5 class="mb-1">Data 4 All Workshops</h5>
+                      <p class="mb-0" style="color: var(--grey)">Get better communicating with plots, spreadsheets, and tables</p>
+                    </div>
+                    <span class="toggle-icon ms-auto">
+                      <i class="bi bi-plus"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-data-4-all-0">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Reproducible Research</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Workshops</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2"></p>
+                      
+
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;better-plots&#x2F;"
+                                 >Better Plots</a>
+                              
+                              (offered in fall)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;better-spreadsheets&#x2F;"
+                                 >Better Spreadsheets</a>
+                              
+                              (offered in winter)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;better-tables&#x2F;"
+                                 >Better Tables</a>
+                              
+                              (offered in spring)
+                            </p>
+                          </div>
+                        
+
+                      
+                      <div class="d-flex justify-content-end">
+                        <a href="/courses/">See the class schedule >></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          </div>
+        
+          <div class="card-body py-4">
+            
+    
+    <h3
+        class="card-title"
+        id="data-science-programming"
+    >
+        Data Science Programming
+        <a class="zola-anchor"
+          href='#data-science-programming'
+           aria-label='Anchor link for: data-science-programming'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h3>
+
+            <hr style="background-color:var(--bright-blue);
+                       height: 4px;
+                       border-top: none" />
+            <p>Learn to load, clean, and visualize data in R, Python, and SQL. Classes with prerequisites are marked with a (*)</p>
+
+            <div class="py-3">
+              
+                <div class="card my-2">
+                  <div class="card-header card-header-white d-flex align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-data-science-programming-0"
+                       aria-expanded="false"
+                       aria-controls="collapse-data-science-programming-0">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;r-project-brands-solid-full.svg" alt="R Logo" class="img-fluid" />
+                    </div>
+                    <div class="flex-grow-1 ms-3">
+                      <h5 class="mb-1">R classes</h5>
+                      <p class="mb-0" style="color: var(--grey)">Learn the fundamentals of data analysis with R</p>
+                    </div>
+                    <span class="toggle-icon ms-auto">
+                      <i class="bi bi-plus"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-data-science-programming-0">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Data Science Programming</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">R</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2"></p>
+                      
+
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intro-to-r&#x2F;"
+                                 >Intro to R</a>
+                              
+                              (offered fall and spring)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intermediate-r&#x2F;"
+                                 >Intermediate R (*)</a>
+                              
+                              (offered fall and winter)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;bioconductor&#x2F;"
+                                 target="_blank">Bioconductor for Genomics (*)</a>
+                              <i class="bi bi-box-arrow-up-right"></i>
+                              (offered spring)
+                            </p>
+                          </div>
+                        
+
+                      
+                      <div class="d-flex justify-content-end">
+                        <a href="/courses/">See the class schedule >></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="card my-2">
+                  <div class="card-header card-header-white d-flex align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-data-science-programming-1"
+                       aria-expanded="false"
+                       aria-controls="collapse-data-science-programming-1">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;python-brands-solid-full.svg" alt="Python Logo" class="img-fluid" />
+                    </div>
+                    <div class="flex-grow-1 ms-3">
+                      <h5 class="mb-1">Python classes</h5>
+                      <p class="mb-0" style="color: var(--grey)">Learn the fundamentals of data analysis with Python.</p>
+                    </div>
+                    <span class="toggle-icon ms-auto">
+                      <i class="bi bi-plus"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-data-science-programming-1">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Data Science Programming</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">any language</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2"></p>
+                      
+
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intro-to-python&#x2F;"
+                                 >Intro to Python</a>
+                              
+                              (offered fall and winter)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intermediate-python&#x2F;"
+                                 >Intermediate Python (*)</a>
+                              
+                              (offered winter)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;machine-learning-python&#x2F;"
+                                 >Machine Learning for Python (*)</a>
+                              
+                              (offered spring)
+                            </p>
+                          </div>
+                        
+
+                      
+                      <div class="d-flex justify-content-end">
+                        <a href="/courses/">See the class schedule >></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="card my-2">
+                  <div class="card-header card-header-white d-flex align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-data-science-programming-2"
+                       aria-expanded="false"
+                       aria-controls="collapse-data-science-programming-2">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;database-solid-full.svg" alt="database icon" class="img-fluid" />
+                    </div>
+                    <div class="flex-grow-1 ms-3">
+                      <h5 class="mb-1">Database Programming</h5>
+                      <p class="mb-0" style="color: var(--grey)">Learn to query and retrieva data from database systems.</p>
+                    </div>
+                    <span class="toggle-icon ms-auto">
+                      <i class="bi bi-plus"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-data-science-programming-2">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Data Science Programming</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">SQL</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2"></p>
+                      
+
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intro-to-sql&#x2F;"
+                                 >Intro to SQL</a>
+                              
+                              (offered fall and winter)
+                            </p>
+                          </div>
+                        
+
+                      
+                      <div class="d-flex justify-content-end">
+                        <a href="/courses/">See the class schedule >></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          </div>
+        
+          <div class="card-body py-4">
+            
+    
+    <h3
+        class="card-title"
+        id="scalable-computing"
+    >
+        Scalable Computing
+        <a class="zola-anchor"
+          href='#scalable-computing'
+           aria-label='Anchor link for: scalable-computing'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h3>
+
+            <hr style="background-color:var(--bright-blue);
+                       height: 4px;
+                       border-top: none" />
+            <p>Learn how to use Fred Hutch’s scientific computing resources so you can analyze large data sets or do computing more efficiently. Workshops and classes with prerequisites are indicated with a (*)</p>
+
+            <div class="py-3">
+              
+                <div class="card my-2">
+                  <div class="card-header card-header-white d-flex align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-scalable-computing-0"
+                       aria-expanded="false"
+                       aria-controls="collapse-scalable-computing-0">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;circle-nodes-solid-full.svg" alt="replace me" class="img-fluid" />
+                    </div>
+                    <div class="flex-grow-1 ms-3">
+                      <h5 class="mb-1">Using the command line and scientific computing cluster</h5>
+                      <p class="mb-0" style="color: var(--grey)">Learn to use the cluster for more efficient data analysis</p>
+                    </div>
+                    <span class="toggle-icon ms-auto">
+                      <i class="bi bi-plus"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-scalable-computing-0">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Scalable Computing</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2"></p>
+                      
+
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intro-to-command-line&#x2F;"
+                                 >Intro to command line</a>
+                              
+                              (offered fall and summer)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intro-fh-cluster&#x2F;"
+                                 >Intro to FH Cluster Computing (*)</a>
+                              
+                              (offered fall and spring)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;bash-for-bioinformatics&#x2F;"
+                                 >Bash for Bioinformatics (*)</a>
+                              
+                              (offered fall and spring)
+                            </p>
+                          </div>
+                        
+
+                      
+                      <div class="d-flex justify-content-end">
+                        <a href="/courses/">See the class schedule >></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          </div>
+        
+          <div class="card-body py-4">
+            
+    
+    <h3
+        class="card-title"
+        id="reproducible-research"
+    >
+        Reproducible Research
+        <a class="zola-anchor"
+          href='#reproducible-research'
+           aria-label='Anchor link for: reproducible-research'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h3>
+
+            <hr style="background-color:var(--bright-blue);
+                       height: 4px;
+                       border-top: none" />
+            <p>Learn best practices for reproducible research to make your work transparent and reusable by your labmates, your PI, your own future self, and the scientific community. Workshops with prerequisites are marked with a (*)</p>
+
+            <div class="py-3">
+              
+                <div class="card my-2">
+                  <div class="card-header card-header-white d-flex align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-reproducible-research-0"
+                       aria-expanded="false"
+                       aria-controls="collapse-reproducible-research-0">
+                    <div class="col-md-2 text-center">
+                      <img src="&#x2F;images&#x2F;github-brands-solid-full.svg" alt="GitHub Logo" class="img-fluid" />
+                    </div>
+                    <div class="flex-grow-1 ms-3">
+                      <h5 class="mb-1">Using Git and GitHub for Collaboration and Reproducibility</h5>
+                      <p class="mb-0" style="color: var(--grey)">Leverage the power of Git and GitHub for Scientific Collaboration, Communication, and Reproducible Research</p>
+                    </div>
+                    <span class="toggle-icon ms-auto">
+                      <i class="bi bi-plus"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-reproducible-research-0">
+                    <div class="card-body">
+                      
+
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Reproducible Research</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Workshops</span>
+                        
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                        
+
+                      
+                      <p class="mb-2"></p>
+                      
+
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intro-to-git&#x2F;"
+                                 >Intro to Git and GitHub</a>
+                              
+                              (offered in winter and summer)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;intermediate-git&#x2F;"
+                                 >Intermediate Git and GitHub (*)</a>
+                              
+                              (offered in winter and summer)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;package-management&#x2F;"
+                                 >Package Management for R and Python (*)</a>
+                              
+                              (offered in winter and summer)
+                            </p>
+                          </div>
+                        
+                          <div class="d-flex align-items-center gap-2">
+                            <p>
+                              <a href="&#x2F;courses&#x2F;making-code-ready&#x2F;"
+                                 >Making Code Ready for Publication (*)</a>
+                              
+                              (offered in winter and summer)
+                            </p>
+                          </div>
+                        
+
+                      
+                      <div class="d-flex justify-content-end">
+                        <a href="/courses/">See the class schedule >></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              
+            </div>
+          </div>
+        
+      </div>
+      <!-- end main content -->
+
+      <!-- Sidebar -->
+      <div class="col-lg-4 col-12 p-4">
+        
+          
+  
+    
+  
+  <aside class="sidebar">
+    
+      
+        
+  <div class="sidebar-section top_card py-3">
+    <div class="card border-0">
+      <div class="card-body">
+        <h4 class="card-title">Wondering if the classes fit in your schedule?</h4>
+        <p class="card-text"><p><a href="/courses/">Look at the class schedule here ! &gt;&gt;&gt;</a></p>
+</p>
+      </div>
+    </div>
+  </div>
+
+      
+    
+      
+        
+  
+  <div class="sidebar-section contact-us py-3">
+    <h3>Contact Us</h3>
+    <p>For questions about class schedule or content contact DaSL trainers</p>
+    <h5>DaSL Trainers</h5>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;ted-laderas.jpg"
+               alt="Ted Laderas"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Ted Laderas</p>
+          <p class="mb-0 text-muted small">tladera2@fredhutch.org</p>
+        </div>
+      </div>
+    
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="&#x2F;images&#x2F;chris-lo.jpg"
+               alt="Chris Lo"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">Chris Lo</p>
+          <p class="mb-0 text-muted small">clo2@fredhutch.org</p>
+        </div>
+      </div>
+    
+  </div>
+
+      
+    
+      
+        
+  
+  <div class="sidebar-section need-help py-3">
+    <h3>Other Ways to Find Help</h3>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href=""></a>
+        </h5>
+        <p class="card-text">In addition to training and community, the Office of the Chief Data Officer (OCDO) manages other resources and ways to ask for help:</p>
+      </div>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="&#x2F;community&#x2F;">Find a community to work with</a>
+        </h5>
+        <p class="card-text">Data science doesn&#x27;t have to be lonely. Meet other like minded data science people.</p>
+      </div>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https:&#x2F;&#x2F;sciwiki.fredhutch.org&#x2F;">Check out the SciWiki</a>
+        </h5>
+        <p class="card-text">Check out our communal knowledge on various computing and data related topics at Hutch at the Sciwiki.</p>
+      </div>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https:&#x2F;&#x2F;join.slack.com&#x2F;t&#x2F;fhdata&#x2F;signup">Ask a question on Slack</a>
+        </h5>
+        <p class="card-text">We have a community Slack channel for questions and answers, as well as some other channels where people share information and content about specific topics.</p>
+      </div>
+    
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https:&#x2F;&#x2F;ocdo.fredhutch.org&#x2F;programs&#x2F;dhc.html">Get a 30 minute consult (Data House Call)</a>
+        </h5>
+        <p class="card-text">If you need a little help troubleshooting, find the right resources, or figuring out the right question to ask, try a Data House Call.</p>
+      </div>
+    
+  </div>
+
+      
+    
+  </aside>
+
+        
+      </div>
+    </div>
+  </div>
+
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Handle collapse toggle events
+    document
+      .querySelectorAll('[data-bs-toggle="collapse"]')
+      .forEach(function (element) {
+        element.addEventListener("click", function () {
+          const target = document.querySelector(
+            this.getAttribute("data-bs-target"),
+          );
+          const icon = this.querySelector(".toggle-icon i");
+
+          // Toggle icon class
+          if (
+            target.classList.contains("show") ||
+            this.getAttribute("aria-expanded") === "true"
+          ) {
+            icon.classList.remove("bi-dash");
+            icon.classList.add("bi-plus");
+          } else {
+            icon.classList.remove("bi-plus");
+            icon.classList.add("bi-dash");
+          }
+        });
+      });
+
+    // Listen for Bootstrap collapse events
+    document.querySelectorAll(".collapse").forEach(function (collapseElement) {
+      collapseElement.addEventListener("shown.bs.collapse", function () {
+        const trigger = document.querySelector(
+          '[data-bs-target="#' + this.id + '"]',
+        );
+        const icon = trigger.querySelector(".toggle-icon i");
+        icon.classList.remove("bi-plus");
+        icon.classList.add("bi-dash");
+      });
+
+      collapseElement.addEventListener("hidden.bs.collapse", function () {
+        const trigger = document.querySelector(
+          '[data-bs-target="#' + this.id + '"]',
+        );
+        const icon = trigger.querySelector(".toggle-icon i");
+        icon.classList.remove("bi-dash");
+        icon.classList.add("bi-plus");
+      });
+    });
+  });
+  </script>
+
+
+
+
+
+    <!-- Footer -->
+    <footer class="bg-light border-top mt-5">
+      <div class="container">
+        <div class="row py-4">
+          <div class="col-md-6 col-12 mb-3">
+            <img src="https://dasl.fredhutch.org/images/fred-hutch-logo-primary.png"
+                 alt="Fred Hutch Logo"
+                 class="mb-3"
+                 style="max-height: 50px" />
+            <p class="text-muted mb-0">
+              Fred Hutchinson Cancer Center, a 501(c)(3) nonprofit
+              organization
+            </p>
+            <p class="text-muted mb-0">
+              The Data Science Lab is a program from the Office of
+              the Chief Data Officer
+            </p>
+            <p class="text-muted mb-0">
+              <a href="https://ocdo.fredhutch.org">ocdo.fredhutch.org</a>
+            </p>
+          </div>
+          <div class="col-md-3 col-6 mb-3">
+            <h6 class="fw-bold mb-3">Quick Links</h6>
+            <ul class="list-unstyled">
+              
+                <li class="mb-1">
+                  <a href="&#x2F;courses&#x2F;" class="text-decoration-none">
+                    Training
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;community&#x2F;" class="text-decoration-none">
+                    Community
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;connect&#x2F;" class="text-decoration-none">
+                    Mailing List
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;faq&#x2F;" class="text-decoration-none">
+                    FAQ
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="&#x2F;about&#x2F;" class="text-decoration-none">
+                    About Us
+                    
+                  </a>
+                </li>
+              
+                <li class="mb-1">
+                  <a href="https:&#x2F;&#x2F;centernet.fredhutch.org&#x2F;u&#x2F;data-science-lab&#x2F;resources&#x2F;events-calendar.html" class="text-decoration-none">
+                    Events
+                    <i class="bi bi-box-arrow-up-right ms-1 small"></i>
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+          <div class="col-md-3 col-6 mb-3">
+            <h6 class="fw-bold mb-3">Connect</h6>
+            <ul class="list-unstyled">
+              <li class="mb-1">
+                <a href="https://www.fredhutch.org" class="text-decoration-none">Fred Hutch
+                  <i class="bi bi-box-arrow-up-right ms-1 small"></i></a>
+              </li>
+              <li class="mb-1">
+                <a href="mailto:dasl@fredhutch.org" class="text-decoration-none">Contact Us</a>
+              </li>
+              <li class="mb-1">
+                <a href="#" class="text-decoration-none"><i class="bi bi-github me-1"></i>GitHub</a>
+              </li>
+              <li class="mb-1">
+                <a href="/connect/" class="text-decoration-none"><i class="bi bi-envelope-paper me-1"></i>Newsletter</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
+    <script type="text/javascript" src="https://dasl.fredhutch.org/search.js"></script>
+  </body>
+</html>

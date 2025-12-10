@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - dasl/**
 
 website:
   google-analytics: "G-F8NWF32PC7"
@@ -34,7 +36,8 @@ website:
         href: resources.qmd
       - text: "Our Team"
         href: about.qmd
-
+      - text: "DaSL"
+        href: dasl/
 
   sidebar:
       style: "floating"

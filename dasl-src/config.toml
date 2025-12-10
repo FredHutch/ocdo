@@ -1,0 +1,50 @@
+# The URL the site will be built for
+base_url = "https://dasl.fredhutch.org"
+
+default_language = "en"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+insert_anchor_links = "right"
+
+
+[search]
+# Whether to include the title of the page/section in the index
+include_title = true
+# Whether to include the description of the page/section in the index
+include_description = false
+# Whether to include the RFC3339 datetime of the page in the search index
+include_date = false
+# Whether to include the path of the page/section in the index (the permalink is always included)
+include_path = false
+# Whether to include the rendered content of the page/section in the index
+include_content = true
+index_format = "fuse_json"
+
+[extra]
+navbar_links = [
+  { title = "Training", url = "/courses/" },
+  { title = "Community", url = "/community/" },
+  { title = "Mailing List", url = "/connect/" },
+  { title = "FAQ", url = "/faq/"},
+  { title = "About Us", url = "/about/" },
+  { title = "Events", url = "https://centernet.fredhutch.org/u/data-science-lab/resources/events-calendar.html", external = true },
+]
+
+training_nav = [
+
+  { title = "Classes and Workshops Schedule", url = "/courses/" },
+  { title = "Class Catalog", url = "/classes-workshops/" },
+  { title = "Teach Yourself", url = "/teach-yourself/" },
+  { title = "Frequently Asked Questions", url = "/faq/"},
+#  { title = "Data Snacks", url = "https://hutchdatascience.org/data_snacks/", external = true },
+]

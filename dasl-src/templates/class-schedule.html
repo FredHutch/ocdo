@@ -1,0 +1,53 @@
+{% import "macros/sidebar.html" as sidebar %}
+{% import "macros/headings.html" as h %}
+{% extends "training-base.html" %}
+{% block training_content %}
+  <div class="container">
+    <div class = "row">
+      <div class="col-lg-8 col-12 p-4">
+        <!-- Main Content -->
+        <div class="card-body py-3">
+          <h1>{{ page.title }}</h1>
+          <p>{{ page.extra.yeartable.text_md | markdown | safe }}</p>
+        </div>
+        <div class="card-body py-3">
+          <table class="table table-bordered">
+            <thead class="table-light">
+              <tr>
+                {% for col in page.extra.yeartable.columns %}<th scope="col">{{ col }}</th>{% endfor %}
+              </tr>
+              <tbody class="table-group-divider">
+                {% for q in page.extra.yeartable.quarters %}
+                  <tr>
+                    <th scope="row">{{ q.quarter_md | markdown | safe }}</th>
+                    {% for row in q.row_md %}<td>{{ row | markdown | safe }}</td>{% endfor %}
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </thead>
+          </table>
+        </div>
+
+        <!-- Classes -->
+        {% for season in page.extra.seasons %}
+          <div class="card-body py-3">
+            {{ h::heading(text=season.title, level=2, class = "card-title", id_prefix="season-") }}
+            <hr style="background-color:{{ page.extra.color }};
+                       height: 4px;
+                       border-top: none" />
+            <p>{{ season.brief }}</p>
+            <p>{{ season.text_md | markdown | safe }}</p>
+          </div>
+        {% endfor %}
+
+        <!-- Sidebar -->
+      </div>
+      <div class="col-lg-4 col-12 p-4">
+        {% if page.extra.sidebar_sections %}
+          {{ sidebar::render_sidebar_sections(sections=page.extra.sidebar_sections) }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+{% endblock training_content %}

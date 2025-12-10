@@ -1,0 +1,37 @@
+{% import "macros/sidebar.html" as sidebar %}
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+  <div class="row">
+    <!-- Main Content -->
+    <div class="col-lg-8 col-12 p-4">
+      <h1>{{ page.title }}</h1>
+      <h2>{{ page.extra.main_subtitle }}</h2>
+
+      <p>{{ page.extra.main_text_md | markdown | safe}}</p>  
+
+      <!-- FAQ section -->
+      <h2>To do list</h2>
+      {% if page.extra.todos %}
+      <div class="row mt-4">
+        {% for todo_item in page.extra.todos %}
+        <ul class="list-group-flush">
+          <li class="list-group-item">
+            <h5>{{ todo_item.question }}</h5>
+            <p>{{ todo_item.answer | markdown | safe }}</p>
+          </li>
+        </ul>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+
+    <!-- Sidebar -->
+    <div class="col-lg-4 col-12 p-4">
+      {% if page.extra.sidebar_sections %}
+        {{ sidebar::render_sidebar_sections(sections=page.extra.sidebar_sections) }}
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% endblock %}

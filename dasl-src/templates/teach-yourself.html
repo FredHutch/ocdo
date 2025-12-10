@@ -1,0 +1,178 @@
+{% import "macros/sidebar.html" as sidebar %}
+{% import "macros/headings.html" as h %}
+{% extends "training-base.html" %}
+{% block training_content %}
+  <div class="container">
+    <div class="row">
+      <!-- Main Content -->
+      <div class="col-lg-8 col-12 p-4">
+        <h1>{{ page.title }}</h1>
+        <h4>{{ page.extra.subtitle }}</h4>
+        <!-- Sections -->
+        <!-- Materials -->
+        <div class="card-body py-3">
+          {{ h::heading(text=page.extra.materials.title, level=3, class = "card-title", id_prefix="materials-") }}
+          <hr style="background-color:{{ page.extra.color }};
+                     height: 4px;
+                     border-top: none" />
+          <p>{{ page.extra.materials.brief }}</p>
+          <p>{{ page.extra.materials.list_heading }}</p>
+        </div>
+        <ul>
+          {% for resource in page.extra.materials.resources %}
+            <li>
+              <div>
+                <p>
+                  <a href="{{ resource.link }}">{{ resource.link_text }}</a> {{
+                  resource.description }}
+                </p>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+
+        <!-- Teach yourself courses -->
+        <div class="card-body">
+          {{ h::heading(text=page.extra.teach_yourself.title, level=3, class = "card-title", id_prefix="materials-") }}
+          <hr style="background-color: {{ page.extra.color }};
+                     height: 4px;
+                     border-top: none" />
+          <p>{{ page.extra.teach_yourself.brief }}</p>
+
+          {% for course in page.extra.teach_yourself.courses %}
+            <div class="py-3">
+              {{ h::heading(text=course.title, level=4) }}
+              <p>{{ course.description }}</p>
+              {% for card in course.cards %}
+                <div class="card my-2">
+                  <div class="card-header d-flex justify-content-between align-items-center"
+                       role="button"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#collapse-{{ course.title | slugify }}-{{ loop.index0 }}"
+                       aria-expanded="false"
+                       aria-controls="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
+                    <div class="col-md-2 text-center">
+                      <img src="{{ card.img }}"  class="img-fluid" />
+                    </div>
+                    <div>
+                      <h5 class="mb-1">{{ card.title }}</h5>
+                      <p>{{ card.brief }}</p>
+                    </div>
+                    <span class="toggle-icon">
+                      <i class="bi bi-plus"
+                         style="font-size: 3rem;
+                                color: {{ page.extra.color }}"></i>
+                    </span>
+                  </div>
+                  <div class="collapse"
+                       id="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
+                    <div class="card-body">
+                      {% if card.tags %}
+
+                        {% for tag in card.tags %}
+                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">{{ tag }}</span>
+                        {% endfor %}
+
+                      {% endif %}
+                      <p class="mb-2">{{ card.description }}</p>
+                      {% if card.links %}
+
+                        {% for link in card.links %}
+                          <div>
+                            <a href="{{ link.course_link }}" target="_blank">{{ link.course_title }}</a>
+                            <i class="bi bi-box-arrow-up-right"></i>
+                          </div>
+                        {% endfor %}
+
+                      {% endif %}
+                    </div>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+          {% endfor %}
+        </div>
+
+        <!-- Courses from Research Scientists -->
+        <div class="card-body">
+          {{ h::heading(text=page.extra.researchsci_courses.title, level=3, class = "card-title", id_prefix="materials-") }}
+          <hr style="background-color: {{ page.extra.color }};
+                     height: 4px;
+                     border-top: none" />
+          <p>{{ page.extra.researchsci_courses.brief }}</p>
+          <strong class="text-center d-block my-4">Explore all DaSL and DaSL affiliate course materials</strong>
+          {% for course in page.extra.researchsci_courses.topics %}
+            <div class="py-2">
+              <a href="{{ course.link }}" target="_blank">{{ h::heading(text=course.title, level=4) }}</a>
+              <p>{{ course.description }}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+      <!-- end main content -->
+
+      <!-- Sidebar -->
+      <div class="col-lg-4 col-12 p-4">
+        {% if page.extra.sidebar_sections %}
+          {{ sidebar::render_sidebar_sections(sections=page.extra.sidebar_sections) }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Handle collapse toggle events
+    document
+      .querySelectorAll('[data-bs-toggle="collapse"]')
+      .forEach(function (element) {
+        element.addEventListener("click", function () {
+          const target = document.querySelector(
+            this.getAttribute("data-bs-target"),
+          );
+          const icon = this.querySelector(".toggle-icon i");
+
+          // Toggle icon class
+          if (
+            target.classList.contains("show") ||
+            this.getAttribute("aria-expanded") === "true"
+          ) {
+            icon.classList.remove("bi-dash");
+            icon.classList.add("bi-plus");
+          } else {
+            icon.classList.remove("bi-plus");
+            icon.classList.add("bi-dash");
+          }
+        });
+      });
+
+    // Listen for Bootstrap collapse events
+    document.querySelectorAll(".collapse").forEach(function (collapseElement) {
+      collapseElement.addEventListener("shown.bs.collapse", function () {
+        const trigger = document.querySelector(
+          '[data-bs-target="#' + this.id + '"]',
+        );
+        const icon = trigger.querySelector(".toggle-icon i");
+        icon.classList.remove("bi-plus");
+        icon.classList.add("bi-dash");
+      });
+
+      collapseElement.addEventListener("hidden.bs.collapse", function () {
+        const trigger = document.querySelector(
+          '[data-bs-target="#' + this.id + '"]',
+        );
+        const icon = trigger.querySelector(".toggle-icon i");
+        icon.classList.remove("bi-dash");
+        icon.classList.add("bi-plus");
+      });
+    });
+  });
+  </script>
+
+  <style>
+.training-secondary-nav .nav-link.active::after {
+  background-color: var(--warm-purple) !important;
+}
+  </style>
+
+{% endblock training_content %}

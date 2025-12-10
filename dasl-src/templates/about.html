@@ -1,0 +1,137 @@
+{% import "macros/headings.html" as h %}
+{% extends "base.html" %}
+{% block content %}
+  <div class="container px-1 px-md-3">
+    <div class="row">
+      <div class="col-lg-8 col-12 sans-serif">
+        <div class="container my-5">
+          <h1 class="pb-4">{{ section.extra.title }}</h1>
+          {{ h::heading(text=section.extra.training_team_title, level=2) }}
+          {% for person in section.extra.training_team.people %}
+            <!-- Item -->
+            <div class="row align-items-center px-1 py-4 card-item-underline"
+                 style="--underline-color: var(--{{ card.underline_color | default(value='bright-blue') }})">
+              <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                <img src="{{ get_url(path=person.img) }}"
+                     alt="Classes icon"
+                     class="img-fluid" />
+              </div>
+              <div class="col-lg-9 col-md-6 ps-3">
+                <div class="row">
+                  <div class="col-md-10">
+                    <p class="fw-bold">{{ person.name }} - {{ person.title }}</p>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <p class="mb-0">{{ person.bio_md }}</p>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <a href="{{ person.link_url }}"
+                       class="mb-0"
+                       target="_blank"
+                       style="text-decoration: none">
+                      {{ person.link_text }}
+                      <i class="bi bi-box-arrow-up-right"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+
+        <div class="container my-5">
+          {{ h::heading(text=section.extra.affiliates_title, level=2) }}
+          {% for person in section.extra.affiliates.people %}
+            <!-- Item -->
+            <div class="row align-items-start px-1 py-4 card-item-underline"
+                 style="--underline-color: var(--{{ card.underline_color | default(value='bright-blue') }})">
+              <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                <img src="{{ get_url(path=person.img) }}"
+                     alt="Classes icon"
+                     class="img-fluid" />
+              </div>
+              <div class="col-lg-9 col-md-6 ps-3">
+                <div class="row">
+                  <div class="col-md-10">
+                    <p class="fw-bold">{{ person.name }} - {{ person.title }}</p>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <p class="mb-0">{{ person.bio_md }}</p>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <a href="{{ person.link_url }}"
+                       class="mb-0"
+                       target="_blank"
+                       style="text-decoration: none">
+                      {{ person.link_text }}
+                      <i class="bi bi-box-arrow-up-right"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+
+        <div class="container my-5">{{ section.content | safe }}</div>
+      </div>
+
+      <div class="col-lg-4 col-12 py-4 sans-serif">
+        <div class="container my-4">
+          <div class="card px-3 py-1 my-2 border-0">
+            <div class="card-header bg-transparent">
+              <h2 class="card-title">Need help fast?</h2>
+            </div>
+            <div class="card-body">
+              <h2 class="card-title">
+                <a href="https://join.slack.com/t/fhdata/signup">Ask a question on Slack</a>
+              </h2>
+              <p class="card-text">
+                We're all on slack all the time, and questions from beginners are
+                our favorite kind!
+              </p>
+            </div>
+            <div class="card-body">
+              <h2 class="card-title">
+                <a href="https://ocdo.fredhutch.org/programs/dhc.html">Get a 30 minute consult (Data House Call)</a>
+              </h2>
+              <p class="card-text">
+                If you need a little help troubleshooting, find the right
+                resources, or figuring out the right question to ask, try a Data
+                House Call.
+              </p>
+            </div>
+            <div class="card-body">
+              <h2 class="card-title">
+                <a href="https://sciwiki.fredhutch.org/">Check out the Sciwiki</a>
+              </h2>
+              <p class="card-text">
+                Check out our communal knowledge on various computing related
+                topics at Hutch at the Sciwiki. And don't be shy about
+                contributing what you know yourself.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock content %}

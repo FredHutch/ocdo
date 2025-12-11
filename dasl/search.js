@@ -118,7 +118,7 @@ function initSearch() {
   var initFuse = async function () {
     if (fuse === undefined) {
       try {
-        var response = await fetch("/search_index.en.json");
+        var response = await fetch("/dasl/search_index.en.json");
         var searchData = await response.json();
 
         // Fuse.js options for whole word matching

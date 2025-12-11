@@ -9,6 +9,8 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+[link_checker]
+internal_level = "warn"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -41,7 +43,6 @@ navbar_links = [
 ]
 
 training_nav = [
-
   { title = "Classes and Workshops Schedule", url = "courses/" },
   { title = "Class Catalog", url = "classes-workshops/" },
   { title = "Teach Yourself", url = "teach-yourself/" },

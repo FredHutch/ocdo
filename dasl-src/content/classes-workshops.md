@@ -135,8 +135,6 @@ course_title = "Bash for Bioinformatics (*)"
 course_link = "/courses/bash-for-bioinformatics/"
 offered = "(offered fall and spring)"
 
-
-
 [[extra.courses]]
 title = "Reproducible Research"
 description = "Learn best practices for reproducible research to make your work transparent and reusable by your labmates, your PI, your own future self, and the scientific community. Workshops with prerequisites are marked with a (*)"
@@ -169,15 +167,13 @@ course_title = "Making Code Ready for Publication (*)"
 course_link = "/courses/making-code-ready/"
 offered = "(offered in winter and summer)"
 
-
-
 #############
 ## Sidebar ##
 #############
 
 [extra.top_card]
 title = "Wondering if the classes fit in your schedule?"
-text_md = "[Look at the class schedule here ! >>>](/courses/)"
+text_md = "[Look at the class schedule here ! >>>](/dasl/courses/)"
 
 [extra.image_card]
 title = "Did you know?"

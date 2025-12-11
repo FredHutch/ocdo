@@ -18,7 +18,7 @@ The home of Training and Community efforts from the Fred Hutch OCDO"""
 
 main_title = """We offer training for members of the Fred Hutch Cancer Consortium"""
 
-main_text_md = """The Fred Hutch Data Science Lab (DaSL) is a collaborative effort between a variety of experts in biomedical data science training and education and the Office of the Chief Data Officer ([OCDO](@https://ocdo.fredhutch.org)) at Fred Hutch. We jointly release a variety of training, education, software and tooling that supports data science education in a number of scientific areas that are broadly applicable across the world. These resources are supplemented and focused on Fred Hutch by the [OCDO Training & Community](@https://ocdo.fredhutch.org/training.html) group."""
+main_text_md = """The Fred Hutch Data Science Lab (DaSL) is a collaborative effort between a variety of experts in biomedical data science training and education and the Office of the Chief Data Officer ([OCDO](https://ocdo.fredhutch.org)) at Fred Hutch. We jointly release a variety of training, education, software and tooling that supports data science education in a number of scientific areas that are broadly applicable across the world. These resources are supplemented and focused on Fred Hutch by the [OCDO Training & Community](https://ocdo.fredhutch.org/training.html) group."""
 
 [[extra.cards]]
 title = "Explore our classes and workshops"
@@ -55,7 +55,7 @@ url = "/teach-yourself"
 
 [extra.top_card]
 title = "Not sure which class to take?"
-text_md = "[Look at our overview here ! >>>](/classes-workshops/)"
+text_md = "[Look at our overview here ! >>>](@/classes-workshops.md)"
 
 [extra.image_card]
 title = "Did you know?"

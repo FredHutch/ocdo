@@ -1,0 +1,14 @@
+{% macro heading(text, level=1, class="", id_prefix="") %}
+    {% set slug = text | slugify %}
+    <h{{ level }}
+        {% if class != "" %}class="{{ class }}"{% endif %}
+        {% if id_prefix != "" %}id="{{ id_prefix }}{{ slug }}"{% else %}id="{{ slug }}"{% endif %}
+    >
+        {{ text }}
+        <a class="zola-anchor"
+          href='#{% if id_prefix != "" %}{{ id_prefix }}{% endif %}{{ slug }}'
+           aria-label='Anchor link for: {% if id_prefix != "" %}{{ id_prefix }}{% endif %}{{ slug }}'>
+            <i class="bi bi-link-45deg"></i>
+        </a>
+    </h{{ level }}>
+{% endmacro %}

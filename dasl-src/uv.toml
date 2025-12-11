@@ -1,0 +1,15 @@
+[tool.uv]
+# UV configuration for DASL project
+
+# Tools required for HTML template formatting
+[tool.uv.tools]
+djlint = ">=1.34.0"
+
+[project]
+name = "dasl-formatting"
+description = "Fred Hutch Data Science Lab - HTML template formatting setup"
+version = "1.0.0"
+requires-python = ">=3.8"
+
+[project.optional-dependencies]
+formatting = ["djlint>=1.34.0"]

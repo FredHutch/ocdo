@@ -1,0 +1,46 @@
+{% import "macros/sidebar.html" as sidebar %}
+{% extends "base.html" %}
+{% block content %}
+  <div class="container">
+    <div class="row">
+      <!-- Main Content -->
+      <div class="col-lg-8 col-12 p-4">
+        <h1>{{ section.extra.title }}</h1>
+        <!-- Course Listings -->
+        <div class="mt-4">
+          {% for page in section.pages %}
+            <div class="card mb-3">
+              <div class="card-body">
+                <h5 class="card-title">
+                  <a href="{{ page.permalink }}">{{ page.title }}</a>
+                </h5>
+                {% if page.extra.class_information %}
+                  <div class="text-muted small">
+                    {% if page.extra.class_information.dates %}
+                      <strong>Dates:</strong> {{ page.extra.class_information.dates }}
+                      <br>
+                    {% endif %}
+                    {% if page.extra.class_information.time %}
+                      <strong>Time:</strong> {{ page.extra.class_information.time }}
+                      <br>
+                    {% endif %}
+                    {% if page.extra.class_information.time_commitment %}
+                      <strong>Time Commitment:</strong> {{ page.extra.class_information.time_commitment }}
+                    {% endif %}
+                  </div>
+                {% endif %}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="col-lg-4 col-12 p-4">
+        {% if page.extra.sidebar_sections %}
+          {{ sidebar::render_sidebar_sections(sections=page.extra.sidebar_sections) }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endblock content %}

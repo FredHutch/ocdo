@@ -1,0 +1,82 @@
+[contact_us]
+title = "Contact Us"
+text = "For questions about class schedule or content contact DaSL trainers"
+subtitle = "DaSL Trainers"
+
+[[contact_us.people]]
+img = "images/ted-laderas.jpg"
+name = "Ted Laderas"
+email = "tladera2@fredhutch.org"
+
+[[contact_us.people]]
+img = "images/chris-lo.jpg"
+name = "Chris Lo"
+email = "clo2@fredhutch.org"
+
+[research_scientists]
+title = "Questions about materials from DaSL Research Scientists?"
+text = "Contact any of us with questions about our courses or materials:"
+
+[[research_scientists.people]]
+img = "images/carrie-wright.png"
+name = "Carrie Wright, PhD"
+email = "cwright@fredhutch.org"
+
+[[research_scientists.people]]
+img = "images/elizabeth-humphries.jpg"
+name = "Elizabeth Humphries, PhD"
+email = "eehumphri@fredhutch.org"
+
+[[research_scientists.people]]
+img = "images/ava-hoffman.jpg"
+name = "Ava Hoffman, PhD"
+email = "ahoffma2@fredhutch.org"
+
+[[research_scientists.people]]
+img = "images/kate-isaacs.png"
+name = "Kate Isaac, PhD"
+email = "kisaac@fredhutch.org"
+
+[need_help]
+title = "Other Ways to Find Help"
+
+[[need_help.section]]
+title = ""
+url = ""
+text = "In addition to training and community, the Office of the Chief Data Officer (OCDO) manages other resources and ways to ask for help:"
+
+[[need_help.section]]
+title = "Find a community to work with"
+url="/community/"
+text="Data science doesn't have to be lonely. Meet other like minded data science people."
+
+[[need_help.section]]
+title = "Check out the SciWiki"
+url = "https://sciwiki.fredhutch.org/"
+text = "Check out our communal knowledge on various computing and data related topics at Hutch at the Sciwiki."
+
+[[need_help.section]]
+title = "Ask a question on Slack"
+url = "https://join.slack.com/t/fhdata/signup"
+text = "We have a community Slack channel for questions and answers, as well as some other channels where people share information and content about specific topics."
+
+[[need_help.section]]
+title = "Get a 30 minute consult (Data House Call)"
+url = "https://ocdo.fredhutch.org/programs/dhc.html"
+text = "If you need a little help troubleshooting, find the right resources, or figuring out the right question to ask, try a Data House Call."
+
+
+[events]
+title = "Upcoming Events"
+
+[[events.event]]
+title = "Learning Community Meeting"
+datetime = "Tuesday July 17, 12-1:30pm"
+day = "12"
+month = "JUL"
+
+[[events.event]]
+title = "Learning Community Meeting"
+datetime = "Tuesday July 23, 12-1:30pm"
+day = "23"
+month = "JUL"

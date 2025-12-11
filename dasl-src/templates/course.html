@@ -1,0 +1,132 @@
+{% import "macros/sidebar.html" as sidebar %} {% extends "training-base.html" %} {% block
+training_content %}
+<div class="container">
+  <div class="row">
+    <!-- Main Content -->
+    <div class="col-lg-8 col-12 p-4">
+      <h1>{{ page.title }}</h1>
+      <p style="font-weight: 300;">{{ page.extra.main_subtitle | markdown | safe }}</p>
+
+      <div class="container my-5 d-flex justify-content-between">
+        {% if page.extra.registration_link %}
+        <a
+          href="{{ page.extra.registration_link }}"
+          class="btn btn-primary btn-lg mb-3"
+          style="background-color: #367797; border-color: #367797"
+          role="button"
+          >Register for the next session</a
+        >
+        {% else %}
+        <a
+          href="#"
+          class="btn btn-primary btn-lg me-2 mb-2"
+          style="background-color: #454b54; border-color: #454b54"
+          role="button"
+          >Registration is not open yet!</a
+        >
+        {% endif %}
+   
+        <a
+          href="{{ page.extra.course_materials_link }}"
+          class="btn btn-outline-primary btn-lg no-hover"
+          style="border-color: #367797; color: #367797 !important"
+          role="button"
+        >
+          Explore the course materials
+          <i class="bi bi-box-arrow-up-right ms-1 small"></i>
+        </a>
+      </div>
+
+      <!-- Class information -->
+      <h2>Class information</h2>
+      <div class="row mt-4">
+        <ul>
+          {% if page.extra.class_information.quarters_offered %}
+          <li>
+            <p>
+              <strong>Quarters Offered:</strong> {{ page.extra.class_information.quarters_offered }}
+            </p>
+          </li>
+          {% endif %}
+          <li>
+            <p>
+              <strong>Dates:</strong> {{ page.extra.class_information.dates }}
+            </p>
+          </li>
+          {% if page.extra.class_information.time %}
+          <li>
+            <p>
+              <strong>Time:</strong> {{ page.extra.class_information.time }}
+            </p>
+          </li>
+          {% endif %}
+          <li>
+            <p>
+              <strong>Time commitment:</strong> {{
+              page.extra.class_information.time_commitment }}
+            </p>
+          </li>
+          <li>
+            <p>
+              <strong>Audience:</strong> {{
+              page.extra.class_information.audience }}
+            </p>
+          </li>
+          <li>
+            <p>
+              <strong>Prerequisites:</strong>
+              {% if page.extra.class_information.prerequisites_text %}
+              <a href="{{ page.extra.class_information.prerequisites_link }}"
+                >{{ page.extra.class_information.prerequisites_text }}</a
+              >
+              {% else %} None {% endif %}
+            </p>
+          </li>
+          <li>
+            <p>
+              <strong>Followed by:</strong>
+              {% if page.extra.class_information.followed_by_text %}
+              <a href="{{ page.extra.class_information.followed_by_link }}"
+                >{{ page.extra.class_information.followed_by_text }}</a
+              >
+              {% else %} None {% endif %}
+            </p>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Learning Objectives -->
+      <h2>Learning Objectives (LOs)</h2>
+      <div class="row mt-4">
+        <ul>
+          {% for x in page.extra.learning_objectives %}
+          <li>{{ x.objective | markdown | safe }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <!-- FAQ section -->
+      <h2>Frequently Asked Questions</h2>
+      {% if page.extra.faq %}
+      <div class="row mt-4">
+        {% for faq_item in page.extra.faq %}
+        <ul class="list-group-flush">
+          <li class="list-group-item">
+            <h5>{{ faq_item.question }}</h5>
+            <p>{{ faq_item.answer }}</p>
+          </li>
+        </ul>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+
+    <!-- Sidebar -->
+    <div class="col-lg-4 col-12 p-4">
+      {% if page.extra.sidebar_sections %} {{
+      sidebar::render_sidebar_sections(sections=page.extra.sidebar_sections) }}
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% endblock training_content %}

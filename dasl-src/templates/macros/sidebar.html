@@ -1,0 +1,157 @@
+{% macro contact_us() %}
+  {% set content = load_data(path="data/sidebar.toml") %}
+  <div class="sidebar-section contact-us py-3">
+    <h3>{{ content.contact_us.title }}</h3>
+    <p>{{ content.contact_us.text }}</p>
+    <h5>{{ content.contact_us.subtitle }}</h5>
+    {% for p in content.contact_us.people %}
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="{{ get_url(path=p.img) }}"
+               alt="{{ p.name }}"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">{{ p.name }}</p>
+          <p class="mb-0 text-muted small">{{ p.email }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endmacro contact_us %}
+
+{% macro research_scientists() %}
+  {% set content = load_data(path="data/sidebar.toml") %}
+  <div class="sidebar-section research-scientists py-3">
+    <h3>{{ content.research_scientists.title }}</h3>
+    <p>{{ content.research_scientists.text }}</p>
+    {% for p in content.research_scientists.people %}
+      <div class="row mb-3">
+        <div class="col-auto">
+          <img src="{{ get_url(path=p.img) }}"
+               alt="{{ p.name }}"
+               class="rounded-circle"
+               style="width: 60px;
+                      height: 60px;
+                      object-fit: cover">
+        </div>
+        <div class="col">
+          <p class="mb-1 fw-bold">{{ p.name }}</p>
+          <p class="mb-0 text-muted small">{{ p.email }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endmacro research_scientists %}
+
+{% macro need_help() %}
+  {% set content = load_data(path="data/sidebar.toml") %}
+  <div class="sidebar-section need-help py-3">
+    <h3>{{ content.need_help.title }}</h3>
+    {% for s in content.need_help.section %}
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="{% if 'http' in s.url %}{{ s.url }}{% else %}{{ get_url(path=s.url) }}{% endif %}">{{ s.title }}</a>
+        </h5>
+        <p class="card-text">{{ s.text }}</p>
+      </div>
+    {% endfor %}
+  </div>
+{% endmacro need_help %}
+
+{% macro events() %}
+  {% set content = load_data(path="data/sidebar.toml") %}
+  <div class="sidebar-section events py-3">
+    <h4>{{ content.events.title }}</h4>
+    <div class="card shadow-sm px-3 py-1 my-2">
+      {% for event in content.events.event %}
+        <div class="row py-2">
+          <!-- Date Box -->
+          <div class="col-auto text-center">
+            <div class="fw-bold fs-4">{{ event.day }}</div>
+            <div class="text-uppercase text-muted small">{{ event.month }}</div>
+          </div>
+
+          <!-- Event Details -->
+          <div class="col">
+            <div class="fw-bold fs-6">{{ event.title }}</div>
+            <div class="text-muted">{{ event.datetime }}</div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endmacro events %}
+
+{% macro top_card(context) %}
+  <div class="sidebar-section top_card py-3">
+    <div class="card border-0">
+      <div class="card-body">
+        <h4 class="card-title">{{ context.top_card.title }}</h4>
+        <p class="card-text">{{ context.top_card.text_md | markdown | safe }}</p>
+      </div>
+    </div>
+  </div>
+{% endmacro top_card %}
+
+{% macro image_cards(context) %}
+  <div class="sidebar-section image_cards py-3">
+    <div class="card shadow-sm pb-1 my-2">
+      <img src="{{ context.image_card.image }}" class="card-img-top" />
+      <div class="card-body">
+        <h5 class="card-title">{{ context.image_card.title }}</h5>
+        <p class="card-text">{{ context.image_card.text_md | markdown | safe }}</p>
+      </div>
+    </div>
+  </div>
+{% endmacro image_cards %}
+
+{% macro link_cards(context) %}
+  <div class="sidebar-section link_cards py-3">
+    <div class="card shadow-sm pb-1 my-2">
+      <div class="card-body">
+        <h2 class="card-title">{{ context.link_card.title }}</h2>
+        <ul class="list-group list-group-flush">
+          {% for lc in context.link_cards %}
+            <li class="list-group-item pt-4 px-0">
+              <h5>
+                <a href="{% if 'http' in lc.url %}{{ lc.url }}{% else %}{{ get_url(path=lc.url) }}{% endif %}">{{ lc.title }}</a>
+              </h5>
+              <p>{{ lc.text_md | markdown | safe }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+{% endmacro link_cards %}
+
+{% macro render_sidebar_sections(sections) %}
+  {% if section is defined and section.extra is defined %}
+    {% set context = section.extra %}
+  {% else %}
+    {% set context = page.extra %}
+  {% endif %}
+  <aside class="sidebar">
+    {% for section_name in sections %}
+      {% if section_name == "top_card" %}
+        {{ sidebar::top_card(context=context) }}
+      {% elif section_name == "image_cards" %}
+        {{ sidebar::image_cards(context=context) }}
+      {% elif section_name == "link_cards" %}
+        {{ sidebar::link_cards(context=context) }}
+      {% elif section_name == "contact_us" %}
+        {{ sidebar::contact_us() }}
+      {% elif section_name == "research_scientists" %}
+        {{ sidebar::research_scientists() }}
+      {% elif section_name == "need_help" %}
+        {{ sidebar::need_help() }}
+      {% elif section_name == "events" %}
+        {{ sidebar::events() }}
+      {% endif %}
+    {% endfor %}
+  </aside>
+{% endmacro render_sidebar_sections %}

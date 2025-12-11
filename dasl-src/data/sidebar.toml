@@ -4,12 +4,12 @@ text = "For questions about class schedule or content contact DaSL trainers"
 subtitle = "DaSL Trainers"
 
 [[contact_us.people]]
-img = "/images/ted-laderas.jpg"
+img = "images/ted-laderas.jpg"
 name = "Ted Laderas"
 email = "tladera2@fredhutch.org"
 
 [[contact_us.people]]
-img = "/images/chris-lo.jpg"
+img = "images/chris-lo.jpg"
 name = "Chris Lo"
 email = "clo2@fredhutch.org"
 
@@ -18,22 +18,22 @@ title = "Questions about materials from DaSL Research Scientists?"
 text = "Contact any of us with questions about our courses or materials:"
 
 [[research_scientists.people]]
-img = "/images/carrie-wright.png"
+img = "images/carrie-wright.png"
 name = "Carrie Wright, PhD"
 email = "cwright@fredhutch.org"
 
 [[research_scientists.people]]
-img = "/images/elizabeth-humphries.jpg"
+img = "images/elizabeth-humphries.jpg"
 name = "Elizabeth Humphries, PhD"
 email = "eehumphri@fredhutch.org"
 
 [[research_scientists.people]]
-img = "/images/ava-hoffman.jpg"
+img = "images/ava-hoffman.jpg"
 name = "Ava Hoffman, PhD"
 email = "ahoffma2@fredhutch.org"
 
 [[research_scientists.people]]
-img = "/images/kate-isaacs.png"
+img = "images/kate-isaacs.png"
 name = "Kate Isaac, PhD"
 email = "kisaac@fredhutch.org"
 

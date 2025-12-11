@@ -17,7 +17,7 @@
           {% for nav_item in config.extra.training_nav %}
             <li class="nav-item px-2">
               <a class="nav-link{% if current_url == nav_item.url or (current_path and nav_item.url in current_path) %} active{% endif %}"
-                 href="{{ nav_item.url }}"
+                 href="{{ get_url(path=nav_item.url) }}"
                  {% if nav_item.external %}target="_blank" rel="noopener noreferrer"{% endif %}>
                 {{ nav_item.title }}
                 {% if nav_item.external %}<i class="bi bi-box-arrow-up-right ms-1"></i>{% endif %}

@@ -22,12 +22,12 @@
         <div class="container my-5">
           {% for card in section.extra.cards %}
             <!-- Item -->
-            <a href="{{ card.url }}"
+            <a href="{{ get_url(path=card.url) }}"
                class="row align-items-start px-lg-5 py-4 card-item-underline"
                style="--underline-color: var(--{{ card.underline_color | default(value='bright-blue') }});
                       text-decoration: none">
               <div class="col-md-2 text-center">
-                <img src="{{ card.img }}" alt="Classes icon" class="img-fluid" />
+                <img src="{{ get_url(path=card.img) }}" alt="Classes icon" class="img-fluid" />
               </div>
               <div class="col-md-4">
                 <h4 style="font-weight: 600; color:var(--black);">{{ card.title }}</h4>

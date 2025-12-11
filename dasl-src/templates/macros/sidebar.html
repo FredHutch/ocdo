@@ -7,7 +7,7 @@
     {% for p in content.contact_us.people %}
       <div class="row mb-3">
         <div class="col-auto">
-          <img src="{{ p.img }}"
+          <img src="{{ get_url(path=p.img) }}"
                alt="{{ p.name }}"
                class="rounded-circle"
                style="width: 60px;
@@ -31,7 +31,7 @@
     {% for p in content.research_scientists.people %}
       <div class="row mb-3">
         <div class="col-auto">
-          <img src="{{ p.img }}"
+          <img src="{{ get_url(path=p.img) }}"
                alt="{{ p.name }}"
                class="rounded-circle"
                style="width: 60px;

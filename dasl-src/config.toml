@@ -35,16 +35,16 @@ navbar_links = [
   { title = "Training", url = "/courses/" },
   { title = "Community", url = "/community/" },
   { title = "Mailing List", url = "/connect/" },
-  { title = "FAQ", url = "/faq/"},
+  { title = "FAQ", url = "/faq/" },
   { title = "About Us", url = "/about/" },
   { title = "Events", url = "https://centernet.fredhutch.org/u/data-science-lab/resources/events-calendar.html", external = true },
 ]
 
 training_nav = [
 
-  { title = "Classes and Workshops Schedule", url = "/courses/" },
-  { title = "Class Catalog", url = "/classes-workshops/" },
-  { title = "Teach Yourself", url = "/teach-yourself/" },
-  { title = "Frequently Asked Questions", url = "/faq/"},
+  { title = "Classes and Workshops Schedule", url = "courses/" },
+  { title = "Class Catalog", url = "classes-workshops/" },
+  { title = "Teach Yourself", url = "teach-yourself/" },
+  { title = "Frequently Asked Questions", url = "faq/" },
 #  { title = "Data Snacks", url = "https://hutchdatascience.org/data_snacks/", external = true },
 ]

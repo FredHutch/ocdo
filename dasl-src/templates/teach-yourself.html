@@ -52,7 +52,7 @@
                        aria-expanded="false"
                        aria-controls="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
                     <div class="col-md-2 text-center">
-                      <img src="{{ card.img }}"  class="img-fluid" />
+                      <img src="{{ get_url(path=card.img) }}" class="img-fluid" />
                     </div>
                     <div>
                       <h5 class="mb-1">{{ card.title }}</h5>

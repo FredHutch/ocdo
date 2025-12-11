@@ -90,10 +90,10 @@ function escapeRegExp(string) {
 function formatSearchResultItem(item, terms) {
   // Convert absolute URLs to relative URLs for local development
   var url = item.item.url || item.item.ref || "#";
-  if (url.startsWith("https://dasl.fredhutch.org")) {
-    url = url.replace("https://dasl.fredhutch.org", "");
+  if (url.startsWith("https://ocdo.fredhutch.org")) {
+    url = url.replace("https://ocdo.fredhutch.org", "");
     if (url === "") {
-      url = "/";
+      url = "./";
     }
   }
 

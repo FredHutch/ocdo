@@ -7,7 +7,7 @@ before_script:
   - python3 -m venv $HOME/.venv
   - export PATH=$HOME/.venv/bin:$PATH
   - pip3 install pyyaml
-  - curl -O https://raw.githubusercontent.com/FredHutch/swarm-build-helper/main/build_helper.py 
+  - curl -O https://raw.githubusercontent.com/FredHutch/swarm-build-helper/main/build_helper.py
   # below is from https://stackoverflow.com/a/65810302/470769
   - mkdir -p $HOME/.docker
   - echo $DOCKER_AUTH_CONFIG > $HOME/.docker/config.json
@@ -21,13 +21,13 @@ stages:
 build:
   stage: build
   script:
-    - docker build -t sc-registry.fredhutch.org/ocdo:test .
-    - docker push sc-registry.fredhutch.org/ocdo:test
+    - docker build -t sc-registry.fredhutch.org/ocdo:haha .
+    # - docker push sc-registry.fredhutch.org/ocdo:test
 
 test:
   stage: test
-  services: 
-    - name: sc-registry.fredhutch.org/ocdo:test
+  services:
+    - name: sc-registry.fredhutch.org/ocdo:haha
       alias: ocdo
   script:
     - sleep 15 && curl -sI  http://ocdo:80  |head -1|grep -q "200 OK"
@@ -36,7 +36,7 @@ deploy:
   stage: deploy
   only:
     refs:
-        - main
+      - main
   script:
     - docker tag sc-registry.fredhutch.org/ocdo:test sc-registry.fredhutch.org/ocdo:latest
     - docker push sc-registry.fredhutch.org/ocdo:latest

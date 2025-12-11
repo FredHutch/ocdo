@@ -54,7 +54,7 @@
     {% for s in content.need_help.section %}
       <div class="card-body">
         <h5 class="card-title">
-          <a href="{{ s.url }}">{{ s.title }}</a>
+          <a href="{% if 'http' in s.url %}{{ s.url }}{% else %}{{ get_url(path=s.url) }}{% endif %}">{{ s.title }}</a>
         </h5>
         <p class="card-text">{{ s.text }}</p>
       </div>
@@ -118,7 +118,7 @@
           {% for lc in context.link_cards %}
             <li class="list-group-item pt-4 px-0">
               <h5>
-                <a href="{{ lc.url }}">{{ lc.title }}</a>
+                <a href="{% if 'http' in lc.url %}{{ lc.url }}{% else %}{{ get_url(path=lc.url) }}{% endif %}">{{ lc.title }}</a>
               </h5>
               <p>{{ lc.text_md | markdown | safe }}</p>
             </li>

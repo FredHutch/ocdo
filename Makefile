@@ -2,8 +2,8 @@
 
 dasl-build:
 	cd dasl-src && \
-	zola build --force --output-dir ../dasl && \
+	zola build --force --base-url "http://localhost:5678/dasl/" --output-dir ../dasl && \
 	cd ..
 
 run: dasl-build
-	quarto preview --port 5678
+	quarto preview --no-browser --port 5678

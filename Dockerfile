@@ -19,3 +19,5 @@ RUN quarto render
 FROM nginx:1.27
 
 COPY --from=0 /build/_site /usr/share/nginx/html
+
+COPY dasl /usr/share/nginx/html/dasl

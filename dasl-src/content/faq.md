@@ -91,11 +91,11 @@ We highly recommend that you [sign up for our newsletter](@/connect.md)! We post
 
 ## What is co-working?
 
-[See here](@/community.md#what-is-co-working).
+[See here](@/community.md#co-working).
 
 ## What are Learning Communities?
 
-[See here](@/community.md#what-are-learning-communities).
+[See here](@/community.md#learning-communities).
 
 ## I'm confused about DaSL vs. OCDO
 

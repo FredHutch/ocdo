@@ -94,14 +94,14 @@ text_md = """### Data Science Programming Classes
 
 ### Reproducible Research Workshops
 
-- [Intro to Git and GitHub](/dasl/courses/intro-to-git/): Jan 20, 2026 (1.5 hour workshop)
-- [Intermediate Git and GitHub(*)](/dasl/courses/intermediate-git/): Jan 30, 2026 (1.5 hour workshop)
-- [Package Management for R and Python(*)](/dasl/courses/package-management/): Feb 23, 2026 (1.5 hour workshop)
-- [Making Code Ready for Publication(*)](/dasl/courses/making-code-ready/): March 9, 2026 (1.5 hour workshop)
+- [Intro to Git and GitHub](/dasl/courses/intro-to-git/): Feb 2, 2026 (1.5 hour workshop)
+- [Intermediate Git and GitHub(*)](/dasl/courses/intermediate-git/): Feb 9, 2026 (1.5 hour workshop)
+- [Making Code Ready for Publication(*)](/dasl/courses/making-code-ready/): Feb 23, 2026 (1.5 hour workshop)
+- [Package Management for R and Python(*)](/dasl/courses/package-management/): March 9, 2026 (1.5 hour workshop)
 
 ### Data 4 All Workshops
 
-- [Better Spreadsheets](/dasl/courses/better-spreadsheets/): Feb 20, 2026"""
+- [Better Spreadsheets](/dasl/courses/better-spreadsheets/): Jan 30, 2026"""
 
 [[extra.seasons]]
 title = "Spring 2026"

@@ -18,7 +18,7 @@ course_materials_link = ""
 
 [extra.class_information]
 quarters_offered="Winter 2026"
-dates = "Monday Feb 23, 2026"
+dates = "Monday March 9, 2026"
 time = "Monday Noon - 1:30 pm PT"
 time_commitment = "1.5 hour class"
 audience = "Researchers and staff wanting to share their analysis and work reproducibly"

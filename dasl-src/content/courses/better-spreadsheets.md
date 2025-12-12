@@ -11,7 +11,7 @@ registration_link = "https://forms.gle/odpTmpJVKCnmnbMV8"
 course_materials_link = "https://hutchdatascience.org/better_spreadsheets/"
 
 [extra.class_information]
-dates = "Friday, Janurary 30, 2026"
+dates = "Friday, Jan 30, 2026"
 time = "Noon - 1:30pm PT"
 time_commitment = "1.5 hours"
 audience = "FH Staff and Faculty wanting to improve thier plots for publication."

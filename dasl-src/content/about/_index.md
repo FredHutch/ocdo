@@ -85,4 +85,4 @@ For a full description of our services visit the [official OCDO page](https://oc
 
 ## Contact Us
 
-You can reach us with any general training questions on [slack](https://join.slack.com/t/fhdata/signup) or data@fredhutch.org
+You can reach us with any general training questions on [Slack](https://join.slack.com/t/fhdata/signup) or data@fredhutch.org

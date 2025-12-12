@@ -6,14 +6,6 @@ template="learning.html"
 main_subtitle="Have a burning question for the Data Science Lab? Look below."
 sidebar_sections = ["contact_us", "need_help"]
 
-#############
-## Sidebar ##
-#############
-
-[extra.top_card]
-title = "Not sure which class to take?"
-text_md = "[Look at our overview here ! >>>](/classes-workshops/)"
-
 +++
 
 This is a list of frequently asked questions. Have a question not seen here? Please email us at [data@fredhutch.org](mailto:data@fredhutch.org)
@@ -50,7 +42,7 @@ Please email us at data@fredhutch.org so we can understand your level of knowled
 
 **Courses** are multiple sessions focused on Data Science with both in-class and homework exercises. They have a badge associated with them.
 
-**Workshops** are single sessions meant to focus on smaller topics. Some workshops are part of a sequence (such as [Scalable Computing](/classes-workshops/#scalable-computing) or [Reproducible Research](/classes-workshops/#reproducible-research)), but you can take the workshops separately.
+**Workshops** are single sessions meant to focus on smaller topics. Some workshops are part of a sequence (such as [Scalable Computing](@/classes-workshops.md#scalable-computing) or [Reproducible Research](@/classes-workshops.md#reproducible-research), but you can take the workshops separately.
 
 # R and Python
 
@@ -82,28 +74,28 @@ Requirements for each course vary, but it is usually completing an number of ass
 
 We currently offer badges for the following courses:
 
-- [Bash for Bioinformatics](/courses/bash-for-bioinformatics/)
-- [Intro to SQL](/courses/intro-to-sql/)
-- [Intro to R](/courses/intro-to-r/)
-- [Intermediate R](/courses/intermediate-r/)
-- [Bioconductor for Genomics](/courses/bioconductor/)
-- [Intro to Python](/courses/intro_to_python/)
-- [Intermediate Python](/courses/intermediate-python/)
-- [Machine Learning for Python](/courses/machine-learning-python/)
+- [Bash for Bioinformatics](@/courses/bash-for-bioinformatics.md)
+- [Intro to SQL](@/courses/intro-to-sql.md)
+- [Intro to R](@/courses/intro-to-r.md)
+- [Intermediate R](@/courses/intermediate-r.md)
+- [Bioconductor for Genomics](@/courses/bioconductor.md)
+- [Intro to Python](@/courses/intro-to-python.md)
+- [Intermediate Python](@/courses/intermediate-python.md)
+- [Machine Learning for Python](@/courses/machine-learning-python.md)
 
 # Community
 
 ## How do I keep in touch with what the Data Science Lab is Offering?
 
-We highly recommend that you [sign up for our newsletter](/connect/)! We post about upcoming courses, workshops, and related events such as Data Deep Dives, Co-Working, and Learning Communities. 
+We highly recommend that you [sign up for our newsletter](@/connect.md)! We post about upcoming courses, workshops, and related events such as Data Deep Dives, Co-Working, and Learning Communities. 
 
 ## What is co-working?
 
-[See here](/community/#what-is-co-working).
+[See here](@/community.md#what-is-co-working).
 
 ## What are Learning Communities?
 
-[See here](/community/#what-are-learning-communities).
+[See here](@/community.md#what-are-learning-communities).
 
 ## I'm confused about DaSL vs. OCDO
 

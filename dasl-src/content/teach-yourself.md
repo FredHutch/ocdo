@@ -17,22 +17,22 @@ list_heading = "Browse our classes and workshops:"
 
 [[extra.materials.resources]]
 link_text = "Data Science Programming"
-link = "/classes-workshops/#data-science-programming"
+link = "/dasl/classes-workshops/#data-science-programming"
 description = "(e.g., Intro R, Intermediate Python, Intro to SQL)"
 
 [[extra.materials.resources]]
 link_text = "Scalable Computing"
-link = "/classes-workshops/#scalable-computing"
+link = "/dasl/classes-workshops/#scalable-computing"
 description = "(e.g., Intro to Command Line, Cluster 101)"
 
 [[extra.materials.resources]]
 link_text = "Reproducible Research"
-link = "/classes-workshops/#reproducible Research"
+link = "/dasl/classes-workshops/#reproducible-research"
 description = "(e.g., Intro to Git and GitHub)"
 
 [[extra.materials.resources]]
 link_text = "Data 4 All"
-link = "/classes-workshops/#data-4-all"
+link = "/dasl/classes-workshops/#data-4-all"
 description = "(e.g., Better Spreadsheets, Better Tables, Better Plots)"
 
 # Teach Yourself Courses

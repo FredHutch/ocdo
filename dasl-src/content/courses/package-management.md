@@ -22,10 +22,10 @@ dates = "Monday March 9, 2026"
 time = "Monday Noon - 1:30 pm PT"
 time_commitment = "1.5 hour class"
 audience = "Researchers and staff wanting to share their analysis and work reproducibly"
-prerequisites_text = "Intro to R or Intro to Python"
-prerequisites_link = "/courses/intro-t-r/"
+prerequisites_text = "Intro to R or Intro to Python (suggested)"
+prerequisites_link = "/dasl/courses/intro-to-r/"
 followed_by_text = "Making Code Ready for Publication"
-followed_by_link = "/courses/making-code-ready/"
+followed_by_link = "/dasl/courses/making-code-ready/"
 
 [[extra.learning_objectives]]
 objective = "**Explain** why package management is complicated for both Python and R and strategies for reducing this complexity"

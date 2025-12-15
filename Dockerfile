@@ -18,6 +18,8 @@ RUN quarto render
 
 FROM nginx:1.27
 
+COPY extra.conf /etc/nginx/conf.d/
+
 COPY --from=0 /build/_site /usr/share/nginx/html
 
 COPY dasl /usr/share/nginx/html/dasl

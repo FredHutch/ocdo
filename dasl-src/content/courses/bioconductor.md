@@ -17,7 +17,7 @@ time = "Tuesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "FH Research Staff wanting to use Bioconductor to analyze RNA-seq data"
 prerequisites_text = "Intro to R"
-prerequisites_link = "/courses/intro-to-r/"
+prerequisites_link = "intro-to-r/"
 followed_by_text = ""
 followed_by_link = ""
 

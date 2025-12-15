@@ -53,7 +53,7 @@ link_url = "https://www.avahoffman.com/"
 
 [[extra.affiliates.people]]
 name = "Elizabeth Humphries"
-title = "Senior Staff Scientist"
+title = "Staff Scientist"
 email = "ehumphri@fredhutch.org"
 bio_md = """Elizabeth did her PhD in molecular epidemiology and the genetics of mood disorders, and her MS in evolutionary and population genetics in birds. She works on the AnVIL Project."""
 img = "images/elizabeth-humphries.jpg"
@@ -85,4 +85,4 @@ For a full description of our services visit the [official OCDO page](https://oc
 
 ## Contact Us
 
-You can reach us with any general training questions on [Slack](https://join.slack.com/t/fhdata/signup) or data@fredhutch.org
+You can reach us with any general training questions on [Slack](https://join.slack.com/t/fhdata/signup) or [data@fredhutch.org](mailto:data@fredhutch.org)

@@ -16,10 +16,10 @@ dates = "Monday Feburary 9, 2026"
 time = "Noon - 1:30 pm PT"
 time_commitment = "1.5 hours"
 prerequisites_text = "Intro to Git and GitHub and basic experience with the Command Line"
-prerequisites_link = "/courses/intro-to-git"
+prerequisites_link = "/dasl/courses/intro-to-git/"
 audience = "The course is intended for researchers who want to expand their Git Skills via the command line."
 followed_by_text = "Making Code Ready for Publication"
-followed_by_link = "/courses/making-code-ready/"
+followed_by_link = "/dasl/courses/making-code-ready/"
 
 [[extra.learning_objectives]]
 objective = "**Explain** and **utilize** the command-line workflow of Git in your work"

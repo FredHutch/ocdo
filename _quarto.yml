@@ -3,7 +3,8 @@ project:
   resources:
     - dasl/**
   render:
-    - "dasl-src/**"
+    - "*.qmd"
+    - "!dasl-src/**"
 
 website:
   google-analytics: "G-F8NWF32PC7"

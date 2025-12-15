@@ -16,9 +16,9 @@ time = "Wednesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "The course is intended for researchers who want to continue learning the fundamentals of Python programming and how to write custom data analysis functions when dealing with messy datasets. The audience should know how to work with Lists and Pandas Dataframes and conduct basic data analysis, and/or have taken our Intro to Python course."
 prerequisites_text = "Intro to Python"
-prerequisites_link = "/courses/intro-to-python"
+prerequisites_link = "/dasl/courses/intro-to-python"
 followed_by_text = "Machine Learning for Python"
-followed_by_link = "/courses/machine-learning"
+followed_by_link = "/dasl/courses/machine-learning"
 
 [[extra.learning_objectives]]
 objective = "**Understand** and **distinguish** the use case of data structures to store different types of data."

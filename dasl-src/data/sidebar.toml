@@ -61,7 +61,7 @@ url = "https://join.slack.com/t/fhdata/signup"
 text = "We have a community Slack channel for questions and answers, as well as some other channels where people share information and content about specific topics."
 
 [[need_help.section]]
-title = "Get a 30 minute consult (Data House Call)"
+title = "Get a 20 minute consult (Data House Call)"
 url = "https://ocdo.fredhutch.org/programs/dhc.html"
 text = "If you need a little help troubleshooting, find the right resources, or figuring out the right question to ask, try a Data House Call."
 

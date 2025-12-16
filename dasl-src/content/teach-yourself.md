@@ -99,7 +99,7 @@ img="/images/book-computer.svg"
 
 [[extra.teach_yourself.courses.cards.links]]
 course_title = "Guide"
-course_link = "#"
+course_link = "https://hutchdatascience.org/NIH_Data_Sharing/"
 
 [[extra.teach_yourself.courses.cards.links]]
 course_title = "Helper app"

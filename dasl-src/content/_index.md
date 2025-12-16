@@ -77,13 +77,13 @@ url = ""
 text_md = """We have a community Slack channel for questions and answers, as well as some other channels where people share information and content about specific topics."""
 
 [[extra.link_cards]]
-title = "Get a 30 minute consult with DaSL on a specific problem"
+title = "Get a 20 minute consult with DaSL on a specific problem"
 url = ""
 text_md = """If you need a little help troubleshooting, finding the right resources, or figuring out the right question to ask, try a Data House Call."""
 +++
 
 # Who are we?
 
-We are part of the Office of the Chief Data Officer (OCDO) at Fred Hutch. We offer hands-on help to anyone in the Fred Hutch, UW, or Seattle Children’s community. If you’re not a member of those communities, **email us anyway** and we’ll see if we can help you out.
+We are part of the Office of the Chief Data Officer (OCDO) at Fred Hutch. We offer hands-on help to anyone in the Fred Hutch, UW, or Seattle Children’s community. If you’re not a member of those communities, [**email us anyway**](mailto:data@fredhutch.org) and we’ll see if we can help you out.
 
 [Read more about us >>](https://ocdo.fredhutch.org)

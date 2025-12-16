@@ -11,18 +11,8 @@ To do this, we partner with a variety of departments across Fred Hutch to help c
 
 
 ::: {.callout-note appearance="minimal"}
-All documentation about Data Science Lab Tools and best practices can also be found on the Fred Hutch [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/).
+All documentation about Data Science Lab Tools and best practices can also be found on the Fred Hutch [Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/), or you can join our [Translational Data Noon Community Calls](/resources.qmd#newsletters) to learn about upcoming resources.  
 :::
-
-## Data Noon Community Calls
-
-We support the Fred Hutch’s diverse data community by providing visibility and communications around ongoing data-related projects through our regular "Data Noon" community calls and newsletters.  We present the current status of identified data programs and projects via two Data Noon series:  
-
-- Patient Data 
-- Research Data 
-
-Please request to be added to the relevant Data Noon Community Call or to receive the associated newsletter by emailing [dataproductmanagement@fredhutch.org](mailto:dataproductmanagement@fredhutch.org). 
-
 
 ## Applications and Tools
 
@@ -53,7 +43,7 @@ For more details on what the Fred Hutch instance of cBioPortal can do for you, r
 
 ## Translational Data Platform
 
-We are building a secure, scalable, and supportable technical infrastructure foundation and tools that provide a centrally governed, democratized translational data platform, Clinical and Research Data System (CARDS).  This will allow the Fred Hutch community to build data products and tooling leveraging multimodal Fred Hutch patient clinical data to support clinical trials, precision oncology, data science, research and AI innovation. 
+We are building a secure, scalable, and supportable technical infrastructure foundation and tools that provide a centrally governed, democratized translational data platform, Clinical and Research Data System ([CARDS](http://cards.fredhutch.org/)).  This will allow the Fred Hutch community to build data products and tooling leveraging multimodal Fred Hutch patient clinical data to support clinical trials, precision oncology, data science, research and AI innovation. 
 
 
 ### Databricks

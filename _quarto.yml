@@ -10,11 +10,11 @@ website:
   google-analytics: "G-F8NWF32PC7"
   cookie-consent: true
   announcement:
-    icon: info-circle
-    dismissable: true
-    content: "Welcome to our new home focused on our work for Fred Hutch data efforts! Our [Hutch Data Science site is still live](https://hutchdatascience.org/) and is being focused on training and community resources that include and extend beyond the Fred Hutch."
-    type: dark
-    position: above-navbar
+    icon: arrow-repeat
+    dismissable: false
+    content: "Welcome to our new home focused on our work for Fred Hutch data efforts! Our [Hutch Data Science site](https://hutchdatascience.org/) provides information about training and community resources that extend beyond the Fred Hutch."
+    type: secondary
+    position: below-navbar
   page-footer:
     left: "Contact us by scheduling a [Data House Call](programs/dhc.qmd)"
     right:
@@ -54,36 +54,39 @@ website:
             href: strategy.qmd
           - text: "Data Governance"
             href: gov.qmd
-          - text: "Translational Data Science & Software"
+          - text: "Translational Data Science"
             href: dss.qmd
-          - text: "Training & Community"
-            href: training.qmd
           - text: "Translational Applications & Tools"
             href: tools.qmd
+          - text: "Human Computer Interaction"
+            href: programs/wildscp.qmd
           - text: "Data Partnerships"
             href: partnerships.qmd
+          - text: "Training & Community"
+            href: https://ocdo.fredhutch.org/dasl
       - section: "Our Resources"
-        href: resources.qmd
         contents:
+          - text: "Overview"
+            href: resources.qmd
+          - text: "Courses & Community"
+            href: https://ocdo.fredhutch.org/dasl
           - text: "Data House Calls"
             href: programs/dhc.qmd
-          - text: "Learning Communities"
-            href: programs/communities.qmd
-          - section: "WILDS"
-            href: programs/wilds.qmd
-            contents:
-              - text: Collaborative Projects
-                href: programs/wildscp.qmd
-          - text: "SciWiki"
-            href: programs/sciwiki.qmd
           - text: "Fred Hutch Data Slack"
             href: https://join.slack.com/t/fhdata/signup
-          - text: "Monday Morning Data Science"
+          - text: "WILDS"
+            href: programs/wilds.qmd
+          - text: "SciWiki"
+            href: programs/sciwiki.qmd
+          - text: "Data Noon Calls & Newsletter"
+            href: https://centernet.fredhutch.org/u/data-science-lab/engineering.html#data_noon
+          - text: "MMDS"
             href: https://fhdata.substack.com/
-          - text: "Events"
-            href: https://centernet.fredhutch.org/u/data-science-lab.html
-          - text: "Our Partners"
-            href: https://research.fredhutch.org/data/en.html
+
+      - text: "Fred Hutch Data Events"
+        href: https://centernet.fredhutch.org/u/data-science-lab.html
+      - text: "Our Partners"
+        href: https://research.fredhutch.org/data/en.html
 
 format:
   html:

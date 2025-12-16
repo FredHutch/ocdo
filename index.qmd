@@ -9,9 +9,10 @@ toc: true
 
 - [Data Strategy](strategy.qmd)
 - [Data Governance](gov.qmd)
-- [Data Science & Software](dss.qmd)
-- [Data Science Lab Training and Community](training.qmd)
+- [Translational Data Science](dss.qmd)
+- [Human Computer Interaction](programs/wildscp.qmd)
 - [Translational Applications & Tools](tools.qmd)
+- [Training & Community](https://ocdo.fredhutch.org/dasl)
 - [Data Partnerships](partnerships.qmd)
 
 ::: {.callout-note appearance="minimal"}
@@ -27,8 +28,6 @@ The mission of our group is to ensure an effective data ecosystem at Fred Hutch 
 ## Core Values
 Read about our [Core Values](pages/values.qmd) and how we foster an innovative and supportive data science community in our team, at Fred Hutch and beyond.
 
-## Code of Conduct
-Our community events are safe spaces to learn, teach, and ask questions of each other. In order to ensure our events are welcome to all, we provide [participation guidelines](pages/participation.qmd).
 
 ![](img/dasl-eco-fade-web.png)
 

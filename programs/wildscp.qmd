@@ -1,7 +1,11 @@
 ---
-title: "WILDS Collaborative Projects"
-toc: false
+title: "HCI: WILDS Collaborative Projects"
+toc: true
 ---
+
+
+The Human Computer Interaction (HCI) team develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development.
+
 
 Are you a data-driven researcher looking to share your data and discoveries in
 a web application, bring more automation to your science, or transform analysis

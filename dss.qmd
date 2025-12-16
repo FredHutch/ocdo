@@ -1,5 +1,5 @@
 ---
-title: "Translational Data Science & Software"
+title: "Translational Data Science"
 toc: true
 ---
 
@@ -7,9 +7,9 @@ toc: true
 You can connect directly with our data science and software teams through our [Data House Calls program](/programs/dhc.html).
 :::
 
-The Translational Data Science & Software group collaborates with and supports both research and clinical staff to integrate effective data science and analysis into research and clinical care. Our goal is to create a feedback loop to foster a learning healthcare system.
+The Translational Data Science group collaborates with and supports both research and clinical staff to integrate effective data science and analysis into research and clinical care. Our goal is to create a feedback loop to foster a learning healthcare system.
 
-We develop data products, including web applications, data analysis tools, process automation, and scientific software, to enable effective data use and integration into research and clinical care. We also collaborate with our clinical and research partners to develop statistical/ML/NLP models, data analyses, and data-driven dashboards and visualizations using real-world healthcare and laboratory-generated data. 
+We develop data products, data packages and data analysis tools to enable effective data use and integration into research and clinical care. We also collaborate with our clinical and research partners to develop statistical/ML/NLP models, data analyses, and data-driven dashboards and visualizations using real-world healthcare and laboratory-generated data. 
 
 
 
@@ -33,9 +33,5 @@ We're developing resources in collaboration with the Fred Hutch IT Scientific Co
 We support the private [Fred Hutch instance of cBioPortal](https://sciwiki.fredhutch.org/datascience/cbioportal/) in collaboration with Fred Hutch IT's [Scientific Computing group](https://centernet.fredhutch.org/u/it/scicomp.html). cBioPortal allows users to easily explore multidimensional cancer genomics data with an intuitive point-and-click interface. For more information, read the [SciWiki documentation](https://sciwiki.fredhutch.org/datascience/cbioportal/) and visit [cbioportal.fredhutch.org](https://cbioportal.fredhutch.org) to try it out.
 
 
-
-## Human Computer Interaction
-
-The Human Computer Interaction (HCI) team develops and enhances open-source scientific software for computational biology, bioinformatics, biostatistics, and biomedical data science, focusing on high standards of scientific rigor and providing training in software development. Their comprehensive approach combines qualitative research, human-centered design, and software development to empower research labs with adaptable tools that meet evolving research challenges.
 
 

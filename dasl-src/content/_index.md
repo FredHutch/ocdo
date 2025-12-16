@@ -84,6 +84,6 @@ text_md = """If you need a little help troubleshooting, finding the right resour
 
 # Who are we?
 
-We are part of the Office of the Chief Data Officer (OCDO) at Fred Hutch. We offer hands-on help to anyone in the Fred Hutch, UW, or Seattle Children’s community. If you’re not a member of those communities, **email us anyway** and we’ll see if we can help you out.
+We are part of the Office of the Chief Data Officer (OCDO) at Fred Hutch. We offer hands-on help to anyone in the Fred Hutch, UW, or Seattle Children’s community. If you’re not a member of those communities, [**email us anyway**](mailto:data@fredhutch.org) and we’ll see if we can help you out.
 
 [Read more about us >>](https://ocdo.fredhutch.org)

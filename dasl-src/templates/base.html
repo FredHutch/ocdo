@@ -55,7 +55,7 @@
                   <span class="menu-text{% if current_path == link.url %}{{ " active" }}{% else %}{% for nav_item in config.extra.training_nav %}{% if current_path == nav_item.url and nav_item.url != "/faq/" %}{{ " active" }}{% endif %}{% endfor %}{% endif %}">{{ link.title }}</span>
                 </a>
               {% else %}
-                <a class="nav-link" href="{% if link.external %}{{ link.url }}{% else %}{{ get_url(path=link.url) }}{% endif %}">
+                <a class="nav-link" href="{% if link.external %}{{ link.url | safe }}{% else %}{{ get_url(path=link.url) }}{% endif %}">
                   {% if link.external %}
                     <span class="menu-text{% if current_path == link.url %} active{% endif %}">{{ link.title }}<i class="bi bi-box-arrow-up-right ms-1"></i></span>
                   {% else %}
@@ -73,7 +73,7 @@
             {% if link.title == "Training" %}
               <!-- Training main link for mobile -->
               <li class="nav-item">
-                <a class="nav-link" href="{% if link.external %}{{ link.url }}{% else %}{{ get_url(path=link.url) }}{% endif %}">
+                <a class="nav-link" href="{% if link.external %}{{ link.url | safe }}{% else %}{{ get_url(path=link.url) }}{% endif %}">
                   <span class="menu-text{% if current_path == link.url %}{{ " text-decoration-underline fw-bold" }}{% else %}{% for nav_item in config.extra.training_nav %}{% if current_path == nav_item.url and nav_item.url != "/faq/" %}{{ " text-decoration-underline fw-bold" }}{% endif %}{% endfor %}{% endif %}">{{ link.title }}</span>
                 </a>
               </li>
@@ -93,7 +93,7 @@
             {% else %}
               <!-- Other navigation links for mobile -->
               <li class="nav-item">
-                <a class="nav-link" href="{% if link.external %}{{ link.url }}{% else %}{{ get_url(path=link.url) }}{% endif %}">
+                <a class="nav-link" href="{% if link.external %}{{ link.url | safe }}{% else %}{{ get_url(path=link.url) }}{% endif %}">
                   {% if link.external %}
                     <span class="menu-text{% if current_path == link.url %} text-decoration-underline fw-bold{% endif %}">{{ link.title }}<i class="bi bi-box-arrow-up-right ms-1"></i></span>
                   {% else %}
@@ -174,7 +174,7 @@
             <ul class="list-unstyled">
               {% for link in config.extra.navbar_links %}
                 <li class="mb-1">
-                  <a href="{% if link.external %}{{ link.url }}{% else %}{{ get_url(path=link.url) }}{% endif %}" class="text-decoration-none">
+                  <a href="{% if link.external %}{{ link.url | safe }}{% else %}{{ get_url(path=link.url) }}{% endif %}" class="text-decoration-none">
                     {{ link.title }}
                     {% if link.external %}<i class="bi bi-box-arrow-up-right ms-1 small"></i>{% endif %}
                   </a>

@@ -15,7 +15,7 @@ time = "Wednesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "The course is intended for researchers who want to implement basic machine learning models for small to large datasets in Python "
 prerequisites_text = "Intro to Python"
-prerequisites_link = "/courses/intro-to-python"
+prerequisites_link = "/dasl/courses/intro-to-python"
 followed_by_text = ""
 followed_by_link = ""
 

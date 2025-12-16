@@ -20,7 +20,6 @@ We offer multiple ways of engaging with others in the Fred Hutch Data Science co
 - [Co-working](#co-working)
 - [Learning Communities](#learning-communities)
 - [Datathons](#datathons)
-- [Data Deep Dives](#data-deep-dives)
 
 ## Learning Community Values
 
@@ -49,7 +48,7 @@ During the quarter, we will offer co-working on Mondays, usually around 12 - 1 P
 
 Learning communities are informal groups of people doing projects, classwork, or anything else to master the skills they need for their work. Community members can work on their own, share what they’re doing, get constructive feedback, ask for advice, or whatever else they need.
 
-Learning communities are focused on specific topics and are hosted by members of OCDO. They are discussion oriented and are for learners at all levels. They are usually launched after a topic specific Data Deep Dive.
+Learning communities are focused on specific topics and are hosted by members of OCDO. They are discussion oriented and are for learners at all levels.
 
 Past Learning Communities have focused on learning single cell analysis and data management. 
 
@@ -60,19 +59,3 @@ If you are interested, [sign up for the newsletter](@/connect.md).
 A Datathon is a day in which folks get together to explore a dataset together, practice what we have learned in data science creatively, and share it with each other! Past Datathons have looked at spatial data, health survey data, and climate data. 
 
 They usually are at the end of the quarter on a Friday from 11am-2pm PT. Lunch will be provided.
-
-## Data Deep Dives
-
-**Data Deep Dives** are learning sessions designed specifically for the Fred Hutch community to spotlight data science tools, methods and best practices from experts in our **Data Science & Software (DS&S)** and **Data Governance (DG)** teams.
-
-Each session focuses on **practical, Hutch-relevant applications or processes** — helping staff learn directly from in-house experts and apply these approaches in their own work. To stay sustainable and impactful, Deep Dives are **repeated quarterly**, allowing content to evolve, reach new audiences, and build lasting value over time.
-
-Unlike traditional seminars, Deep Dives emphasize **doing over listening** through:
-
-- Hands-on examples
-- Interactive discussions
-- Shared problem-solving
-
-For Data Science and Software Data Deep Dives will be followed up by a Topic Specific Learning Community Session.
-
-Data Deep Dives will start late Winter Quarter - [keep subscribed to our Newsletter for more info](@/connect.md). 

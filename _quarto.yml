@@ -2,6 +2,9 @@ project:
   type: website
   resources:
     - dasl/**
+  render:
+    - "*.qmd"
+    - "!dasl-src/**"
 
 website:
   google-analytics: "G-F8NWF32PC7"

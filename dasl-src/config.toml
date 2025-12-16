@@ -38,7 +38,7 @@ navbar_links = [
   { title = "Community", url = "/community/" },
   { title = "Mailing List", url = "/connect/" },
   { title = "FAQ", url = "/faq/" },
-  { title = "About Us", url = "https://ocdo.fredhutch.org/about.html" },
+  { title = "About Us", url = "https://ocdo.fredhutch.org/about.html", external = true },
   { title = "Events", url = "https://centernet.fredhutch.org/u/data-science-lab/resources/events-calendar.html", external = true },
 ]
 

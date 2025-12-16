@@ -1,84 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:5678/dasl/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/about/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/about/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/classes-workshops/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/classes-workshops/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/community/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/community/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/connect/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/connect/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/bash-for-bioinformatics/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/bash-for-bioinformatics/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/better-plots/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/better-plots/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/better-spreadsheets/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/better-spreadsheets/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/better-tables/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/better-tables/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/bioconductor/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/bioconductor/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intermediate-git/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intermediate-git/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intermediate-python/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intermediate-python/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intermediate-r/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intermediate-r/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intro-fh-cluster/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intro-fh-cluster/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intro-to-command-line/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intro-to-command-line/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intro-to-git/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intro-to-git/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intro-to-python/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intro-to-python/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intro-to-r/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intro-to-r/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/intro-to-sql/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/intro-to-sql/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/machine-learning-python/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/machine-learning-python/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/making-code-ready/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/making-code-ready/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/package-management/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/package-management/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/courses/wdl-workflows/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/courses/wdl-workflows/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/faq/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/faq/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/participation-guidelines/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/participation-guidelines/</loc>
     </url>
     <url>
-        <loc>http://localhost:5678/dasl/teach-yourself/</loc>
+        <loc>https://ocdo.fredhutch.org/dasl/teach-yourself/</loc>
     </url>
 </urlset>

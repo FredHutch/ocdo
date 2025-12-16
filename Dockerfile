@@ -18,7 +18,9 @@ RUN quarto render
 
 FROM nginx:1.27
 
-COPY extra.conf /etc/nginx/conf.d/
+RUN rm /etc/nginx/conf.d/default.conf
+
+COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 COPY --from=0 /build/_site /usr/share/nginx/html
 

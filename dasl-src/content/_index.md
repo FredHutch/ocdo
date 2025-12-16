@@ -77,7 +77,7 @@ url = ""
 text_md = """We have a community Slack channel for questions and answers, as well as some other channels where people share information and content about specific topics."""
 
 [[extra.link_cards]]
-title = "Get a 30 minute consult with DaSL on a specific problem"
+title = "Get a 20 minute consult with DaSL on a specific problem"
 url = ""
 text_md = """If you need a little help troubleshooting, finding the right resources, or figuring out the right question to ask, try a Data House Call."""
 +++

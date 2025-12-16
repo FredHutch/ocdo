@@ -101,5 +101,5 @@ We highly recommend that you [sign up for our newsletter](@/connect.md)! We post
 
 You're not alone! As a rule of thumb:
 
-- **Data Science Lab (DaSL)** is focused on outreach, training, and community. Many, but not all OCDO members participate in DaSL.
+- The **Data Science Lab (DaSL)** is focused on outreach, training, and community. 
 - [**Office of the Chief Data Officer** (OCDO)](https://ocdo.fredhutch.org) is our official organization within Fred Hutch. DaSL operates as the outreach arm for OCDO.

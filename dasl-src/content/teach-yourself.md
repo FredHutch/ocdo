@@ -71,10 +71,6 @@ img ="/images/wdl.Default.png"
 course_title = "Developing WDL Workflows"
 course_link = "https://hutchdatascience.org/Developing_WDL_Workflows/"
 
-[[extra.teach_yourself.courses.cards.links]]
-course_title = "WDL 102"
-course_link = "https://en.wikipedia.org/wiki/Cat"
-
 [[extra.teach_yourself.courses]]
 title = "Code Review"
 description = "Labs work better when labmates do code review. Code review is essentially proofreading each others’ code."
@@ -103,7 +99,7 @@ img="/images/book-computer.svg"
 
 [[extra.teach_yourself.courses.cards.links]]
 course_title = "Guide"
-course_link = "#"
+course_link = "https://hutchdatascience.org/NIH_Data_Sharing/"
 
 [[extra.teach_yourself.courses.cards.links]]
 course_title = "Helper app"
@@ -160,7 +156,7 @@ url = ""
 text_md = """We have a community Slack channel for questions and answers, as well as some other channels where people share information and content about specific topics."""
 
 [[extra.link_cards]]
-title = "Get a 30 minute consult with DaSL on a specific problem"
+title = "Get a 20 minute consult with DaSL on a specific problem"
 url = ""
 text_md = """If you need a little help troubleshooting, finding the right resources, or figuring out the right question to ask, try a Data House Call."""
 

@@ -15,10 +15,10 @@ dates = "Winter 2026: Jan 20, 27, Feb 3, 10, Feb 24, March 3"
 time = "Tuesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 prerequisites_text = "Intro to R"
-prerequisites_link = "/courses/intro-to-r"
+prerequisites_link = "/dasl/courses/intro-to-r"
 audience="The course is intended for researchers who want to continue learning the fundamentals of R programming and how to deal with messy datasets. The audience should know how to subset dataframes and vectors and conduct basic analysis, and/or have taken our Intro to R course."
 followed_by_text = "Bioconductor for Genomics"
-followed_by_link = "/courses/bioconductor/"
+followed_by_link = "/dasl/courses/bioconductor/"
 
 [[extra.learning_objectives]]
 objective = "**Apply** tools for Tidying data to get a messy dataset into analysis-ready form, via data recoding, data transformations, and data subsetting. "

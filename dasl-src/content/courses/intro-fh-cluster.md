@@ -16,9 +16,9 @@ time = "Noon - 1:30pm PT"
 time_commitment = "1.5 Hours"
 audience = "Researchers who want to use Fred Hutch’s SLURM high performance cluster to run software and analysis at scale. Participants should have basic familiarity with using the command line."
 prerequisites_text = "Intro to Command Line"
-prerequisites_link = "/courses/intro-to-command-line"
+prerequisites_link = "/dasl/courses/intro-to-command-line"
 followed_by_text = "Bash for Bioinformatics"
-followed_by_link = "/courses/bash-for-bioinformatics"
+followed_by_link = "/dasl/courses/bash-for-bioinformatics"
 
 [[extra.learning_objectives]]
 objective = "**Describe** the types of nodes and filesystems on FH’s cluster."

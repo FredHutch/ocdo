@@ -37,7 +37,7 @@ jobs:
       - name: Build DASL Site
         run: |
           cd dasl-src && \
-          zola build --force --base-url "https://deploy-preview-71--reliable-unicorn-feb93e.netlify.app/dasl/" --output-dir ../dasl && \
+          zola build --force --base-url "https://deploy-preview-${{ github.event.pull_request.number || github.event.issue.number }}--reliable-unicorn-feb93e.netlify.app/dasl/" --output-dir ../dasl && \
           cd ..
 
       - name: Set up Quarto

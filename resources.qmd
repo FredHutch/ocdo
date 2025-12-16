@@ -5,6 +5,23 @@ sidebar: data-sidebar
 ---
 
 
+## Data Science Training
+:::: {layout-ncol=2 text-align=center}
+::: {#first-column}
+
+[Fred Hutch Courses & Community](https://ocdo.fredhutch.org/dasl)
+
+We support a variety of data science training, education, community building and self-service resources that support data science education in a number of scientific areas that are broadly applicable. 
+
+:::
+
+::: {#second-column}
+[Broad Data Science Training](https://hutchdatascience.org/DaSL_Collection/)
+
+Our Fred Hutch DaSL Research Affiliate team generates a wide variety of broadly relevant data science education materials that are available through a variety of self-service and event-based mechanisms. Check out their comprehensive collection of resources. 
+:::
+::::
+
 
 ## Peer to Peer Support
 :::: {layout-ncol=2 text-align=center}
@@ -21,14 +38,13 @@ Data House Calls are a self-service way to leverage our staff's expertise to hel
 :::
 
 ::: {#second-column}
-[Learning Communities](programs/communities.qmd)
+[FH Data Slack](https://join.slack.com/t/fhdata/signup)
 
 
+Find our current events, peer to peer support, and other data oriented resources in the Fred Hutch Data Slack workspace which is open to anyone in the Fred Hutch Cancer Consortium.  
 
-Learning Communities are events designed to catalyze community and conversations around shared workflows and interests in biomedical data science topics. 
 
-
-![](img/learning_comm.png){width=50%}
+![](img/fh-data.png){width=50%}
 :::
 ::::
 
@@ -61,19 +77,17 @@ The Fred Hutch Cancer Center's Biomedical Data Science Wiki is a curated knowled
 
 ::::
 
-## Communication
+## Newsletters 
 
 :::: {layout-ncol=2 text-align=center}
 ::: {#first-column}
 
+[Translational "Data Noon" Community Calls and Newsletters](https://centernet.fredhutch.org/u/data-science-lab/engineering.html#data_noon)
 
-[FH Data Slack](https://join.slack.com/t/fhdata/signup)
+Our Data Product Management team provides regular connection, information and visibility into high priority data related projects at the Fred Hutch through regular Community Calls and newsletters.  If you're a Fred Hutch staff member and would like to receive our newsletter or join our calls, find out more in [Centernet](https://centernet.fredhutch.org/u/data-science-lab/engineering.html#data_noon). 
 
+![](img/data_noon.png){width=50%}
 
-Find our current events, peer to peer support, and other data oriented resources in the Fred Hutch Data Slack workspace which is open to anyone in the Fred Hutch Cancer Consortium.  
-
-
-![](img/fh-data.png){width=50%}
 :::
 
 ::: {#second-column}
@@ -87,26 +101,9 @@ Monday Morning Data Science is our weekly newsletter with updates from the Lab, 
 :::
 ::::
 
-## Multi-Format Training
-:::: {layout-ncol=2 text-align=center}
-
-::: {#second-column}
-[DaSL Course Catalog](https://hutchdatascience.org/catalog/)
-
-We maintain a list of both self-service training materials and training sessions hosted at Fred Hutch.  
-
-:::
-
-::: {#first-column}
-
-
-[Openscapes](programs/openscapes.qmd)
-
-We are proud to have partnered with [Openscapes](https://www.openscapes.org/) to bring the Openscapes Champions Cohort Program to Fred Hutch in 2024 and 2025. Openscapes Champions is a mentorship program for biomedical data staff centered around collaborative coding and open science.
-
-:::
-::::
 
 
 
+### Past [Openscapes](programs/openscapes.html) Partnerships
+We are proud to have partnered with Openscapes to bring the [Openscapes Champions Cohort Program to Fred Hutch in 2024 and 2025](programs/openscapes.html). Openscapes Champions is a mentorship program for biomedical data staff centered around collaborative coding and open science.
 

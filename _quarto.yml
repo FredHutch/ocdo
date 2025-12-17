@@ -12,7 +12,7 @@ website:
   announcement:
     icon: arrow-repeat
     dismissable: false
-    content: "Welcome to our new home focused on our work for Fred Hutch data efforts! Our [Hutch Data Science site](https://hutchdatascience.org/) provides information about training and community resources that extend beyond the Fred Hutch."
+    content: "Welcome to our new home focused on our work for Fred Hutch data efforts! Our [Data Science Lab site](https://ocdo.fredhutch.org/dasl/) provides more information about training and community resources."
     type: secondary
     position: below-navbar
   page-footer:

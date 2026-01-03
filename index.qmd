@@ -2,23 +2,57 @@
 title: "Data at Fred Hutch"
 toc: true
 ---
+The Office of the CDO staff support a variety of staff-oriented supports, resources and tools.  We share those resources as broadly as possible as the tools and education needs of data-users at Fred Hutch are shared by others working in the biomedical data space. 
 
+**We do this outreach and sharing via what we call the Data Science Lab (this site) and it's affiliates (the [hutchdatascience.org](https://hutchdatascience.org/) site). We also support Fred Hutch in both overall [Data Strategy](strategy.qmd) as well as advancing [Data Partnerships](partnerships.qmd).  **
 
+## Our Groups
+You can meet our staff via our [about page](about.qmd).  
 
-[Fred Hutch's](https://www.fredhutch.org/en.html) merger to form a hybrid clinical care and research institute in 2022 joins a diversity of focus, skills, interests and capabilities that can spur innovation. To support this, the **Office of the Chief Data Officer, (OCDO)** works to create a robust and coordinated data ecosystem at Fred Hutch via a few mechanisms:  
+:::: {layout-ncol=3}
+::: {#first-column}
+[Training & Community](https://ocdo.fredhutch.org/dasl)
 
-- [Data Strategy](strategy.qmd)
-- [Data Governance](gov.qmd)
-- [Translational Data Science](dss.qmd)
-- [Human Computer Interaction](programs/wildscp.qmd)
-- [Translational Applications & Tools](tools.qmd)
-- [Training & Community](https://ocdo.fredhutch.org/dasl)
-- [Data Partnerships](partnerships.qmd)
+We offer year-round data science courses, workshops and community events to help staff learn to work with their data. 
 
-::: {.callout-note appearance="minimal"}
-
-The mission of our group is to ensure an effective data ecosystem at Fred Hutch by developing a modern, well documented, well implemented, overall data strategy that evolves with the needs and capabilities of those leveraging data regardless of “where they live” from the clinic to the research groups.
 :::
+
+
+::: {#second-column}
+[Translational Data Science](dss.qmd)
+
+Our Data Science team supports facilitated access to our patient data for research as well as helping research staff work with their own research and laboratory data.  
+
+:::
+
+::: {#third-column}
+[Human Computer Interaction](programs/wildscp.qmd)
+
+Our Human Computer Interaction group supports the development of open source research software via collaborations with staff. 
+
+
+:::
+::::
+
+:::: {layout-ncol=2}
+::: {#first-column}
+[Data Governance](gov.qmd)
+
+Our Data Governance team supports our Consortium data governance relationships as well as execute Fred Hutch data governance processes to enable responsible data and AI use.  
+:::
+
+
+::: {#second-column}
+[Translational Data Engineering](tools.qmd)
+
+Our Engineering team, in collaboration with our other teams and IT, supports the development and implementation of data infrastructure and tools targeted at translational data needs.  
+:::
+
+::::
+
+
+
+
 
 
 # Data Culture

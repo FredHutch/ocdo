@@ -14,14 +14,6 @@ CAIA Office Hours are a monthly opportunity for internal Fred Hutch staff to con
 
 We meet **every fourth Tuesday from 1:30–2:30 PM PT** (first one starts 11/25/25)
 
-<!--
-::: {.callout-warning}
-## Scheduling Update
-
-This event is cancelled for 12/23/25, we will resume on 1/27/26.
-:::
--->
-
 - **1:30–2:00 PM**: Open drop-in session — everyone is welcome!
 - **2:00–2:30 PM**: Reserved 10-minute slots for more private or specific questions.
 

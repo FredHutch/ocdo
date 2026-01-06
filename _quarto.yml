@@ -52,16 +52,16 @@ website:
         contents:
           - text: "Data Strategy"
             href: strategy.qmd
-          - text: "Data Governance"
-            href: gov.qmd
-          - text: "Translational Data Science"
-            href: dss.qmd
-          - text: "Translational Applications & Tools"
-            href: tools.qmd
-          - text: "Human Computer Interaction"
-            href: programs/wildscp.qmd
           - text: "Data Partnerships"
             href: partnerships.qmd
+          - text: "Data Governance"
+            href: gov.qmd
+          - text: "Translational Data Engineering"
+            href: tools.qmd
+          - text: "Translational Data Science"
+            href: dss.qmd
+          - text: "Human Computer Interaction"
+            href: programs/wildscp.qmd
           - text: "Training & Community"
             href: https://ocdo.fredhutch.org/dasl
       - section: "Our Resources"

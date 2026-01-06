@@ -123,7 +123,7 @@ Chris Lo is a data science trainer who is passionate about helping biomedical an
 ::::
 
 
-## Translational Data Science and Software
+## Translational Data Science and HCI
 
 :::: {layout-ncol=2}
 ::: {#first-column }
@@ -247,7 +247,7 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 
 
-## Translational Applications & Engineering
+## Translational Engineering and Product Management
 
 
 

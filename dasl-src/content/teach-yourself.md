@@ -91,7 +91,7 @@ title = "NIH Data Sharing"
 description = "NIH Wants you to share your data because it is better for science. But you need to keep some information confidential! What do you do?"
 
 [[extra.teach_yourself.courses.cards]]
-title = "NIH data sharing"
+title = "NIH Data Sharing"
 brief = "Learn how to comply with NIH data sharing policies"
 tags = ["general research"]
 description = "We have created a gudie that walks you through the process of complying with the NIH data sharing policy of 2023. We have also created a helper app."

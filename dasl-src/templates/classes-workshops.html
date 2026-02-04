@@ -5,7 +5,7 @@ as h %} {% extends "training-base.html" %} {% block training_content %}
     <!-- Main Content -->
     <div class="col-lg-8 col-12 p-4">
       <h1>{{ page.title }}</h1>
-      <h4>{{ page.extra.subtitle }}</h4>
+      <h4 class="subtitle">{{ page.extra.subtitle }}</h4>
       <p>{{ page.extra.intro | markdown | safe }}</p>
       <a href="{{ get_url(path='courses/') }}">See the class schedule >></a>
 

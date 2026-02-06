@@ -3,10 +3,22 @@ title: "About our team"
 toc: true
 fig-cap-location: top
 ---
-As a team, we are committed to supporting friendly, open, and collaborative data science efforts. Our team is a collection of staff with data related expertise from a wide variety of areas who collaborate on cross-functional projects that build resources, supports and ongoing collaborations across many departments at Fred Hutch.  
+
+<style>
+.bio {
+  margin-bottom: 2rem;
+}
+.bio figcaption {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+</style>
+
+As a team, we are committed to supporting friendly, open, and collaborative data science efforts. Our team is a collection of staff with data related expertise from a wide variety of areas who collaborate on cross-functional projects that build resources, supports and ongoing collaborations across many departments at Fred Hutch.
 
 :::: {layout-ncol=2}
-::: {#first-column}
+::: {.bio}
 
 
 ![Jeff Leek - Chief Data Officer](img/team/jeff-leek.jpg){width=80%}
@@ -17,7 +29,7 @@ Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of
 [More about Jeff](https://jtleek.com/)
 :::
 
-::: {#second-column}
+::: {.bio}
 ![Amy Paguirigan - Deputy Chief Data Officer](img/team/amy-paguirigan.jpg){width=80%}
 
 
@@ -33,7 +45,7 @@ Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-lea
 ## Partnerships and Strategy
 
 :::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 
 ![Brian Bot - Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
 
@@ -44,7 +56,7 @@ Brian has more than two decades of experience in a variety of roles at the inter
 
 :::
 
-::: {#second-column }
+::: {.bio}
 ![Abby Wall - Data Program and Portfolio Manager](img/team/abby-wall.jpg){width=80%}
 
 Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the coordination of our Translational Data Product portfolio and community engagement with our programs and resources as the lead for our [Data Product Management team](tools.qmd). 
@@ -55,7 +67,7 @@ Abby has experience in program, product, and project management for bioinformati
 ## Data Governance
 
 :::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 
 
 ![Tyreesha Lambert - Data Governance Specialist; AI and Research Data Protections Program Manager](img/team/ty-lambert.jpg){width=80%}
@@ -66,7 +78,7 @@ Tyreesha has a background in privacy and compliance. In her role she supports da
 
 :::
 
-::: {#second-column}
+::: {.bio}
 
 
 
@@ -76,12 +88,8 @@ Tyreesha has a background in privacy and compliance. In her role she supports da
 Abby has a background in program management, clinical data management, regulatory compliance, data privacy, and ethical research oversight. In her role as Data Governance Consortium and Clinical Program Manager, she'll be leading governance councils, managing external relationships, and serving as the primary expert for clinical data governance functions.
 
 :::
-::::
 
-
-
-:::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 
 ![Gina Fonseca Crescioni - Data Governance Specialist; Translational Data Governance](img/team/gina-fc.jpg){width=80%}
 
@@ -91,10 +99,6 @@ Gina has a background in healthcare analytics, with expertise in data quality ma
 
 :::
 
-::: {#second-column}
-
-
-:::
 ::::
 
 
@@ -104,7 +108,7 @@ Gina has a background in healthcare analytics, with expertise in data quality ma
 
 :::: {layout-ncol=2}
 
-::: {#first-column}
+::: {.bio}
 
 
 ![Ted Laderas - Director of Training & Community](img/team/ted-laderas.jpg){width=80%}
@@ -113,7 +117,7 @@ Ted Laderas has worked with lots of different data types and knows his way aroun
 [More about Ted](https://laderast.github.io/)
 :::
 
-::: {#second-column}
+::: {.bio}
 
 ![Chris Lo - Data Science Trainer](img/team/chris-lo.jpg){width=80%}
 
@@ -126,7 +130,7 @@ Chris Lo is a data science trainer who is passionate about helping biomedical an
 ## Translational Data Science and HCI
 
 :::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 
 ![Monica Gerber - Data Science Manager](img/team/monica-gerber.jpg){width=80%}
 
@@ -138,18 +142,15 @@ Monica has a background in biostatistics and epidemiology. She leads our [Clinic
 
 :::
 
-::: {#second-column}
+::: {.bio}
 
 ![Sitapriya Moorthi - Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
 
 Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Translational Data Science and Software group.](dss.qmd)
 
 :::
-::::
 
-
-:::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 
 
 ![Sean Kross - Data Staff Scientist](img/team/sean-kross.jpg){width=80%}
@@ -162,7 +163,7 @@ Sean Kross is interested in building better tools and workflows for data scienti
 
 :::
 
-::: {#second-column }
+::: {.bio}
 
 ![Taylor Firman - Research Informatics Data Scientist](img/team/taylor-firman.jpg){width=80%}
 
@@ -171,26 +172,8 @@ Taylor's background is in computational biophysics, clinical bioinformatics, and
 [More about Taylor](https://www.taylorfirman.com/)
 
 :::
-::::
 
-
-
-
-
-:::: {layout-ncol=2}
-::: {#first-column }
-
-
-![Vivek Sriram – Data Scientist](img/team/vivek_cropped.JPG){width=80%}
-
-
-Vivek has a background in biomedical informatics, statistics, and computer science. His work focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
-
-[More about Vivek](https://vsriram24.github.io)
-
-:::
-
-::: {#second-column }
+::: {.bio}
 ![Megan Stachura - Analytics Engineer](img/team/megan-stachura.jpeg){width=80%}
 
 Megan has a background in environmental sciences and statistical modeling. Through that work she discovered a passion for supporting data infrastructure providing high-quality data for decision making, analysis, and collaboration. She is working to develop a common data model to bring together data cross domains at Fred Hutch.
@@ -199,10 +182,8 @@ Megan has a background in environmental sciences and statistical modeling. Throu
 
 
 :::
-::::
 
-:::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 
 
 ![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg){width=80%}
@@ -213,7 +194,7 @@ Scott has a background in ecology and evolutionary biology and software developm
 [More about Scott](https://scottchamberlain.info)
 :::
 
-::: {#second-column}
+::: {.bio}
 
 ![Sonu (Sonali) Mishra - User Experience Researcher](img/team/sonali-mishra.jpg){width=80%}
 
@@ -221,11 +202,8 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 
 [More about Sonu](https://www.srmishra.com/)
 :::
-::::
 
-
-:::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 
 ![Emma Bishop - Research Informatics Data Scientist](img/team/emma-bishop.jpg){width=80%}
 
@@ -235,11 +213,6 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 :::
 
-::: {#second-column }
-
-
-
-:::
 ::::
 
 
@@ -254,44 +227,36 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 :::: {layout-ncol=2}
 
-::: {#first-column}
+::: {.bio}
 ![Jennifer Bielak - Data Engineering Manager](img/team/jennifer-bielak.jpg){width=80%}
 
 Jennifer brings a strong blend of technical depth and strategic vision to the Data Engineering Manager role, guiding the architecture and evolution of CARDS, our translational data platform. Her experience shaping data ecosystems empowers the innovation behind our translational data products, positioning us to lead the next generation of scientific impact.
 
 :::
 
-::: {#second-column}
+::: {.bio}
 ![Josh Southam - Cloud Data System Engineer](img/team/josh-southam.jpg){width=80%}
 
 Josh has a background in utilizing cloud technologies to deploy innovative, scalable, and secure data systems in both higher education and biotech environments. At Fred Hutch, this will continue to be his focus – optimizing our platform to enable the best environment for our science.  He supports our cloud based [translational data product and infrastructure tooling](tools.qmd) with our engineering team. 
 
 :::
-::::
 
-
-:::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 ![Sean Olmstead - Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
 
 Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign. Sean works with our engineering team to implement [translational data product and infrastructure development](tools.qmd). 
 
 
 :::
-::: {#second-column}
+::: {.bio}
 
 ![Anna Oldre - Technical Program Manager](img/team/anna-oldre.jpg){width=80%}
 
 Anna has a background in technical product and program management. Prior to joining the team, she worked in the technology industry, including positions at Amazon and Tableau (Salesforce).  She is our Product Manager with our engineering team doing our [translational data product and infrastructure development](tools.qmd). 
 
 :::
-::::
 
-
-
-
-:::: {layout-ncol=2}
-::: {#first-column }
+::: {.bio}
 
 
 ![Sindiya Devi Thangavel - Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
@@ -301,7 +266,7 @@ Sindiya is part of our growing [Engineering team](tools.qmd), supporting the dev
 
 :::
 
-::: {#second-column}
+::: {.bio}
 
 ![Chetan Chauhan - Data Engineer](img/team/chetan-chauhan.jpg){width=80%}
 
@@ -309,6 +274,7 @@ Chetan designs data pipelines for healthcare research while supporting tool deve
 
 
 :::
+
 ::::
 
 
@@ -317,7 +283,7 @@ Chetan designs data pipelines for healthcare research while supporting tool deve
 
 ## Administration and Operations
 :::: {layout-ncol=2}
-::: {#first-column}
+::: {.bio}
 
 ![Sana Hirata - Associate Program Operations Director](img/team/sana-hirata.jpg){width=80%}
 
@@ -325,7 +291,7 @@ Sana has been working at Fred Hutch since 2019. Prior to joining the group, she 
 
 :::
 
-::: {#second-column}
+::: {.bio}
 
 ![Maleah O'Connor - Research Administration Manager](img/team/maleah-oconnor.jpg){width=80%}
 
@@ -334,11 +300,8 @@ Maleah has a background in Grant Manager with a focus on federal and foundation 
 [More about Maleah](https://www.linkedin.com/in/maleah-o-connor/)
 
 :::
-::::
 
-
-:::: {layout-ncol=2}
-::: {#first-column}
+::: {.bio}
 
 ![Maria Owen - Program Administrator, Data Governance](img/team/ScooterMuppet.jpg){width=80%}
 
@@ -346,7 +309,7 @@ Maria has a background in higher education administration and public health gran
 
 :::
 
-::: {#second-column}
+::: {.bio}
 
 ![Shelly Erez - Executive Assistant to the VP/CDO](img/team/shelly-erez.jpeg){width=80%}
 

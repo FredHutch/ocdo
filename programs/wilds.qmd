@@ -33,3 +33,37 @@ open science into the very tools we create rather than assuming those practices
 are up to the user to understand and implement separately
 
 For more information email us at `wilds@fredhutch.org`.
+
+## Workflow Development Program
+
+The Research Informatics team offers free, collaborative support to help Fred Hutch researchers develop [WDL (Workflow Description Language)](https://sciwiki.fredhutch.org/datascience/wdl_workflows/) workflows for scalable, reproducible computational analyses. In exchange, completed workflows are contributed to the open-source [WILDS WDL Library](https://sciwiki.fredhutch.org/datascience/wilds_wdl/) ([GitHub](https://github.com/getwilds/wilds-wdl-library)) for the broader research community.
+
+Through this program, we:
+
+- Collaborate with researchers to convert existing scripts, pipelines, or tool combinations into WDL workflows
+- Provide workflows optimized for Fred Hutch HPC and/or cloud environments
+- Publish all workflows to the [WILDS WDL Library](https://github.com/getwilds/wilds-wdl-library) under open-source licenses
+- Provide documentation on how to run and adapt workflows
+
+### What to Expect
+
+1. **Submit a request** using our [intake form](https://forms.office.com/r/TXmB0qaTTa)
+2. **Initial meeting** -- We'll schedule a [Data House Call](dhc.qmd) to discuss your project, assess fit, and scope the work
+3. **Development** -- The WILDS team writes the WDL workflow
+4. **Testing & feedback** -- You test the workflow with your data and provide feedback
+5. **Publication** -- The workflow is added to the [WILDS WDL Library](https://github.com/getwilds/wilds-wdl-library) with appropriate attribution
+
+### Is This a Good Fit?
+
+This program works best when:
+
+- You have existing scripts or a published pipeline you want to scale up
+- Your workflow has broad applicability to other researchers
+- You're willing to have the final product shared publicly
+- You can commit time to testing and providing feedback
+
+::: {.callout-tip appearance="simple"}
+Ready to get started? [Submit a request here](https://forms.office.com/r/TXmB0qaTTa).
+:::
+
+Questions? Reach out to the WILDS team at `wilds@fredhutch.org` or on the [#workflow-managers](https://fhdata.slack.com/archives/CJFP1NYSZ) channel of [FH-Data Slack](https://join.slack.com/t/fhdata/signup).

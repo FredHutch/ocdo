@@ -46,13 +46,18 @@
 
       <div class="collapse navbar-collapse justify-content-end"
            id="navbarContent">
+        <!-- Extract end_path globally for use in nav comparisons -->
+        {% set_global parts = current_path | trim_end_matches(pat="/") | split(pat="/") %}
+        {% set_global last_part = parts | last %}
+        {% set_global end_path = last_part ~ "/" %}
+        
         <!-- Desktop Navigation -->
         <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-none d-lg-flex">
           {% for link in config.extra.navbar_links %}
             <li class="nav-item px-1">
               {% if link.title == "Training" %}
                 <a class="nav-link" href="{{ get_url(path=link.url) }}">
-                  <span class="menu-text{% if current_path == link.url %}{{ " active" }}{% else %}{% for nav_item in config.extra.training_nav %}{% if current_path == nav_item.url and nav_item.url != "/faq/" %}{{ " active" }}{% endif %}{% endfor %}{% endif %}">{{ link.title }}</span>
+                  <span class="menu-text{% if current_path == link.url %}{{ " active" }}{% else %}{% for nav_item in config.extra.training_nav %}{% if end_path == nav_item.url and nav_item.url != "faq/" %}{{ " active" }}{% endif %}{% endfor %}{% endif %}">{{ link.title }}</span>
                 </a>
               {% else %}
                 <a class="nav-link" href="{% if link.external %}{{ link.url | safe }}{% else %}{{ get_url(path=link.url) }}{% endif %}">
@@ -74,7 +79,7 @@
               <!-- Training main link for mobile -->
               <li class="nav-item">
                 <a class="nav-link" href="{% if link.external %}{{ link.url | safe }}{% else %}{{ get_url(path=link.url) }}{% endif %}">
-                  <span class="menu-text{% if current_path == link.url %}{{ " text-decoration-underline fw-bold" }}{% else %}{% for nav_item in config.extra.training_nav %}{% if current_path == nav_item.url and nav_item.url != "/faq/" %}{{ " text-decoration-underline fw-bold" }}{% endif %}{% endfor %}{% endif %}">{{ link.title }}</span>
+                  <span class="menu-text{% if current_path == link.url %}{{ " text-decoration-underline fw-bold" }}{% else %}{% for nav_item in config.extra.training_nav %}{% if end_path == nav_item.url and nav_item.url != "faq/" %}{{ " text-decoration-underline fw-bold" }}{% endif %}{% endfor %}{% endif %}">{{ link.title }}</span>
                 </a>
               </li>
               <!-- Training sub-navigation items for mobile -->

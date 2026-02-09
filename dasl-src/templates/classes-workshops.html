@@ -5,7 +5,7 @@ as h %} {% extends "training-base.html" %} {% block training_content %}
     <!-- Main Content -->
     <div class="col-lg-8 col-12 p-4">
       <h1>{{ page.title }}</h1>
-      <h4>{{ page.extra.subtitle }}</h4>
+      <h4 class="subtitle">{{ page.extra.subtitle }}</h4>
       <p>{{ page.extra.intro | markdown | safe }}</p>
       <a href="{{ get_url(path='courses/') }}">See the class schedule >></a>
 
@@ -43,7 +43,7 @@ as h %} {% extends "training-base.html" %} {% block training_content %}
                 <p class="mb-0" style="color: var(--grey)">{{ card.brief }}</p>
               </div>
               <span class="toggle-icon ms-auto">
-                <i class="bi bi-plus"></i>
+                  <i class="bi bi-plus" style="font-size: 3rem; color: {{ page.extra.color }}"></i>
               </span>
             </div>
             <div

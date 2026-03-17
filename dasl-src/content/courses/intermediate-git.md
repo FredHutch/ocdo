@@ -7,7 +7,7 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """In this workshop we’ll build on our Git skills by working with command-line git tools. You will become familiar with the Git workflow, including reverting a commit, branching a repository, and opening pull requests to collaborate on an online repository. By the end, you will come out with skills and recommendations on making your code available and reproducible."""
 
-registration_link = "https://forms.gle/N8oR24iqgdZ5DMtm7"
+#registration_link =
 course_materials_link = "https://hutchdatascience.org/Intermediate_Git/"
 
 [extra.class_information]

@@ -1,5 +1,5 @@
 +++
-title = "Package Management for R and Python"
+title = "Package Management for Python and R"
 template = "course.html"
 
 [extra]

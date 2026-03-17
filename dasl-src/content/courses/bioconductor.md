@@ -9,6 +9,7 @@ main_subtitle = """This course will introduce you to the basic data structures a
 
 Please note that this course requires the Intro to R course as a prerequisite, or the equivalent course. Please note that this course does not cover RNAseq workflows such as MultiQC and alignment."""
 
+registration_link = "https://forms.gle/Yk1jF3GoqYhBamsE7"
 course_materials_link = "https://bioconductor-genomics.netlify.app/"
 
 [extra.class_information]

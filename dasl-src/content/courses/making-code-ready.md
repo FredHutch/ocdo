@@ -9,19 +9,19 @@ main_subtitle = """Code is an important product to share for publication. There 
 
 In this workshop, we will discuss ways to share analysis code in your publication, from sharing scripts and notebooks on github, to making your code executable via systems such as binder.org, to packaging your code to share with others as a software package."""
 
-registration_link = "https://forms.gle/kc5pekvq6chQu1dW9"
-course_materials_link = ""
+#registration_link = 
+course_materials_link = "https://hutchdatascience.org/making-code-ready/slides.html#/title-slide"
 
 [extra.class_information]
-quarters_offered="Winter 2026"
+quarters_offered = "Winter 2026"
 dates = "Monday Feb 23, 2026"
 time = "Monday Noon - 1:30 pm PT"
 time_commitment = "1.5 hour class"
 audience = "FH Researchers who need to share code as part of their publication."
 prerequisites_text = ""
 prerequisites_link = ""
-followed_by_text = ""
-followed_by_link = ""
+followed_by_text = "Package Management for Python and R"
+followed_by_link = "/courses/package-management"
 
 [[extra.learning_objectives]]
 objective = "**Explore** examples of code in repositories being submitted with a paper"

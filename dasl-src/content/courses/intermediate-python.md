@@ -7,7 +7,7 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """The course continues building programming fundamentals in Python programming and data analysis. You will learn how to make use of complex data structures, iterate repeated tasks that scales naturally, and create your own functions. You will apply these skills to develop a custom data analysis."""
 
-registration_link = "https://forms.gle/jz86LBJqXWP8djHX6"
+#registration_link = 
 course_materials_link = "https://hutchdatascience.org/Intermediate_Python/"
 
 [extra.class_information]

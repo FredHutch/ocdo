@@ -7,6 +7,7 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """Implement basic machine learning models for small to large datasets in Python."""
 
+registration_link = "https://forms.gle/VUnZN4wCtmRf4Gmn6"
 course_materials_link = "https://hutchdatascience.org/Machine-Learning/"
 
 [extra.class_information]

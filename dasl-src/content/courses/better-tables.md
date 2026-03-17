@@ -12,12 +12,13 @@ In part 1, we’ll talk about basic table presentation principles and guidelines
 In part 2, we’ll learn about the packages that enable you to present data more effectively: the gt package (for R) and the GreatTables package (for Python). Both of these allow you to format and export publication quality tables in a wide variety of formats, including Word, LaTeX, and HTML.
 """
 
+registration_link = "https://forms.gle/1pCYwcvE1aWqPEUu6"
 course_materials_link = "https://hutchdatascience.org/better_tables/"
 
 [extra.class_information]
 quarters_offered="Spring 2026"
 dates = "April 27, May 4, 2026"
-time = "12:00 pm-1:30 pm"
+time = "12:00 pm - 1:30 pm"
 time_commitment = "2 sessions"
 audience = "FH Staff and Faculty wanting to improve their tables for publication."
 prerequisites_text = ""

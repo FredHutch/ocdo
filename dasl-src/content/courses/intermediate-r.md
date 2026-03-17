@@ -7,7 +7,7 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """Continue your learning in R programming and data analysis. You will learn how to make use of complex data structures, use custom functions built by other R users, creating your own functions, and how to iterate repeated tasks that scales naturally. You will also learn how to clean messy data to a Tidy form for analysis, and conduct an end-to-end data science workflow."""
 
-registration_link = "https://forms.gle/VJAWCC7gNK3XkKhA8"
+#registration_link = 
 course_materials_link = "https://hutchdatascience.org/Intermediate_R/"
 
 [extra.class_information]

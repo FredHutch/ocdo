@@ -10,7 +10,7 @@ training_content %}
       <div class="container my-5 d-flex justify-content-between">
         {% if page.extra.registration_link %}
         <a
-          href="{{ page.extra.registration_link }}"
+          href="{{ page.extra.registration_link | safe }}"
           class="btn btn-primary btn-lg mb-3"
           style="background-color: #367797; border-color: #367797"
           role="button"
@@ -27,7 +27,7 @@ training_content %}
         {% endif %}
    
         <a
-          href="{{ page.extra.course_materials_link }}"
+          href="{{ page.extra.course_materials_link | safe }}"
           class="btn btn-outline-primary btn-lg no-hover"
           style="border-color: #367797; color: #367797 !important"
           role="button"
@@ -76,7 +76,7 @@ training_content %}
             <p>
               <strong>Prerequisites:</strong>
               {% if page.extra.class_information.prerequisites_text %}
-              <a href="{{ page.extra.class_information.prerequisites_link }}"
+              <a href="{{ get_url(path=page.extra.class_information.prerequisites_link) }}"
                 >{{ page.extra.class_information.prerequisites_text }}</a
               >
               {% else %} None {% endif %}
@@ -86,7 +86,7 @@ training_content %}
             <p>
               <strong>Followed by:</strong>
               {% if page.extra.class_information.followed_by_text %}
-              <a href="{{ page.extra.class_information.followed_by_link }}"
+              <a href="{{ get_url(path=page.extra.class_information.followed_by_link) }}"
                 >{{ page.extra.class_information.followed_by_text }}</a
               >
               {% else %} None {% endif %}

@@ -7,7 +7,7 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """The course continues building programming fundamentals in Python programming and data analysis. You will learn how to make use of complex data structures, iterate repeated tasks that scales naturally, and create your own functions. You will apply these skills to develop a custom data analysis."""
 
-registration_link = "https://forms.gle/jz86LBJqXWP8djHX6"
+#registration_link = 
 course_materials_link = "https://hutchdatascience.org/Intermediate_Python/"
 
 [extra.class_information]
@@ -16,9 +16,9 @@ time = "Wednesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "The course is intended for researchers who want to continue learning the fundamentals of Python programming and how to write custom data analysis functions when dealing with messy datasets. The audience should know how to work with Lists and Pandas Dataframes and conduct basic data analysis, and/or have taken our Intro to Python course."
 prerequisites_text = "Intro to Python"
-prerequisites_link = "/dasl/courses/intro-to-python"
+prerequisites_link = "/courses/intro-to-python"
 followed_by_text = "Machine Learning for Python"
-followed_by_link = "/dasl/courses/machine-learning"
+followed_by_link = "/courses/machine-learning"
 
 [[extra.learning_objectives]]
 objective = "**Understand** and **distinguish** the use case of data structures to store different types of data."

@@ -7,7 +7,7 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """In this 6 week course, you will learn the fundamentals of Python, an elegant and powerful programming language commonly used for data analysis. You will learn best practices for using Python for data analysis and visualization, with some commonly used scientific and statistical libraries. The programming skills you will learn are transferable to learn more about Python independently."""
 
-registration_link = "https://forms.gle/9kyTXozPB24JZ7xA7"
+#registration_link = 
 course_materials_link = "https://hutchdatascience.org/Intro_to_Python/"
 
 [extra.class_information]

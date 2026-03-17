@@ -9,6 +9,7 @@ main_subtitle = """This course will introduce you to the basic data structures a
 
 Please note that this course requires the Intro to R course as a prerequisite, or the equivalent course. Please note that this course does not cover RNAseq workflows such as MultiQC and alignment."""
 
+registration_link = "https://forms.gle/Yk1jF3GoqYhBamsE7"
 course_materials_link = "https://bioconductor-genomics.netlify.app/"
 
 [extra.class_information]
@@ -17,7 +18,7 @@ time = "Tuesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "FH Research Staff wanting to use Bioconductor to analyze RNA-seq data"
 prerequisites_text = "Intro to R"
-prerequisites_link = "/dasl/courses/intro-to-r/"
+prerequisites_link = "/courses/intro-to-r/"
 followed_by_text = ""
 followed_by_link = ""
 

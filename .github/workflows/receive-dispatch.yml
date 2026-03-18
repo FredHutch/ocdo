@@ -22,7 +22,9 @@ jobs:
 
       - name: Create branch with empty commit
         run: |
-          BRANCH_NAME="trigger-build/proof-${{ github.event.client_payload.sha }}"
+          FULL_SHA="${{ github.event.client_payload.sha }}"
+          SHORT_SHA="${FULL_SHA:0:7}"
+          BRANCH_NAME="trigger-build/proof-${SHORT_SHA}"
           git checkout -b "$BRANCH_NAME"
           git commit --allow-empty -m "chore: trigger build from proof repo
 

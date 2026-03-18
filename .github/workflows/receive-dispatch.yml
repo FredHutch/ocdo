@@ -20,10 +20,31 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Create empty commit to trigger build
+      - name: Create branch with empty commit
         run: |
+          BRANCH_NAME="trigger-build/proof-${{ github.event.client_payload.sha }}"
+          git checkout -b "$BRANCH_NAME"
           git commit --allow-empty -m "chore: trigger build from proof repo
 
-          - Triggered by: ${{ github.event.client_payload.ref }}
-          - Source commit: ${{ github.event.client_payload.sha }}"
-          git push origin main
+          Triggered by: ${{ github.event.client_payload.ref }}
+          Source commit: ${{ github.event.client_payload.sha }}"
+          git push origin "$BRANCH_NAME"
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+
+      - name: Create pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create \
+            --base main \
+            --head "$BRANCH_NAME" \
+            --reviewer seankross \
+            --reviewer laderast \
+            --title "chore: trigger build from proof repo" \
+            --body "This PR was automatically created to trigger a site build.
+
+          **Source:** [FredHutch/proof](https://github.com/FredHutch/proof)
+          **Triggered by:** \`${{ github.event.client_payload.ref }}\`
+          **Source commit:** \`${{ github.event.client_payload.sha }}\`
+
+          Merge this PR to trigger the build in the 3rd party system."

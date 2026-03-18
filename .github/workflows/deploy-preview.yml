@@ -18,6 +18,9 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    env:
+      PREVIEW_NUM: "${{ github.event.pull_request.number || github.event.issue.number }}"
+      BASE_URL: "https://deploy-preview-${{ github.event.pull_request.number || github.event.issue.number }}--reliable-unicorn-feb93e.netlify.app"
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -32,12 +35,23 @@ jobs:
       - name: Install Zola
         uses: taiki-e/install-action@v2
         with:
-          tool: zola@0.21.0
+          tool: zola@0.22.1
 
       - name: Build DASL Site
         run: |
           cd dasl-src && \
-          zola build --force --base-url "https://deploy-preview-${{ github.event.pull_request.number || github.event.issue.number }}--reliable-unicorn-feb93e.netlify.app/dasl/" --output-dir ../dasl && \
+          zola build --force \
+            --base-url "${BASE_URL}/dasl/" \
+            --output-dir ../dasl && \
+          cd ..
+
+      - name: Build proof site
+        run: |
+          git clone --depth 1 https://github.com/FredHutch/proof.git proof-src && \
+          cd proof-src && \
+          zola build --force \
+            --base-url "${BASE_URL}/proof/" \
+            --output-dir ../proof && \
           cd ..
 
       - name: Set up Quarto

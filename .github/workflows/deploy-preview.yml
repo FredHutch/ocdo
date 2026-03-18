@@ -47,8 +47,8 @@ jobs:
 
       - name: Build proof site
         run: |
-          git clone --depth 1 https://github.com/FredHutch/proof.git /proof-src && \
-          cd /proof-src && \
+          git clone --depth 1 https://github.com/FredHutch/proof.git proof-src && \
+          cd proof-src && \
           zola build --force \
             --base-url "${BASE_URL}/proof/" \
             --output-dir ../proof && \

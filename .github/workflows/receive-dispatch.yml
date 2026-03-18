@@ -1,0 +1,29 @@
+name: Receive dispatch and trigger build
+
+on:
+  repository_dispatch:
+    types: [dispatch-event]
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Create empty commit to trigger build
+        run: |
+          git commit --allow-empty -m "chore: trigger build from proof repo
+
+          - Triggered by: ${{ github.event.client_payload.ref }}
+          - Source commit: ${{ github.event.client_payload.sha }}"
+          git push origin main

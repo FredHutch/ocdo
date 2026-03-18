@@ -22,7 +22,9 @@ jobs:
 
       - name: Create branch with empty commit
         run: |
-          BRANCH_NAME="trigger-build/proof-${{ github.event.client_payload.sha }}"
+          FULL_SHA="${{ github.event.client_payload.sha }}"
+          SHORT_SHA="${FULL_SHA:0:7}"
+          BRANCH_NAME="trigger-build/proof-${SHORT_SHA}"
           git checkout -b "$BRANCH_NAME"
           git commit --allow-empty -m "chore: trigger build from proof repo
 
@@ -39,12 +41,14 @@ jobs:
             --base main \
             --head "$BRANCH_NAME" \
             --reviewer seankross \
-            --reviewer laderast \
+            --reviewer sckott \
             --title "chore: trigger build from proof repo" \
             --body "This PR was automatically created to trigger a site build.
 
           **Source:** [FredHutch/proof](https://github.com/FredHutch/proof)
           **Triggered by:** \`${{ github.event.client_payload.ref }}\`
           **Source commit:** \`${{ github.event.client_payload.sha }}\`
+
+          Check out the deploy preview link below.
 
           Merge this PR to trigger the build in the 3rd party system."

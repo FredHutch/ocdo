@@ -49,4 +49,6 @@ jobs:
           **Triggered by:** \`${{ github.event.client_payload.ref }}\`
           **Source commit:** \`${{ github.event.client_payload.sha }}\`
 
+          Check out the deploy preview link below.
+
           Merge this PR to trigger the build in the 3rd party system."

@@ -39,7 +39,7 @@ jobs:
             --base main \
             --head "$BRANCH_NAME" \
             --reviewer seankross \
-            --reviewer laderast \
+            --reviewer sckott \
             --title "chore: trigger build from proof repo" \
             --body "This PR was automatically created to trigger a site build.
 

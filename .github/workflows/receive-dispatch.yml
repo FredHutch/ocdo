@@ -20,13 +20,20 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Create branch with empty commit
+      - name: Create branch with trigger file
         run: |
           FULL_SHA="${{ github.event.client_payload.sha }}"
           SHORT_SHA="${FULL_SHA:0:7}"
           BRANCH_NAME="trigger-build/proof-${SHORT_SHA}"
           git checkout -b "$BRANCH_NAME"
-          git commit --allow-empty -m "chore: trigger build from proof repo
+
+          # Create a file change to trigger the deploy preview workflow
+          echo "Triggered by: ${{ github.event.client_payload.ref }}" > .build-trigger
+          echo "Source commit: ${{ github.event.client_payload.sha }}" >> .build-trigger
+          echo "Timestamp: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> .build-trigger
+
+          git add .build-trigger
+          git commit -m "chore: trigger build from proof repo
 
           Triggered by: ${{ github.event.client_payload.ref }}
           Source commit: ${{ github.event.client_payload.sha }}"

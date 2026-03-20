@@ -11,6 +11,3 @@
 ocdo.Rproj
 
 **/*.quarto_ipynb
-
-# for triggering deploy previews from the FredHutch/proof repo
-.build-trigger

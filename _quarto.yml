@@ -18,10 +18,10 @@ website:
     type: secondary
     position: below-navbar
   page-footer:
-    left: "Contact us by scheduling a [Data House Call](programs/dhc.qmd)"
+    left: "Contact us by scheduling a [Data House Call](/programs/dhc.qmd)"
     right:
       - icon: house-gear-fill
-        href: programs/dhc.qmd
+        href: /programs/dhc.qmd
       - icon: github
         href: https://github.com/getwilds
 

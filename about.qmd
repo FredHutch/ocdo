@@ -33,7 +33,7 @@ Jeff is Chief Data Officer, Vice President, and J Orin Edson Foundation Chair of
 ![Amy Paguirigan - Deputy Chief Data Officer](img/team/amy-paguirigan.jpg){width=80%}
 
 
-Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-leading the group to support democratization of data, expertise and technology across the spectrum of our merged institution. She has a background in translational data science, connecting the clinic to laboratory research, as well as open science efforts and data community building.  
+Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-leading the group to support democratization of data, expertise and technology across the spectrum of our merged institution. She has a background in translational data science, connecting the clinic to laboratory research, as well as open science efforts and data community building.
 
 [More about Amy](https://amypag.com)
 :::
@@ -49,7 +49,7 @@ Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-lea
 
 ![Brian Bot - Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
 
-Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care. You can find more about what Brian is working on on our emerging [Partnerships](partnerships.qmd) page.  
+Brian has more than two decades of experience in a variety of roles at the intersection of data science, biomedical research, and technology. He functions as a liaison between subject matter experts in order to develop and implement ethical data ecosystems that advance biomedical research and clinical care. You can find more about what Brian is working on on our emerging [Partnerships](partnerships.qmd) page.
 
 [More about Brian](https://brian-bot.github.io/)
 
@@ -59,7 +59,7 @@ Brian has more than two decades of experience in a variety of roles at the inter
 ::: {.bio}
 ![Abby Wall - Data Program and Portfolio Manager](img/team/abby-wall.jpg){width=80%}
 
-Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the coordination of our Translational Data Product portfolio and community engagement with our programs and resources as the lead for our [Data Product Management team](tools.qmd). 
+Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the coordination of our Translational Data Product portfolio and community engagement with our programs and resources as the lead for our [Data Product Management team](tools.qmd).
 
 :::
 ::::
@@ -94,7 +94,7 @@ Abby has a background in program management, clinical data management, regulator
 ![Gina Fonseca Crescioni - Data Governance Specialist; Translational Data Governance](img/team/gina-fc.jpg){width=80%}
 
 
-Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the [data governance team](gov.qmd), she focuses on ensuring the integrity, privacy, and accessibility of patient and research data and data governance of our translational data applications and resources. 
+Gina has a background in healthcare analytics, with expertise in data quality management, regulatory compliance, and decision-making to improve health outcomes. As part of the [data governance team](gov.qmd), she focuses on ensuring the integrity, privacy, and accessibility of patient and research data and data governance of our translational data applications and resources.
 
 
 :::
@@ -113,7 +113,7 @@ Gina has a background in healthcare analytics, with expertise in data quality ma
 
 ![Ted Laderas - Director of Training & Community](img/team/ted-laderas.jpg){width=80%}
 
-Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads our [training and community](training.qmd) efforts.  
+Ted Laderas has worked with lots of different data types and knows his way around a workflow. He champions building learning communities of practice in science and research that are psychologically safe and inclusive. Ted leads our [training and community](/dasl) efforts.
 [More about Ted](https://laderast.github.io/)
 :::
 
@@ -188,7 +188,7 @@ Megan has a background in environmental sciences and statistical modeling. Throu
 
 ![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg){width=80%}
 
-Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves. 
+Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves.
 
 
 [More about Scott](https://scottchamberlain.info)
@@ -237,14 +237,14 @@ Jennifer brings a strong blend of technical depth and strategic vision to the Da
 ::: {.bio}
 ![Josh Southam - Cloud Data System Engineer](img/team/josh-southam.jpg){width=80%}
 
-Josh has a background in utilizing cloud technologies to deploy innovative, scalable, and secure data systems in both higher education and biotech environments. At Fred Hutch, this will continue to be his focus – optimizing our platform to enable the best environment for our science.  He supports our cloud based [translational data product and infrastructure tooling](tools.qmd) with our engineering team. 
+Josh has a background in utilizing cloud technologies to deploy innovative, scalable, and secure data systems in both higher education and biotech environments. At Fred Hutch, this will continue to be his focus – optimizing our platform to enable the best environment for our science.  He supports our cloud based [translational data product and infrastructure tooling](tools.qmd) with our engineering team.
 
 :::
 
 ::: {.bio}
 ![Sean Olmstead - Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
 
-Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign. Sean works with our engineering team to implement [translational data product and infrastructure development](tools.qmd). 
+Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign. Sean works with our engineering team to implement [translational data product and infrastructure development](tools.qmd).
 
 
 :::
@@ -252,7 +252,7 @@ Sean has experience in project management spanning multiple industries and funct
 
 ![Anna Oldre - Technical Program Manager](img/team/anna-oldre.jpg){width=80%}
 
-Anna has a background in technical product and program management. Prior to joining the team, she worked in the technology industry, including positions at Amazon and Tableau (Salesforce).  She is our Product Manager with our engineering team doing our [translational data product and infrastructure development](tools.qmd). 
+Anna has a background in technical product and program management. Prior to joining the team, she worked in the technology industry, including positions at Amazon and Tableau (Salesforce).  She is our Product Manager with our engineering team doing our [translational data product and infrastructure development](tools.qmd).
 
 :::
 
@@ -262,7 +262,7 @@ Anna has a background in technical product and program management. Prior to join
 ![Sindiya Devi Thangavel - Data Engineer](img/team/sindiya-devi-thangavel.jpg){width=80%}
 
 
-Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts.  
+Sindiya is part of our growing [Engineering team](tools.qmd), supporting the development of our Tools and Applications as well as providing data engineering expertise to a variety of translational data infrastructure projects and data product development efforts.
 
 :::
 
@@ -325,7 +325,7 @@ We have a group of affiliated researchers and training staff who focus on a vari
 
 
 ## Jobs
-We are seeking an [Administrative Manager](https://careers-fhcrc.icims.com/jobs/30760/job) to join our team.  This role provides complex specialized administrative and operational support for Office of the Chief Data Officer team. They serve as the first point of contact for internal and external partners including OCDO staff, IT, Facilities, and HR, the Administrative Manager role is responsible for planning, coordinating, and implementing a wide range of administrative, project, and program activities, including space, supply and equipment coordination, planning of team-wide and community events, and onboarding processes.  If you're interested in joining us, please apply now!  
+We are seeking an [Administrative Manager](https://careers-fhcrc.icims.com/jobs/30760/job) to join our team.  This role provides complex specialized administrative and operational support for Office of the Chief Data Officer team. They serve as the first point of contact for internal and external partners including OCDO staff, IT, Facilities, and HR, the Administrative Manager role is responsible for planning, coordinating, and implementing a wide range of administrative, project, and program activities, including space, supply and equipment coordination, planning of team-wide and community events, and onboarding processes.  If you're interested in joining us, please apply now!
 
 
 

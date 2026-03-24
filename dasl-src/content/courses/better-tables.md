@@ -17,7 +17,7 @@ course_materials_link = "https://hutchdatascience.org/better_tables/"
 
 [extra.class_information]
 quarters_offered="Spring 2026"
-dates = "April 27, May 4, 2026"
+dates = "May 4, May 18 2026"
 time = "12:00 pm - 1:30 pm"
 time_commitment = "2 sessions"
 audience = "FH Staff and Faculty wanting to improve their tables for publication."

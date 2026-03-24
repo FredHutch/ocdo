@@ -121,7 +121,7 @@ text_md = """### Data Science Programming Classes and Workshops
 
 ### Data 4 All Workshops
 
-- [Better Tables](/dasl/courses/better-tables/): Apirl 27, May 4, 2026 (2-part workshop)
+- [Better Tables](/dasl/courses/better-tables/): May 4, May 18 2026 (2-part workshop)
 """
 
 

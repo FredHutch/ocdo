@@ -37,6 +37,14 @@ COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 COPY --from=0 /build/_site /usr/share/nginx/html
 
+RUN ls -l /usr/share/nginx/html/index.html
+
 COPY dasl /usr/share/nginx/html/dasl
 
+
+RUN ls -l /usr/share/nginx/html/dasl/index.html
+
 COPY --from=0 /proof/public /usr/share/nginx/html/proof
+
+RUN ls -l /usr/share/nginx/html/proof/index.html
+

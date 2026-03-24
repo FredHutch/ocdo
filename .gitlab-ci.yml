@@ -30,7 +30,6 @@ test:
       alias: ocdo
   script:
     - sleep 15 && curl -sI  http://ocdo:80  |head -1|grep -q "200 OK"
-    - ls -l /usr/share/nginx/html/index.html
     - if [[ -n "$CI_COMMIT_BRANCH" ]] && [[ "$CI_COMMIT_BRANCH" != "main" ]]; then docker rmi sc-registry.fredhutch.org/ocdo:$CI_COMMIT_SHORT_SHA ; fi
 deploy:
   stage: deploy

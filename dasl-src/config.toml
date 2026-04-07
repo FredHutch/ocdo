@@ -46,5 +46,6 @@ training_nav = [
   { title = "Classes and Workshops Schedule", url = "courses/" },
   { title = "Class Catalog", url = "classes-workshops/" },
   { title = "Teach Yourself", url = "teach-yourself/" },
+  { title = "Summer Capstone Project", url = "summer-capstone-project/" },
   { title = "Frequently Asked Questions", url = "faq/" },
 ]

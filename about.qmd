@@ -285,14 +285,6 @@ Chetan designs data pipelines for healthcare research while supporting tool deve
 :::: {layout-ncol=2}
 ::: {.bio}
 
-![Sana Hirata - Associate Program Operations Director](img/team/sana-hirata.jpg){width=80%}
-
-Sana has been working at Fred Hutch since 2019. Prior to joining the group, she supported implementation of clinical trials in the Bezos Family Immunotherapy Clinic as a project manager in the Immunotherapy Integrated Research Center Project Management Office (IIRC PMO).
-
-:::
-
-::: {.bio}
-
 ![Maleah O'Connor - Research Administration Manager](img/team/maleah-oconnor.jpg){width=80%}
 
 Maleah has a background in Grant Manager with a focus on federal and foundation grants. She ensures grant compliance and manages all financial aspects of grant funded programs.

@@ -22,7 +22,7 @@ Capstone Projects that may be good fit:
 
 - The goal of the project has specific scientific outcomes and/or educational goals.
 
-- The student has already examined the dataset of interest, and has reasons that the dataset can help achieve the goals of the project.
+- The participant has reasons that the dataset can help achieve the goals of the project.
 
 Capstone Projects that may be poor fit:
 
@@ -30,7 +30,7 @@ Capstone Projects that may be poor fit:
 
 - The goal of the project require expertise outside of the student and mentor’s backgrounds.
 
-- The student has not examined the dataset of interest yet, or the data is not available for use immediately. 
+- The participant is unsure the dataset can help achieve the goals of the project, or the data is not available for use.
 
 What to expect in this application process:
  

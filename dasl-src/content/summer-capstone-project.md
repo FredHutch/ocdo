@@ -36,7 +36,7 @@ What to expect in this application process:
  
 1. Fill out the intake form.
 
-2. If a good fit, we will meet up to chat and discuss the project and dataset you have in mind. We will brainstorm together how it can fit into a 6-week capstone project.
+2. If a good fit, we will meet up to brainstorm how the project can be feasible in a 6 week period, and plan out a more formal proposal together.
 
 3. We will ask you to fill out a capstone project proposal form. 
 

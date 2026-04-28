@@ -159,7 +159,7 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/resources)
 
 We support research use of healthcare data in the OMOP data model for research to develop cohorts and queries that are useful for answering research questions. We also support facilitated data extract requests for research and can discuss what our team can help you with today and in the future as our team builds new translational data resources.
 
-Use this [Data House Call]() to meet with us about how we can help you with using OMOP healthcare data for research to answer questions such as:
+Use this Data House Call to meet with us about how we can help you with using OMOP healthcare data for research to answer questions such as:
 
 - I'm doing a retrospective study on prostate cancer patients, how far back to PSA lab values go?
 - I'm studying the social and behavioral determinants of health on treatment outcomes, how do I find questionnaire data collected in the clinic for my cohort of patients?

@@ -10,7 +10,7 @@ project:
 
 website:
   google-analytics: "G-F8NWF32PC7"
-  cookie-consent: true
+  cookie-consent: false
   announcement:
     icon: arrow-repeat
     dismissable: false

@@ -41,9 +41,13 @@ In 2026 we'll be rolling out net-new multimodal clinical data resources for tran
 
 
 Use this [Data House Call](https://calendly.com/data-house-calls/feasibility) to:
+
 - Discuss your proposed projects, 
+
 - Determine what is feasible now, and what is coming, 
+
 - Learn about what data management, computing and LLM/AI capabilities our platform provides,
+
 - as well as provide your input on what data sources and types of support you'll need moving forward.
 
 

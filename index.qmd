@@ -4,7 +4,7 @@ toc: true
 ---
 The Office of the CDO staff support a variety of staff-oriented supports, resources and tools.  We share those resources as broadly as possible as the tools and education needs of data-users at Fred Hutch are shared by others working in the biomedical data space. 
 
-**We do this outreach and sharing via what we call the Data Science Lab (this site) and it's affiliates (the [hutchdatascience.org](https://hutchdatascience.org/) site). We also support Fred Hutch in both overall [Data Strategy](strategy.qmd) as well as advancing [Data Partnerships](partnerships.qmd).  **
+**We do this outreach and sharing via what we call the Data Science Lab (this site) and it's affiliates (the [hutchdatascience.org](https://hutchdatascience.org/) site). We also support Fred Hutch in both overall [Data Strategy](strategy.qmd) as well as advancing [Data Partnerships](partnerships.qmd).**
 
 ## Our Groups
 You can meet our staff via our [about page](about.qmd).  
@@ -43,7 +43,7 @@ Our Data Governance team supports our Consortium data governance relationships a
 
 
 ::: {#second-column}
-[Translational Data Engineering](tools.qmd)
+[Translational Data Applications and Tools](tools.qmd)
 
 Our Engineering team, in collaboration with our other teams and IT, supports the development and implementation of data infrastructure and tools targeted at translational data needs.  
 :::

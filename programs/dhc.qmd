@@ -36,13 +36,19 @@ Looking to connect with the CAIA team? Learn how to participate in CAIA Office H
 
 
 
+## Translational Project Feasibility
+In 2026 we'll be rolling out net-new multimodal clinical data resources for translational use from the Translational Data and AI team in OCDO.  This Data House Call is a great way to support getting projects planned that will leverage resources we've built on [CARDS, our translational data platform](https://cards.fredhutch.org) (note, this resource requires a Fred Hutch login/affiliation).  Please check back regularly to keep up with what is coming online when. 
 
-## General
-Use this [Data House Call](https://calendly.com/data-house-calls/misc) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one. Note: this Data House Call is also good for finding out about the status of upcoming resources such as [CARDS, our translational data platform](http://cards.fredhutch.org/)
+
+Use this [Data House Call](https://calendly.com/data-house-calls/feasibility) to:
+- Discuss your proposed projects, 
+- Determine what is feasible now, and what is coming, 
+- Learn about what data management, computing and LLM/AI capabilities our platform provides,
+- as well as provide your input on what data sources and types of support you'll need moving forward.
 
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/feasibility).  
 :::
 
 ## Clinical Data Governance
@@ -149,16 +155,26 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/resources)
 
 
 
-## Using Healthcare Data for Research
+## Using Healthcare Data (OMOP) (on hold)
 
-We support research use of healthcare data for research including finding data you need and learning to develop cohorts and queries that are useful for answering research questions.  We also support facilitated data extract requests for research and can discuss what our team can help you with today and in the future as we begin sharing multimodal healthcare datasets for research.
+We support research use of healthcare data in the OMOP data model for research to develop cohorts and queries that are useful for answering research questions. We also support facilitated data extract requests for research and can discuss what our team can help you with today and in the future as our team builds new translational data resources.
 
-Use this [Data House Call](https://calendly.com/data-house-calls/omop) meet with us about how we can help you with using healthcare data for research to answer questions such as:
+Use this [Data House Call]() to meet with us about how we can help you with using OMOP healthcare data for research to answer questions such as:
 
 - I'm doing a retrospective study on prostate cancer patients, how far back to PSA lab values go?
-- I'm recruiting for a clinical research study, how do I find a list of potentially eligible patients?
 - I'm studying the social and behavioral determinants of health on treatment outcomes, how do I find questionnaire data collected in the clinic for my cohort of patients?
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/omop).  
+**Note:** This Data House Call is on hold until our OMOP data model becomes available.  Stay tuned in June for more availability of data and support.  
+:::
+
+
+## General
+Use this [Data House Call](https://calendly.com/data-house-calls/misc) to discuss how our group can help connect you with the right resources to support your work. For anything that doesn't fit into the other topics, or if you are unsure of which to pick, this DHC is the one. 
+
+**Note:** this Data House Call is also good for finding out about the status of upcoming resources such as [CARDS, our translational data platform](http://cards.fredhutch.org/)
+
+
+::: {.callout-tip appearance="simple"}
+Schedule this [Data House Call](https://calendly.com/data-house-calls/misc).  
 :::

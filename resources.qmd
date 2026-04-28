@@ -5,6 +5,11 @@ sidebar: data-sidebar
 ---
 
 
+::: {.callout-note appearance="simple"}
+## Translational Data Resources
+For Fred Hutch staff and affiliates, in 2026, you can start to find out more about our translational data resources built on CARDS on the [cards.fredhutch.org website](https://cards.fredhutch.org/).  
+:::
+
 ## Data Science Training
 :::: {layout-ncol=2 text-align=center}
 ::: {#first-column}
@@ -100,6 +105,8 @@ Monday Morning Data Science is our weekly newsletter with updates from the Lab, 
 ![](img/substack.png){width=50%}
 :::
 ::::
+
+
 
 
 

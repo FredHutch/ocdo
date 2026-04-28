@@ -58,7 +58,7 @@ website:
             href: partnerships.qmd
           - text: "Data Governance"
             href: gov.qmd
-          - text: "Translational Data Engineering"
+          - text: "Translational Data Applications"
             href: tools.qmd
           - text: "Translational Data Science"
             href: dss.qmd
@@ -84,6 +84,8 @@ website:
             href: https://centernet.fredhutch.org/u/data-science-lab/engineering.html#data_noon
           - text: "MMDS"
             href: https://fhdata.substack.com/
+          - text: "Translational Data Resources (CARDS)"
+            href: https://cards.fredhutch.org/
 
       - text: "Fred Hutch Data Events"
         href: https://centernet.fredhutch.org/u/data-science-lab.html

@@ -52,7 +52,7 @@
   <div class="sidebar-section need-help py-3">
     <h3>{{ content.need_help.title }}</h3>
     {% for s in content.need_help.section %}
-      <div class="card-body">
+      <div class="card-body{% if not loop.last %} mb-3{% endif %}">
         <h5 class="card-title">
           <a href="{% if 'http' in s.url %}{{ s.url }}{% else %}{{ get_url(path=s.url) }}{% endif %}">{{ s.title }}</a>
         </h5>

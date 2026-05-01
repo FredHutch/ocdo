@@ -49,7 +49,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $teal;
+  color: $black;
   font-family: $sans-serifs;
 }
 
@@ -63,15 +63,24 @@ h6 {
 title {
   font-family: $serifs;
   font-weight: bold;
-  color: $dark-navy;
+  color: $black;
   border-bottom: none;
 }
 
 h1 {
   font-family: $sans-serifs;
   font-weight: 600; /* semi bold */
-  color: $dark-navy;
+  color: $black;
   border-bottom: none;
+}
+
+h4.subtitle {
+  font-weight: 300;
+}
+
+// Paragraph text
+p {
+  color: $black;
 }
 
 // Navbar
@@ -476,7 +485,7 @@ a.btn:active {
 /* Body content styling */
 .card-body p {
   margin-bottom: 0;
-  color: $grey;
+  color: $black;
   line-height: 1.5;
 }
 

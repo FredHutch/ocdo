@@ -181,12 +181,11 @@ Taylor's background is in computational biophysics, clinical bioinformatics, and
 ::: {#first-column }
 
 
-![Vivek Sriram – Data Scientist](img/team/vivek_cropped.JPG){width=80%}
+![Emma Bishop - Research Informatics Data Scientist](img/team/emma-bishop.jpg){width=80%}
 
+Emma has a background in oncology clinical research and bioinformatics, with expertise in single-cell analysis. At Fred Hutch, she builds tools to meet data science needs across the institution.
 
-Vivek has a background in biomedical informatics, statistics, and computer science. His work focuses on developing and productizing statistical and machine learning systems for electronic phenotyping and cohort identification across the Hutch. He is passionate about simplifying the medical discovery process from bench to bedside.
-
-[More about Vivek](https://vsriram24.github.io)
+[More about Emma](https://github.com/emjbishop)
 
 :::
 
@@ -224,28 +223,6 @@ Sonu is a UX researcher interested in building impactful systems that meet user 
 ::::
 
 
-:::: {layout-ncol=2}
-::: {#first-column }
-
-![Emma Bishop - Research Informatics Data Scientist](img/team/emma-bishop.jpg){width=80%}
-
-Emma has a background in oncology clinical research and bioinformatics, with expertise in single-cell analysis. At Fred Hutch, she builds tools to meet data science needs across the institution.
-
-[More about Emma](https://github.com/emjbishop)
-
-:::
-
-::: {#second-column }
-
-
-
-:::
-::::
-
-
-
-
-
 
 ## Translational Applications & Engineering
 
@@ -257,9 +234,9 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 ::: {#first-column}
 
 
-![Flavio Fenley - Engineering Manager](img/team/flavio-fenley.jpg){width=80%}
+![Jennifer Bielak - Engineering Manager](){width=80%}
 
-Flavio is a data engineering leader with experience in health-tech, specializing in modernizing architectures and optimizing data platforms. He drives secure and scalable solutions, mentors teams, and ensures data systems support business growth and technical innovation. He manages our data engineering team doing our [translational data product and infrastructure development](tools.qmd). 
+Jennifer manages our data engineering team doing our [translational data product and infrastructure development](tools.qmd). 
 
 :::
 
@@ -365,7 +342,9 @@ We have a group of affiliated researchers and training staff who focus on a vari
 
 ## Jobs
 
-Check back later, our team is currently full!
+**[Data Scientist II](https://careers-fhcrc.icims.com/jobs/30901/job)** 
+
+The Data Scientist II will support clinical and translational data science at the Fred Hutch. The data scientist will use multimodal, real-world healthcare data (electronic health records, registry data, etc.) as well as multimodal data sets generated in clinical and translational labs such as genomics and imaging, to advance our understanding of clinical care and patient outcomes. The data scientist will work on collaborative projects utilizing our OMOP common data model for observational oncology data in combination with diverse multimodal datasets. Projects may include developing predictive clinical models, LLM/AI integrated analyses, statistical modeling to understand patient populations and cancer outcomes, and cohort identification. The data scientist will develop templates and workflows for the data science community at Fred Hutch and play a key role in building ethical data stewardship and management skills across Fred Hutch.
 
 
 

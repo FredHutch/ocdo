@@ -9,7 +9,7 @@ main_subtitle = """Do you want your graphs and plots to be more effective in com
 
 This is a software-agnostic workshop, focusing on essential principles that can be applied to any visualization software. Hands-on examples will be demonstrated in both R and Python."""
 
-registration_link = "https://forms.gle/QsXDjtMqLDhKeC3P9"
+#registration_link = 
 course_materials_link = "https://hutchdatascience.org/better_plots/"
 
 [extra.class_information]

@@ -7,7 +7,7 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """“Developing WDL Workflows” is a short written guide that shows a bioinformatics workflow developer how to strategically develop and scale up a WDL workflow that is iterative, reproducible, and efficient in terms of time and resource used."""
 
-registration_link = "https://example.com"
+
 course_materials_link = "https://hutchdatascience.org/Developing_WDL_Workflows/"
 
 [extra.class_information]

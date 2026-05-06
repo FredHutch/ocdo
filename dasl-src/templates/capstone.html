@@ -10,8 +10,13 @@
       <h4 style="font-weight: 300;">{{ page.extra.main_subtitle }}</h4>
 
       {% if page.content %}
-      {{ page.content | safe }}
+      <div class="container my-5">
+        <div class="row">
+          <div class="col-12">{{ page.content | safe }}</div>
+        </div>
+      </div>
       {% endif %}
+
     </div>
 
     <!-- Sidebar -->

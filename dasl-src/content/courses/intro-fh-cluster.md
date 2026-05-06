@@ -7,18 +7,19 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """ Many scientific computing tasks cannot be done locally on a personal computer due to constraints in computation, data, and memory. In this workshop, you will learn how to connect to the Fred Hutch SLURM high performance cluster to transfer files, load scientific software, compute interactively, and launch jobs!"""
 
+registration_link = "https://forms.gle/meXjBaXQj3KSJpoU9"
 course_materials_link = "https://hutchdatascience.org/FH_Cluster_101/index.html"
 
 [extra.class_information]
 quarters_offered = "Fall 2025, Spring 2026"
-dates = "May 8, 2026"
+dates = "Friday May 8, 2026"
 time = "Noon - 1:30pm PT"
 time_commitment = "1.5 Hours"
 audience = "Researchers who want to use Fred Hutch’s SLURM high performance cluster to run software and analysis at scale. Participants should have basic familiarity with using the command line."
 prerequisites_text = "Intro to Command Line"
-prerequisites_link = "/dasl/courses/intro-to-command-line"
+prerequisites_link = "/courses/intro-to-command-line"
 followed_by_text = "Bash for Bioinformatics"
-followed_by_link = "/dasl/courses/bash-for-bioinformatics"
+followed_by_link = "/courses/bash-for-bioinformatics"
 
 [[extra.learning_objectives]]
 objective = "**Describe** the types of nodes and filesystems on FH’s cluster."

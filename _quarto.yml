@@ -2,13 +2,15 @@ project:
   type: website
   resources:
     - dasl/**
+    - proof/**
   render:
     - "*.qmd"
     - "!dasl-src/**"
+    - "!proof-src/**"
 
 website:
   google-analytics: "G-F8NWF32PC7"
-  cookie-consent: true
+  cookie-consent: false
   announcement:
     icon: arrow-repeat
     dismissable: false
@@ -16,10 +18,10 @@ website:
     type: secondary
     position: below-navbar
   page-footer:
-    left: "Contact us by scheduling a [Data House Call](programs/dhc.qmd)"
+    left: "Contact us by scheduling a [Data House Call](/programs/dhc.qmd)"
     right:
       - icon: house-gear-fill
-        href: programs/dhc.qmd
+        href: /programs/dhc.qmd
       - icon: github
         href: https://github.com/getwilds
 
@@ -56,7 +58,7 @@ website:
             href: partnerships.qmd
           - text: "Data Governance"
             href: gov.qmd
-          - text: "Translational Data Engineering"
+          - text: "Translational Data Applications"
             href: tools.qmd
           - text: "Translational Data Science"
             href: dss.qmd
@@ -82,6 +84,8 @@ website:
             href: https://centernet.fredhutch.org/u/data-science-lab/engineering.html#data_noon
           - text: "MMDS"
             href: https://fhdata.substack.com/
+          - text: "Translational Data Resources (CARDS)"
+            href: https://cards.fredhutch.org/
 
       - text: "Fred Hutch Data Events"
         href: https://centernet.fredhutch.org/u/data-science-lab.html

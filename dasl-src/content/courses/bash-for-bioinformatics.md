@@ -13,7 +13,7 @@ main_subtitle = """Who this course is for:
 
 If so, this course is for you! We will learn enough bash scripting to do useful things on the Fred Hutch cluster and automate the boring parts."""
 
-
+registration_link = "https://forms.gle/yPhNegBc3bhQfXWD6"
 course_materials_link = "https://bashforbio.netlify.app"
 
 [extra.class_information]

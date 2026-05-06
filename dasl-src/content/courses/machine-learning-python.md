@@ -5,8 +5,9 @@ template = "course.html"
 [extra]
 sidebar_sections = ["contact_us"]
 
-main_subtitle = """Implement basic machine learning models for small to large datasets in Python."""
+main_subtitle = """The course covers the framework of machine learning for predictive modeling and classification from a practitioner's perspective. You will be able to implement several popular machine learning techniques based on the question of interest and the size and quality of dataset at hand. You will then evaluate the model based on their performance and diagnostics to understand its strengths and limitations. Technical mathematics and algorithms will not be emphasized."""
 
+registration_link = "https://forms.gle/VUnZN4wCtmRf4Gmn6"
 course_materials_link = "https://hutchdatascience.org/Machine-Learning/"
 
 [extra.class_information]
@@ -15,7 +16,7 @@ time = "Wednesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "The course is intended for researchers who want to implement basic machine learning models for small to large datasets in Python "
 prerequisites_text = "Intro to Python"
-prerequisites_link = "/dasl/courses/intro-to-python"
+prerequisites_link = "/courses/intro-to-python"
 followed_by_text = ""
 followed_by_link = ""
 

@@ -7,12 +7,12 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """Fluency in programming and data science requires using computer software from the Command Line, a text-based way of controlling the computer. You will go on a guided under-the-hood tour behind the graphical interface we typically use: you will learn how to interact and manipulate files, folders, and software via the Command Line."""
 
-#registration_link
+registration_link = "https://forms.gle/EGd9zSRQJErLKBed7"
 course_materials_link = "https://hutchdatascience.org/Intro_to_Command_Line/"
 
 [extra.class_information]
 quarters_offered = "Fall 2025, Spring 2026"
-dates = "May 1, 2026"
+dates = "Friday May 1, 2026"
 time = "Noon - 1:30pm PT"
 time_commitment = "1.5 hrs"
 audience = "Researchers who want to use scientific software launched from the command line, want to use a high-performance cluster computing environment, or want to use a cloud computing environment."

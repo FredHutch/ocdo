@@ -7,7 +7,7 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """Do you want to take your work in Excel and with tables to the next level, and make it easy to collaborate with others? Come learn about tidy principles to format and organize your data."""
 
-registration_link = "https://forms.gle/odpTmpJVKCnmnbMV8"
+#registration_link = 
 course_materials_link = "https://hutchdatascience.org/better_spreadsheets/"
 
 [extra.class_information]

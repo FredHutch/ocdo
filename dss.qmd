@@ -23,10 +23,32 @@ Our team supports clinical data science at Fred Hutch by analyzing real-world da
 
 Our team supports the use of biomedical datasets in the research context that often include large scale public or private genomic data, licensed or regulated datasets (such as those under DUAs or legal protection like GDPR), or laboratory-generated data that require significant computational processing as part of their analysis.  We focus on providing open-source tooling, best practices for computational workloads and data management, and other resources such as computational workflows and templates that staff can use as a jumping off point to customize for their own work.  We work closely with Fred Hutch IT's Scientific Computing group who provide support for our on-prem computing cluster, scientific data storage, and research applications.  
 
-**Workflow Support in WILDS**
+**WILDS WDL Development Program**
 
-We're developing resources in collaboration with the Fred Hutch IT Scientific Computing group to support simplified interfaces to computing resources through our project [PROOF](https://sciwiki.fredhutch.org/datademos/proof-how-to/). This will facilitate users running WDL workflows on our cluster and you can find our emerging resources in our WILDS GitHub organization, such as our [WDL supports](https://github.com/orgs/getwilds/repositories?q=cromwell+OR+WDL&type=all&language=&sort=) and [WILDS Docker Library](https://github.com/getwilds/wilds-docker-library).
+We offer free, collaborative support to help Fred Hutch researchers develop [WDL (Workflow Description Language)](https://sciwiki.fredhutch.org/datascience/wdl_workflows/) workflows for scalable, reproducible computational analyses. In exchange, completed workflows are contributed to the open-source [WILDS WDL Library](https://sciwiki.fredhutch.org/datascience/wilds_wdl/) ([GitHub](https://github.com/getwilds/wilds-wdl-library)) for the broader research community.
 
+Through this program, we:
+
+- Collaborate with researchers to convert existing scripts, pipelines, or tool combinations into WDL workflows
+- Provide workflows optimized for Fred Hutch HPC and/or cloud environments
+- Publish all workflows to the [WILDS WDL Library](https://github.com/getwilds/wilds-wdl-library) under open-source licenses
+- Provide documentation on how to run and adapt workflows
+
+*What to Expect:*
+
+1. **Submit a request** using our [intake form](https://forms.office.com/r/TXmB0qaTTa)
+2. **Initial meeting** -- We'll schedule a [Data House Call](/programs/dhc.html) to discuss your project, assess fit, and scope the work
+3. **Development** -- The WILDS team writes the WDL workflow
+4. **Testing & feedback** -- You test the workflow with your data and provide feedback
+5. **Publication** -- The workflow is added to the [WILDS WDL Library](https://github.com/getwilds/wilds-wdl-library) with appropriate attribution
+
+This program works best when you have existing scripts or a pipeline you want to scale up, your workflow has broad applicability to other researchers, you're willing to have the final product shared publicly, and you can commit time to testing and providing feedback.
+
+::: {.callout-tip appearance="simple"}
+Ready to get started? [Submit a request here](https://forms.office.com/r/TXmB0qaTTa).
+:::
+
+Questions? Reach out to the WILDS team at `wilds@fredhutch.org` or on the [#workflow-managers](https://fhdata.slack.com/archives/CJFP1NYSZ) channel of [FH-Data Slack](https://join.slack.com/t/fhdata/signup).
 
 **Research Data Applications**
 

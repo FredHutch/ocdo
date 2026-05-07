@@ -112,6 +112,7 @@ p {
   font-style: normal;
   font-size: 1.3em;
   color: $dark-navy;
+  text-decoration: none;
 }
 
 .menu-text:hover {
@@ -482,6 +483,15 @@ a.btn:active {
   font-weight: 600;
 }
 
+/* Top card sidebar section */
+.top_card {
+  text-align: left;
+
+  .card-body {
+    padding-left: 0;
+  }
+}
+
 /* Body content styling */
 .card-body p {
   margin-bottom: 0;
@@ -630,4 +640,61 @@ h4:hover .zola-anchor,
 h5:hover .zola-anchor,
 h6:hover .zola-anchor {
   opacity: 1;
+}
+
+/* .learning */
+.learning h1, 
+.learning h2, 
+.learning h3, 
+.learning h4 {
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+}
+
+.learning h1 { font-size: 2.5rem; margin-top: 2rem; }
+.learning h2 { font-size: 2rem; margin-top: 1.5rem; }
+.learning h3 { font-size: 1.5rem; margin-top: 1.5rem; }
+.learning h4 { font-size: 1.25rem; margin-top: 1.5rem; }
+
+/* Removes top margin if a heading is the very first thing in the div */
+.learning > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Table styling */
+.learning table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+.learning table thead tr {
+  background-color: $dark-navy;
+  color: $white;
+  text-align: left;
+}
+
+.learning table th,
+.learning table td {
+  padding: 0.75rem 1rem;
+  vertical-align: top;
+  border: 1px solid #dee2e6;
+}
+
+.learning table th {
+  font-family: $sans-serifs;
+  font-weight: 600;
+  border-color: darken($dark-navy, 5%);
+}
+
+.learning table tbody tr:nth-child(even) {
+  background-color: #f4f8fb;
+}
+
+.learning table tbody tr:nth-child(odd) {
+  background-color: $white;
 }

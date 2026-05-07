@@ -1,6 +1,6 @@
 +++
 title = "Summer Capstone Project"
-template = "capstone.html"
+template = "learning.html"
 
 [extra]
 sidebar_sections = ["contact_us", "need_help"]

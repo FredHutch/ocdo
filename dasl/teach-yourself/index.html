@@ -46,13 +46,18 @@
 
       <div class="collapse navbar-collapse justify-content-end"
            id="navbarContent">
+        <!-- Extract end_path globally for use in nav comparisons -->
+        
+        
+        
+        
         <!-- Desktop Navigation -->
         <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-none d-lg-flex">
           
             <li class="nav-item px-1">
               
                 <a class="nav-link" href="https://ocdo.fredhutch.org/dasl/courses">
-                  <span class="menu-text">Training</span>
+                  <span class="menu-text active">Training</span>
                 </a>
               
             </li>
@@ -116,7 +121,7 @@
               <!-- Training main link for mobile -->
               <li class="nav-item">
                 <a class="nav-link" href="https://ocdo.fredhutch.org/dasl/courses">
-                  <span class="menu-text">Training</span>
+                  <span class="menu-text text-decoration-underline fw-bold">Training</span>
                 </a>
               </li>
               <!-- Training sub-navigation items for mobile -->
@@ -353,11 +358,12 @@
       <!-- Main Content -->
       <div class="col-lg-8 col-12 p-4">
         <h1>Teach yourself with online materials</h1>
-        <h4>Use class and workshop materials on your own, or resources designed for you to teach yourself.</h4>
+        <h4 class="subtitle">Use class and workshop materials on your own, or resources designed for you to teach yourself.</h4>
         <!-- Sections -->
         <!-- Materials -->
-        <div class="card-body py-3">
-          
+        <div class="mb-5">
+            <div class="card-body py-3">
+              
     
     <h3
         class="card-title"
@@ -371,51 +377,53 @@
         </a>
     </h3>
 
-          <hr style="background-color:var(--warm-purple);
-                     height: 4px;
-                     border-top: none" />
-          <p>You can teach yourself with the materials for all of our regular classes and workshops.</p>
-          <p>Browse our classes and workshops:</p>
+              <hr style="background-color:var(--warm-purple);
+                         height: 4px;
+                         border-top: none" />
+              <p>You can teach yourself with the materials for all of our regular classes and workshops.</p>
+              <p>Browse our classes and workshops:</p>
+            </div>
+            <ul>
+              
+                <li>
+                  <div>
+                    <p>
+                      <a href="&#x2F;dasl&#x2F;classes-workshops&#x2F;#data-science-programming">Data Science Programming</a> (e.g., Intro R, Intermediate Python, Intro to SQL)
+                    </p>
+                  </div>
+                </li>
+              
+                <li>
+                  <div>
+                    <p>
+                      <a href="&#x2F;dasl&#x2F;classes-workshops&#x2F;#scalable-computing">Scalable Computing</a> (e.g., Intro to Command Line, Cluster 101)
+                    </p>
+                  </div>
+                </li>
+              
+                <li>
+                  <div>
+                    <p>
+                      <a href="&#x2F;dasl&#x2F;classes-workshops&#x2F;#reproducible-research">Reproducible Research</a> (e.g., Intro to Git and GitHub)
+                    </p>
+                  </div>
+                </li>
+              
+                <li>
+                  <div>
+                    <p>
+                      <a href="&#x2F;dasl&#x2F;classes-workshops&#x2F;#data-4-all">Data 4 All</a> (e.g., Better Spreadsheets, Better Tables, Better Plots)
+                    </p>
+                  </div>
+                </li>
+              
+            </ul>
         </div>
-        <ul>
-          
-            <li>
-              <div>
-                <p>
-                  <a href="&#x2F;dasl&#x2F;classes-workshops&#x2F;#data-science-programming">Data Science Programming</a> (e.g., Intro R, Intermediate Python, Intro to SQL)
-                </p>
-              </div>
-            </li>
-          
-            <li>
-              <div>
-                <p>
-                  <a href="&#x2F;dasl&#x2F;classes-workshops&#x2F;#scalable-computing">Scalable Computing</a> (e.g., Intro to Command Line, Cluster 101)
-                </p>
-              </div>
-            </li>
-          
-            <li>
-              <div>
-                <p>
-                  <a href="&#x2F;dasl&#x2F;classes-workshops&#x2F;#reproducible-research">Reproducible Research</a> (e.g., Intro to Git and GitHub)
-                </p>
-              </div>
-            </li>
-          
-            <li>
-              <div>
-                <p>
-                  <a href="&#x2F;dasl&#x2F;classes-workshops&#x2F;#data-4-all">Data 4 All</a> (e.g., Better Spreadsheets, Better Tables, Better Plots)
-                </p>
-              </div>
-            </li>
-          
-        </ul>
 
         <!-- Teach yourself courses -->
-        <div class="card-body">
-          
+        <div class="mb-5">
+            <div class="card-body">
+              
     
     <h3
         class="card-title"
@@ -429,14 +437,14 @@
         </a>
     </h3>
 
-          <hr style="background-color: var(--warm-purple);
-                     height: 4px;
-                     border-top: none" />
-          <p>These courses are designed for self-study; there is no corresponding class or workshop. But you should still feel free to reach out to us with any questions!</p>
-
-          
-            <div class="py-3">
+              <hr style="background-color: var(--warm-purple);
+                         height: 4px;
+                         border-top: none" />
+              <p>These courses are designed for self-study; there is no corresponding class or workshop. But you should still feel free to reach out to us with any questions!</p>
+    
               
+                <div class="py-3">
+                  
     
     <h4
         
@@ -450,61 +458,59 @@
         </a>
     </h4>
 
-              <p>Short tutorials for Python and R that run in your browser, covering cool packages that help you work with data effectively.</p>
-              
-                <div class="card my-2">
-                  <div class="card-header d-flex justify-content-between align-items-center"
-                       role="button"
-                       data-bs-toggle="collapse"
-                       data-bs-target="#collapse-data-snacks-0"
-                       aria-expanded="false"
-                       aria-controls="collapse-data-snacks-0">
-                    <div class="col-md-2 text-center">
-                      <img src="https://ocdo.fredhutch.org/dasl/images/cookie-bite-solid-full.svg" class="img-fluid" />
+                  <p>Short tutorials for Python and R that run in your browser, covering cool packages that help you work with data effectively.</p>
+                  
+                    <div class="card my-2">
+                      <div class="card-header d-flex justify-content-between align-items-center"
+                           role="button"
+                           data-bs-toggle="collapse"
+                           data-bs-target="#collapse-data-snacks-0"
+                           aria-expanded="false"
+                           aria-controls="collapse-data-snacks-0">
+                        <div class="col-md-2 text-center">
+                          <img src="https://ocdo.fredhutch.org/dasl/images/cookie-bite-solid-full.svg" class="img-fluid" />
+                        </div>
+                        <div>
+                          <h5 class="mb-1">Data Snacks</h5>
+                          <p>Learn cool Python and R tricks for working with data.</p>
+                        </div>
+                        <span class="toggle-icon">
+                          <i class="bi bi-plus" style="font-size: 3rem; color: var(--warm-purple)"></i>
+                        </span>
+                      </div>
+                      <div class="collapse"
+                           id="collapse-data-snacks-0">
+                        <div class="card-body">
+                          
+    
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">R</span>
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Python</span>
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                            
+    
+                          
+                          <p class="mb-2"></p>
+                          
+    
+                            
+                              <div>
+                                <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;data_snacks&#x2F;" target="_blank">Data Snacks</a>
+                                <i class="bi bi-box-arrow-up-right"></i>
+                              </div>
+                            
+    
+                          
+                        </div>
+                      </div>
                     </div>
-                    <div>
-                      <h5 class="mb-1">Data Snacks</h5>
-                      <p>Learn cool Python and R tricks for working with data.</p>
-                    </div>
-                    <span class="toggle-icon">
-                      <i class="bi bi-plus"
-                         style="font-size: 3rem;
-                                color: var(--warm-purple)"></i>
-                    </span>
-                  </div>
-                  <div class="collapse"
-                       id="collapse-data-snacks-0">
-                    <div class="card-body">
-                      
-
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">R</span>
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Python</span>
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
-                        
-
-                      
-                      <p class="mb-2"></p>
-                      
-
-                        
-                          <div>
-                            <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;data_snacks&#x2F;" target="_blank">Data Snacks</a>
-                            <i class="bi bi-box-arrow-up-right"></i>
-                          </div>
-                        
-
-                      
-                    </div>
-                  </div>
+                  
                 </div>
               
-            </div>
-          
-            <div class="py-3">
-              
+                <div class="py-3">
+                  
     
     <h4
         
@@ -518,61 +524,59 @@
         </a>
     </h4>
 
-              <p>Workflows help bioinformaticians analyze data efficiently on the cluster. They are better than bash scripts! Learn about Workflow Development Language (WDL), a better alternative to SnakeMake.</p>
-              
-                <div class="card my-2">
-                  <div class="card-header d-flex justify-content-between align-items-center"
-                       role="button"
-                       data-bs-toggle="collapse"
-                       data-bs-target="#collapse-workflows-for-bioinformatics-0"
-                       aria-expanded="false"
-                       aria-controls="collapse-workflows-for-bioinformatics-0">
-                    <div class="col-md-2 text-center">
-                      <img src="https://ocdo.fredhutch.org/dasl/images/wdl.Default.png" class="img-fluid" />
+                  <p>Workflows help bioinformaticians analyze data efficiently on the cluster. They are better than bash scripts! Learn about Workflow Development Language (WDL), a better alternative to SnakeMake.</p>
+                  
+                    <div class="card my-2">
+                      <div class="card-header d-flex justify-content-between align-items-center"
+                           role="button"
+                           data-bs-toggle="collapse"
+                           data-bs-target="#collapse-workflows-for-bioinformatics-0"
+                           aria-expanded="false"
+                           aria-controls="collapse-workflows-for-bioinformatics-0">
+                        <div class="col-md-2 text-center">
+                          <img src="https://ocdo.fredhutch.org/dasl/images/wdl.Default.png" class="img-fluid" />
+                        </div>
+                        <div>
+                          <h5 class="mb-1">Workflow Description Language (WDL) Materials</h5>
+                          <p>Analyze data more efficiently with workflows</p>
+                        </div>
+                        <span class="toggle-icon">
+                          <i class="bi bi-plus" style="font-size: 3rem; color: var(--warm-purple)"></i>
+                        </span>
+                      </div>
+                      <div class="collapse"
+                           id="collapse-workflows-for-bioinformatics-0">
+                        <div class="card-body">
+                          
+    
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Workflows</span>
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">WDL</span>
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                            
+    
+                          
+                          <p class="mb-2">We offer three self-directed courses on how to write workflows in Workflow Description Language (WDL). We prefer WDL to SnakeMake -- ask us why!</p>
+                          
+    
+                            
+                              <div>
+                                <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;Developing_WDL_Workflows&#x2F;" target="_blank">Developing WDL Workflows</a>
+                                <i class="bi bi-box-arrow-up-right"></i>
+                              </div>
+                            
+    
+                          
+                        </div>
+                      </div>
                     </div>
-                    <div>
-                      <h5 class="mb-1">Workflow Description Language (WDL) Materials</h5>
-                      <p>Analyze data more efficiently with workflows</p>
-                    </div>
-                    <span class="toggle-icon">
-                      <i class="bi bi-plus"
-                         style="font-size: 3rem;
-                                color: var(--warm-purple)"></i>
-                    </span>
-                  </div>
-                  <div class="collapse"
-                       id="collapse-workflows-for-bioinformatics-0">
-                    <div class="card-body">
-                      
-
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Workflows</span>
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">WDL</span>
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
-                        
-
-                      
-                      <p class="mb-2">We offer three self-directed courses on how to write workflows in Workflow Description Language (WDL). We prefer WDL to SnakeMake -- ask us why!</p>
-                      
-
-                        
-                          <div>
-                            <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;Developing_WDL_Workflows&#x2F;" target="_blank">Developing WDL Workflows</a>
-                            <i class="bi bi-box-arrow-up-right"></i>
-                          </div>
-                        
-
-                      
-                    </div>
-                  </div>
+                  
                 </div>
               
-            </div>
-          
-            <div class="py-3">
-              
+                <div class="py-3">
+                  
     
     <h4
         
@@ -586,61 +590,59 @@
         </a>
     </h4>
 
-              <p>Labs work better when labmates do code review. Code review is essentially proofreading each others’ code.</p>
-              
-                <div class="card my-2">
-                  <div class="card-header d-flex justify-content-between align-items-center"
-                       role="button"
-                       data-bs-toggle="collapse"
-                       data-bs-target="#collapse-code-review-0"
-                       aria-expanded="false"
-                       aria-controls="collapse-code-review-0">
-                    <div class="col-md-2 text-center">
-                      <img src="https://ocdo.fredhutch.org/dasl/images/code-solid-full.svg" class="img-fluid" />
+                  <p>Labs work better when labmates do code review. Code review is essentially proofreading each others’ code.</p>
+                  
+                    <div class="card my-2">
+                      <div class="card-header d-flex justify-content-between align-items-center"
+                           role="button"
+                           data-bs-toggle="collapse"
+                           data-bs-target="#collapse-code-review-0"
+                           aria-expanded="false"
+                           aria-controls="collapse-code-review-0">
+                        <div class="col-md-2 text-center">
+                          <img src="https://ocdo.fredhutch.org/dasl/images/code-solid-full.svg" class="img-fluid" />
+                        </div>
+                        <div>
+                          <h5 class="mb-1">Code Review for Labs</h5>
+                          <p>Code review helps labs prevent errors together</p>
+                        </div>
+                        <span class="toggle-icon">
+                          <i class="bi bi-plus" style="font-size: 3rem; color: var(--warm-purple)"></i>
+                        </span>
+                      </div>
+                      <div class="collapse"
+                           id="collapse-code-review-0">
+                        <div class="card-body">
+                          
+    
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Data Science Programming</span>
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">R</span>
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
+                            
+    
+                          
+                          <p class="mb-2">Leading a lab with novice or experienced codewriters or users? Either way, check out our Code Review materials. We have tips on best practices for code review for labs of varying experience.</p>
+                          
+    
+                            
+                              <div>
+                                <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;code_review&#x2F;" target="_blank">Code review for labs</a>
+                                <i class="bi bi-box-arrow-up-right"></i>
+                              </div>
+                            
+    
+                          
+                        </div>
+                      </div>
                     </div>
-                    <div>
-                      <h5 class="mb-1">Code Review for Labs</h5>
-                      <p>Code review helps labs prevent errors together</p>
-                    </div>
-                    <span class="toggle-icon">
-                      <i class="bi bi-plus"
-                         style="font-size: 3rem;
-                                color: var(--warm-purple)"></i>
-                    </span>
-                  </div>
-                  <div class="collapse"
-                       id="collapse-code-review-0">
-                    <div class="card-body">
-                      
-
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Data Science Programming</span>
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">R</span>
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">Beginner-friendly</span>
-                        
-
-                      
-                      <p class="mb-2">Leading a lab with novice or experienced codewriters or users? Either way, check out our Code Review materials. We have tips on best practices for code review for labs of varying experience.</p>
-                      
-
-                        
-                          <div>
-                            <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;code_review&#x2F;" target="_blank">Code review for labs</a>
-                            <i class="bi bi-box-arrow-up-right"></i>
-                          </div>
-                        
-
-                      
-                    </div>
-                  </div>
+                  
                 </div>
               
-            </div>
-          
-            <div class="py-3">
-              
+                <div class="py-3">
+                  
     
     <h4
         
@@ -654,60 +656,59 @@
         </a>
     </h4>
 
-              <p>NIH Wants you to share your data because it is better for science. But you need to keep some information confidential! What do you do?</p>
-              
-                <div class="card my-2">
-                  <div class="card-header d-flex justify-content-between align-items-center"
-                       role="button"
-                       data-bs-toggle="collapse"
-                       data-bs-target="#collapse-nih-data-sharing-0"
-                       aria-expanded="false"
-                       aria-controls="collapse-nih-data-sharing-0">
-                    <div class="col-md-2 text-center">
-                      <img src="https://ocdo.fredhutch.org/dasl/images/book-computer.svg" class="img-fluid" />
+                  <p>NIH Wants you to share your data because it is better for science. But you need to keep some information confidential! What do you do?</p>
+                  
+                    <div class="card my-2">
+                      <div class="card-header d-flex justify-content-between align-items-center"
+                           role="button"
+                           data-bs-toggle="collapse"
+                           data-bs-target="#collapse-nih-data-sharing-0"
+                           aria-expanded="false"
+                           aria-controls="collapse-nih-data-sharing-0">
+                        <div class="col-md-2 text-center">
+                          <img src="https://ocdo.fredhutch.org/dasl/images/book-computer.svg" class="img-fluid" />
+                        </div>
+                        <div>
+                          <h5 class="mb-1">NIH Data Sharing</h5>
+                          <p>Learn how to comply with NIH data sharing policies</p>
+                        </div>
+                        <span class="toggle-icon">
+                          <i class="bi bi-plus" style="font-size: 3rem; color: var(--warm-purple)"></i>
+                        </span>
+                      </div>
+                      <div class="collapse"
+                           id="collapse-nih-data-sharing-0">
+                        <div class="card-body">
+                          
+    
+                            
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">general research</span>
+                            
+    
+                          
+                          <p class="mb-2">We have created a gudie that walks you through the process of complying with the NIH data sharing policy of 2023. We have also created a helper app.</p>
+                          
+    
+                            
+                              <div>
+                                <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;NIH_Data_Sharing&#x2F;" target="_blank">Guide</a>
+                                <i class="bi bi-box-arrow-up-right"></i>
+                              </div>
+                            
+                              <div>
+                                <a href="#" target="_blank">Helper app</a>
+                                <i class="bi bi-box-arrow-up-right"></i>
+                              </div>
+                            
+    
+                          
+                        </div>
+                      </div>
                     </div>
-                    <div>
-                      <h5 class="mb-1">NIH data sharing</h5>
-                      <p>Learn how to comply with NIH data sharing policies</p>
-                    </div>
-                    <span class="toggle-icon">
-                      <i class="bi bi-plus"
-                         style="font-size: 3rem;
-                                color: var(--warm-purple)"></i>
-                    </span>
-                  </div>
-                  <div class="collapse"
-                       id="collapse-nih-data-sharing-0">
-                    <div class="card-body">
-                      
-
-                        
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">general research</span>
-                        
-
-                      
-                      <p class="mb-2">We have created a gudie that walks you through the process of complying with the NIH data sharing policy of 2023. We have also created a helper app.</p>
-                      
-
-                        
-                          <div>
-                            <a href="https:&#x2F;&#x2F;hutchdatascience.org&#x2F;NIH_Data_Sharing&#x2F;" target="_blank">Guide</a>
-                            <i class="bi bi-box-arrow-up-right"></i>
-                          </div>
-                        
-                          <div>
-                            <a href="#" target="_blank">Helper app</a>
-                            <i class="bi bi-box-arrow-up-right"></i>
-                          </div>
-                        
-
-                      
-                    </div>
-                  </div>
+                  
                 </div>
               
             </div>
-          
         </div>
 
         <!-- Courses from Research Scientists -->
@@ -730,7 +731,7 @@
                      height: 4px;
                      border-top: none" />
           <p>DaSL’s affiliate scientists create a variety of training materials geared more broadly towards the biomedical research community, and designed to allow you to teach yourself.</p>
-          <strong class="text-center d-block my-4">Explore all DaSL and DaSL affiliate course materials</strong>
+          <strong class="d-block my-4"><a href="https://hutchdatascience.org/DaSL_Collection/">Explore all DaSL and DaSL affiliate course materials</a></strong>
           
             <div class="py-2">
               <a href="https:&#x2F;&#x2F;anvilproject.org&#x2F;learn" target="_blank">
@@ -936,28 +937,28 @@
   <div class="sidebar-section need-help py-3">
     <h3>Other Ways to Find Help</h3>
     
-      <div class="card-body">
+      <div class="card-body mb-3">
         <h5 class="card-title">
           <a href="https://ocdo.fredhutch.org/dasl"></a>
         </h5>
         <p class="card-text">In addition to training and community, the Office of the Chief Data Officer (OCDO) manages other resources and ways to ask for help:</p>
       </div>
     
-      <div class="card-body">
+      <div class="card-body mb-3">
         <h5 class="card-title">
           <a href="https://ocdo.fredhutch.org/dasl/community">Find a community to work with</a>
         </h5>
         <p class="card-text">Data science doesn&#x27;t have to be lonely. Meet other like minded data science people.</p>
       </div>
     
-      <div class="card-body">
+      <div class="card-body mb-3">
         <h5 class="card-title">
           <a href="https:&#x2F;&#x2F;sciwiki.fredhutch.org&#x2F;">Check out the SciWiki</a>
         </h5>
         <p class="card-text">Check out our communal knowledge on various computing and data related topics at Hutch at the Sciwiki.</p>
       </div>
     
-      <div class="card-body">
+      <div class="card-body mb-3">
         <h5 class="card-title">
           <a href="https:&#x2F;&#x2F;join.slack.com&#x2F;t&#x2F;fhdata&#x2F;signup">Ask a question on Slack</a>
         </h5>

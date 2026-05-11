@@ -46,6 +46,11 @@
 
       <div class="collapse navbar-collapse justify-content-end"
            id="navbarContent">
+        <!-- Extract end_path globally for use in nav comparisons -->
+        
+        
+        
+        
         <!-- Desktop Navigation -->
         <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-none d-lg-flex">
           
@@ -356,31 +361,29 @@
       <p style="font-weight: 300;"><p>Many scientific computing tasks cannot be done locally on a personal computer due to constraints in computation, data, and memory. In this workshop, you will learn how to connect to the Fred Hutch SLURM high performance cluster to transfer files, load scientific software, compute interactively, and launch jobs!</p>
 </p>
 
-      <div class="container my-5 d-flex justify-content-between">
+      <div class="my-5 d-flex justify-content-between">
         
         <a
           href="https://forms.gle/meXjBaXQj3KSJpoU9"
-          class="btn btn-primary btn-lg mb-3"
+          class="btn btn-primary btn-lg"
           style="background-color: #367797; border-color: #367797"
-          role="button"
           >Register for the next session</a
         >
         
    
         <a
           href="https://hutchdatascience.org/FH_Cluster_101/index.html"
-          class="btn btn-outline-primary btn-lg no-hover"
+          class="btn btn-outline-primary btn-lg no-hover d-inline-flex align-items-center"
           style="border-color: #367797; color: #367797 !important"
-          role="button"
         >
           Explore the course materials
           <i class="bi bi-box-arrow-up-right ms-1 small"></i>
         </a>
       </div>
 
-      <!-- Class information -->
-      <h2>Class information</h2>
-      <div class="row mt-4">
+      <!-- Class Information -->
+      <h2>Class Information</h2>
+      <div class="mt-4">
         <ul>
           
           <li>
@@ -435,63 +438,52 @@
       </div>
 
       <!-- Learning Objectives -->
-      <h2>Learning Objectives (LOs)</h2>
-      <div class="row mt-4">
-        <ul>
-          
-          <li><p><strong>Describe</strong> the types of nodes and filesystems on FH’s cluster.</p>
+      
+      <div class="mt-5">
+          <h2>Learning Objectives (LOs)</h2>
+          <div class="mt-4">
+            <ul>
+                
+                <li><p><strong>Describe</strong> the types of nodes and filesystems on FH’s cluster.</p>
 </li>
-          
-          <li><p><strong>Use</strong> the command line to log in to the FH cluster, and submit a simple job to run.</p>
+                
+                <li><p><strong>Use</strong> the command line to log in to the FH cluster, and submit a simple job to run.</p>
 </li>
-          
-          <li><p><strong>Understand</strong> different ways of requesting resources for a cluster job and use them for job submission.</p>
+                
+                <li><p><strong>Understand</strong> different ways of requesting resources for a cluster job and use them for job submission.</p>
 </li>
-          
-          <li><p><strong>Use</strong> already-installed software for job submission and log-in to interactive mode.</p>
+                
+                <li><p><strong>Use</strong> already-installed software for job submission and log-in to interactive mode.</p>
 </li>
-          
-          <li><p><strong>Describe</strong> how one would upload and download files from the FH cluster.</p>
+                
+                <li><p><strong>Describe</strong> how one would upload and download files from the FH cluster.</p>
 </li>
-          
-        </ul>
+                
+            </ul>
+          </div>
       </div>
 
       <!-- FAQ section -->
-      <h2>Frequently Asked Questions</h2>
-      
-      <div class="row mt-4">
-        
-        <ul class="list-group-flush">
-          <li class="list-group-item">
+      <div class="mt-5">
+          <h2>Frequently Asked Questions</h2>
+          
+          <div class="mt-4">
+            
             <h5>What kind of computing resource do I need?</h5>
             <p>You will need to have access to the command line, a network connection to Fred Hutch&#x27;s research network, and have your Fred Hutch account approved by Scientific Computing. See instructions on the registration form.</p>
-          </li>
-        </ul>
-        
-        <ul class="list-group-flush">
-          <li class="list-group-item">
+            
             <h5>How often is this class taught?</h5>
             <p>This workshop is offered on average twice a year. Check the schedule to see when it will next be offered.</p>
-          </li>
-        </ul>
-        
-        <ul class="list-group-flush">
-          <li class="list-group-item">
+            
             <h5>Can I work through the materials without taking the class?</h5>
             <p>Yes, you can access the course materials on your own any time.</p>
-          </li>
-        </ul>
-        
-        <ul class="list-group-flush">
-          <li class="list-group-item">
+            
             <h5>Can I take the class if I’m not an employee at Fred Hutch?</h5>
             <p>The class is open to members of the Cancer Consortium including Fred Hutch, the University of Washington, and Seattle Children’s Hospital. But note that the content is focused on accessing the Fred Hutch cluster. Some instructions may not apply to clusters at other institutions.</p>
-          </li>
-        </ul>
-        
+            
+          </div>
+          
       </div>
-      
     </div>
 
     <!-- Sidebar -->

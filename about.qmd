@@ -318,13 +318,13 @@ We have a group of affiliated researchers and training staff who focus on a vari
 
 ## Jobs
 
-**[Administrative Manager](https://careers-fhcrc.icims.com/jobs/30760/job)**
 
-We are seeking an [Administrative Manager](https://careers-fhcrc.icims.com/jobs/30760/job) to join our team.  This role provides complex specialized administrative and operational support for Office of the Chief Data Officer team. They serve as the first point of contact for internal and external partners including OCDO staff, IT, Facilities, and HR, the Administrative Manager role is responsible for planning, coordinating, and implementing a wide range of administrative, project, and program activities, including space, supply and equipment coordination, planning of team-wide and community events, and onboarding processes.  If you're interested in joining us, please apply now!
-
-**[Data Scientist II](https://careers-fhcrc.icims.com/jobs/30901/job)** 
+### [Data Scientist II](https://careers-fhcrc.icims.com/jobs/30901/job)
 
 The [Data Scientist II](https://careers-fhcrc.icims.com/jobs/30901/job) will support clinical and translational data science at the Fred Hutch. The data scientist will use multimodal, real-world healthcare data (electronic health records, registry data, etc.) as well as multimodal data sets generated in clinical and translational labs such as genomics and imaging, to advance our understanding of clinical care and patient outcomes. The data scientist will work on collaborative projects utilizing our OMOP common data model for observational oncology data in combination with diverse multimodal datasets. Projects may include developing predictive clinical models, LLM/AI integrated analyses, statistical modeling to understand patient populations and cancer outcomes, and cohort identification. The data scientist will develop templates and workflows for the data science community at Fred Hutch and play a key role in building ethical data stewardship and management skills across Fred Hutch.
+
+### [Translational Technology Staff Scientist](https://careers-fhcrc.icims.com/jobs/31065/job)
+We’re looking for a [Staff Scientist](https://careers-fhcrc.icims.com/jobs/31065/job) with translational technology and research experience who will lead technology discovery with programs seeking broad data or technology support, evaluate feasibility and data requirements, execute pilots and feasibility studies, and work closely with our technical leads to implement technology projects supporting translational research needs.
 
 
 ### Fred Hutch Jobs

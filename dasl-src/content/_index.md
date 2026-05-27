@@ -53,9 +53,13 @@ url = "/teach-yourself"
 ## Sidebar ##
 #############
 
+# [extra.top_card]
+# title = "Not sure which class to take?"
+# text_md = "[Look at our overview here ! >>>](@/classes-workshops.md)"
+
 [extra.top_card]
-title = "Not sure which class to take?"
-text_md = "[Look at our overview here ! >>>](@/classes-workshops.md)"
+title = "Learn about our upcoming genomics workshop July 20-21. Beginner friendly!"
+text_md = "[Click for More Information](@/genomics-workshop.md)"
 
 [extra.image_card]
 title = "Did you know?"

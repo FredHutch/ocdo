@@ -57,12 +57,23 @@ Brian has more than two decades of experience in a variety of roles at the inter
 :::
 
 ::: {.bio}
-![Abby Wall - Data Program and Portfolio Manager](img/team/abby-wall.jpg){width=80%}
 
-Abby has experience in program, product, and project management for bioinformatics software products and tools. She manages the coordination of our Translational Data Product portfolio and community engagement with our programs and resources as the lead for our [Data Product Management team](tools.qmd).
+![Sitapriya Moorthi - Staff Scientist, Data Science](img/team/sitapriya-moorthi.jpg){width=80%}
+
+Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Translational Data Science and Software group.](dss.qmd)
 
 :::
-::::
+
+::: {.bio}
+
+![TBD - Staff Scientist, Translational Technology](img/team/coming-soon.png){width=80%}
+
+See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/31065/job).
+
+
+:::
+
+
 
 ## Data Governance
 
@@ -142,13 +153,7 @@ Monica has a background in biostatistics and epidemiology. She leads our [Clinic
 
 :::
 
-::: {.bio}
 
-![Sitapriya Moorthi - Staff Scientist](img/team/sitapriya-moorthi.jpg){width=80%}
-
-Sita's research background is in cancer biology, genetics, and genomics. Her experience spans a breadth of projects across multiple cancer types including leukemia, lung, breast, prostate, and gastric cancers. She is enthusiastic about creating efficient workflows and systems that bridge the data chasm, enabling fellow scientists to focus more on the research at hand, and less on the data gap. Sita works with our [Translational Data Science and Software group.](dss.qmd)
-
-:::
 
 ::: {.bio}
 
@@ -215,12 +220,17 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 ::::
 
+::: {.bio}
+
+![TBD - Data Scientist](img/team/coming-soon.png){width=80%}
+
+See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/30901/job).
+:::
 
 
 
 
-
-## Translational Engineering and Product Management
+## Translational Applications and Engineering
 
 
 
@@ -248,13 +258,7 @@ Sean has experience in project management spanning multiple industries and funct
 
 
 :::
-::: {.bio}
 
-![Anna Oldre - Technical Program Manager](img/team/anna-oldre.jpg){width=80%}
-
-Anna has a background in technical product and program management. Prior to joining the team, she worked in the technology industry, including positions at Amazon and Tableau (Salesforce).  She is our Product Manager with our engineering team doing our [translational data product and infrastructure development](tools.qmd).
-
-:::
 
 ::: {.bio}
 
@@ -295,7 +299,7 @@ Maleah has a background in Grant Manager with a focus on federal and foundation 
 
 ::: {.bio}
 
-![Maria Owen - Program Administrator, Data Governance](img/team/ScooterMuppet.jpg){width=80%}
+![Maria Owen - Program Administrator, Data Governance and Strategy](img/team/ScooterMuppet.jpg){width=80%}
 
 Maria has a background in higher education administration and public health grant initiatives. She works with our Data Governance team to facilitate coordination across our governance collaborations across external and internal partners.
 

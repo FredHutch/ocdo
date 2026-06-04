@@ -7,90 +7,92 @@
       <!-- Main Content -->
       <div class="col-lg-8 col-12 p-4">
         <h1>{{ page.title }}</h1>
-        <h4>{{ page.extra.subtitle }}</h4>
+        <h4 class="subtitle">{{ page.extra.subtitle }}</h4>
         <!-- Sections -->
         <!-- Materials -->
-        <div class="card-body py-3">
-          {{ h::heading(text=page.extra.materials.title, level=3, class = "card-title", id_prefix="materials-") }}
-          <hr style="background-color:{{ page.extra.color }};
-                     height: 4px;
-                     border-top: none" />
-          <p>{{ page.extra.materials.brief }}</p>
-          <p>{{ page.extra.materials.list_heading }}</p>
+        <div class="mb-5">
+            <div class="card-body py-3">
+              {{ h::heading(text=page.extra.materials.title, level=3, class = "card-title", id_prefix="materials-") }}
+              <hr style="background-color:{{ page.extra.color }};
+                         height: 4px;
+                         border-top: none" />
+              <p>{{ page.extra.materials.brief }}</p>
+              <p>{{ page.extra.materials.list_heading }}</p>
+            </div>
+            <ul>
+              {% for resource in page.extra.materials.resources %}
+                <li>
+                  <div>
+                    <p>
+                      <a href="{{ resource.link }}">{{ resource.link_text }}</a> {{
+                      resource.description }}
+                    </p>
+                  </div>
+                </li>
+              {% endfor %}
+            </ul>
         </div>
-        <ul>
-          {% for resource in page.extra.materials.resources %}
-            <li>
-              <div>
-                <p>
-                  <a href="{{ resource.link }}">{{ resource.link_text }}</a> {{
-                  resource.description }}
-                </p>
-              </div>
-            </li>
-          {% endfor %}
-        </ul>
 
         <!-- Teach yourself courses -->
-        <div class="card-body">
-          {{ h::heading(text=page.extra.teach_yourself.title, level=3, class = "card-title", id_prefix="materials-") }}
-          <hr style="background-color: {{ page.extra.color }};
-                     height: 4px;
-                     border-top: none" />
-          <p>{{ page.extra.teach_yourself.brief }}</p>
-
-          {% for course in page.extra.teach_yourself.courses %}
-            <div class="py-3">
-              {{ h::heading(text=course.title, level=4) }}
-              <p>{{ course.description }}</p>
-              {% for card in course.cards %}
-                <div class="card my-2">
-                  <div class="card-header d-flex justify-content-between align-items-center"
-                       role="button"
-                       data-bs-toggle="collapse"
-                       data-bs-target="#collapse-{{ course.title | slugify }}-{{ loop.index0 }}"
-                       aria-expanded="false"
-                       aria-controls="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
-                    <div class="col-md-2 text-center">
-                      <img src="{{ get_url(path=card.img) }}" class="img-fluid" />
+        <div class="mb-5">
+            <div class="card-body">
+              {{ h::heading(text=page.extra.teach_yourself.title, level=3, class = "card-title", id_prefix="materials-") }}
+              <hr style="background-color: {{ page.extra.color }};
+                         height: 4px;
+                         border-top: none" />
+              <p>{{ page.extra.teach_yourself.brief }}</p>
+    
+              {% for course in page.extra.teach_yourself.courses %}
+                <div class="py-3">
+                  {{ h::heading(text=course.title, level=4) }}
+                  <p>{{ course.description }}</p>
+                  {% for card in course.cards %}
+                    <div class="card my-2">
+                      <div class="card-header d-flex justify-content-between align-items-center"
+                           role="button"
+                           data-bs-toggle="collapse"
+                           data-bs-target="#collapse-{{ course.title | slugify }}-{{ loop.index0 }}"
+                           aria-expanded="false"
+                           aria-controls="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
+                        <div class="col-md-2 text-center">
+                          <img src="{{ get_url(path=card.img) }}" class="img-fluid" />
+                        </div>
+                        <div>
+                          <h5 class="mb-1">{{ card.title }}</h5>
+                          <p>{{ card.brief }}</p>
+                        </div>
+                        <span class="toggle-icon">
+                          <i class="bi bi-plus" style="font-size: 3rem; color: {{ page.extra.color }}"></i>
+                        </span>
+                      </div>
+                      <div class="collapse"
+                           id="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
+                        <div class="card-body">
+                          {% if card.tags %}
+    
+                            {% for tag in card.tags %}
+                              <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">{{ tag }}</span>
+                            {% endfor %}
+    
+                          {% endif %}
+                          <p class="mb-2">{{ card.description }}</p>
+                          {% if card.links %}
+    
+                            {% for link in card.links %}
+                              <div>
+                                <a href="{{ link.course_link }}" target="_blank">{{ link.course_title }}</a>
+                                <i class="bi bi-box-arrow-up-right"></i>
+                              </div>
+                            {% endfor %}
+    
+                          {% endif %}
+                        </div>
+                      </div>
                     </div>
-                    <div>
-                      <h5 class="mb-1">{{ card.title }}</h5>
-                      <p>{{ card.brief }}</p>
-                    </div>
-                    <span class="toggle-icon">
-                      <i class="bi bi-plus"
-                         style="font-size: 3rem;
-                                color: {{ page.extra.color }}"></i>
-                    </span>
-                  </div>
-                  <div class="collapse"
-                       id="collapse-{{ course.title | slugify }}-{{ loop.index0 }}">
-                    <div class="card-body">
-                      {% if card.tags %}
-
-                        {% for tag in card.tags %}
-                          <span class="badge mb-2" style="background-color: #f8f7f7; color: #6c757d">{{ tag }}</span>
-                        {% endfor %}
-
-                      {% endif %}
-                      <p class="mb-2">{{ card.description }}</p>
-                      {% if card.links %}
-
-                        {% for link in card.links %}
-                          <div>
-                            <a href="{{ link.course_link }}" target="_blank">{{ link.course_title }}</a>
-                            <i class="bi bi-box-arrow-up-right"></i>
-                          </div>
-                        {% endfor %}
-
-                      {% endif %}
-                    </div>
-                  </div>
+                  {% endfor %}
                 </div>
               {% endfor %}
             </div>
-          {% endfor %}
         </div>
 
         <!-- Courses from Research Scientists -->
@@ -100,7 +102,7 @@
                      height: 4px;
                      border-top: none" />
           <p>{{ page.extra.researchsci_courses.brief }}</p>
-          <strong class="text-center d-block my-4">Explore all DaSL and DaSL affiliate course materials</strong>
+          <strong class="d-block my-4"><a href="https://hutchdatascience.org/DaSL_Collection/">Explore all DaSL and DaSL affiliate course materials</a></strong>
           {% for course in page.extra.researchsci_courses.topics %}
             <div class="py-2">
               <a href="{{ course.link }}" target="_blank">{{ h::heading(text=course.title, level=4) }}</a>

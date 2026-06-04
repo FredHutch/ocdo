@@ -46,13 +46,18 @@
 
       <div class="collapse navbar-collapse justify-content-end"
            id="navbarContent">
+        <!-- Extract end_path globally for use in nav comparisons -->
+        
+        
+        
+        
         <!-- Desktop Navigation -->
         <ul class="navbar-nav mb-2 mb-lg-0 ms-auto d-none d-lg-flex">
           
             <li class="nav-item px-1">
               
                 <a class="nav-link" href="https://ocdo.fredhutch.org/dasl/courses">
-                  <span class="menu-text">Training</span>
+                  <span class="menu-text active">Training</span>
                 </a>
               
             </li>
@@ -116,7 +121,7 @@
               <!-- Training main link for mobile -->
               <li class="nav-item">
                 <a class="nav-link" href="https://ocdo.fredhutch.org/dasl/courses">
-                  <span class="menu-text">Training</span>
+                  <span class="menu-text text-decoration-underline fw-bold">Training</span>
                 </a>
               </li>
               <!-- Training sub-navigation items for mobile -->
@@ -353,7 +358,7 @@
     <!-- Main Content -->
     <div class="col-lg-8 col-12 p-4">
       <h1>Class Catalog</h1>
-      <h4>Learn to code, access the cluster, work better with your colleagues, or tell stories with plots and spreadsheets</h4>
+      <h4 class="subtitle">Learn to code, access the cluster, work better with your colleagues, or tell stories with plots and spreadsheets</h4>
       <p><p>You can sign up for a class or workshop if you are affiliated with a Cancer Consortium institution (Fred Hutch, UW, or SCH). <strong>All class and workshop materials are available online.</strong> Classes with asterisks (*) have a prerequisite, offered here.</p>
 <p><strong>You are welcome to work through them yourself, but you can only get a badge if you sign up for the class.</strong></p>
 </p>
@@ -406,7 +411,7 @@
                 <p class="mb-0" style="color: var(--grey)">Get better communicating with plots, spreadsheets, and tables</p>
               </div>
               <span class="toggle-icon ms-auto">
-                <i class="bi bi-plus"></i>
+                  <i class="bi bi-plus" style="font-size: 3rem; color: var(--bright-blue)"></i>
               </span>
             </div>
             <div
@@ -525,7 +530,7 @@
                 <p class="mb-0" style="color: var(--grey)">Learn the fundamentals of data analysis with R</p>
               </div>
               <span class="toggle-icon ms-auto">
-                <i class="bi bi-plus"></i>
+                  <i class="bi bi-plus" style="font-size: 3rem; color: var(--bright-blue)"></i>
               </span>
             </div>
             <div
@@ -621,7 +626,7 @@
                 <p class="mb-0" style="color: var(--grey)">Learn the fundamentals of data analysis with Python.</p>
               </div>
               <span class="toggle-icon ms-auto">
-                <i class="bi bi-plus"></i>
+                  <i class="bi bi-plus" style="font-size: 3rem; color: var(--bright-blue)"></i>
               </span>
             </div>
             <div
@@ -713,7 +718,7 @@
                 <p class="mb-0" style="color: var(--grey)">Learn to query and retrieva data from database systems.</p>
               </div>
               <span class="toggle-icon ms-auto">
-                <i class="bi bi-plus"></i>
+                  <i class="bi bi-plus" style="font-size: 3rem; color: var(--bright-blue)"></i>
               </span>
             </div>
             <div
@@ -810,7 +815,7 @@
                 <p class="mb-0" style="color: var(--grey)">Learn to use the cluster for more efficient data analysis</p>
               </div>
               <span class="toggle-icon ms-auto">
-                <i class="bi bi-plus"></i>
+                  <i class="bi bi-plus" style="font-size: 3rem; color: var(--bright-blue)"></i>
               </span>
             </div>
             <div
@@ -923,7 +928,7 @@
                 <p class="mb-0" style="color: var(--grey)">Leverage the power of Git and GitHub for Scientific Collaboration, Communication, and Reproducible Research</p>
               </div>
               <span class="toggle-icon ms-auto">
-                <i class="bi bi-plus"></i>
+                  <i class="bi bi-plus" style="font-size: 3rem; color: var(--bright-blue)"></i>
               </span>
             </div>
             <div
@@ -1081,28 +1086,28 @@
   <div class="sidebar-section need-help py-3">
     <h3>Other Ways to Find Help</h3>
     
-      <div class="card-body">
+      <div class="card-body mb-3">
         <h5 class="card-title">
           <a href="https://ocdo.fredhutch.org/dasl"></a>
         </h5>
         <p class="card-text">In addition to training and community, the Office of the Chief Data Officer (OCDO) manages other resources and ways to ask for help:</p>
       </div>
     
-      <div class="card-body">
+      <div class="card-body mb-3">
         <h5 class="card-title">
           <a href="https://ocdo.fredhutch.org/dasl/community">Find a community to work with</a>
         </h5>
         <p class="card-text">Data science doesn&#x27;t have to be lonely. Meet other like minded data science people.</p>
       </div>
     
-      <div class="card-body">
+      <div class="card-body mb-3">
         <h5 class="card-title">
           <a href="https:&#x2F;&#x2F;sciwiki.fredhutch.org&#x2F;">Check out the SciWiki</a>
         </h5>
         <p class="card-text">Check out our communal knowledge on various computing and data related topics at Hutch at the Sciwiki.</p>
       </div>
     
-      <div class="card-body">
+      <div class="card-body mb-3">
         <h5 class="card-title">
           <a href="https:&#x2F;&#x2F;join.slack.com&#x2F;t&#x2F;fhdata&#x2F;signup">Ask a question on Slack</a>
         </h5>

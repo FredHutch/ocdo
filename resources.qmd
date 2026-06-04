@@ -100,7 +100,7 @@ Our Data Product Management team provides regular connection, information and vi
 [Monday Morning Data Science](https://fhdata.substack.com/)
 
 
-Monday Morning Data Science is our weekly newsletter with updates from the Lab, announcements about events happening at Fred Hutch and beyond, and data science related content our staff contribute!  
+Monday Morning Data Science is our regular newsletter with updates from the Lab, announcements about events happening at Fred Hutch and beyond, and data science related content our staff contribute!  
 
 ![](img/substack.png){width=50%}
 :::

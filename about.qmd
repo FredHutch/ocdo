@@ -222,7 +222,7 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 ::: {.bio}
 
-![TBD - Data Scientist](img/img/job.png){width=80%}
+![TBD - Data Scientist](img/job.png){width=80%}
 
 See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/30901/job).
 :::

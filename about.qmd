@@ -44,7 +44,7 @@ Amy is the Deputy Chief Data Officer and Associate Vice President. She is co-lea
 
 ## Partnerships and Strategy
 
-:::: {layout-ncol=2}
+:::: {layout-ncol=3}
 ::: {.bio}
 
 ![Brian Bot - Director of Data Science Partnerships](img/team/brian-bot.jpg){width=80%}
@@ -72,12 +72,12 @@ See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/3106
 
 
 :::
-
+::::
 
 
 ## Data Governance
 
-:::: {layout-ncol=2}
+:::: {layout-ncol=3}
 ::: {.bio}
 
 

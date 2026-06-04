@@ -71,7 +71,7 @@ We make our open source resources for tooling to support **W**orkflows **I**nteg
 
 ::: {#second-column}
 
-[Biomedical Data Science Wiki](programs/sciwiki.qmd)
+[Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/)
 
 
 

@@ -218,7 +218,6 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 :::
 
-::::
 
 ::: {.bio}
 
@@ -227,7 +226,7 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/30901/job).
 :::
 
-
+::::
 
 
 ## Translational Applications and Engineering

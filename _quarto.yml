@@ -79,12 +79,12 @@ website:
           - text: "WILDS"
             href: programs/wilds.qmd
           - text: "SciWiki"
-            href: programs/sciwiki.qmd
+            href: https://sciwiki.fredhutch.org/
           - text: "Data Noon Calls & Newsletter"
             href: https://centernet.fredhutch.org/u/data-science-lab/engineering.html#data_noon
           - text: "MMDS"
             href: https://fhdata.substack.com/
-          - text: "Translational Data Resources (CARDS)"
+          - text: "Translational Data Resources (CARDS)(internal)"
             href: https://cards.fredhutch.org/
 
       - text: "Fred Hutch Data Events"

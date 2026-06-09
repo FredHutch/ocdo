@@ -321,6 +321,11 @@ We have a group of affiliated researchers and training staff who focus on a vari
 
 ## Jobs
 
+### [Data Scientist III](https://careers-fhcrc.icims.com/jobs/31245/data-scientist-iii/job)
+
+We are looking for a [Translational Data Scientist III](https://careers-fhcrc.icims.com/jobs/31245/data-scientist-iii/job) to support collaborative research initiatives at the intersection of translational science, artificial intelligence, and data engineering.
+
+This role will focus on integrating and analyzing multimodal clinical and research datasets, developing AI-enabled data products, and partnering with researchers, clinicians, and technical teams to advance precision oncology, clinical trials, disease-focused programs, and collaborative efforts through the Cancer AI Alliance. This role will contribute to innovative data science solutions that accelerate discovery and improve outcomes for patients with cancer.
 
 ### [Data Scientist II](https://careers-fhcrc.icims.com/jobs/30901/job)
 

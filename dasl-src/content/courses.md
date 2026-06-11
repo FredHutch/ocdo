@@ -127,13 +127,28 @@ text_md = """### Data Science Programming Classes and Workshops
 
 [[extra.seasons]]
 title = "Summer 2026"
-brief = "Summer offerings this year are restricted to our four workshops in Reproducible Research.  Courses marked with an asterisk (*) have a prerequisite."
-text_md = """### Reproducible Research
+brief = "Our summer is focused on events related to the Bioconductor conference."
+text_md = """
 
-- [Intro to Git and GitHub](/dasl/courses/intro-to-git/): June 20, 2026 (1.5 hour workshop)
-- [Intermediate Git and GitHub(*)](/dasl/courses/intermediate-git/): June 27, 2026 (1.5 hour workshop)
-- [Package Management for R and Python(*)](/dasl/courses/package-management/)
-- [Making Code Ready for Publication(*)](/dasl/courses/making-code-ready/)
+### Bioconductor 2026 Conference 
+
+We are excited to host [Bioconductor 2026 conference](https://bioc2026.bioconductor.org/) at Fred Hutch on August 10-12! Registration closes on July 27. If you are a Fred Hutch Consortium member, you are eligible for a discount. Please reach out to us at dasl-training@fredhutch.org for more information of the discount. 
+
+
+### Genomics Workshop
+
+Before the conference, we are hosting a [Genomics Workshop](https://datacarpentry.org/lessons/#genomics) with The Carpentries on July 20-21. [Register here](https://docs.google.com/forms/d/e/1FAIpQLScYH_Z1LcBQQZIySil28FSipN9NxROUmqPqVTdjR1mwY4yUgg/viewform).
+
+
+### Single-Cell Workshop and Bioconductor Hackathon
+
+After the conference, there will be two related events:
+
+- August 13-14: "Orchestrating Large-Scale Single-Cell Analysis with Bioconductor" workshop hosted by The Carpentries. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSesyVJDPFVYC0XFcEamo868NKYhdZ17oz8Hys1WTRFZIWSxxA/viewform).
+
+- August 13-14: Bioconductor Hackathon at Seattle Children's Hospital. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSeCs82nvIQfSHzeOhc9fzvMPg0-VTOT8aoGyFAW0T2glod_oQ/viewform).
+
+
 """
 
 

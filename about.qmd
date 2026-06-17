@@ -137,24 +137,8 @@ Chris Lo is a data science trainer who is passionate about helping biomedical an
 :::
 ::::
 
-
-## Translational Data Science and HCI
-
-:::: {layout-ncol=2}
-::: {.bio}
-
-![Monica Gerber - Data Science Manager](img/team/monica-gerber.jpg){width=80%}
-
-Monica has a background in biostatistics and epidemiology. She leads our [Clinical Data Science](dss.qmd#clinical-data-science) efforts as part of our Translational Data Science and Software team.
-
-
-[More about Monica](https://www.linkedin.com/in/monica-gerber/)
-
-
-:::
-
-
-
+## HCI
+:::: {layout-ncol=3}
 ::: {.bio}
 
 
@@ -167,6 +151,43 @@ Sean Kross is interested in building better tools and workflows for data scienti
 [More about Sean](https://seankross.com/)
 
 :::
+::: {.bio}
+
+
+![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg){width=80%}
+
+Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves.
+
+
+[More about Scott](https://scottchamberlain.info)
+:::
+
+::: {.bio}
+
+![Sonu (Sonali) Mishra - User Experience Researcher](img/team/sonali-mishra.jpg){width=80%}
+
+Sonu is a UX researcher interested in building impactful systems that meet user needs. Her background is in health behavior change intervention design and health informatics.
+
+[More about Sonu](https://www.srmishra.com/)
+:::
+
+
+::::
+
+## Translational Data Science
+
+:::: {layout-ncol=2}
+::: {.bio}
+
+![Monica Gerber - Data Science Manager](img/team/monica-gerber.jpg){width=80%}
+
+Monica has a background in biostatistics and epidemiology. She leads our [Clinical Data Science](dss.qmd#clinical-data-science) efforts as part of our Translational Data Science and Software team.
+
+
+[More about Monica](https://www.linkedin.com/in/monica-gerber/)
+
+:::
+
 
 ::: {.bio}
 
@@ -188,25 +209,6 @@ Megan has a background in environmental sciences and statistical modeling. Throu
 
 :::
 
-::: {.bio}
-
-
-![Scott Chamberlain - Software Developer](img/team/scott-chamberlain.jpg){width=80%}
-
-Scott has a background in ecology and evolutionary biology and software development. He's interested in developing reliable software to solve user needs across Fred Hutch, and in helping those users build better software themselves.
-
-
-[More about Scott](https://scottchamberlain.info)
-:::
-
-::: {.bio}
-
-![Sonu (Sonali) Mishra - User Experience Researcher](img/team/sonali-mishra.jpg){width=80%}
-
-Sonu is a UX researcher interested in building impactful systems that meet user needs. Her background is in health behavior change intervention design and health informatics.
-
-[More about Sonu](https://www.srmishra.com/)
-:::
 
 ::: {.bio}
 
@@ -221,9 +223,18 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 ::: {.bio}
 
-![TBD - Data Scientist](img/job.png){width=80%}
+![TBD - Data Scientist II, Translational Analytics](img/job.png){width=80%}
 
 See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/30901/job).
+:::
+
+::: {.bio}
+
+![TBD - Data Scientist III, Data Science Initiatives](img/job.png){width=80%}
+
+See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/31245/data-scientist-iii/job).
+
+
 :::
 
 ::::
@@ -254,6 +265,16 @@ Josh has a background in utilizing cloud technologies to deploy innovative, scal
 ![Sean Olmstead - Technical Project Manager](img/team/sean-olmstead.jpg){width=80%}
 
 Sean has experience in project management spanning multiple industries and functions including Higher Education, Insurance, and Data Science, and has an MBA with a focus in Data Analytics from the University of Illinois at Urbana-Champaign. Sean works with our engineering team to implement [translational data product and infrastructure development](tools.qmd).
+
+
+:::
+
+
+::: {.bio}
+
+![TBD - Data Engineer IV](img/job.png){width=80%}
+
+See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/31244/data-engineer-iv/job).
 
 
 :::
@@ -311,6 +332,16 @@ Maria has a background in higher education administration and public health gran
 Shelly brings a strong background as a social worker, where she developed a passion for helping others and refining her communication and problem-solving skills. Now, she finds fulfillment in administrative operations, supporting leadership and creating efficient workflows. With a compassionate approach and attention to detail, Shelly is dedicated to making a positive impact.
 
 :::
+
+::: {.bio}
+
+![Russell Eberts - Administrative Manager](img/team/Russell.jpg){width=80%}
+
+Russell has worked as an administrator at Fred Hutch and other local non-profits for over a decade, and helps manage intradepartmental and interdivisional communications, collaborations, and events. Serving as a primary administrative point of contact for the Office of the Chief Data Officer, he helps promote the OCDO’s mission of providing data strategy and data governance across all of Fred Hutch’s departments and divisions.
+
+:::
+
+
 ::::
 
 ## DaSL Research Affiliates
@@ -333,6 +364,13 @@ The [Data Scientist II](https://careers-fhcrc.icims.com/jobs/30901/job) will sup
 
 ### [Translational Technology Staff Scientist](https://careers-fhcrc.icims.com/jobs/31065/job)
 We’re looking for a [Staff Scientist](https://careers-fhcrc.icims.com/jobs/31065/job) with translational technology and research experience who will lead technology discovery with programs seeking broad data or technology support, evaluate feasibility and data requirements, execute pilots and feasibility studies, and work closely with our technical leads to implement technology projects supporting translational research needs.
+
+### [Data Engineer IV](https://careers-fhcrc.icims.com/jobs/31244/data-engineer-iv/job)
+
+
+We're hiring a [Senior Data Engineer](https://careers-fhcrc.icims.com/jobs/31244/data-engineer-iv/job) to join our team where you'll help design, build, and scale the data infrastructure that supports some of the most important challenges in translational science.  In this role, you'll work with clinical, genomic, imaging, and other multimodal health data, creating trusted data products and analytics-ready datasets that enable researchers, clinicians, and data scientists to generate insights and advance precision medicine. This is a hands-on opportunity to solve complex data engineering challenges while directly supporting research that has the potential to improve patient outcomes.  Our team leverages Databricks, AWS, and GitHub to build modern, cloud-native data platforms, with a focus on scalable data pipelines, data modeling, analytics enablement, governance, and AI-ready architectures.
+
+
 
 
 ### Fred Hutch Jobs

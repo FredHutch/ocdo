@@ -9,64 +9,47 @@ We do this outreach and sharing via what we call the Data Science Lab (this site
 ## Our Groups
 You can meet our staff via our [about page](about.qmd).  
 
-:::: {layout-ncol=3}
-::: {#first-column}
+
 ### [Training & Community](https://ocdo.fredhutch.org/dasl)
 
 We offer year-round data science courses, workshops and community events to help staff learn to work with their data. 
 
-:::
 
-
-::: {#second-column}
 ### [Translational Data Science](dss.qmd)
 
 Our Data Science team supports facilitated access to our patient data for research as well as helping research staff work with their own research and laboratory data.  
 
-:::
 
-::: {#third-column}
- ### [Human Computer Interaction](programs/wildscp.qmd)
+### [Human Computer Interaction](programs/wildscp.qmd)
 
 Our Human Computer Interaction group supports the development of open source research software via collaborations with staff. 
 
 
-:::
-::::
-
-:::: {layout-ncol=2}
-::: {#first-column}
 ### [Data Governance](gov.qmd)
 
 Our Data Governance team supports our Consortium data governance relationships as well as execute Fred Hutch data governance processes to enable responsible data and AI use.  
-:::
 
-
-::: {#second-column}
 ### [Translational Data Applications and Tools](tools.qmd)
 
 Our Engineering team, in collaboration with our other teams and IT, supports the development and implementation of data infrastructure and tools targeted at translational data needs.  
-:::
-
-::::
 
 
 
 
 
 
-# Data Culture
+## Data Culture
 
 “Culture eats strategy for breakfast.” In our group we believe that a strong, inclusive culture is essential to achieving our mission. Our core values and community event guidelines reflect this commitment, fostering an environment where respect, curiosity, and collaboration drive innovation. Through shared principles and open participation, we create a space where every voice contributes to advancing healthcare and research.
 
-## Core Values
+### Core Values
 Read about our [Core Values](pages/values.qmd) and how we foster an innovative and supportive data science community in our team, at Fred Hutch and beyond.
 
 
 ![](img/dasl-eco-fade-web.png)
 
 
-## Guiding Principles
+### Guiding Principles
 
 Our approach to supporting Fred Hutch staff focuses on the following guiding principles. 
 

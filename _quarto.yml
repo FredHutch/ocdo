@@ -52,8 +52,6 @@ website:
         href: about.qmd
       - section: "What we Do"
         contents:
-          - text: "Data Strategy"
-            href: strategy.qmd
           - text: "Data Partnerships"
             href: partnerships.qmd
           - text: "Data Governance"

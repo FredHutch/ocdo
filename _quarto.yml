@@ -84,8 +84,8 @@ website:
             href: https://centernet.fredhutch.org/u/data-science-lab/engineering.html#data_noon
           - text: "MMDS"
             href: https://fhdata.substack.com/
-          - text: "Translational Data Resources (CARDS)(internal)"
-            href: https://cards.fredhutch.org/
+          - text: "Translational Data Resources"
+            href: https://tda.fredhutch.org/
 
       - text: "Fred Hutch Data Events"
         href: https://centernet.fredhutch.org/u/data-science-lab.html

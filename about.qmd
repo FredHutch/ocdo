@@ -223,9 +223,11 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 ::: {.bio}
 
-![TBD - Data Scientist II, Translational Analytics](img/job.png){width=80%}
+![Coming Soon! - Data Scientist, Translational Analytics](img/team/coming_soon.png){width=80%}
 
-See our [job posting for this postion](https://careers-fhcrc.icims.com/jobs/30901/job).
+Stay tuned for our new member!
+
+
 :::
 
 ::: {.bio}
@@ -357,10 +359,6 @@ We have a group of affiliated researchers and training staff who focus on a vari
 We are looking for a [Translational Data Scientist III](https://careers-fhcrc.icims.com/jobs/31245/data-scientist-iii/job) to support collaborative research initiatives at the intersection of translational science, artificial intelligence, and data engineering.
 
 This role will focus on integrating and analyzing multimodal clinical and research datasets, developing AI-enabled data products, and partnering with researchers, clinicians, and technical teams to advance precision oncology, clinical trials, disease-focused programs, and collaborative efforts through the Cancer AI Alliance. This role will contribute to innovative data science solutions that accelerate discovery and improve outcomes for patients with cancer.
-
-### [Data Scientist II](https://careers-fhcrc.icims.com/jobs/30901/job)
-
-The [Data Scientist II](https://careers-fhcrc.icims.com/jobs/30901/job) will support clinical and translational data science at the Fred Hutch. The data scientist will use multimodal, real-world healthcare data (electronic health records, registry data, etc.) as well as multimodal data sets generated in clinical and translational labs such as genomics and imaging, to advance our understanding of clinical care and patient outcomes. The data scientist will work on collaborative projects utilizing our OMOP common data model for observational oncology data in combination with diverse multimodal datasets. Projects may include developing predictive clinical models, LLM/AI integrated analyses, statistical modeling to understand patient populations and cancer outcomes, and cohort identification. The data scientist will develop templates and workflows for the data science community at Fred Hutch and play a key role in building ethical data stewardship and management skills across Fred Hutch.
 
 
 ### [Data Engineer IV](https://careers-fhcrc.icims.com/jobs/31244/data-engineer-iv/job)

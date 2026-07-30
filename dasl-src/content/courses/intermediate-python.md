@@ -11,7 +11,7 @@ main_subtitle = """The course continues building programming fundamentals in Pyt
 course_materials_link = "https://hutchdatascience.org/Intermediate_Python/"
 
 [extra.class_information]
-dates = "Winter 2026: Jan 21, 28, Feb 4, 11, 25, March 4"
+dates = "Winter 2027: Jan 27 - March 10, 2027"
 time = "Wednesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "The course is intended for researchers who want to continue learning the fundamentals of Python programming and how to write custom data analysis functions when dealing with messy datasets. The audience should know how to work with Lists and Pandas Dataframes and conduct basic data analysis, and/or have taken our Intro to Python course."

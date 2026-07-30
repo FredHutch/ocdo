@@ -11,9 +11,9 @@ main_subtitle = """In this 6 week course, you will learn the fundamentals of Pyt
 course_materials_link = "https://hutchdatascience.org/Intro_to_Python/"
 
 [extra.class_information]
-quarters_offered = "Fall 2025, Winter 2026"
-dates = "Winter 2026: Thursdays on Jan 22, 29, Feb 5, 12, 26, March 5"
-time = "Thursdays Noon - 1:30pm PT"
+quarters_offered = "Fall 2026, Winter 2027"
+dates = "Fall 2026: Sept 23 - Nov 4, 2026"
+time = "Wednesdays Noon - 1:30pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class"
 audience = "Researchers who want to do more with their data analyses and visualizations. This course is appropriate for those who want to learn coding for the first time, or have explored programming and want to focus on fundamentals in Python."
 prerequisites_text = ""

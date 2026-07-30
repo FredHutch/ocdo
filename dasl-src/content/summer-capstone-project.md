@@ -5,27 +5,23 @@ template = "learning.html"
 [extra]
 sidebar_sections = ["contact_us", "need_help"]
 
-main_subtitle = """Get 1:1 mentorship on your Data Science project this summer!"""
+main_subtitle = """Get 1:1 mentorship on your Data Science project in Summer 2027!"""
 
 +++
 
-We are launching a new data science mentorship program this summer! **The Data Science Training Capstone program** gives you an opportunity to work with DaSL instructors Chris Lo or Ted Laderas in a 1:1 mentorship to bring what you learned in our data science classes to a data science project in your professional work!
+ **The Data Science Training Capstone program** gives you an opportunity to work with DaSL instructors Chris Lo or Ted Laderas in a 1:1 mentorship to bring what you learned in our data science classes to a data science project in your professional work!
 
 Over **6 weeks**, you will receive individualized guidance to tackle a data science problem in your professional work that relates to your data science classroom experience with us. We will help you formulate a data science plan in your project, provide starter code, help you troubleshoot, and ultimately you will in charge of writing your own code and interpreting the results.
 
-**Deadline for submissions: May 1**. 
+**We will open for submissions in Spring 2027.**. Meanwhile, if you have interest, feel free to contact us at [dasl-training@fredhutch.org](mailto:dasl-training@fredhutch.org)
 
 ## Eligibility
 
 To participate in this program, you must:
 
-- Have taken at least two classes with us by the end of the 2026 Spring Quarter (such as Intro to R/Python/SQL, Intermediate R/Python, Bash for Bioinformatics, Bioconductor for Genomics, Machine Learning for Python)
-- Be available between June 15 and July 24
+- Have taken at least two classes with us by the end of the 2027 Spring Quarter (such as Intro to R/Python/SQL, Intermediate R/Python, Bash for Bioinformatics, Bioconductor for Genomics, Machine Learning for Python, Leveraging AI for Data Science)
 - Have a project with a dataset in mind
-
-If this is you, please fill out this [intake form](https://forms.gle/9nzWTSVWSUhE4gC3A) by **May 1**.
-
-Due to the pilot nature of this capstone project, we can only accept a small cohort of students this summer, so we may need to prioritize projects in the application process.
+- Be available during the capstone program duration (dates TBD)
 
 
 ## What kinds of capstone projects are we looking for?
@@ -40,7 +36,7 @@ Due to the pilot nature of this capstone project, we can only accept a small coh
 
 What to expect in this application process:
 
-1. Fill out the [intake form](https://forms.gle/9nzWTSVWSUhE4gC3A) by **May 1**.
+1. Fill out the intake form, which is currently closed until Spring 2027.
 2. If a good fit, we will meet up to brainstorm how the project can be feasible in a 6 week period, and plan out a more formal proposal together.
 3. We will ask you to fill out a capstone project proposal form.
 4. If accepted, we will edit and finalize the scope of the project for approval.

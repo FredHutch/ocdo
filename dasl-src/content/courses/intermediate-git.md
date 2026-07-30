@@ -11,8 +11,8 @@ main_subtitle = """In this workshop we’ll build on our Git skills by working w
 course_materials_link = "https://hutchdatascience.org/Intermediate_Git/"
 
 [extra.class_information]
-quarters_offered = "Winter 2026, Summer 2026"
-dates = "Monday Feburary 9, 2026"
+quarters_offered = "Winter 2027"
+dates = "Friday Feb 12, 2027"
 time = "Noon - 1:30 pm PT"
 time_commitment = "1.5 hours"
 prerequisites_text = "Intro to Git and GitHub and basic experience with the Command Line"

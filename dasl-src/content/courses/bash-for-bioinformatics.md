@@ -13,13 +13,13 @@ main_subtitle = """Who this course is for:
 
 If so, this course is for you! We will learn enough bash scripting to do useful things on the Fred Hutch cluster and automate the boring parts."""
 
-registration_link = "https://forms.gle/yPhNegBc3bhQfXWD6"
+#registration_link = ""
 course_materials_link = "https://bashforbio.netlify.app"
 
 [extra.class_information]
-quarters_offered = "Fall 2025, Spring 2026"
-dates = "Spring 2026: May 15, 22, 29, June 5"
-time = "Fridays Noon - 1:30pm PT"
+quarters_offered = "Fall 2026"
+dates = "Fall 2026: Oct 6 - Nov 3"
+time = "Tuesdays Noon - 1:30pm PT"
 time_commitment = "4 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "FH Research Staff wanting to execute jobs and process genomic data on the gizmo cluster."
 prerequisites_text = "Intro to FH Cluster Computing"
@@ -48,7 +48,7 @@ objective = "**Manage** software dependencies reproducibly using container-based
 
 [[extra.faq]]
 question = "How often is this class taught?"
-answer = "This class is offered twice a year (currently fall and spring quarters). Check the schedule to see when it will next be offered."
+answer = "This class is offered once a year (currently fall quarter). Check the schedule to see when it will next be offered."
 
 [[extra.faq]]
 question = "Can I work through the materials without taking the class?"

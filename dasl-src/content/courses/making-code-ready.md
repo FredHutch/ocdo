@@ -13,9 +13,9 @@ In this workshop, we will discuss ways to share analysis code in your publicatio
 course_materials_link = "https://hutchdatascience.org/making-code-ready/slides.html#/title-slide"
 
 [extra.class_information]
-quarters_offered = "Winter 2026"
-dates = "Monday Feb 23, 2026"
-time = "Monday Noon - 1:30 pm PT"
+quarters_offered = "Winter 2027"
+dates =  "Feb 26, 2027"
+time = "Friday Noon - 1:30 pm PT"
 time_commitment = "1.5 hour class"
 audience = "FH Researchers who need to share code as part of their publication."
 prerequisites_text = ""

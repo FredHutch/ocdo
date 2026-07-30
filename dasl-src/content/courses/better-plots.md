@@ -13,10 +13,10 @@ This is a software-agnostic workshop, focusing on essential principles that can 
 course_materials_link = "https://hutchdatascience.org/better_plots/"
 
 [extra.class_information]
-dates = "Friday, October 24, 2025"
+dates = "Monday, October 26, 2026"
 time = "Noon - 1:30 pm PT"
 time_commitment = "1.5 hours"
-audience = "FH Staff and Faculty wanting to improve thier plots for publication."
+audience = "FH Staff and Faculty wanting to improve their plots for publication."
 prerequisites_text = ""
 prerequisites_link = ""
 followed_by_text = ""

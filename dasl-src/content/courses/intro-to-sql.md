@@ -11,9 +11,9 @@ main_subtitle = """Data that we need to utilize and query is often stored in dat
 course_materials_link = "https://intro-sql-fh.netlify.app/"
 
 [extra.class_information]
-quarters_offered = "Fall 2025, Winter 2026"
-dates = "Winter 2026: Feb 6, 13, 27, March 6"
-time = "Fridays Noon - 1:30pm PT"
+quarters_offered = "Fall 2026"
+dates = "Fall 2026: Sept 24 - Nov 5"
+time = "Thursdays Noon - 1:30pm PT"
 time_commitment = "4 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "Researchers and clinical staff who need to work with large databases to extract data for analysis."
 prerequisites_text = ""

@@ -104,10 +104,10 @@ title = "Spring 2027"
 brief = "We finish our R and Python sequences with advanced use cases. Classes marked with an asterisk (*) have a prerequisite (see course page for more info)."
 text_md = """### Data Science Programming Classes and Workshops
 
-- [New Course: Leveraging AI for Data Science(*)](#) April 19 - May 24, 2027
+- New Course: Leveraging AI for Data Science(*) April 19 - May 24, 2027
 - [Intro to R](/dasl/courses/intro-to-r/):  April 20 - May 25, 2027
 - [Machine Learning for Python(*)](/dasl/courses/machine-learning-python/): April 21 - May 26, 2027
-- [TBD](#) April 22 - May 27, 2027
+- TBD: April 22 - May 27, 2027
 
 
 ### Data 4 All Workshops

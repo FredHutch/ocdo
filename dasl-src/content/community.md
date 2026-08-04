@@ -32,7 +32,7 @@ At the Data Science Lab, we are strong believers in the power of social learning
 
 ## Community Participation Guidelines
 
-All DaSL Community events adhere to the [DaSL Community Participation Guidelines](@/participation-guidelines.md). This is to ensure a safe space for all.
+All DaSL Community events adhere to the [DaSL Community Participation Guidelines](@/participation-guidelines.md). This is to ensure a safe space for all.
 
 
 ## Data Science Hangouts
@@ -43,4 +43,4 @@ More information soon.
 
 A Datathon is a day in which folks get together to explore a dataset together, practice what we have learned in data science creatively, and share it with each other! Past Datathons have looked at spatial data, health survey data, and climate data. 
 
-They usually are at the end of the quarter on a Friday from 11am-2pm PT. Lunch will be provided.
+They usually are at the end of the quarter. Lunch will be provided!

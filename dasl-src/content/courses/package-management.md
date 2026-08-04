@@ -13,12 +13,12 @@ You may be in need of this workshop! Learn about how to maintain your analysis a
 
 We will cover two package management systems: `uv` for Python, and `renv` for R."""
 
-registration_link = "https://forms.gle/wYCJK3ysd5xVrZBv8"
-course_materials_link = ""
+#registration_link = 
+course_materials_link = "https://hutchdatascience.org/package-management-r-python/#/title-slide"
 
 [extra.class_information]
-quarters_offered="Winter 2026"
-dates = "Monday March 9, 2026"
+quarters_offered="Winter 2027"
+dates = "March 5, 2027"
 time = "Monday Noon - 1:30 pm PT"
 time_commitment = "1.5 hour class"
 audience = "Researchers and staff wanting to share their analysis and work reproducibly"

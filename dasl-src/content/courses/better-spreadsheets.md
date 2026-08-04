@@ -11,10 +11,10 @@ main_subtitle = """Do you want to take your work in Excel and with tables to the
 course_materials_link = "https://hutchdatascience.org/better_spreadsheets/"
 
 [extra.class_information]
-dates = "Friday, Jan 30, 2026"
+dates = "Friday, Jan 29, 2027"
 time = "Noon - 1:30pm PT"
 time_commitment = "1.5 hours"
-audience = "FH Staff and Faculty wanting to improve thier plots for publication."
+audience = ""
 prerequisites_text = ""
 prerequisites_link = ""
 followed_by_text = ""
@@ -24,7 +24,7 @@ followed_by_link = ""
 objective = "**Explain** and **utilize** tidy principles to effectively organize your data"
 
 [[extra.learning_objectives]]
-objective = "**Format** your data to effecitvely utilize it in analyses"
+objective = "**Format** your data to effectively utilize it in analyses"
 
 [[extra.learning_objectives]]
 objective = "**Collaborate** with data scientists by outputting data formats such as Comma Separated Values (CSVs)"

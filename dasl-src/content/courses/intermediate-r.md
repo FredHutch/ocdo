@@ -11,8 +11,8 @@ main_subtitle = """Continue your learning in R programming and data analysis. Yo
 course_materials_link = "https://hutchdatascience.org/Intermediate_R/"
 
 [extra.class_information]
-dates = "Winter 2026: Jan 20, 27, Feb 3, 10, Feb 24, March 3"
-time = "Tuesdays Noon - 1:30 pm PT"
+dates = "Winter 2027: Jan 25 - March 8, 2027"
+time = "Mondays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 prerequisites_text = "Intro to R"
 prerequisites_link = "/courses/intro-to-r"

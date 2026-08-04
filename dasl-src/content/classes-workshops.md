@@ -63,13 +63,18 @@ offered = "(offered fall and spring)"
 [[extra.courses.cards.links]]
 course_title = "Intermediate R (*)"
 course_link = "/courses/intermediate-r/"
-offered = "(offered fall and winter)"
+offered = "(offered winter)"
 
 [[extra.courses.cards.links]]
 course_title = "Bioconductor for Genomics (*)"
 course_link = "/courses/bioconductor/"
-offered = "(offered spring)"
+offered = "(offered winter)"
 external = true
+
+[[extra.courses.cards.links]]
+course_title = "Leveraging AI in Data Science (*)"
+course_link = "#"
+offered = "(offered spring)"
 
 [[extra.courses.cards]]
 title = "Python classes"
@@ -94,9 +99,15 @@ course_title = "Machine Learning for Python (*)"
 course_link = "/courses/machine-learning-python/"
 offered = "(offered spring)"
 
+[[extra.courses.cards.links]]
+course_title = "Leveraging AI in Data Science (*)"
+course_link = "#"
+offered = "(offered spring)"
+
+
 [[extra.courses.cards]]
 title = "Database Programming"
-brief = "Learn to query and retrieva data from database systems."
+brief = "Learn to query and retrieve data from database systems."
 tags = ["Data Science Programming", "SQL", "Beginner-friendly"]
 description = ""
 img = "/images/database-solid-full.svg"
@@ -105,7 +116,7 @@ img_alt = "database icon"
 [[extra.courses.cards.links]]
 course_title = "Intro to SQL"
 course_link = "/courses/intro-to-sql/"
-offered = "(offered fall and winter)"
+offered = "(offered fall)"
 
 
 [[extra.courses]]
@@ -123,7 +134,7 @@ img_alt = "replace me"
 [[extra.courses.cards.links]]
 course_title = "Intro to command line"
 course_link = "/courses/intro-to-command-line/"
-offered = "(offered fall and summer)"
+offered = "(offered fall and spring)"
 
 [[extra.courses.cards.links]]
 course_title = "Intro to FH Cluster Computing (*)"
@@ -133,7 +144,7 @@ offered = "(offered fall and spring)"
 [[extra.courses.cards.links]]
 course_title = "Bash for Bioinformatics (*)"
 course_link = "/courses/bash-for-bioinformatics/"
-offered = "(offered fall and spring)"
+offered = "(offered fall)"
 
 [[extra.courses]]
 title = "Reproducible Research"
@@ -150,22 +161,22 @@ img_alt = "GitHub Logo"
 [[extra.courses.cards.links]]
 course_title = "Intro to Git and GitHub"
 course_link = "/courses/intro-to-git/"
-offered = "(offered in winter and summer)"
+offered = "(offered winter)"
 
 [[extra.courses.cards.links]]
 course_title = "Intermediate Git and GitHub (*)"
 course_link = "/courses/intermediate-git/"
-offered = "(offered in winter and summer)"
+offered = "(offered winter)"
 
 [[extra.courses.cards.links]]
 course_title = "Package Management for R and Python (*)"
 course_link = "/courses/package-management/"
-offered = "(offered in winter and summer)"
+offered = "(offered winter)"
 
 [[extra.courses.cards.links]]
 course_title = "Making Code Ready for Publication (*)"
 course_link = "/courses/making-code-ready/"
-offered = "(offered in winter and summer)"
+offered = "(offered winter)"
 
 #############
 ## Sidebar ##
@@ -177,8 +188,7 @@ text_md = "[Look at the class schedule here ! >>>](/dasl/courses/)"
 
 [extra.image_card]
 title = "Did you know?"
-text_md = """The {janitor} R package makes data analysis with cross-tables easy.
-**Check out a 5 minute example** of frosted fun with cereal data."""
+text_md = """The {janitor} R package makes data analysis with cross-tables easy."""
 image = "images/clean.jpg"
 
 +++

@@ -11,8 +11,8 @@ main_subtitle = """You will learn how to use Git and GitHub, a version control s
 course_materials_link = "https://hutchdatascience.org/intro_git/"
 
 [extra.class_information]
-quarters_offered = "Winter 2026, Summer 2026"
-dates = "Monday February 2, 2026"
+quarters_offered = "Winter 2027"
+dates = "February 5, 2027"
 time = "Noon - 1:30pm PT"
 time_commitment = "1.5 hours."
 audience = "Researchers who want to keep track the history of their code at a professional standard, and share it with an audience. No coding skills are required."

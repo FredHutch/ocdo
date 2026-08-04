@@ -9,11 +9,11 @@ main_subtitle = """This course will introduce you to the basic data structures a
 
 Please note that this course requires the Intro to R course as a prerequisite, or the equivalent course. Please note that this course does not cover RNAseq workflows such as MultiQC and alignment."""
 
-registration_link = "https://forms.gle/Yk1jF3GoqYhBamsE7"
+#registration_link = 
 course_materials_link = "https://bioconductor-genomics.netlify.app/"
 
 [extra.class_information]
-dates = "Spring 2026: April 28, May 5, 12, 19, 26, June 2"
+dates = "Fall 2027: Jan 28 - March 11, 2027"
 time = "Tuesdays Noon - 1:30 pm PT"
 time_commitment = "6 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "FH Research Staff wanting to use Bioconductor to analyze RNA-seq data"

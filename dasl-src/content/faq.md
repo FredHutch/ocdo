@@ -8,7 +8,7 @@ sidebar_sections = ["contact_us", "need_help"]
 
 +++
 
-This is a list of frequently asked questions. Have a question not seen here? Please email us at [data@fredhutch.org](mailto:data@fredhutch.org)
+This is a list of frequently asked questions. Have a question not seen here? Please email us at [dasl-training@fredhutch.org](mailto:dasl-training@fredhutch.org).
 
 # General Class Questions
 
@@ -16,7 +16,7 @@ This is a list of frequently asked questions. Have a question not seen here? Ple
 
 We support in-person and online attendance (through Teams) of the courses. 
 
-We have a number of learners who learn online, and switch between online and in-person. We do have a limited number of in-person seats, so we do try to account for that in course registration. Due to the popularity of the badging program, we also limit registration so our instructors can live sane lives.
+We have a number of learners who learn online, and switch between online and in-person. We do have a limited number of in-person seats, so we do try to account for that in course registration. 
 
 Our preference is that you try to attend the courses synchronously, as a lot of good questions are brought up by other learners that can help in your learning, and we find that learning together socially can accelerate your learning process.
 
@@ -36,7 +36,7 @@ If you have enrolled for the previous intro courses (Intro Python/R), you will h
 
 ## I don't have the course prerequisite at the Hutch, but I know the material - can I enroll in the course?
 
-Please email us at data@fredhutch.org so we can understand your level of knowledge. Based on that discussion, we will allow enrollment for the course.
+Please email us at [dasl-training@fredhutch.org](mailto:dasl-training@fredhutch.org) so we can understand your level of knowledge. Based on that discussion, we will allow enrollment for the course.
 
 ## What is the difference between a Course and a Workshop?
 
@@ -52,7 +52,7 @@ For new Data Science learners, this can seem like a difficult decision. Here's o
 
 The first thing you should ask is: *what language is your group using?* If they focus on R, then start there. If they focus on Python, then focus on Python. 
 
-If you are learning on your own, they both are strong languages. If you are focusing on data analysis and statistical analysis, R can be easier to understand. For machine learning, Python is stronger in terms of machine learning support. There is the ability to work with both languages.
+If you are learning on your own, they both are strong languages. If you are focusing on data analysis and statistical analysis, R can be easier to understand. For machine learning, Python is stronger in terms of machine learning support. Python is a conisdered a "glue" language that is useful for many software engineering problems. There is the ability to work with both languages.
 
 The R Community is very welcoming of beginners, but the Python Community is definitely catching up.
 

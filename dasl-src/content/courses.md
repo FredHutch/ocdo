@@ -15,7 +15,7 @@ color = "var(--bright-blue)"
 
 [extra.yeartable]
 title = """Year Schedule"""
-text_md = """We offer courses year-round. Here is the weekly schedule by year. For workshops by quarter, please refer to the quarter schedule below.
+text_md = """We offer courses year-round, and below is our the weekly schedule by year.
 
 Confused about where to start? Take a look at the [Class Catalog](/dasl/classes-workshops/) to see how the courses are sequenced.
 
@@ -63,7 +63,7 @@ text_md = """### Data Science Programming
 
 - [Intro to R](/dasl/courses/intro-to-r/): Sept 21 - Nov 2, 2026
 - [Intro to Python](/dasl/courses/intro-to-python/): Sept 23 - Nov 4, 2026
-- [Intro to SQL](/dasl/courses/intro-to-sql/): Sept 24 - Nov 5, 2026
+- [Intro to SQL](/dasl/courses/intro-to-sql/): Oct 8 - Nov 5, 2026
 
 ### Scalable Computing Workshops
 
@@ -73,7 +73,7 @@ text_md = """### Data Science Programming
 
 ### Data 4 All Workshops
 
-- [Better Plots](/dasl/courses/better-plots/): Oct 26, 2026 (1.5 hour workshop)
+- [Better Plots](/dasl/courses/better-plots/): Oct 1, 2026 (1.5 hour workshop)
 """
 
 [[extra.seasons]]

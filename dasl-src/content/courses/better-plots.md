@@ -9,11 +9,11 @@ main_subtitle = """Do you want your graphs and plots to be more effective in com
 
 This is a software-agnostic workshop, focusing on essential principles that can be applied to any visualization software. Hands-on examples will be demonstrated in both R and Python."""
 
-#registration_link = 
+registration_link = "https://forms.gle/KMrfQ48YGAM7rER67"
 course_materials_link = "https://hutchdatascience.org/better_plots/"
 
 [extra.class_information]
-dates = "Monday, October 26, 2026"
+dates = "Thursday, October 1, 2026"
 time = "Noon - 1:30 pm PT"
 time_commitment = "1.5 hours"
 audience = "FH Staff and Faculty wanting to improve their plots for publication."

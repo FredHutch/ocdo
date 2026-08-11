@@ -11,9 +11,11 @@ main_subtitle = """Who this course is for:
 - Do you want to automate an R or Python script you wrote to work on a bunch of files?
 - Do you want to do all of this on a high performance cluster (HPC)?
 
-If so, this course is for you! We will learn enough bash scripting to do useful things on the Fred Hutch cluster and automate the boring parts."""
+If so, this course is for you! We will learn enough bash scripting to do useful things on the Fred Hutch cluster and automate the boring parts.
 
-#registration_link = ""
+We recommend folks to have background in [Intro to Command Line](/courses/intro-to-command-line) and [Intro to FH Cluster Computing](/courses/intro-fh-cluster), which are offered the two weeks before this course."""
+
+registration_link = "https://forms.gle/xnS3G2SWKMpW9eRm7"
 course_materials_link = "https://bashforbio.netlify.app"
 
 [extra.class_information]

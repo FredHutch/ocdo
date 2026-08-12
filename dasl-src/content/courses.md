@@ -19,6 +19,8 @@ text_md = """We offer courses year-round, and below is our the weekly schedule b
 
 Confused about where to start? Take a look at the [Class Catalog](/dasl/classes-workshops/) to see how the courses are sequenced.
 
+We are also hosting an in-person social before the Fall Quarter to present what we have to offer for the school year on  September 9th, Noon - 1pm PT. [Register Here!](https://forms.gle/2BLjEYa8wrziRcP8A).
+
 We encourage students to take two classes with us to be eligible for our 1:1 mentorship program for our [Summer Capstone Project](/dasl/summer-capstone-project/) in Summer 2027. 
 """
 

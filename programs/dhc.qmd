@@ -142,19 +142,20 @@ Schedule this [Data House Call](https://calendly.com/data-house-calls/code).
 
 
 
-## DaSL Supported Resources
-We provide support for questions about DaSL-supported resources like PROOF, cBioPortal, WILDS, or SciWiki.   We can help you learn what these tools do, how to use them, and ways you can leverage them in your work. Based on your notes we can bring in the right DaSL experts to help if you have specific questions.  
+## Using and Uploading to the Fred Hutch cBioPortal
 
-Use this [Data House Call](https://calendly.com/data-house-calls/resources) in order to:
+We support the use of the [Fred Hutch instance of cBioPortal](/cbioportal/) for both viewing and uploading multidimensional cancer genomics datasets. We also curate the [Fred Hutch Molecular Oncology Dataset (MOD)](/mod/) used to populate IRB-approved study datasets upon request on Fred Hutch cBioPortal.
 
-- Learn about our resources – Understand its purpose, key features, and where it fits into your work.
-- Explore how to use it – Get guidance on setup, navigation, and best practices.
-- Troubleshoot issues – Work through roadblocks with help from DaSL experts.
+Use this [Data House Call](https://calendly.com/data-house-calls/mod) for support on topics such as:
 
-When booking, please include the name of the resource and your specific questions so we can bring the right DaSL team members to provide targeted guidance.
+- Getting oriented to cBioPortal and its analysis/visualization features
+- Understanding the data sources and organization underneath MOD
+- Next steps for gaining access to the Fred Hutch instance of cBioPortal
+- Uploading and formatting your own study data for the Fred Hutch instance
+- Requesting public datasets you'd like added to the instance
 
 ::: {.callout-tip appearance="simple"}
-Schedule this [Data House Call](https://calendly.com/data-house-calls/resources).  
+Schedule this [Data House Call](https://calendly.com/data-house-calls/mod).  
 :::
 
 

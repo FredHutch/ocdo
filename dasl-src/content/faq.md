@@ -42,7 +42,7 @@ Please email us at [dasl-training@fredhutch.org](mailto:dasl-training@fredhutch.
 
 **Courses** are multiple sessions focused on Data Science with both in-class and homework exercises. They have a badge associated with them.
 
-**Workshops** are single sessions meant to focus on smaller topics. Some workshops are part of a sequence (such as [Scalable Computing](@/classes-workshops.md#scalable-computing) or [Reproducible Research](@/classes-workshops.md#reproducible-research), but you can take the workshops separately.
+**Workshops** are single sessions meant to focus on smaller topics. Some workshops are part of a sequence (such as [Scalable Computing](/classes-workshops/#scalable-computing) or [Reproducible Research](/classes-workshops/#reproducible-research), but you can take the workshops separately.
 
 # R and Python
 
@@ -52,7 +52,7 @@ For new Data Science learners, this can seem like a difficult decision. Here's o
 
 The first thing you should ask is: *what language is your group using?* If they focus on R, then start there. If they focus on Python, then focus on Python. 
 
-If you are learning on your own, they both are strong languages. If you are focusing on data analysis and statistical analysis, R can be easier to understand. For machine learning, Python is stronger in terms of machine learning support. Python is a conisdered a "glue" language that is useful for many software engineering problems. There is the ability to work with both languages.
+If you are learning on your own, they both are strong languages. If you are focusing on data analysis and statistical analysis, R can be easier to understand. For machine learning, Python is stronger in terms of machine learning support. Python is a considered a "glue" language that is useful for many software engineering problems. There is the ability to work with both languages.
 
 The R Community is very welcoming of beginners, but the Python Community is definitely catching up.
 

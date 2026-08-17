@@ -7,12 +7,12 @@ sidebar_sections = ["contact_us"]
 
 main_subtitle = """Data that we need to utilize and query is often stored in data sources such as databases or data warehouses. In this course, you will learn how to connect and query databases using Structured Query Language (SQL). In particular, we will focus on querying data in a commonly used data model for storing patient data called OMOP. By the end of this course, you will be prepared to construct complex queries to retrieve large data sets."""
 
-#registration_link = 
+registration_link = "https://forms.gle/JyKrk3vD1dqWFpQb6"
 course_materials_link = "https://intro-sql-fh.netlify.app/"
 
 [extra.class_information]
 quarters_offered = "Fall 2026"
-dates = "Fall 2026: Sept 24 - Nov 5"
+dates = "Fall 2026: Thursdays Oct 8 - Nov 5"
 time = "Thursdays Noon - 1:30pm PT"
 time_commitment = "4 weeks of 1.5 hour classes and 1-2 hours of practice outside class."
 audience = "Researchers and clinical staff who need to work with large databases to extract data for analysis."

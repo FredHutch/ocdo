@@ -223,12 +223,14 @@ Emma has a background in oncology clinical research and bioinformatics, with exp
 
 ::: {.bio}
 
-![Coming Soon! - Data Scientist, Translational Analytics](img/team/coming_soon.png){width=80%}
+![Brad Rechkemmer - Data Scientist, Translational Analytics](img/team/brad-rechkemmer.jpg){width=80%}
 
-Stay tuned for our new member!
+Brad has a background in pharmacoepidemiology and real-world evidence, with prior work conducting observational research in biopharma, academic, and clinical research settings. He collaborates with investigators on observational studies, bringing expertise in real-world data sources, medical terminologies, and standardized analytic methods. He is an open source contributor to the OHDSI community, developing tools and standards that support reproducible observational research across institutions.
 
+[More about Brad](https://www.linkedin.com/in/bradrechkemmer/)
 
 :::
+
 
 ::: {.bio}
 

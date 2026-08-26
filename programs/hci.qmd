@@ -1,0 +1,45 @@
+---
+title: "Human Computer Interation"
+toc: false
+---
+
+The Human Computer Interaction (HCI) team collaborates with Fred Hutch 
+researchers and providers to research, design, and implement software to
+advance the translational biomedical data science ecosystem at Fred Hutch. 
+This includes but is not limited to developing web applications, building 
+scientific software, and connecting collaborators with artificial intelligence 
+technologies. Below, you can find details about some of the projects and 
+programs we currently maintain or have worked on in the past.
+
+## WILDS Collaborative Projects
+
+WILDS Collaborative Projects (WCP) is an ongoing opportunity for Fred Hutch 
+researchers, principal investigators, and staff to work with OCDO to co-design 
+and build software tools that solve real-world scientific and operational 
+challenges. WCP is open to proposals on a rolling basis, see our 
+[CenterNet page][wcp-cnet] for more information. 
+
+## Trial Finder
+
+We worked with the [Clinical Trial Management System][ctms] program office,
+UW IT, and dozens of providers and staff from Fred Hutch, UW Medicine, and 
+Seattle Children's to design Trial Finder. This web application helps providers
+find
+
+## PROOF
+
+PROOF is a web application that enables Fred Hutch cluster users to submit,
+track and troubleshoot
+
+## Cancer InFocus: Washington
+
+## HICOR Population Explorer
+
+## ERV Navigator
+
+## IRT for Chronic (cGVHD) Study
+
+## Sixtyfour
+
+[wcp-cnet]: https://centernet.fredhutch.org/u/data-science-lab/data-science/wilds-collaborative-projects.html
+[ctms]: https://www.iths.org/ctms/

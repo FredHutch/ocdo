@@ -21,7 +21,7 @@ stages:
 build:
   stage: build
   retry:
-    max: 4
+    max: 2
     when:
       - exit_codes
     exit_codes:

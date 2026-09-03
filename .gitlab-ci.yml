@@ -22,12 +22,12 @@ build:
   stage: build
   retry:
     max: 2
-    exit_codes: 447
+    exit_codes: 47
   script:
     - |
       docker build -t sc-registry.fredhutch.org/ocdo:$CI_COMMIT_SHORT_SHA . 2>&1 | tee build.log || {
         if grep -q "error creating zfs mount" build.log; then
-          exit 447
+          exit 47
         fi
         exit 1
       }

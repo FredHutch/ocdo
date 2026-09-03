@@ -73,9 +73,7 @@ text_md = """### Data Science Programming
 - [Intro to FH Cluster Computing(*)](/dasl/courses/intro-fh-cluster): Sept 29, 2026 (1.5 hour workshop)
 - [Bash for Bioinformatics(*)](/dasl/courses/bash-for-bioinformatics/): Oct 6 - Nov 3, 2026 (4 class course)
 
-### Data 4 All Workshops
 
-- [Better Plots](/dasl/courses/better-plots/): Oct 1, 2026 (1.5 hour workshop)
 """
 
 [[extra.seasons]]

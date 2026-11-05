@@ -12,8 +12,8 @@ For all Translational data capabilities built by DaSL/OCDO, please see the [Tran
 ## SciWiki
 We remain committed to building a shared knowledgebase around data science in biomedical research via the [Biomedical Data Science Wiki effort](https://sciwiki.fredhutch.org/).  
 
-## Data Science Trainign at Fred Hutch
-For the time being our Fred Hutch based training resources will remain [on our training page in this site](https://ocdo.fredhutch.org/dasl/).  A future home is being determined. 
+## Data Science Training at Fred Hutch
+For the time being, our Fred Hutch based training resources will remain [on our training page in this site](https://ocdo.fredhutch.org/dasl/). A future home is being determined. 
 
 ## Cancer AI Alliance
 The Cancer AI Alliance initiative continues and the best resource for that work remains at [the CAIA site](https://www.canceralliance.ai/).

@@ -3,7 +3,7 @@ title: "Data at Fred Hutch"
 toc: true
 ---
 
-"The only constant is change", it's said, and often is true.  Due to recent leadership changes at Fred Hutch, the capabilties this site referenced are being structured differently with new web homes.  Please update your bookmarks and find what's next at these various sites.  
+"The only constant is change", it's said, and often is true.  Due to recent leadership changes at Fred Hutch, the capabilities this site referenced are being structured differently with new web homes.  Please update your bookmarks and find what's next at these various sites.  
 
 ## Translational Data at Fred Hutch
 
